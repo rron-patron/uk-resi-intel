@@ -52,6 +52,14 @@ def cmd_verify(args) -> int:
         print(f"  items : {len(report['articles'])}")
         for attempt in report["attempts"]:
             print(f"    · {attempt}")
+            # Explain a zero: a feed that parsed entries and filtered them all
+            # is a relevance problem, not a broken URL.
+            for url, dropped in feeds.LAST_FILTER_REPORT.items():
+                if url in attempt and any(dropped.values()):
+                    reasons = ", ".join(
+                        f"{k}={v}" for k, v in dropped.items() if v
+                    )
+                    print(f"        filtered: {reasons}")
         for article in report["articles"][:2]:
             print(f"    → {article.title[:88]}")
     collect_mod.save_json(config.RESOLVED_FEEDS, resolved)

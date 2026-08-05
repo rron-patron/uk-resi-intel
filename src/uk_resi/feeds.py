@@ -23,6 +23,11 @@ from .models import Article
 
 log = logging.getLogger(__name__)
 
+# Populated by read_feed so `verify` can explain a zero rather than just report
+# it: a feed that parsed 40 entries and filtered all 40 is a different problem
+# from a feed that 404ed.
+LAST_FILTER_REPORT: dict[str, dict[str, int]] = {}
+
 FEED_TYPES = ("application/rss+xml", "application/atom+xml", "application/xml")
 
 
@@ -104,6 +109,14 @@ def guess_entities(text: str, limit: int = 8) -> list[str]:
     return found
 
 
+def in_scope(source: Source, url: str) -> bool:
+    """Geography guard for publishers that mix countries in one feed."""
+    if not source.require_url_contains:
+        return True
+    lowered = (url or "").lower()
+    return any(frag in lowered for frag in source.require_url_contains)
+
+
 def relevant(source: Source, text: str) -> bool:
     if source.residential_only:
         return True
@@ -123,10 +136,12 @@ def read_feed(source: Source, url: str) -> list[Article]:
         log.info("%s parsed as malformed with no entries", url)
         return []
     out: list[Article] = []
+    dropped = {"stale": 0, "off_topic": 0, "out_of_scope": 0, "incomplete": 0}
     for entry in parsed.entries[:40]:
         title = strip_html(entry.get("title", ""))
         link = entry.get("link") or ""
         if not title or not link:
+            dropped["incomplete"] += 1
             continue
         summary = strip_html(
             entry.get("summary")
@@ -140,22 +155,36 @@ def read_feed(source: Source, url: str) -> list[Article]:
             or entry.get("updated")
         )
         if not is_recent(published):
+            dropped["stale"] += 1
+            continue
+        full_url = urljoin(source.homepage, link)
+        if not in_scope(source, full_url):
+            dropped["out_of_scope"] += 1
             continue
         blob = f"{title}. {summary}"
         if not relevant(source, blob):
+            dropped["off_topic"] += 1
             continue
         out.append(
             Article(
                 source_key=source.key,
                 source_name=source.name,
                 title=title,
-                url=urljoin(source.homepage, link),
+                url=full_url,
                 published=published,
                 excerpt=config.excerpt(summary),
                 entities=guess_entities(blob),
                 kind=source.kind,
             )
         )
+    if not out and any(dropped.values()):
+        log.info(
+            "%s: %d entry(s) parsed but all filtered out (%s)",
+            url,
+            len(parsed.entries),
+            ", ".join(f"{k}={v}" for k, v in dropped.items() if v),
+        )
+    LAST_FILTER_REPORT[url] = dropped
     return out
 
 
@@ -183,10 +212,21 @@ def scrape_listing(source: Source) -> list[Article]:
         return []
     soup = BeautifulSoup(resp.text, "lxml")
     out: list[Article] = []
-    for node in soup.select(rule.item)[:40]:
-        anchor = node.select_one(rule.link)
+    seen_hrefs: set[str] = set()
+    for node in soup.select(rule.item)[:60]:
+        # An empty link selector, or an item selector that matched an <a>
+        # directly, means the node itself is the anchor.
+        if node.name == "a":
+            anchor = node
+        elif rule.link:
+            anchor = node.select_one(rule.link)
+        else:
+            anchor = None
         if anchor is None or not anchor.get("href"):
             continue
+        if anchor["href"] in seen_hrefs:
+            continue
+        seen_hrefs.add(anchor["href"])
         title = (
             strip_html(node.select_one(rule.title).get_text())
             if rule.title and node.select_one(rule.title)
@@ -195,6 +235,8 @@ def scrape_listing(source: Source) -> list[Article]:
         if len(title) < 20:  # nav links, tags, "read more"
             continue
         url = urljoin(rule.list_url, anchor["href"])
+        if not in_scope(source, url):
+            continue
         summary = ""
         if rule.summary and node.select_one(rule.summary):
             summary = strip_html(node.select_one(rule.summary).get_text())

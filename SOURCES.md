@@ -7,13 +7,13 @@ Nine sources, defined in `SOURCES` in
 
 | Source | Type | Scope | Notes |
 |---|---|---|---|
-| Bisnow UK | Trade press | Mixed sector | Keyword-filtered to residential |
+| Bisnow UK | Trade press | Mixed sector and geography | Keyword filter plus UK URL guard |
 | Inside Housing | Trade press | Residential only | Headlines ungated, bodies subscriber-only |
 | Property Week — Residential | Trade press | Mixed sector | Largely paywalled |
 | Place North West | Trade press | Mixed sector, North West | WordPress |
-| PlaceTech | Trade press | Proptech | Keyword-filtered |
+| Property Industry Eye | Trade press | Residential only | Replaced defunct PlaceTech |
 | Estate Agent Today | Trade press | Residential only | Feed confirmed working |
-| LandlordZONE | Trade press | Residential only, PRS | WordPress |
+| LandlordZONE | Trade press | Residential only, PRS | Webflow — scrape route |
 | HM Land Registry — UK HPI | Official data | Residential only | GOV.UK Atom |
 | ONS — Housing & Prices | Official data | Residential only | ONS topic RSS |
 
@@ -23,18 +23,83 @@ keeps logistics and office coverage out of a residential briefing.
 
 ## Verification status
 
-Honesty about what was actually confirmed, because it determines how much of
-step 2.8 in [SETUP.md](SETUP.md) is real work:
+Probed live on 4 August 2026 — **6 of 9 returning items**. This table reflects
+what actually happened, not what was hoped for.
 
-| Source | Feed status |
-|---|---|
-| Estate Agent Today | **Confirmed.** `/newsfeeds` serves `application/xml` |
-| Place North West, PlaceTech, LandlordZONE | **Likely.** WordPress sites, `/feed/` is the standard endpoint; their terms reference RSS availability |
-| HM Land Registry | **Likely.** GOV.UK exposes Atom by appending `.atom` to organisation and search pages |
-| ONS | **Likely.** ONS topic listing pages carry an RSS link |
-| Bisnow UK, Inside Housing, Property Week | **Unconfirmed.** Candidates are informed guesses; expect to fix at least one |
+| Source | Result | Route now used |
+|---|---|---|
+| Inside Housing | **15 items** | Syndication feed, found by autodiscovery and now pinned |
+| Estate Agent Today | **12 items** | `/newsfeeds` |
+| Place North West | **10 items** | `/feed/` |
+| ONS — Housing | **10 items** | Scrape of the publications page; both RSS paths returned nothing |
+| HM Land Registry | **1 item** | Org Atom feed — but the item was service guidance, not house price data. Reordered to query statistics first |
+| Bisnow UK | **3 items, wrong country** | `/rss` is mostly US coverage. Now guarded by a UK URL check |
+| Property Week | **0 items** | Blocked. See below |
+| PlaceTech | **0 items** | Site is defunct. Replaced |
+| LandlordZONE | **0 items** | Wrong platform assumed. Fixed |
 
-Run `python -m uk_resi.cli verify` before trusting the first edition.
+### What each failure actually was
+
+**PlaceTech — the site no longer publishes.** Its digital assets were sold to
+CREtech in 2023 and the remaining content folded into Place North. `placetech.net`
+is not a broken feed; there is nothing behind it. No scraper fixes that. It has
+been replaced with **Property Industry Eye** — free, ungated, WordPress, and
+covering the residential agency and housing market daily. If you would rather
+track global proptech, point the source at CREtech instead.
+
+**LandlordZONE — wrong platform.** The original config assumed WordPress and
+tried `/feed/`. It is actually a **Webflow** site, and Webflow does not create
+`/feed/` at all; RSS exists only if the owner enabled it, at a path they chose.
+The scrape route is now primary, targeting Webflow's `.w-dyn-item` CMS wrapper
+with an anchor selector as backup. The site is publishing normally, so this
+should recover.
+
+**Property Week — actively blocking.** All three feed candidates *and* the HTML
+scrape returned nothing. When every route fails together, that is normally a CDN
+rule against automated requests rather than four wrong URLs. Options, in order:
+
+1. Probe for a feed that is served anyway: `python scripts/probe.py https://www.propertyweek.com/rss`
+2. Substitute an accessible title. Free and ungated UK residential alternatives:
+   **Property Industry Eye**, **Landlord Today** (`/breaking-news`, same
+   publisher as Estate Agent Today, so the feed pattern is known to work),
+   **Showhouse** for housebuilding, **The Negotiator** for agency
+3. Leave it in and accept eight live sources — the briefing does not depend on
+   any single publisher
+
+Do not work around the block by disguising the User-Agent.
+
+**Bisnow — right feed, wrong country.** `bisnow.com/london/rss` returned nothing
+and `bisnow.com/rss` returned US stories that slipped past the residential
+keyword filter. A geography guard now requires `/london/`, `/uk/` or
+`/united-kingdom/` in the item URL. Expect Bisnow to fall through to its scrape
+route as a result, which is the correct behaviour — an empty Bisnow is better
+than three US data-centre stories in a UK residential briefing.
+
+**HM Land Registry — right feed, wrong content.** The organisation Atom feed
+carries all HMLR output, mostly guidance and service notices. The candidates are
+now ordered to query GOV.UK's statistics search first, so UK HPI releases surface
+ahead of general publications.
+
+### Diagnosing a zero yourself
+
+`verify` now distinguishes the two kinds of zero, because they need different
+fixes:
+
+- **unreachable** — 404, blocked, or robots.txt disallowed. Find a different URL
+- **parsed N entries but all filtered out** — printed as
+  `filtered: stale=12, off_topic=8`. The URL is fine; the items were too old,
+  not residential, or out of geography
+
+To test candidate URLs before editing config:
+
+```bash
+export PYTHONPATH=src
+python scripts/probe.py https://example.co.uk/feed/ https://example.co.uk/rss
+python scripts/probe.py --selectors https://example.co.uk/news/
+```
+
+The `--selectors` mode lists repeated container classes and common link paths on
+a page, which is how you build a `ScrapeRule` without guessing.
 
 ## How resolution works
 

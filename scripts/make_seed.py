@@ -61,7 +61,7 @@ for n, (band, title, summary, why) in enumerate(PLACEHOLDERS):
             "title": title,
             "source": "Placeholder",
             "source_key": "seed",
-            "url": "https://github.com/YOUR-USERNAME/uk-resi-intel#readme",
+            "url": "https://github.com/rron-patron/uk-resi-intel#readme",
             "published": now.isoformat(timespec="seconds"),
             "kind": "news",
             "excerpt": "",

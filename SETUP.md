@@ -3,7 +3,7 @@
 About 15 minutes end to end. Do the Anthropic part first — you need the key
 before the GitHub part will do anything useful.
 
-Replace `YOUR-USERNAME` with your GitHub username throughout.
+Replace `rron-patron` with your GitHub username throughout.
 
 ---
 
@@ -71,17 +71,17 @@ git init
 git add .
 git commit -m "UK residential property intelligence dashboard"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/uk-resi-intel.git
+git remote add origin https://github.com/rron-patron/uk-resi-intel.git
 git push -u origin main
 ```
 
 ### 2.3 Point the project at your own repository
 
-Three files carry the placeholder `YOUR-USERNAME`. Fix them now so links and
+Three files carry the placeholder `rron-patron`. Fix them now so links and
 the User-Agent are correct:
 
 ```bash
-grep -rl "YOUR-USERNAME" . --exclude-dir=.git
+grep -rl "rron-patron" . --exclude-dir=.git
 ```
 
 Edit each:
@@ -178,7 +178,7 @@ per-source table. If a step failed, jump to Troubleshooting below.
 
 ### 2.10 Confirm the site is live
 
-`https://YOUR-USERNAME.github.io/uk-resi-intel/`
+`https://rron-patron.github.io/uk-resi-intel/`
 
 The first deployment can take a couple of minutes to propagate. You should see a
 real edition with the day's date — not the "Placeholder edition" banner. If you
@@ -232,8 +232,18 @@ Add credit in the console. The run will still publish a degraded edition.
 
 **The page shows "Degraded edition"**
 Collection worked but analysis did not. The reason is printed in the banner and
-in the run log. The most common causes are no credit, a bad key, or an API
-outage. Re-run the workflow with **force** once fixed.
+in the run log. Common causes:
+
+- *no credit / authentication_error* — fix in the Anthropic console
+- *model did not return valid JSON* — the model put a double quote inside a
+  string. This is handled automatically now: the response is repaired
+  mechanically, and failing that, retried twice with the parser error quoted
+  back. If you still see it, the analysis is probably being truncated — raise
+  `UK_RESI_MAX_OUTPUT_TOKENS` or lower `UK_RESI_MAX_ARTICLES`
+- *API outage* — check status.claude.com
+
+Re-run the workflow with **force** once fixed. A degraded edition is not a
+failed run: real headlines and links still publish.
 
 **The page shows "Placeholder edition"**
 No successful run has happened yet, or the gate skipped it. Run manually with

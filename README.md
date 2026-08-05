@@ -6,7 +6,7 @@ GitHub Action collects headlines and data releases from nine trade and official
 sources, sends them to Claude for analysis and ranking, and publishes a
 dashboard to GitHub Pages.
 
-**Live site:** `https://YOUR-USERNAME.github.io/uk-resi-intel/`
+**Live site:** `https://rron-patron.github.io/uk-resi-intel/`
 **Set-up:** [SETUP.md](SETUP.md) — do this first, it takes about 15 minutes
 **Sources:** [SOURCES.md](SOURCES.md) — what is monitored and how to fix a dead feed
 
@@ -55,7 +55,11 @@ fingerprinted, so the same story from two publishers collapses to one. Across
 runs, a 60-day `data/seen.json` ledger stops yesterday's stories reappearing.
 
 **Analysis** sends up to 60 items to Claude with a strict JSON schema and an
-importance rubric. The response is validated field by field: unknown themes are
+importance rubric. Malformed JSON is repaired before it is rejected — unescaped
+double quotes inside strings, literal newlines and trailing commas are the three
+mistakes models actually make, and all three are fixed mechanically. Anything
+still broken gets up to two repair turns with the parser error quoted back. The
+response is then validated field by field: unknown themes are
 dropped so the theme axis stays comparable day to day, ratings for IDs that were
 never sent are discarded, and out-of-range scores are clamped. If the JSON is
 malformed, one repair attempt is made. If the API is unavailable entirely, the
@@ -91,7 +95,7 @@ Useful flags: `--offline` skips the API, `--strict` fails instead of degrading,
 ## Local development
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/uk-resi-intel.git
+git clone https://github.com/rron-patron/uk-resi-intel.git
 cd uk-resi-intel
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements-dev.txt

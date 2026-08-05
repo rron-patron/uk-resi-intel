@@ -24,12 +24,21 @@ headlines or excerpts.
 - Distinguish what happened from what it implies. Label inference as inference.
 
 You return only a single JSON object matching the requested schema. No prose \
-before or after it, no markdown fences.\
+before or after it, no markdown fences.
+
+JSON formatting rules, which matter more than they look:
+- Never use a double quote inside a string value. If you need to quote a term or \
+a phrase, use single quotes: 'grey belt', not "grey belt". An unescaped double \
+quote inside a string breaks the whole response.
+- Never put a literal line break inside a string. Where the schema wants \
+multiple paragraphs it gives you an array — use one array element per paragraph.
+- No trailing comma before a closing brace or bracket.
+- Keep every string on one line.\
 """
 
 SCHEMA = """\
 {
-  "executive_summary": "3-5 short paragraphs, plain text, separated by \\n\\n. Lead with the single most consequential development.",
+  "executive_summary": ["paragraph one, leading with the single most consequential development", "paragraph two", "3-5 items in this array"],
   "sentiment": {
     "overall": "positive | neutral | negative",
     "score": "integer -100..100",
@@ -176,7 +185,23 @@ Return only the JSON object, matching this schema:
 
 
 REPAIR = """\
-Your previous response was not valid JSON. Return the same content as a single \
-valid JSON object with no markdown fences, no commentary, and all strings \
-properly escaped. Nothing else.\
+Your previous response was not valid JSON. The parser reported:
+
+    {error}
+
+That error is almost always caused by a double quote inside a string value. \
+Find it and replace it with a single quote, or escape it as \\". Also check for \
+literal line breaks inside strings and any trailing comma before a closing \
+brace or bracket.
+
+Return the same content again as one valid JSON object. No markdown fences, no \
+commentary before or after, every string on a single line. Nothing else.\
+"""
+
+TRUNCATED = """\
+Your previous response was cut off before it finished, so the JSON is \
+incomplete. Produce the same analysis again, but substantially shorter: keep \
+every article id, and cut each summary and why_it_matters to one short sentence. \
+Drop the projects and regions sections if you need the room. Return one valid \
+JSON object and nothing else.\
 """

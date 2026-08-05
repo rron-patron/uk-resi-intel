@@ -1,184 +1,51 @@
 {
   "schema": 1,
-  "generated_at_utc": "2026-08-05T10:31:02+00:00",
-  "generated_at_london": "2026-08-05T11:31+01:00",
-  "date_label": "5 August 2026",
-  "time_label": "11:31 BST",
-  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: model did not return valid JSON: Expecting ',' delimiter: line 18 column 6 (char 3968)\n\n51 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "generated_at_utc": "2026-08-04T16:38:55+00:00",
+  "generated_at_london": "2026-08-04T17:38+01:00",
+  "date_label": "Sample edition",
+  "time_label": "not yet published",
+  "executive_summary": "This is a placeholder. No sources have been collected and no analysis has run yet, so nothing on this page is real market information.\n\nOnce you add an ANTHROPIC_API_KEY secret and the daily workflow completes, this panel carries the morning note: three to five paragraphs on what actually moved in UK residential, written from the headlines and data releases collected at 09:00 London time.\n\nTo publish immediately rather than waiting for tomorrow, open the Actions tab, choose \"Daily briefing\", and click Run workflow.",
   "sentiment": {
     "overall": "neutral",
     "score": 0,
-    "rationale": "No sentiment reading — analysis unavailable.",
+    "rationale": "No reading until the first edition runs.",
     "positive_signals": [],
-    "neutral_signals": [],
+    "neutral_signals": [
+      "Awaiting first collection"
+    ],
     "negative_signals": []
   },
   "themes": [
     {
-      "name": "Residential investment",
-      "count": 7,
+      "name": "Build-to-rent",
+      "count": 0,
       "direction": "steady",
-      "summary": "",
-      "article_ids": []
-    },
-    {
-      "name": "Affordable housing",
-      "count": 7,
-      "direction": "steady",
-      "summary": "",
-      "article_ids": []
-    },
-    {
-      "name": "Housing supply",
-      "count": 6,
-      "direction": "steady",
-      "summary": "",
-      "article_ids": []
-    },
-    {
-      "name": "Planning policy",
-      "count": 5,
-      "direction": "steady",
-      "summary": "",
+      "summary": "Counts and commentary appear after the first run.",
       "article_ids": []
     },
     {
       "name": "Housebuilders",
-      "count": 3,
+      "count": 0,
       "direction": "steady",
-      "summary": "",
+      "summary": "Counts and commentary appear after the first run.",
       "article_ids": []
     },
     {
-      "name": "Regional development",
-      "count": 3,
+      "name": "Planning policy",
+      "count": 0,
       "direction": "steady",
-      "summary": "",
+      "summary": "Counts and commentary appear after the first run.",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 0,
+      "direction": "steady",
+      "summary": "Counts and commentary appear after the first run.",
       "article_ids": []
     }
   ],
-  "companies": [
-    {
-      "name": "Place North West",
-      "type": "Other",
-      "mentions": 10,
-      "context": ""
-    },
-    {
-      "name": "Private",
-      "type": "Other",
-      "mentions": 3,
-      "context": ""
-    },
-    {
-      "name": "SAHP",
-      "type": "Other",
-      "mentions": 2,
-      "context": ""
-    },
-    {
-      "name": "London",
-      "type": "Other",
-      "mentions": 2,
-      "context": ""
-    },
-    {
-      "name": "Green Belt",
-      "type": "Other",
-      "mentions": 2,
-      "context": ""
-    },
-    {
-      "name": "Agency",
-      "type": "Other",
-      "mentions": 2,
-      "context": ""
-    },
-    {
-      "name": "There's",
-      "type": "Other",
-      "mentions": 2,
-      "context": ""
-    },
-    {
-      "name": "Short-term",
-      "type": "Other",
-      "mentions": 2,
-      "context": ""
-    },
-    {
-      "name": "Number",
-      "type": "Other",
-      "mentions": 2,
-      "context": ""
-    },
-    {
-      "name": "England and Wales",
-      "type": "Other",
-      "mentions": 2,
-      "context": ""
-    },
-    {
-      "name": "English",
-      "type": "Other",
-      "mentions": 2,
-      "context": ""
-    },
-    {
-      "name": "The World's Largest Data",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "Center Hub Pursues",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "Development Pause. Is It",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "Even Legal",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "Loudoun County",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "Virginia",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "Pablo Castro's Lawyers Quit",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "HueHub Suit",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "Citing",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    }
-  ],
+  "companies": [],
   "projects": [],
   "policy": [],
   "investor_view": {
@@ -190,1087 +57,82 @@
   "regions": [],
   "stories": [
     {
-      "id": "e60f0327d801",
-      "title": "NHF and CIH cede control of Housemark as procurement firm acquires majority stake",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/nhf-and-cih-cede-control-of-housemark-as-procurement-firm-acquires-majority-stake-98231",
-      "published": "2026-08-05T10:14:34+00:00",
+      "id": "seed0",
+      "title": "Rate decisions, planning reform and national house price data land here",
+      "source": "Placeholder",
+      "source_key": "seed",
+      "url": "https://github.com/rron-patron/uk-resi-intel#readme",
+      "published": "2026-08-04T17:38:55+01:00",
       "kind": "news",
-      "excerpt": "A Cheshire-based procurement company has taken a majority stake in industry data firm Housemark",
-      "importance": "Medium",
-      "summary": "A Cheshire-based procurement company has taken a majority stake in industry data firm Housemark",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "NHF and CIH",
-        "Housemark",
-        "Cheshire-based"
-      ],
-      "locations": []
-    },
-    {
-      "id": "30f8d9bf38ed",
-      "title": "Orbit turnover and operating surplus slightly up while completions rise by a fifth",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/orbit-turnover-and-operating-surplus-slightly-up-while-completions-rise-by-a-fifth-98228",
-      "published": "2026-08-05T10:00:00+00:00",
-      "kind": "news",
-      "excerpt": "Orbit’s turnover and surplus were slightly up in the last financial year, while increased repair volumes contributed to a “challenging operating environment”",
-      "importance": "Medium",
-      "summary": "Orbit’s turnover and surplus were slightly up in the last financial year, while increased repair volumes contributed to a “challenging operating environment”",
-      "why_it_matters": "",
-      "themes": [
-        "Housing supply"
-      ],
-      "companies": [
-        "Orbit",
-        "Orbit’s"
-      ],
-      "locations": []
-    },
-    {
-      "id": "b5f64cbea593",
-      "title": "Glenbrook works up more Manchester resi",
-      "source": "Place North West",
-      "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/glenbrook-works-up-more-manchester-resi",
-      "published": "2026-08-05T09:34:31+00:00",
-      "kind": "news",
-      "excerpt": "The former Beever & Struthers office on Chester Road is to be knocked down to pave the way for the site to be redeveloped into 162 homes under plans being readied by the developer. The post Glenbrook works up more Manchester resi appeared first on Place North West .",
-      "importance": "Medium",
-      "summary": "The former Beever & Struthers office on Chester Road is to be knocked down to pave the way for the site to be redeveloped into 162 homes under plans being readied by the developer. The post Glenbrook works up more Manche",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Glenbrook",
-        "Manchester",
-        "Beever",
-        "Struthers"
-      ],
-      "locations": []
-    },
-    {
-      "id": "e8a0ff922c1f",
-      "title": "Stockport looks to tackle A555 flooding woes",
-      "source": "Place North West",
-      "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/stockport-looks-to-tackle-a555-flooding-woes",
-      "published": "2026-08-05T09:30:09+00:00",
-      "kind": "news",
-      "excerpt": "Further actions to reduce the risk of flooding on the link road to Manchester Airport, a headache since the dual carriageway’s 2018 completion, have been presented to local councillors. The post Stockport looks to tackle A555 flooding woes appeared first on Place North West .",
-      "importance": "Medium",
-      "summary": "Further actions to reduce the risk of flooding on the link road to Manchester Airport, a headache since the dual carriageway’s 2018 completion, have been presented to local councillors. The post Stockport looks to tackle",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Stockport",
-        "Further",
-        "Manchester Airport",
-        "Place North West"
-      ],
-      "locations": []
-    },
-    {
-      "id": "9f47c4fe70a4",
-      "title": "Large Midlands landlord sees annual completions slide 56%",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/large-midlands-landlord-sees-annual-completions-slide-56-98225",
-      "published": "2026-08-05T09:20:00+00:00",
-      "kind": "news",
-      "excerpt": "Midland Heart has seen its annual completions more than halve, while spending a record amount on improving its existing stock",
-      "importance": "Medium",
-      "summary": "Midland Heart has seen its annual completions more than halve, while spending a record amount on improving its existing stock",
-      "why_it_matters": "",
-      "themes": [
-        "Housing supply"
-      ],
-      "companies": [
-        "Large Midlands",
-        "Midland Heart"
-      ],
-      "locations": []
-    },
-    {
-      "id": "d8d3c1f3eef0",
-      "title": "We build. Councils buy. Is this a vision for mass municipal rent?",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/we-build-councils-buy-is-this-a-vision-for-mass-municipal-rent-98196",
-      "published": "2026-08-05T09:00:00+00:00",
-      "kind": "news",
-      "excerpt": "Taking partnership to the next level could be a solution to the housebuilding crisis, writes Stephen Teagle, chief executive of partnerships and regeneration at Vistry Group",
-      "importance": "Medium",
-      "summary": "Taking partnership to the next level could be a solution to the housebuilding crisis, writes Stephen Teagle, chief executive of partnerships and regeneration at Vistry Group",
-      "why_it_matters": "",
-      "themes": [
-        "Housebuilders",
-        "Regional development"
-      ],
-      "companies": [
-        "Councils",
-        "Taking",
-        "Stephen Teagle",
-        "Vistry Group"
-      ],
-      "locations": []
-    },
-    {
-      "id": "1b68b005bf86",
-      "title": "Fixing adult social care starts with mandating higher national accessibility standards",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/fixing-adult-social-care-starts-with-mandating-higher-national-accessibility-standards-98197",
-      "published": "2026-08-05T08:43:45+00:00",
-      "kind": "news",
-      "excerpt": "Could the new prime minister finally make it so homes are designed to be accessible, inclusive and support everyone to thrive, asks Habinteg CEO Martin Warhurst",
-      "importance": "Medium",
-      "summary": "Could the new prime minister finally make it so homes are designed to be accessible, inclusive and support everyone to thrive, asks Habinteg CEO Martin Warhurst",
-      "why_it_matters": "",
-      "themes": [
-        "Housing supply"
-      ],
-      "companies": [
-        "Fixing",
-        "Could",
-        "Habinteg CEO Martin Warhurst"
-      ],
-      "locations": []
-    },
-    {
-      "id": "1c55daf9f499",
-      "title": "Burnham has promised to turbo-charge council housebuilding. Here’s what local authorities say they need to make it happen",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/burnham-has-promised-to-turbo-charge-council-housebuilding-heres-what-local-authorities-say-they-need-to-make-it-happen-98183",
-      "published": "2026-08-05T08:03:50+00:00",
-      "kind": "news",
-      "excerpt": "A new inquiry by a group of MPs is examining the problems preventing councils from building social rent homes at scale, and has asked the sector for practical solutions. Eliza Parr rounds up the key points",
-      "importance": "Medium",
-      "summary": "A new inquiry by a group of MPs is examining the problems preventing councils from building social rent homes at scale, and has asked the sector for practical solutions. Eliza Parr rounds up the key points",
-      "why_it_matters": "",
-      "themes": [
-        "Affordable housing"
-      ],
-      "companies": [
-        "Burnham",
-        "Here’s",
-        "Eliza Parr"
-      ],
-      "locations": []
-    },
-    {
-      "id": "63392e15c1ef",
-      "title": "Demolition of Crompton Place begins",
-      "source": "Place North West",
-      "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/demolition-of-crompton-place-begins",
-      "published": "2026-08-05T05:32:32+00:00",
-      "kind": "news",
-      "excerpt": "Main contractor Rhodar has commenced strip-out of the former shopping centre, a £5m job that will line the site up for a £250m redevelopment led by Bolton Council and MEPC. The post Demolition of Crompton Place begins appeared first on Place North West .",
-      "importance": "Medium",
-      "summary": "Main contractor Rhodar has commenced strip-out of the former shopping centre, a £5m job that will line the site up for a £250m redevelopment led by Bolton Council and MEPC. The post Demolition of Crompton Place begins ap",
-      "why_it_matters": "",
-      "themes": [
-        "Residential investment"
-      ],
-      "companies": [
-        "Demolition of Crompton Place",
-        "Main",
-        "Rhodar",
-        "Bolton Council and MEPC. The"
-      ],
-      "locations": []
-    },
-    {
-      "id": "10e68c1507c6",
-      "title": "The World's Largest Data Center Hub Pursues A Development Pause. Is It Even Legal?",
-      "source": "Bisnow UK",
-      "source_key": "bisnow_uk",
-      "url": "https://bisnow.com/news/washington-dc/data-center-development/the-world-s-largest-data-center-hub-pursues-a-development-pause-is-it-even-legal-",
-      "published": "2026-08-04T23:17:22+00:00",
-      "kind": "news",
-      "excerpt": "Loudoun County debates a pause on new facility applications, even though moratoriums are illegal in Virginia.",
-      "importance": "Medium",
-      "summary": "Loudoun County debates a pause on new facility applications, even though moratoriums are illegal in Virginia.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "The World's Largest Data",
-        "Center Hub Pursues",
-        "Development Pause. Is It",
-        "Even Legal"
-      ],
-      "locations": []
-    },
-    {
-      "id": "161cebe1136f",
-      "title": "More agents over-pricing to win instructions – claim",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/agents-accused-of-over-pricing-to-win-instructions",
-      "published": "2026-08-04T23:06:00+00:00",
-      "kind": "news",
-      "excerpt": "The analysis is by a quick-buy firm",
-      "importance": "Medium",
-      "summary": "The analysis is by a quick-buy firm",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "More"
-      ],
-      "locations": []
-    },
-    {
-      "id": "92502ea26579",
-      "title": "Agency led by ex-Savills directors now boasts team of 28",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/agency-founded-by-ex-savills-directors-now-boasts-28-staff",
-      "published": "2026-08-04T23:03:00+00:00",
-      "kind": "news",
-      "excerpt": "They operate from one office and several 'pods'",
-      "importance": "Medium",
-      "summary": "They operate from one office and several 'pods'",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Agency",
-        "Savills",
-        "They"
-      ],
-      "locations": []
-    },
-    {
-      "id": "41787936c884",
-      "title": "New agency launched by chartered surveyor firm – and it’s recruiting",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/new-agency-launched-by-chartered-surveyor-firm-and-its-recruiting",
-      "published": "2026-08-04T23:03:00+00:00",
-      "kind": "news",
-      "excerpt": "A firm of chartered surveyors is launching an estate agency – and it’s looking for “personable and enthusiastic” recruits. The Jonathan Wallis firm says it’s launching the agency next month “bringing together decades of surveying expertise with experienced residential sales and lettings professionals” to operate across and around Teesdale. The new venture will operate from […]",
-      "importance": "Medium",
-      "summary": "A firm of chartered surveyors is launching an estate agency – and it’s looking for “personable and enthusiastic” recruits. The Jonathan Wallis firm says it’s launching the agency next month “bringing together decades of ",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "The Jonathan Wallis",
-        "Teesdale. The"
-      ],
-      "locations": []
-    },
-    {
-      "id": "cb7d4129acc4",
-      "title": "Agency boss wants Scottish buying system in rest of Britain",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/agency-boss-wants-scottish-house-buying-system-in-rest-of-britain",
-      "published": "2026-08-04T23:02:00+00:00",
-      "kind": "news",
-      "excerpt": "The government is already calling for house buying reforms",
-      "importance": "Medium",
-      "summary": "The government is already calling for house buying reforms",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Agency",
-        "Scottish",
-        "Britain. The"
-      ],
-      "locations": []
-    },
-    {
-      "id": "0e68cfdb00e9",
-      "title": "Britain’s busiest moving day – revealed!",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/britains-busiest-moving-day-revealed",
-      "published": "2026-08-04T23:01:00+00:00",
-      "kind": "news",
-      "excerpt": "On one particular day there will be an estimated 22,904 households moving",
-      "importance": "Medium",
-      "summary": "On one particular day there will be an estimated 22,904 households moving",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Britain’s"
-      ],
-      "locations": []
-    },
-    {
-      "id": "751fe7b54a7e",
-      "title": "Agents have almost zero confidence in any political party",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/agents-have-almost-zero-confidence-in-any-political-party",
-      "published": "2026-08-04T23:00:00+00:00",
-      "kind": "news",
-      "excerpt": "The results come in the latest Voice Of The Agent report.",
-      "importance": "Medium",
-      "summary": "The results come in the latest Voice Of The Agent report.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Agents",
-        "Voice Of The Agent"
-      ],
-      "locations": []
-    },
-    {
-      "id": "70a4faa7b1d5",
-      "title": "Pablo Castro's Lawyers Quit HueHub Suit, Citing 'Irreconcilable Differences'",
-      "source": "Bisnow UK",
-      "source_key": "bisnow_uk",
-      "url": "https://bisnow.com/news/south-florida/multifamily/pablo-castro-hue-hub-attorneys-laura-tauber-bilzin-sumberg",
-      "published": "2026-08-04T21:46:27+00:00",
-      "kind": "news",
-      "excerpt": "Pablo Castro's legal battles intensify over Miami's largest planned Live Local Act project.",
-      "importance": "Medium",
-      "summary": "Pablo Castro's legal battles intensify over Miami's largest planned Live Local Act project.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Pablo Castro's Lawyers Quit",
-        "HueHub Suit",
-        "Citing",
-        "Irreconcilable Differences'. Pablo Castro's"
-      ],
-      "locations": []
-    },
-    {
-      "id": "0430b47abc66",
-      "title": "NBC Tower Owner Mulls Conversion: The Chicago Deal Sheet",
-      "source": "Bisnow UK",
-      "source_key": "bisnow_uk",
-      "url": "https://bisnow.com/news/chicago/deal-sheet/the-chicago-deal-sheet-august-4-2026",
-      "published": "2026-08-04T20:45:38+00:00",
-      "kind": "news",
-      "excerpt": "Metropolis is considering converting NBC Tower's offices into apartments, with partner support and other commercial real estate deals in the Chicago area.",
-      "importance": "Medium",
-      "summary": "Metropolis is considering converting NBC Tower's offices into apartments, with partner support and other commercial real estate deals in the Chicago area.",
-      "why_it_matters": "",
-      "themes": [
-        "Residential investment"
-      ],
-      "companies": [
-        "NBC Tower Owner Mulls",
-        "Conversion",
-        "The Chicago Deal Sheet",
-        "Metropolis"
-      ],
-      "locations": []
-    },
-    {
-      "id": "ab7e45d4d0de",
-      "title": "BPHA’s surplus edges up after shared ownership sales boost",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/bphas-surplus-edges-up-after-shared-ownership-sales-boost-98218",
-      "published": "2026-08-04T15:54:21+00:00",
-      "kind": "news",
-      "excerpt": "BPHA’s pre-tax surplus has risen by 8% to £21.7m after its earnings from its development and sales business almost doubled, helping to offset a rise in operating costs",
-      "importance": "Medium",
-      "summary": "BPHA’s pre-tax surplus has risen by 8% to £21.7m after its earnings from its development and sales business almost doubled, helping to offset a rise in operating costs",
-      "why_it_matters": "",
-      "themes": [
-        "Residential investment",
-        "Affordable housing"
-      ],
-      "companies": [
-        "BPHA’s"
-      ],
-      "locations": []
-    },
-    {
-      "id": "1ba1b8260a27",
-      "title": "Platform says revised SAHP bid will reduce delivery over next few years",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/platform-says-revised-sahp-bid-will-reduce-delivery-over-next-few-years-98147",
-      "published": "2026-08-04T15:53:36+00:00",
-      "kind": "news",
-      "excerpt": "One of the sector’s biggest builders says it will complete fewer homes over the next few years because it has had to change its bid for government grant funding",
-      "importance": "Medium",
-      "summary": "One of the sector’s biggest builders says it will complete fewer homes over the next few years because it has had to change its bid for government grant funding",
-      "why_it_matters": "",
-      "themes": [
-        "Housing supply",
-        "Residential investment"
-      ],
-      "companies": [
-        "Platform",
-        "SAHP"
-      ],
-      "locations": []
-    },
-    {
-      "id": "b781fe39f737",
-      "title": "Hyde gets Gateway 2 approval for 100% affordable scheme in London",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/hyde-gets-gateway-2-approval-for-100-affordable-scheme-in-london-98193",
-      "published": "2026-08-04T15:53:07+00:00",
-      "kind": "news",
-      "excerpt": "Hyde Group has received Gateway 2 approval for a 100% affordable housing scheme in Greenwich",
-      "importance": "Medium",
-      "summary": "Hyde Group has received Gateway 2 approval for a 100% affordable housing scheme in Greenwich",
-      "why_it_matters": "",
-      "themes": [
-        "Affordable housing"
-      ],
-      "companies": [
-        "Hyde",
-        "Gateway",
-        "London. Hyde Group",
-        "Greenwich"
-      ],
-      "locations": []
-    },
-    {
-      "id": "829122939170",
-      "title": "Onward’s new CEO sets out his ambitious growth plans and how he hopes Andy Burnham will deliver for housing in the North West",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/onwards-new-ceo-sets-out-his-ambitious-growth-plans-and-how-he-hopes-andy-burnham-will-deliver-for-housing-in-the-north-west-98077",
-      "published": "2026-08-04T15:52:09+00:00",
-      "kind": "news",
-      "excerpt": "Onward’s chief executive Sandy Livingstone sits down with Ellie Brown to discuss swapping Scotland for the North West, SAHP bids and his expectations for Andy Burnham",
-      "importance": "Medium",
-      "summary": "Onward’s chief executive Sandy Livingstone sits down with Ellie Brown to discuss swapping Scotland for the North West, SAHP bids and his expectations for Andy Burnham",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Onward’s",
-        "Andy Burnham",
-        "North West. Onward’s",
-        "Sandy Livingstone"
-      ],
-      "locations": []
-    },
-    {
-      "id": "3d2c7f4ad87f",
-      "title": "Halton tipped to approve 94 homes",
-      "source": "Place North West",
-      "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/halton-tipped-to-approve-94-homes",
-      "published": "2026-08-04T15:01:25+00:00",
-      "kind": "news",
-      "excerpt": "Now removed from the Green Belt and allocated for housing, the site had been an off-road motorcycle centre prior to the pandemic. The post Halton tipped to approve 94 homes appeared first on Place North West .",
-      "importance": "Medium",
-      "summary": "Now removed from the Green Belt and allocated for housing, the site had been an off-road motorcycle centre prior to the pandemic. The post Halton tipped to approve 94 homes appeared first on Place North West .",
-      "why_it_matters": "",
-      "themes": [
-        "Planning policy"
-      ],
-      "companies": [
-        "Halton",
-        "Green Belt",
-        "Place North West"
-      ],
-      "locations": []
-    },
-    {
-      "id": "42dd8433ad19",
-      "title": "National Housing Bank launches search for six investment directors",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/national-housing-bank-launches-search-for-six-investment-directors-98220",
-      "published": "2026-08-04T14:30:00+00:00",
-      "kind": "news",
-      "excerpt": "Homes England is looking to recruit six investment directors and a finance director for its subsidiary, the National Housing Bank",
-      "importance": "Medium",
-      "summary": "Homes England is looking to recruit six investment directors and a finance director for its subsidiary, the National Housing Bank",
-      "why_it_matters": "",
-      "themes": [
-        "Residential investment"
-      ],
-      "companies": [
-        "National Housing Bank",
-        "Homes England"
-      ],
-      "locations": []
-    },
-    {
-      "id": "ebe321555ff0",
-      "title": "Davos, Brickland press ahead with Norton scrap redevelopment",
-      "source": "Place North West",
-      "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/davos-brickland-press-ahead-with-norton-scrap-redevelopment",
-      "published": "2026-08-04T11:15:10+00:00",
-      "kind": "news",
-      "excerpt": "Demolition of existing structures on the two-acre Parliament Street site is expected to begin in Q2 2027, while a planning application for a trio of residential towers rising to 27 storeys is expected this autumn. The post Davos, Brickland press ahead with Norton scrap redevelopment appeared first on Place North West .",
-      "importance": "Medium",
-      "summary": "Demolition of existing structures on the two-acre Parliament Street site is expected to begin in Q2 2027, while a planning application for a trio of residential towers rising to 27 storeys is expected this autumn. The po",
-      "why_it_matters": "",
-      "themes": [
-        "Planning policy"
-      ],
-      "companies": [
-        "Davos",
-        "Brickland",
-        "Norton",
-        "Demolition"
-      ],
-      "locations": []
-    },
-    {
-      "id": "5573b35fed45",
-      "title": "Guidance: HM Land Registry: Local Land Charges Programme",
-      "source": "HM Land Registry — UK HPI",
-      "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/publications/hm-land-registry-local-land-charges-programme",
-      "published": "2026-08-04T10:40:45+00:00",
-      "kind": "data",
-      "excerpt": "We are working with local authorities to create a national local land charges service that will speed up searches and reduce their cost.",
-      "importance": "Medium",
-      "summary": "We are working with local authorities to create a national local land charges service that will speed up searches and reduce their cost.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Guidance",
-        "HM Land Registry",
-        "Local Land Charges Programme"
-      ],
-      "locations": []
-    },
-    {
-      "id": "6a5c2b0eadf7",
-      "title": "Muller ramps up Sandbach ambitions",
-      "source": "Place North West",
-      "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/muller-ramps-up-sandbach-ambitions",
-      "published": "2026-08-04T10:24:52+00:00",
-      "kind": "news",
-      "excerpt": "The property group has mapped out a 452-home second phase of its Sandbach South masterplan, the fourth large-scale housing scheme the firm has proposed in Cheshire this year. The post Muller ramps up Sandbach ambitions appeared first on Place North West .",
-      "importance": "Medium",
-      "summary": "The property group has mapped out a 452-home second phase of its Sandbach South masterplan, the fourth large-scale housing scheme the firm has proposed in Cheshire this year. The post Muller ramps up Sandbach ambitions a",
-      "why_it_matters": "",
-      "themes": [
-        "Regional development"
-      ],
-      "companies": [
-        "Muller",
-        "Sandbach",
-        "Sandbach South",
-        "Cheshire"
-      ],
-      "locations": []
-    },
-    {
-      "id": "e209b5e673a2",
-      "title": "Persimmon lodges 300-home West Lancs proposal",
-      "source": "Place North West",
-      "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/persimmon-lodges-300-home-west-lancs-proposal",
-      "published": "2026-08-04T09:27:12+00:00",
-      "kind": "news",
-      "excerpt": "Thirty-four acres of Green Belt off Prescot Road in Aughton are the subject of plans for a residential development featuring 150 affordable properties. The post Persimmon lodges 300-home West Lancs proposal appeared first on Place North West .",
-      "importance": "Medium",
-      "summary": "Thirty-four acres of Green Belt off Prescot Road in Aughton are the subject of plans for a residential development featuring 150 affordable properties. The post Persimmon lodges 300-home West Lancs proposal appeared firs",
-      "why_it_matters": "",
-      "themes": [
-        "Housebuilders",
-        "Planning policy",
-        "Affordable housing"
-      ],
-      "companies": [
-        "Persimmon",
-        "West Lancs",
-        "Thirty-four",
-        "Green Belt"
-      ],
-      "locations": []
-    },
-    {
-      "id": "d1393caceefc",
-      "title": "SNG bucks London housebuilding trends, according to landlord’s latest annual report",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/sng-bucks-london-housebuilding-trends-according-to-landlords-latest-annual-report-98187",
-      "published": "2026-08-04T08:45:30+00:00",
-      "kind": "news",
-      "excerpt": "Sovereign Network Group has revealed how it is “going against wider sector trends” by upping delivery in London, and set out its plans to achieve a C1 grade",
-      "importance": "Medium",
-      "summary": "Sovereign Network Group has revealed how it is “going against wider sector trends” by upping delivery in London, and set out its plans to achieve a C1 grade",
-      "why_it_matters": "",
-      "themes": [
-        "Housing supply"
-      ],
-      "companies": [
-        "London",
-        "Sovereign Network Group"
-      ],
-      "locations": []
-    },
-    {
-      "id": "b388bdf25acc",
-      "title": "Storage World Middleton launches £12m rebirth bid",
-      "source": "Place North West",
-      "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/storage-world-middleton-launches-12m-rebirth-bid",
-      "published": "2026-08-04T07:30:40+00:00",
-      "kind": "news",
-      "excerpt": "Replacing the town centre facility destroyed by fire last summer, the 100,000 sq ft project will also include flexible commercial space, in the first major plans to be submitted as the Rochdale town’s Mayoral Development Corporation comes together. The post Storage World Middleton launches £12m rebirth bid appeared first on Place North West .",
-      "importance": "Medium",
-      "summary": "Replacing the town centre facility destroyed by fire last summer, the 100,000 sq ft project will also include flexible commercial space, in the first major plans to be submitted as the Rochdale town’s Mayoral Development",
-      "why_it_matters": "",
-      "themes": [
-        "Residential investment"
-      ],
-      "companies": [
-        "Storage World Middleton",
-        "Replacing",
-        "Rochdale",
-        "Mayoral Development Corporation"
-      ],
-      "locations": []
-    },
-    {
-      "id": "43d3180928d0",
-      "title": "Replacement Pendleton leisure centre could be built in 2028",
-      "source": "Place North West",
-      "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/replacement-pendleton-leisure-centre-could-be-built-in-2028",
-      "published": "2026-08-04T07:23:13+00:00",
-      "kind": "news",
-      "excerpt": "Having been shelved due to rising costs in 2022, plans to build a sports and wellbeing facility off Churchill Way in Salford to replace the arson-attacked Clarendon Leisure Centre are progressing towards a start on site in 2027. The post Replacement Pendleton leisure centre could be built in 2028 appeared first on Place North West .",
-      "importance": "Medium",
-      "summary": "Having been shelved due to rising costs in 2022, plans to build a sports and wellbeing facility off Churchill Way in Salford to replace the arson-attacked Clarendon Leisure Centre are progressing towards a start on site ",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Replacement Pendleton",
-        "Having",
-        "Churchill Way",
-        "Salford"
-      ],
-      "locations": []
-    },
-    {
-      "id": "f2bb72599ff1",
-      "title": "Complaints about agents surge in recent months",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/agents-new-portal-to-check-on-growing-number-of-complaints",
-      "published": "2026-08-03T23:06:00+00:00",
-      "kind": "news",
-      "excerpt": "There's been a 55% rise in complaints received in first half of 2025",
-      "importance": "Medium",
-      "summary": "There's been a 55% rise in complaints received in first half of 2025",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Complaints",
-        "There's"
-      ],
-      "locations": []
-    },
-    {
-      "id": "c4bcdf7c6a58",
-      "title": "Sellers can see competing valuations on new website",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/sellers-can-see-competing-valuations-from-agents-on-new-platform",
-      "published": "2026-08-03T23:05:00+00:00",
-      "kind": "news",
-      "excerpt": "The service allows anonymous queries, so avoiding follow-up cold calls",
-      "importance": "Medium",
-      "summary": "The service allows anonymous queries, so avoiding follow-up cold calls",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Sellers"
-      ],
-      "locations": []
-    },
-    {
-      "id": "e222e4462826",
-      "title": "New senior figure named for 36-strong agency group",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/new-senior-role-named-for-36-strong-agency-group",
-      "published": "2026-08-03T23:03:00+00:00",
-      "kind": "news",
-      "excerpt": "The group has 36 branches and is part of LRG",
-      "importance": "Medium",
-      "summary": "The group has 36 branches and is part of LRG",
-      "why_it_matters": "",
+      "excerpt": "",
+      "importance": "Critical",
+      "summary": "Reserved for developments that move the whole sector: Monetary Policy Committee decisions, primary legislation, national statistics that surprise against expectations.",
+      "why_it_matters": "Most days carry no Critical item. When one appears, it is the reason to read the briefing before your inbox.",
       "themes": [],
       "companies": [],
       "locations": []
     },
     {
-      "id": "157f346512a1",
-      "title": "Fall-throughs take 3% off asking price for wealthiest sellers",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/fall-throughs-take-3-off-asking-price-for-wealthiest-sellers",
-      "published": "2026-08-03T23:02:00+00:00",
+      "id": "seed1",
+      "title": "Portfolio transactions and sub-sector policy appear at this level",
+      "source": "Placeholder",
+      "source_key": "seed",
+      "url": "https://github.com/rron-patron/uk-resi-intel#readme",
+      "published": "2026-08-04T17:38:55+01:00",
       "kind": "news",
-      "excerpt": "This is according to a franchise agency chain",
-      "importance": "Medium",
-      "summary": "This is according to a franchise agency chain",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Fall-throughs"
-      ],
-      "locations": []
-    },
-    {
-      "id": "4da43c8dff09",
-      "title": "Industry figures claim slow sales not the key issue",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/industry-figures-claim-slow-sales-process-is-not-the-biggest-problem",
-      "published": "2026-08-03T23:01:00+00:00",
-      "kind": "news",
-      "excerpt": "There's been a survey of people who have moved in the past 12 months",
-      "importance": "Medium",
-      "summary": "There's been a survey of people who have moved in the past 12 months",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Industry",
-        "There's"
-      ],
-      "locations": []
-    },
-    {
-      "id": "0dab7f8c42d2",
-      "title": "Help To Buy makes fortune for government – but what comes next?",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/help-to-buy-makes-fortune-for-government-but-what-comes-next",
-      "published": "2026-08-03T23:00:00+00:00",
-      "kind": "news",
-      "excerpt": "Figures have been produced by the Home Builders Federation",
-      "importance": "Medium",
-      "summary": "Figures have been produced by the Home Builders Federation",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Help To Buy",
-        "Figures",
-        "Home Builders Federation"
-      ],
-      "locations": []
-    },
-    {
-      "id": "c614d72dd28b",
-      "title": "Clarion gets approval for 249 new social rent homes",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/clarion-gets-approval-for-249-new-social-rent-homes-98199",
-      "published": "2026-08-03T16:30:00+00:00",
-      "kind": "news",
-      "excerpt": "Clarion Housing Group has secured planning permission for 249 new social homes in London",
-      "importance": "Medium",
-      "summary": "Clarion Housing Group has secured planning permission for 249 new social homes in London",
-      "why_it_matters": "",
-      "themes": [
-        "Planning policy",
-        "Affordable housing"
-      ],
-      "companies": [
-        "Clarion",
-        "Clarion Housing Group",
-        "London"
-      ],
-      "locations": []
-    },
-    {
-      "id": "2f44f164c794",
-      "title": "Northern landlords call on government to invest in regeneration outside of rail hubs",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/northern-landlords-call-on-government-to-invest-in-regeneration-outside-of-rail-hubs-98192",
-      "published": "2026-08-03T15:30:00+00:00",
-      "kind": "news",
-      "excerpt": "Landlords in the North of England have urged the government to invest in regeneration projects outside of train station catchment areas so as not to leave other places behind",
-      "importance": "Medium",
-      "summary": "Landlords in the North of England have urged the government to invest in regeneration projects outside of train station catchment areas so as not to leave other places behind",
-      "why_it_matters": "",
-      "themes": [
-        "Regional development"
-      ],
-      "companies": [
-        "Landlords",
-        "North of England"
-      ],
-      "locations": []
-    },
-    {
-      "id": "c6db03f7ccbb",
-      "title": "Southern Housing records £7.7m loss as it targets £10m in further efficiencies",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/southern-housing-records-77m-loss-as-it-targets-10m-in-further-efficiencies-98178",
-      "published": "2026-08-03T13:47:08+00:00",
-      "kind": "news",
-      "excerpt": "Southern Housing made a pre-tax loss of £7.7m in the last financial year, as its annual report revealed it is targeting at least £10m in further efficiencies this year.",
-      "importance": "Medium",
-      "summary": "Southern Housing made a pre-tax loss of £7.7m in the last financial year, as its annual report revealed it is targeting at least £10m in further efficiencies this year.",
-      "why_it_matters": "",
-      "themes": [
-        "Housing supply",
-        "Residential investment"
-      ],
-      "companies": [
-        "Southern Housing"
-      ],
-      "locations": []
-    },
-    {
-      "id": "148feff6d30a",
-      "title": "Castle Green wins appeal for 121 Flintshire homes",
-      "source": "Place North West",
-      "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/castle-green-wins-appeal-for-121-flintshire-homes",
-      "published": "2026-08-03T11:53:47+00:00",
-      "kind": "news",
-      "excerpt": "Armed with the Welsh Government’s go-ahead, the housebuilder can move forward with its fully affordable neighbourhood at Quarry Farm – either the 121-residence version that won at appeal or the 109-home version that won the county council’s favour nearly three weeks ago. The post Castle Green wins appeal for 121 Flintshire homes appeared first on Place North West .",
-      "importance": "Medium",
-      "summary": "Armed with the Welsh Government’s go-ahead, the housebuilder can move forward with its fully affordable neighbourhood at Quarry Farm – either the 121-residence version that won at appeal or the 109-home version that won ",
-      "why_it_matters": "",
-      "themes": [
-        "Housebuilders",
-        "Planning policy",
-        "Affordable housing"
-      ],
-      "companies": [
-        "Castle Green",
-        "Flintshire",
-        "Armed",
-        "Welsh Government’s"
-      ],
-      "locations": []
-    },
-    {
-      "id": "4f6394df668e",
-      "title": "Short-term lets through online collaborative economy platforms, UK: July 2023 to December 2025",
-      "source": "ONS — Housing & Prices",
-      "source_key": "ons_housing",
-      "url": "https://ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/shorttermletsthroughonlinecollaborativeeconomyplatformsuk/july2023todecember2025",
-      "published": null,
-      "kind": "data",
-      "excerpt": "Number of guest nights, nights, and stays for short-term lets offered via online collaborative economy platforms from July 2023 to December 2025.",
-      "importance": "Medium",
-      "summary": "Number of guest nights, nights, and stays for short-term lets offered via online collaborative economy platforms from July 2023 to December 2025.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Short-term",
-        "Number"
-      ],
-      "locations": []
-    },
-    {
-      "id": "606195e9b3cc",
-      "title": "How affordable are homes in your neighbourhood?",
-      "source": "ONS — Housing & Prices",
-      "source_key": "ons_housing",
-      "url": "https://ons.gov.uk/peoplepopulationandcommunity/housing/articles/howaffordablearehomesinyourneighbourhood/2026-03-26",
-      "published": null,
-      "kind": "data",
       "excerpt": "",
-      "importance": "Medium",
-      "summary": "",
-      "why_it_matters": "",
-      "themes": [
-        "Affordable housing"
-      ],
+      "importance": "High",
+      "summary": "Large deals, forward funding of 500 homes or more, regulator action against a significant registered provider, substantial consultations.",
+      "why_it_matters": "This is the band that usually sets the working agenda for the day.",
+      "themes": [],
       "companies": [],
       "locations": []
     },
     {
-      "id": "2d9e555f83ea",
-      "title": "Indicators of house building, UK: overview",
-      "source": "ONS — Housing & Prices",
-      "source_key": "ons_housing",
-      "url": "https://ons.gov.uk/peoplepopulationandcommunity/housing/articles/ukhousebuildingdata/overview",
-      "published": null,
-      "kind": "data",
+      "id": "seed2",
+      "title": "Single schemes, regional deals and incremental data",
+      "source": "Placeholder",
+      "source_key": "seed",
+      "url": "https://github.com/rron-patron/uk-resi-intel#readme",
+      "published": "2026-08-04T17:38:55+01:00",
+      "kind": "news",
       "excerpt": "",
       "importance": "Medium",
-      "summary": "",
-      "why_it_matters": "",
+      "summary": "Individual planning consents, mid-market appointments with strategic signal, monthly index updates that land in line with expectations.",
+      "why_it_matters": "Useful context rather than a call to act.",
       "themes": [],
-      "companies": [
-        "Indicators"
-      ],
+      "companies": [],
       "locations": []
     },
     {
-      "id": "d04dbed0d233",
-      "title": "Short-term lets through online collaborative economy platforms, UK: July 2024 to June 2025",
-      "source": "ONS — Housing & Prices",
-      "source_key": "ons_housing",
-      "url": "https://ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/shorttermletsthroughonlinecollaborativeeconomyplatformsuk/july2024tojune2025",
-      "published": null,
-      "kind": "data",
-      "excerpt": "Number of guest nights, nights, and stays for short-term lets offered via online collaborative economy platforms from July 2024 to June 2025.",
-      "importance": "Medium",
-      "summary": "Number of guest nights, nights, and stays for short-term lets offered via online collaborative economy platforms from July 2024 to June 2025.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Short-term",
-        "Number"
-      ],
-      "locations": []
-    },
-    {
-      "id": "433423424fd0",
-      "title": "Private rental prices development plan, UK: updated October 2025",
-      "source": "ONS — Housing & Prices",
-      "source_key": "ons_housing",
-      "url": "https://ons.gov.uk/peoplepopulationandcommunity/housing/articles/privaterentalpricesdevelopmentplan/updatedoctober2025",
-      "published": null,
-      "kind": "data",
+      "id": "seed3",
+      "title": "Appointments, awards and comment with no new information",
+      "source": "Placeholder",
+      "source_key": "seed",
+      "url": "https://github.com/rron-patron/uk-resi-intel#readme",
+      "published": "2026-08-04T17:38:55+01:00",
+      "kind": "news",
       "excerpt": "",
-      "importance": "Medium",
-      "summary": "",
+      "importance": "Low",
+      "summary": "Kept in the record so the day's coverage is complete, and filtered out with the chips above when you want signal only.",
       "why_it_matters": "",
       "themes": [],
-      "companies": [
-        "Private"
-      ],
-      "locations": []
-    },
-    {
-      "id": "4291d96a1b54",
-      "title": "Energy efficiency of housing in England and Wales: 2025",
-      "source": "ONS — Housing & Prices",
-      "source_key": "ons_housing",
-      "url": "https://ons.gov.uk/peoplepopulationandcommunity/housing/articles/energyefficiencyofhousinginenglandandwales/2025",
-      "published": null,
-      "kind": "data",
-      "excerpt": "",
-      "importance": "Medium",
-      "summary": "",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Energy",
-        "England and Wales"
-      ],
-      "locations": []
-    },
-    {
-      "id": "d610e5bca60f",
-      "title": "Private rented sector statistics from across the UK: 2025",
-      "source": "ONS — Housing & Prices",
-      "source_key": "ons_housing",
-      "url": "https://ons.gov.uk/peoplepopulationandcommunity/housing/articles/privaterentedsectorstatisticsfromacrosstheuk/2025",
-      "published": null,
-      "kind": "data",
-      "excerpt": "",
-      "importance": "Medium",
-      "summary": "",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Private"
-      ],
-      "locations": []
-    },
-    {
-      "id": "c0d5d3942568",
-      "title": "Housing Purchase Affordability, UK: 2024",
-      "source": "ONS — Housing & Prices",
-      "source_key": "ons_housing",
-      "url": "https://ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housingpurchaseaffordabilitygreatbritain/2024",
-      "published": null,
-      "kind": "data",
-      "excerpt": "Ratios of house prices to annual disposable household incomes, for countries of the UK, English regions, and local authorities in England and Wales.",
-      "importance": "Medium",
-      "summary": "Ratios of house prices to annual disposable household incomes, for countries of the UK, English regions, and local authorities in England and Wales.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Housing Purchase Affordability",
-        "Ratios",
-        "English",
-        "England and Wales"
-      ],
-      "locations": []
-    },
-    {
-      "id": "98c188011994",
-      "title": "Private rental affordability, England, Wales and Northern Ireland: 2024",
-      "source": "ONS — Housing & Prices",
-      "source_key": "ons_housing",
-      "url": "https://ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/privaterentalaffordabilityengland/2024",
-      "published": null,
-      "kind": "data",
-      "excerpt": "Private rent prices by country and English region, expressed as a percentage of gross monthly income of private renting households. Part of our additional measures of housing affordability series.",
-      "importance": "Medium",
-      "summary": "Private rent prices by country and English region, expressed as a percentage of gross monthly income of private renting households. Part of our additional measures of housing affordability series.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Private",
-        "Wales and Northern Ireland",
-        "English",
-        "Part"
-      ],
-      "locations": []
-    },
-    {
-      "id": "a936a3b80846",
-      "title": "Subnational estimates of dwellings and households by tenure, England: 2023",
-      "source": "ONS — Housing & Prices",
-      "source_key": "ons_housing",
-      "url": "https://ons.gov.uk/peoplepopulationandcommunity/housing/articles/researchoutputssubnationaldwellingstockbytenureestimatesengland2012to2015/2023",
-      "published": null,
-      "kind": "data",
-      "excerpt": "",
-      "importance": "Medium",
-      "summary": "",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Subnational"
-      ],
+      "companies": [],
       "locations": []
     }
   ],
   "stats": {
-    "stories": 51,
-    "critical": 0,
-    "high": 0,
-    "medium": 51,
-    "low": 0,
-    "sources_live": 6,
+    "stories": 4,
+    "critical": 1,
+    "high": 1,
+    "medium": 1,
+    "low": 1,
+    "sources_live": 0,
     "sources_total": 9,
     "by_source": [
       {
-        "name": "Inside Housing",
-        "count": 15
-      },
-      {
-        "name": "Estate Agent Today",
-        "count": 12
-      },
-      {
-        "name": "Place North West",
-        "count": 10
-      },
-      {
-        "name": "ONS — Housing & Prices",
-        "count": 10
-      },
-      {
-        "name": "Bisnow UK",
-        "count": 3
-      },
-      {
-        "name": "HM Land Registry — UK HPI",
-        "count": 1
+        "name": "Placeholder",
+        "count": 4
       }
     ]
   },
@@ -1334,113 +196,81 @@
     {
       "source": "bisnow_uk",
       "name": "Bisnow UK",
-      "route": "feed",
-      "url": "https://www.bisnow.com/rss",
-      "found": 3,
-      "attempts": [
-        "feed https://www.bisnow.com/london/rss -> 0",
-        "feed https://www.bisnow.com/rss -> 3"
-      ]
+      "route": "not yet run",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": []
     },
     {
       "source": "inside_housing",
       "name": "Inside Housing",
-      "route": "discovered",
-      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
-      "found": 15,
-      "attempts": [
-        "feed https://www.insidehousing.co.uk/rss -> 0",
-        "feed https://www.insidehousing.co.uk/feed -> 0",
-        "feed https://www.insidehousing.co.uk/news/rss -> 0",
-        "discovered https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 15"
-      ]
+      "route": "not yet run",
+      "url": "https://www.insidehousing.co.uk",
+      "found": 0,
+      "attempts": []
     },
     {
       "source": "property_week_resi",
       "name": "Property Week — Residential",
-      "route": "failed",
-      "url": "https://www.propertyweek.com/residential",
+      "route": "not yet run",
+      "url": "https://www.propertyweek.com",
       "found": 0,
-      "attempts": [
-        "feed https://www.propertyweek.com/rss -> 0",
-        "feed https://www.propertyweek.com/residential/rss -> 0",
-        "feed https://www.propertyweek.com/feed -> 0",
-        "scrape https://www.propertyweek.com/residential -> 0"
-      ]
+      "attempts": []
     },
     {
       "source": "place_north_west",
       "name": "Place North West",
-      "route": "feed",
-      "url": "https://www.placenorthwest.co.uk/feed/",
-      "found": 10,
-      "attempts": [
-        "feed https://www.placenorthwest.co.uk/feed/ -> 10"
-      ]
+      "route": "not yet run",
+      "url": "https://www.placenorthwest.co.uk",
+      "found": 0,
+      "attempts": []
     },
     {
       "source": "placetech",
       "name": "PlaceTech",
-      "route": "failed",
-      "url": "https://placetech.net/news/",
+      "route": "not yet run",
+      "url": "https://placetech.net",
       "found": 0,
-      "attempts": [
-        "feed https://placetech.net/feed/ -> 0",
-        "feed https://www.placetech.net/feed/ -> 0",
-        "scrape https://placetech.net/news/ -> 0"
-      ]
+      "attempts": []
     },
     {
       "source": "estate_agent_today",
       "name": "Estate Agent Today",
-      "route": "feed",
-      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
-      "found": 12,
-      "attempts": [
-        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
-      ]
+      "route": "not yet run",
+      "url": "https://www.estateagenttoday.co.uk",
+      "found": 0,
+      "attempts": []
     },
     {
       "source": "landlordzone",
       "name": "LandlordZONE",
-      "route": "failed",
-      "url": "https://www.landlordzone.co.uk/news/",
+      "route": "not yet run",
+      "url": "https://www.landlordzone.co.uk",
       "found": 0,
-      "attempts": [
-        "feed https://www.landlordzone.co.uk/feed/ -> 0",
-        "feed https://landlordzone.co.uk/feed/ -> 0",
-        "feed https://www.landlordzone.co.uk/news/feed/ -> 0",
-        "scrape https://www.landlordzone.co.uk/news/ -> 0"
-      ]
+      "attempts": []
     },
     {
       "source": "hm_land_registry",
       "name": "HM Land Registry — UK HPI",
-      "route": "feed",
-      "url": "https://www.gov.uk/government/organisations/land-registry.atom",
-      "found": 1,
-      "attempts": [
-        "feed https://www.gov.uk/government/organisations/land-registry.atom -> 1"
-      ]
+      "route": "not yet run",
+      "url": "https://www.gov.uk/government/organisations/land-registry",
+      "found": 0,
+      "attempts": []
     },
     {
       "source": "ons_housing",
       "name": "ONS — Housing & Prices",
-      "route": "scrape",
-      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
-      "found": 10,
-      "attempts": [
-        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
-        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
-        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
-      ]
+      "route": "not yet run",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing",
+      "found": 0,
+      "attempts": []
     }
   ],
   "meta": {
     "rated": 0,
-    "unrated": 51,
-    "degraded": true,
-    "degraded_reason": "model did not return valid JSON: Expecting ',' delimiter: line 18 column 6 (char 3968)",
+    "unrated": 0,
+    "degraded": false,
+    "sample": true,
     "model": null
   }
 }

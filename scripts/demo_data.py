@@ -25,7 +25,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 
 from uk_resi import config  # noqa: E402
 
-REPO = "https://github.com/YOUR-USERNAME/uk-resi-intel"
+REPO = "https://github.com/rron-patron/uk-resi-intel"
 now = datetime.now(timezone.utc)
 
 ITEMS = [

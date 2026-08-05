@@ -4,7 +4,7 @@
 (function () {
   'use strict';
 
-  var REPO = 'https://github.com/YOUR-USERNAME/uk-resi-intel';
+  var REPO = 'https://github.com/rron-patron/uk-resi-intel';
   var BANDS = ['Critical', 'High', 'Medium', 'Low'];
 
   var state = { data: null, band: 'all', source: 'all', query: '' };

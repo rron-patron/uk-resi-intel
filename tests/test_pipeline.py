@@ -269,3 +269,144 @@ def test_excerpt_truncates_politely():
     out = config.excerpt(long, 100)
     assert len(out) <= 101
     assert out.endswith("…")
+
+
+# ------------------------------------------ geography guard (Bisnow US noise)
+
+
+def test_in_scope_requires_uk_path_when_configured():
+    bisnow = config.SOURCES_BY_KEY["bisnow_uk"]
+    assert bisnow.require_url_contains, "Bisnow needs a UK URL guard"
+    assert feeds.in_scope(bisnow, "https://www.bisnow.com/london/news/resi/x")
+    assert not feeds.in_scope(bisnow, "https://www.bisnow.com/national/news/y")
+
+
+def test_in_scope_passes_sources_without_a_guard():
+    assert feeds.in_scope(config.SOURCES_BY_KEY["landlordzone"], "https://any.co.uk/x")
+
+
+def test_read_feed_applies_the_geography_guard(monkeypatch):
+    body = (FIXTURES / "sample_feed.xml").read_bytes()
+
+    class FakeResponse:
+        content = body
+        text = body.decode()
+        headers = {"Content-Type": "application/rss+xml"}
+        status_code = 200
+
+    monkeypatch.setattr(feeds.http, "get", lambda url, expect=None: FakeResponse())
+    monkeypatch.setattr(feeds, "is_recent", lambda iso, hours=48: True)
+
+    # The fixture's links are all /news/..., so a /london/ requirement drops all.
+    guarded = config.Source(
+        key="guarded", name="Guarded", homepage="https://example.invalid",
+        residential_only=True, require_url_contains=("/london/",),
+    )
+    assert feeds.read_feed(guarded, "https://example.invalid/feed") == []
+    # And the filter report explains why, rather than silently returning zero.
+    assert feeds.LAST_FILTER_REPORT["https://example.invalid/feed"]["out_of_scope"] > 0
+
+
+def test_scrape_handles_anchor_only_item_selectors(monkeypatch):
+    html = """<html><body>
+      <div class="w-dyn-item"><a href="/news/renters-rights-act-deadline-nears">
+        Renters Rights Act deadline nears for landlords</a></div>
+      <a href="/news/build-to-rent-investment-hits-record-quarter">
+        Build to rent investment hits record quarter</a>
+      <a href="/news/build-to-rent-investment-hits-record-quarter">duplicate</a>
+      <a href="/about">About</a>
+    </body></html>"""
+
+    class FakeResponse:
+        text = html
+        content = html.encode()
+        headers = {"Content-Type": "text/html"}
+        status_code = 200
+
+    monkeypatch.setattr(feeds.http, "get", lambda url, expect=None: FakeResponse())
+    source = config.Source(
+        key="webflowish", name="Webflowish", homepage="https://example.invalid",
+        residential_only=True,
+        scrape=config.ScrapeRule(
+            list_url="https://example.invalid/news",
+            item="div.w-dyn-item, a[href*='/news/']",
+            link="",
+        ),
+    )
+    items = feeds.scrape_listing(source)
+    titles = [i.title for i in items]
+    assert "Renters Rights Act deadline nears for landlords" in titles
+    assert "Build to rent investment hits record quarter" in titles
+    assert len(items) == 2          # duplicate href collapsed
+    assert not any("About" in t for t in titles)   # short nav link dropped
+
+
+def test_placetech_is_gone_and_replaced():
+    assert "placetech" not in config.SOURCES_BY_KEY
+    assert len(config.SOURCES) == 9
+
+
+# ------------------------------------------------- JSON salvage (real failure)
+
+
+@pytest.mark.parametrize(
+    "broken,expected_key,expected_value",
+    [
+        # The exact failure seen in production: an unescaped double quote inside
+        # a string value, which the parser reports as "Expecting ',' delimiter".
+        ('{"summary": "the "grey belt" test bites", "n": 1}', "summary",
+         'the "grey belt" test bites'),
+        # Literal newline inside a string.
+        ('{"summary": "para one\n\npara two", "n": 1}', "summary",
+         "para one\n\npara two"),
+        # Trailing comma.
+        ('{"summary": "x", "n": 1,}', "n", 1),
+        # All at once, wrapped in a fence and prose.
+        ('Here you go:\n```json\n{"summary": "he said "no" then\nleft", "n": 1,}\n```\n',
+         "summary", 'he said "no" then\nleft'),
+    ],
+)
+def test_extract_json_salvages_model_mistakes(broken, expected_key, expected_value):
+    assert analyse.extract_json(broken)[expected_key] == expected_value
+
+
+def test_salvage_leaves_valid_json_untouched():
+    good = '{"a": "already \\"escaped\\" fine", "b": [1, 2], "c": {"d": null}}'
+    assert analyse.extract_json(good) == json.loads(good)
+
+
+def test_salvage_preserves_legitimate_string_ends():
+    payload = '{"a": "one", "b": "two", "c": ["x", "y"]}'
+    assert analyse.extract_json(payload) == {"a": "one", "b": "two", "c": ["x", "y"]}
+
+
+def test_extract_json_still_raises_on_unsalvageable():
+    with pytest.raises((ValueError, json.JSONDecodeError)):
+        analyse.extract_json("there is no json here at all")
+
+
+def test_validate_accepts_summary_as_array():
+    base = {
+        "executive_summary": ["First para.", "Second para.", "  "],
+        "sentiment": {}, "themes": [], "companies": [], "projects": [],
+        "policy": [], "investor_view": {}, "regions": [],
+        "articles": [{"id": "aaa", "importance": "High"}],
+    }
+    out = analyse.validate(base, {"aaa"})
+    assert out["executive_summary"] == "First para.\n\nSecond para."
+
+
+def test_validate_still_accepts_summary_as_string():
+    base = {
+        "executive_summary": "One para.\n\nTwo para.",
+        "sentiment": {}, "themes": [], "companies": [], "projects": [],
+        "policy": [], "investor_view": {}, "regions": [],
+        "articles": [{"id": "aaa", "importance": "High"}],
+    }
+    assert analyse.validate(base, {"aaa"})["executive_summary"] == "One para.\n\nTwo para."
+
+
+def test_prompt_forbids_inner_double_quotes():
+    from uk_resi import prompts
+    assert "single quotes" in prompts.SYSTEM
+    assert "{error}" in prompts.REPAIR

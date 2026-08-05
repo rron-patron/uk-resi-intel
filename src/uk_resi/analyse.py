@@ -17,7 +17,7 @@ from collections import Counter
 from datetime import datetime, timezone
 
 from . import config
-from .prompts import REPAIR, SYSTEM, build_user_prompt
+from .prompts import REPAIR, SYSTEM, TRUNCATED, build_user_prompt
 
 log = logging.getLogger(__name__)
 
@@ -41,6 +41,77 @@ class AnalysisError(RuntimeError):
 # ---------------------------------------------------------------- JSON parsing
 
 
+def salvage_json(text: str) -> str:
+    """Repair the JSON mistakes language models actually make.
+
+    Three of them, in order of how often they bite:
+
+    1. An unescaped double quote inside a string value — the model writes
+       `the "grey belt" test` and the parser closes the string early. This is
+       what produces `Expecting ',' delimiter`.
+    2. A literal newline or tab inside a string, which JSON forbids.
+    3. A trailing comma before a closing brace or bracket.
+
+    The quote repair walks the document tracking string state. A quote is
+    treated as closing only if the next non-space character is one of `:,}]`
+    or the end of input; anything else means it was meant literally, so it
+    gets escaped.
+    """
+    out: list[str] = []
+    in_string = False
+    escaped = False
+    i = 0
+    n = len(text)
+
+    while i < n:
+        ch = text[i]
+
+        if escaped:
+            out.append(ch)
+            escaped = False
+            i += 1
+            continue
+
+        if ch == "\\":
+            out.append(ch)
+            escaped = True
+            i += 1
+            continue
+
+        if not in_string:
+            if ch == '"':
+                in_string = True
+            out.append(ch)
+            i += 1
+            continue
+
+        # Inside a string from here on.
+        if ch == "\n":
+            out.append("\\n")
+        elif ch == "\r":
+            out.append("\\r")
+        elif ch == "\t":
+            out.append("\\t")
+        elif ord(ch) < 0x20:
+            out.append(" ")
+        elif ch == '"':
+            j = i + 1
+            while j < n and text[j] in " \t\r\n":
+                j += 1
+            if j >= n or text[j] in ":,}]":
+                in_string = False
+                out.append(ch)
+            else:
+                out.append('\\"')   # stray inner quote
+        else:
+            out.append(ch)
+        i += 1
+
+    repaired = "".join(out)
+    repaired = re.sub(r",(\s*[}\]])", r"\1", repaired)   # trailing commas
+    return repaired
+
+
 def extract_json(text: str) -> dict:
     """Pull the JSON object out of a model response, fences and all."""
     text = (text or "").strip()
@@ -49,11 +120,22 @@ def extract_json(text: str) -> dict:
         return json.loads(text)
     except json.JSONDecodeError:
         pass
+
     start = text.find("{")
     end = text.rfind("}")
     if start == -1 or end <= start:
         raise ValueError("no JSON object found in response")
-    return json.loads(text[start : end + 1])
+    body = text[start : end + 1]
+
+    try:
+        return json.loads(body)
+    except json.JSONDecodeError as first_error:
+        try:
+            recovered = json.loads(salvage_json(body))
+            log.info("JSON needed salvaging: %s", first_error.msg)
+            return recovered
+        except json.JSONDecodeError:
+            raise first_error
 
 
 def _as_int(value, default: int = 0) -> int:
@@ -70,7 +152,16 @@ def validate(payload: dict, article_ids: set[str]) -> dict:
         raise AnalysisError(f"analysis missing keys: {', '.join(missing)}")
 
     out: dict = {}
-    out["executive_summary"] = str(payload["executive_summary"]).strip()
+    # Accept either a list of paragraphs (what the schema now asks for, because
+    # it removes any need for escaped newlines) or a single string (older
+    # editions and the occasional model that ignores the instruction).
+    summary = payload["executive_summary"]
+    if isinstance(summary, list):
+        out["executive_summary"] = "\n\n".join(
+            str(part).strip() for part in summary if str(part).strip()
+        )
+    else:
+        out["executive_summary"] = str(summary).strip()
 
     sentiment = payload.get("sentiment") or {}
     overall = str(sentiment.get("overall", "neutral")).lower()
@@ -221,7 +312,8 @@ def call_model(articles: list[dict], date_label: str) -> tuple[dict, dict]:
     user_prompt = build_user_prompt(articles, date_label)
     messages = [{"role": "user", "content": user_prompt}]
 
-    for attempt in (1, 2):
+    last_error = ""
+    for attempt in (1, 2, 3):
         try:
             response = client.messages.create(
                 model=config.MODEL,
@@ -246,13 +338,25 @@ def call_model(articles: list[dict], date_label: str) -> tuple[dict, dict]:
         try:
             return extract_json(text), usage
         except (ValueError, json.JSONDecodeError) as exc:
-            log.warning("attempt %d: unparseable JSON (%s)", attempt, exc)
-            if attempt == 2:
-                raise AnalysisError(f"model did not return valid JSON: {exc}") from exc
-            messages = messages + [
-                {"role": "assistant", "content": text[:4000]},
-                {"role": "user", "content": REPAIR},
-            ]
+            last_error = str(exc)
+            log.warning("attempt %d/3: unparseable JSON (%s)", attempt, exc)
+            if attempt == 3:
+                raise AnalysisError(
+                    f"model did not return valid JSON after 3 attempts: {exc}"
+                ) from exc
+            if response.stop_reason == "max_tokens":
+                # Truncated, not malformed. Asking for a repair of a truncated
+                # document is pointless — ask for a shorter one instead.
+                messages = messages + [
+                    {"role": "user", "content": TRUNCATED},
+                ]
+            else:
+                # Pass the response back in full. Truncating it here was a bug:
+                # the model cannot fix a document it can no longer see.
+                messages = messages + [
+                    {"role": "assistant", "content": text},
+                    {"role": "user", "content": REPAIR.format(error=last_error)},
+                ]
     raise AnalysisError("unreachable")
 
 
