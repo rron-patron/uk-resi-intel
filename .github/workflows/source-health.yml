@@ -1,0 +1,65 @@
+name: Source health
+
+# Feed URLs and page markup change without warning. This runs weekly and opens
+# a single issue listing anything that stopped returning items, so a dead source
+# surfaces as a task rather than as a quietly thinner briefing.
+
+on:
+  schedule:
+    - cron: '0 7 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+env:
+  PYTHONPATH: src
+  TZ: Europe/London
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - run: pip install -r requirements.txt
+
+      - name: Probe every source
+        id: probe
+        run: |
+          set -o pipefail
+          python -m uk_resi.cli verify | tee probe.txt
+          {
+            echo '## Source probe'
+            echo '```'
+            cat probe.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+          if grep -q '^No items from: ' probe.txt; then
+            echo "dead=$(grep '^No items from: ' probe.txt | sed 's/^No items from: //')" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Raise or update an issue
+        if: steps.probe.outputs.dead != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          DEAD: ${{ steps.probe.outputs.dead }}
+        run: |
+          TITLE="Source health: no items from $DEAD"
+          EXISTING=$(gh issue list --state open --label source-health --json number,title \
+            --jq ".[] | select(.title == \"$TITLE\") | .number" | head -1)
+          BODY=$(printf 'The weekly probe returned no items from: **%s**\n\nProbe output:\n\n```\n%s\n```\n\nTo fix, edit `SOURCES` in `src/uk_resi/config.py`: add the current feed URL, or update the `ScrapeRule` selectors. Then run `python -m uk_resi.cli verify` locally to confirm.\n' "$DEAD" "$(cat probe.txt)")
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" --body "$BODY"
+          else
+            gh label create source-health --description "Feed or scraper needs attention" --color BFD4F2 2>/dev/null || true
+            gh issue create --title "$TITLE" --body "$BODY" --label source-health
+          fi

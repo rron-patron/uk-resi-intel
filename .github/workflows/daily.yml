@@ -1,0 +1,151 @@
+name: Daily briefing
+
+# GitHub cron is UTC only, so 09:00 London is a moving target. Rather than
+# guessing, we fire three times and let `cli gate` decide:
+#   08:00 UTC -> 09:00 London during British Summer Time
+#   09:00 UTC -> 09:00 London during GMT
+#   10:30 UTC -> safety net, because GitHub sometimes drops or delays a
+#                scheduled run entirely on busy shared runners
+# The gate runs the job only if London local time has passed 09:00 AND today's
+# edition does not already exist. So exactly one edition publishes per weekday
+# in either season, even if the scheduler is late.
+
+on:
+  schedule:
+    - cron: '0 8 * * 1-5'
+    - cron: '0 9 * * 1-5'
+    - cron: '30 10 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Publish even if today already has an edition'
+        type: boolean
+        default: true
+      offline:
+        description: 'Skip the Claude API (collect and publish unanalysed)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write     # commit the day's data back to the repo
+  pages: write        # publish to GitHub Pages
+  id-token: write     # required by actions/deploy-pages
+
+concurrency:
+  group: daily-briefing
+  cancel-in-progress: false
+
+env:
+  PYTHONPATH: src
+  ANTHROPIC_MODEL: claude-sonnet-5
+  TZ: Europe/London
+
+jobs:
+  brief:
+    name: Collect, analyse and build
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    outputs:
+      published: ${{ steps.gate.outputs.run }}
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Decide whether today's edition is due
+        id: gate
+        run: |
+          FORCE=""
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force }}" = "true" ]; then
+            FORCE="--force"
+          fi
+          if python -m uk_resi.cli gate --hour 9 $FORCE; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "Skipping: today's edition is not due." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Collect sources
+        if: steps.gate.outputs.run == 'true'
+        run: python -m uk_resi.cli collect
+
+      - name: Analyse with Claude
+        if: steps.gate.outputs.run == 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          OFFLINE=""
+          if [ "${{ inputs.offline }}" = "true" ]; then OFFLINE="--offline"; fi
+          python -m uk_resi.cli analyse $OFFLINE
+
+      - name: Build dashboard
+        if: steps.gate.outputs.run == 'true'
+        run: python -m uk_resi.cli build
+
+      - name: Write run summary
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json, pathlib
+          d = json.loads(pathlib.Path("docs/data/dashboard.json").read_text())
+          s, m = d["stats"], d.get("meta", {})
+          print(f"## Edition {d['date_label']} {d['time_label']}\n")
+          if m.get("degraded"):
+              print(f"> **Degraded** — {m.get('degraded_reason')}\n")
+          print(f"- Stories: **{s['stories']}** "
+                f"(critical {s['critical']}, high {s['high']}, "
+                f"medium {s['medium']}, low {s['low']})")
+          print(f"- Sources live: **{s['sources_live']}/{s['sources_total']}**")
+          print(f"- Model: `{m.get('model')}`  "
+                f"tokens in/out: {m.get('input_tokens')}/{m.get('output_tokens')}\n")
+          print("| Source | Route | Items |\n|---|---|---|")
+          for h in d.get("source_health", []):
+              print(f"| {h['name']} | {h['route']} | {h['found']} |")
+          PY
+
+      - name: Commit the day's data
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data docs/data
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "Briefing: $(date +'%Y-%m-%d')"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+      - name: Upload the site
+        if: steps.gate.outputs.run == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: brief
+    if: needs.brief.outputs.published == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

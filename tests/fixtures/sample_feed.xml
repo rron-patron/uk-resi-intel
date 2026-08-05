@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Example Landlord News</title>
+    <link>https://example.invalid</link>
+    <description>Fixture feed for tests. Not a real publication.</description>
+    <language>en-GB</language>
+    <item>
+      <title>Renters' Rights Act: what landlords must do before October</title>
+      <link>https://example.invalid/news/renters-rights-october/?utm_source=rss</link>
+      <pubDate>Mon, 03 Aug 2026 08:15:00 +0000</pubDate>
+      <description><![CDATA[<p>Guidance for landlords on periodic tenancies, notice periods and the new ombudsman before the commencement date.</p>]]></description>
+    </item>
+    <item>
+      <title>Build-to-rent starts hit a three-year high in the North West</title>
+      <link>https://example.invalid/news/btr-north-west-starts/</link>
+      <pubDate>Mon, 03 Aug 2026 06:40:00 +0000</pubDate>
+      <description><![CDATA[<p>Analysis of quarterly starts data shows Manchester and Salford accounting for most of the increase, with two schemes forward funded.</p>]]></description>
+    </item>
+    <item>
+      <title>Short</title>
+      <link>https://example.invalid/news/short/</link>
+      <pubDate>Sun, 02 Aug 2026 12:00:00 +0000</pubDate>
+      <description>An item with a very short title, kept to check nothing crashes.</description>
+    </item>
+    <item>
+      <title>Item with no link should be skipped</title>
+      <pubDate>Sun, 02 Aug 2026 11:00:00 +0000</pubDate>
+      <description>No link element here.</description>
+    </item>
+    <item>
+      <title>Mortgage approvals soften as lenders reprice fixed rates</title>
+      <link>https://example.invalid/news/mortgage-approvals-soften/</link>
+      <pubDate>Sat, 01 Aug 2026 09:00:00 +0000</pubDate>
+      <description><![CDATA[<p>Brokers report a slower pipeline. A long excerpt follows to check truncation behaviour. ]]>Lenders have repriced two- and five-year fixed products following the latest gilt moves, and several brokers say applications have slowed through the second half of the month. Landlord borrowers are said to be the most exposed, with portfolio stress tests tightening across the specialist market and several lenders pulling limited-edition products at short notice. Advisers expect a further round of repricing before the next Monetary Policy Committee meeting, though nobody is prepared to call the direction with confidence given the mixed signals in the most recent inflation print and the unusually wide spread of forecasts now circulating among the major lenders.</description>
+    </item>
+  </channel>
+</rss>

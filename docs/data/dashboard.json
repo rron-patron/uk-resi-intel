@@ -1,0 +1,276 @@
+{
+  "schema": 1,
+  "generated_at_utc": "2026-08-04T16:38:55+00:00",
+  "generated_at_london": "2026-08-04T17:38+01:00",
+  "date_label": "Sample edition",
+  "time_label": "not yet published",
+  "executive_summary": "This is a placeholder. No sources have been collected and no analysis has run yet, so nothing on this page is real market information.\n\nOnce you add an ANTHROPIC_API_KEY secret and the daily workflow completes, this panel carries the morning note: three to five paragraphs on what actually moved in UK residential, written from the headlines and data releases collected at 09:00 London time.\n\nTo publish immediately rather than waiting for tomorrow, open the Actions tab, choose \"Daily briefing\", and click Run workflow.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No reading until the first edition runs.",
+    "positive_signals": [],
+    "neutral_signals": [
+      "Awaiting first collection"
+    ],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Build-to-rent",
+      "count": 0,
+      "direction": "steady",
+      "summary": "Counts and commentary appear after the first run.",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 0,
+      "direction": "steady",
+      "summary": "Counts and commentary appear after the first run.",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 0,
+      "direction": "steady",
+      "summary": "Counts and commentary appear after the first run.",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 0,
+      "direction": "steady",
+      "summary": "Counts and commentary appear after the first run.",
+      "article_ids": []
+    }
+  ],
+  "companies": [],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "stories": [
+    {
+      "id": "seed0",
+      "title": "Rate decisions, planning reform and national house price data land here",
+      "source": "Placeholder",
+      "source_key": "seed",
+      "url": "https://github.com/YOUR-USERNAME/uk-resi-intel#readme",
+      "published": "2026-08-04T17:38:55+01:00",
+      "kind": "news",
+      "excerpt": "",
+      "importance": "Critical",
+      "summary": "Reserved for developments that move the whole sector: Monetary Policy Committee decisions, primary legislation, national statistics that surprise against expectations.",
+      "why_it_matters": "Most days carry no Critical item. When one appears, it is the reason to read the briefing before your inbox.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    {
+      "id": "seed1",
+      "title": "Portfolio transactions and sub-sector policy appear at this level",
+      "source": "Placeholder",
+      "source_key": "seed",
+      "url": "https://github.com/YOUR-USERNAME/uk-resi-intel#readme",
+      "published": "2026-08-04T17:38:55+01:00",
+      "kind": "news",
+      "excerpt": "",
+      "importance": "High",
+      "summary": "Large deals, forward funding of 500 homes or more, regulator action against a significant registered provider, substantial consultations.",
+      "why_it_matters": "This is the band that usually sets the working agenda for the day.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    {
+      "id": "seed2",
+      "title": "Single schemes, regional deals and incremental data",
+      "source": "Placeholder",
+      "source_key": "seed",
+      "url": "https://github.com/YOUR-USERNAME/uk-resi-intel#readme",
+      "published": "2026-08-04T17:38:55+01:00",
+      "kind": "news",
+      "excerpt": "",
+      "importance": "Medium",
+      "summary": "Individual planning consents, mid-market appointments with strategic signal, monthly index updates that land in line with expectations.",
+      "why_it_matters": "Useful context rather than a call to act.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    {
+      "id": "seed3",
+      "title": "Appointments, awards and comment with no new information",
+      "source": "Placeholder",
+      "source_key": "seed",
+      "url": "https://github.com/YOUR-USERNAME/uk-resi-intel#readme",
+      "published": "2026-08-04T17:38:55+01:00",
+      "kind": "news",
+      "excerpt": "",
+      "importance": "Low",
+      "summary": "Kept in the record so the day's coverage is complete, and filtered out with the chips above when you want signal only.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    }
+  ],
+  "stats": {
+    "stories": 4,
+    "critical": 1,
+    "high": 1,
+    "medium": 1,
+    "low": 1,
+    "sources_live": 0,
+    "sources_total": 9,
+    "by_source": [
+      {
+        "name": "Placeholder",
+        "count": 4
+      }
+    ]
+  },
+  "sources": [
+    {
+      "key": "bisnow_uk",
+      "name": "Bisnow UK",
+      "homepage": "https://www.bisnow.com/london",
+      "kind": "news"
+    },
+    {
+      "key": "inside_housing",
+      "name": "Inside Housing",
+      "homepage": "https://www.insidehousing.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "property_week_resi",
+      "name": "Property Week — Residential",
+      "homepage": "https://www.propertyweek.com",
+      "kind": "news"
+    },
+    {
+      "key": "place_north_west",
+      "name": "Place North West",
+      "homepage": "https://www.placenorthwest.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "placetech",
+      "name": "PlaceTech",
+      "homepage": "https://placetech.net",
+      "kind": "news"
+    },
+    {
+      "key": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "homepage": "https://www.estateagenttoday.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "landlordzone",
+      "name": "LandlordZONE",
+      "homepage": "https://www.landlordzone.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "homepage": "https://www.gov.uk/government/organisations/land-registry",
+      "kind": "data"
+    },
+    {
+      "key": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "homepage": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing",
+      "kind": "data"
+    }
+  ],
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "not yet run",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": []
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "not yet run",
+      "url": "https://www.insidehousing.co.uk",
+      "found": 0,
+      "attempts": []
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "not yet run",
+      "url": "https://www.propertyweek.com",
+      "found": 0,
+      "attempts": []
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "not yet run",
+      "url": "https://www.placenorthwest.co.uk",
+      "found": 0,
+      "attempts": []
+    },
+    {
+      "source": "placetech",
+      "name": "PlaceTech",
+      "route": "not yet run",
+      "url": "https://placetech.net",
+      "found": 0,
+      "attempts": []
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "not yet run",
+      "url": "https://www.estateagenttoday.co.uk",
+      "found": 0,
+      "attempts": []
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "not yet run",
+      "url": "https://www.landlordzone.co.uk",
+      "found": 0,
+      "attempts": []
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "not yet run",
+      "url": "https://www.gov.uk/government/organisations/land-registry",
+      "found": 0,
+      "attempts": []
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "not yet run",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing",
+      "found": 0,
+      "attempts": []
+    }
+  ],
+  "meta": {
+    "rated": 0,
+    "unrated": 0,
+    "degraded": false,
+    "sample": true,
+    "model": null
+  }
+}

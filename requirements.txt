@@ -1,0 +1,7 @@
+# Pinned to majors that are known-good together. Bump deliberately.
+anthropic>=0.69,<1.0
+feedparser>=6.0.11,<7.0
+requests>=2.31,<3.0
+beautifulsoup4>=4.12,<5.0
+lxml>=5.1,<7.0
+python-dateutil>=2.9,<3.0

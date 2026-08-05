@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UK Residential Property Intelligence</title>
+<meta name="description" content="A daily AI-analysed briefing on the UK residential property market, built from trade press and official statistics. Updated every weekday at 09:00 London time.">
+<meta name="color-scheme" content="light">
+<meta property="og:title" content="UK Residential Property Intelligence">
+<meta property="og:description" content="Daily AI-analysed briefing on UK residential property.">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23101E2B'/%3E%3Cpath d='M6 20 16 11l10 9v6H6z' fill='none' stroke='%23FFD500' stroke-width='2'/%3E%3C/svg%3E">
+</head>
+<body>
+<a class="skiplink" href="#stories">Skip to top stories</a>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="masthead-title">
+      <span class="masthead-eyebrow">Daily briefing</span>
+      <h1>UK Residential Property <em>Intelligence</em></h1>
+    </div>
+    <dl class="edition" id="edition">
+      <div><dt>Edition</dt><dd id="edition-date">—</dd></div>
+      <div><dt>Published</dt><dd id="edition-time">—</dd></div>
+      <div><dt>Items</dt><dd id="edition-count">—</dd></div>
+      <div><dt>Sources live</dt><dd id="edition-sources">—</dd></div>
+    </dl>
+  </div>
+  <div class="tickerwrap" aria-label="Theme activity">
+    <div class="ticker" id="ticker"></div>
+  </div>
+</header>
+
+<div class="notice" id="notice" hidden></div>
+
+<main class="shell">
+
+  <section class="brief" aria-labelledby="brief-h">
+    <article class="note">
+      <p class="eyebrow" id="brief-h">Morning note</p>
+      <div class="note-body" id="summary">
+        <p class="skeleton-line"></p><p class="skeleton-line"></p><p class="skeleton-line short"></p>
+      </div>
+      <p class="note-sign" id="note-sign"></p>
+    </article>
+
+    <aside class="reading" aria-labelledby="reading-h">
+      <p class="eyebrow" id="reading-h">Market reading</p>
+      <p class="reading-verdict" id="sentiment-verdict">—</p>
+      <div class="gauge" role="img" id="gauge-figure" aria-label="Sentiment score">
+        <div class="gauge-track"><span class="gauge-mid"></span><span class="gauge-pin" id="gauge-pin"></span></div>
+        <div class="gauge-scale"><span>−100 bearish</span><span>0</span><span>bullish +100</span></div>
+      </div>
+      <p class="reading-note" id="sentiment-rationale"></p>
+      <div class="signals" id="signals"></div>
+      <ul class="tally" id="tally"></ul>
+    </aside>
+  </section>
+
+  <section class="block" id="stories" aria-labelledby="stories-h">
+    <div class="block-head">
+      <h2 class="eyebrow" id="stories-h">Top stories</h2>
+      <p class="block-sub">Ranked by consequence for a residential investor. Headlines link to the publisher.</p>
+    </div>
+
+    <div class="scale" aria-hidden="true">
+      <span class="scale-band band-critical">Critical</span>
+      <span class="scale-band band-high">High</span>
+      <span class="scale-band band-medium">Medium</span>
+      <span class="scale-band band-low">Low</span>
+    </div>
+
+    <div class="controls">
+      <div class="chips" role="group" aria-label="Filter by importance">
+        <button class="chip is-on" data-band="all" type="button">All</button>
+        <button class="chip" data-band="Critical" type="button">Critical</button>
+        <button class="chip" data-band="High" type="button">High</button>
+        <button class="chip" data-band="Medium" type="button">Medium</button>
+        <button class="chip" data-band="Low" type="button">Low</button>
+      </div>
+      <div class="controls-right">
+        <label class="field">
+          <span>Source</span>
+          <select id="source-filter"><option value="all">All sources</option></select>
+        </label>
+        <label class="field">
+          <span>Search</span>
+          <input id="search" type="search" placeholder="scheme, company, place" autocomplete="off">
+        </label>
+      </div>
+    </div>
+
+    <p class="result-count" id="result-count" role="status"></p>
+    <ol class="storylist" id="storylist"></ol>
+    <p class="empty" id="stories-empty" hidden>Nothing matches those filters.</p>
+  </section>
+
+  <div class="pair">
+    <section class="block" aria-labelledby="themes-h">
+      <div class="block-head"><h2 class="eyebrow" id="themes-h">Market themes</h2></div>
+      <ul class="themes" id="themes"></ul>
+    </section>
+
+    <section class="block" aria-labelledby="companies-h">
+      <div class="block-head"><h2 class="eyebrow" id="companies-h">Companies tracker</h2></div>
+      <table class="ledger">
+        <thead><tr><th scope="col">Name</th><th scope="col">Type</th><th scope="col" class="num">Refs</th></tr></thead>
+        <tbody id="companies"></tbody>
+      </table>
+      <p class="empty" id="companies-empty" hidden>No companies identified in this edition.</p>
+    </section>
+  </div>
+
+  <div class="pair">
+    <section class="block" aria-labelledby="regions-h">
+      <div class="block-head"><h2 class="eyebrow" id="regions-h">Regional activity</h2></div>
+      <ul class="regions" id="regions"></ul>
+      <p class="empty" id="regions-empty" hidden>No locations identified in this edition.</p>
+    </section>
+
+    <section class="block" aria-labelledby="projects-h">
+      <div class="block-head"><h2 class="eyebrow" id="projects-h">Schemes in the news</h2></div>
+      <ul class="projects" id="projects"></ul>
+      <p class="empty" id="projects-empty" hidden>No named schemes in this edition.</p>
+    </section>
+  </div>
+
+  <section class="block board" aria-labelledby="policy-h">
+    <div class="block-head">
+      <h2 class="eyebrow" id="policy-h">Policy monitor</h2>
+      <p class="block-sub">Government, planning, regulation and tax.</p>
+    </div>
+    <ul class="policy" id="policy"></ul>
+    <p class="empty" id="policy-empty" hidden>No policy movement in this edition.</p>
+  </section>
+
+  <section class="block" aria-labelledby="investor-h">
+    <div class="block-head"><h2 class="eyebrow" id="investor-h">Investor view</h2></div>
+    <div class="quad" id="investor"></div>
+  </section>
+
+  <section class="block" aria-labelledby="archive-h">
+    <div class="block-head"><h2 class="eyebrow" id="archive-h">Back editions</h2></div>
+    <ul class="archive" id="archive"></ul>
+    <p class="empty" id="archive-empty" hidden>This is the first edition.</p>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="foot-inner">
+    <div>
+      <p class="eyebrow">Sources monitored</p>
+      <ul class="sourcelist" id="sourcelist"></ul>
+    </div>
+    <div>
+      <p class="eyebrow">Collection status</p>
+      <ul class="health" id="health"></ul>
+    </div>
+    <div class="foot-note">
+      <p class="eyebrow">About</p>
+      <p>Headlines and links belong to the publishers listed. This page stores a short excerpt for context only and always links out to the original. Summaries, ratings and commentary are generated by a language model and may contain errors — verify anything you act on.</p>
+      <p>Not investment advice. Built with Python, GitHub Actions and the Claude API. <a id="repo-link" href="#">Source code</a>.</p>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
