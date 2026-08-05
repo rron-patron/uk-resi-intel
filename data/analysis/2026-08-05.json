@@ -1,0 +1,889 @@
+{
+  "generated_at": "2026-08-05T10:31:02+00:00",
+  "date_label": "Wednesday 05 August 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: model did not return valid JSON: Expecting ',' delimiter: line 18 column 6 (char 3968)\n\n51 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 7,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 7,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 6,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 10,
+      "context": ""
+    },
+    {
+      "name": "Private",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "SAHP",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Green Belt",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Agency",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "There's",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Short-term",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Number",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "England and Wales",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "English",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "The World's Largest Data",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Center Hub Pursues",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Development Pause. Is It",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Even Legal",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Loudoun County",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Virginia",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Pablo Castro's Lawyers Quit",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "HueHub Suit",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Citing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "10e68c1507c6": {
+      "id": "10e68c1507c6",
+      "importance": "Medium",
+      "summary": "Loudoun County debates a pause on new facility applications, even though moratoriums are illegal in Virginia.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The World's Largest Data",
+        "Center Hub Pursues",
+        "Development Pause. Is It",
+        "Even Legal"
+      ],
+      "locations": []
+    },
+    "70a4faa7b1d5": {
+      "id": "70a4faa7b1d5",
+      "importance": "Medium",
+      "summary": "Pablo Castro's legal battles intensify over Miami's largest planned Live Local Act project.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Pablo Castro's Lawyers Quit",
+        "HueHub Suit",
+        "Citing",
+        "Irreconcilable Differences'. Pablo Castro's"
+      ],
+      "locations": []
+    },
+    "0430b47abc66": {
+      "id": "0430b47abc66",
+      "importance": "Medium",
+      "summary": "Metropolis is considering converting NBC Tower's offices into apartments, with partner support and other commercial real estate deals in the Chicago area.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "NBC Tower Owner Mulls",
+        "Conversion",
+        "The Chicago Deal Sheet",
+        "Metropolis"
+      ],
+      "locations": []
+    },
+    "30f8d9bf38ed": {
+      "id": "30f8d9bf38ed",
+      "importance": "Medium",
+      "summary": "Orbit’s turnover and surplus were slightly up in the last financial year, while increased repair volumes contributed to a “challenging operating environment”",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Orbit",
+        "Orbit’s"
+      ],
+      "locations": []
+    },
+    "e60f0327d801": {
+      "id": "e60f0327d801",
+      "importance": "Medium",
+      "summary": "A Cheshire-based procurement company has taken a majority stake in industry data firm Housemark",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "NHF and CIH",
+        "Housemark",
+        "Cheshire-based"
+      ],
+      "locations": []
+    },
+    "9f47c4fe70a4": {
+      "id": "9f47c4fe70a4",
+      "importance": "Medium",
+      "summary": "Midland Heart has seen its annual completions more than halve, while spending a record amount on improving its existing stock",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Large Midlands",
+        "Midland Heart"
+      ],
+      "locations": []
+    },
+    "d8d3c1f3eef0": {
+      "id": "d8d3c1f3eef0",
+      "importance": "Medium",
+      "summary": "Taking partnership to the next level could be a solution to the housebuilding crisis, writes Stephen Teagle, chief executive of partnerships and regeneration at Vistry Group",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders",
+        "Regional development"
+      ],
+      "companies": [
+        "Councils",
+        "Taking",
+        "Stephen Teagle",
+        "Vistry Group"
+      ],
+      "locations": []
+    },
+    "ab7e45d4d0de": {
+      "id": "ab7e45d4d0de",
+      "importance": "Medium",
+      "summary": "BPHA’s pre-tax surplus has risen by 8% to £21.7m after its earnings from its development and sales business almost doubled, helping to offset a rise in operating costs",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "BPHA’s"
+      ],
+      "locations": []
+    },
+    "42dd8433ad19": {
+      "id": "42dd8433ad19",
+      "importance": "Medium",
+      "summary": "Homes England is looking to recruit six investment directors and a finance director for its subsidiary, the National Housing Bank",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "National Housing Bank",
+        "Homes England"
+      ],
+      "locations": []
+    },
+    "b781fe39f737": {
+      "id": "b781fe39f737",
+      "importance": "Medium",
+      "summary": "Hyde Group has received Gateway 2 approval for a 100% affordable housing scheme in Greenwich",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Hyde",
+        "Gateway",
+        "London. Hyde Group",
+        "Greenwich"
+      ],
+      "locations": []
+    },
+    "1b68b005bf86": {
+      "id": "1b68b005bf86",
+      "importance": "Medium",
+      "summary": "Could the new prime minister finally make it so homes are designed to be accessible, inclusive and support everyone to thrive, asks Habinteg CEO Martin Warhurst",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Fixing",
+        "Could",
+        "Habinteg CEO Martin Warhurst"
+      ],
+      "locations": []
+    },
+    "829122939170": {
+      "id": "829122939170",
+      "importance": "Medium",
+      "summary": "Onward’s chief executive Sandy Livingstone sits down with Ellie Brown to discuss swapping Scotland for the North West, SAHP bids and his expectations for Andy Burnham",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Onward’s",
+        "Andy Burnham",
+        "North West. Onward’s",
+        "Sandy Livingstone"
+      ],
+      "locations": []
+    },
+    "1c55daf9f499": {
+      "id": "1c55daf9f499",
+      "importance": "Medium",
+      "summary": "A new inquiry by a group of MPs is examining the problems preventing councils from building social rent homes at scale, and has asked the sector for practical solutions. Eliza Parr rounds up the key points",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Burnham",
+        "Here’s",
+        "Eliza Parr"
+      ],
+      "locations": []
+    },
+    "c614d72dd28b": {
+      "id": "c614d72dd28b",
+      "importance": "Medium",
+      "summary": "Clarion Housing Group has secured planning permission for 249 new social homes in London",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Clarion",
+        "Clarion Housing Group",
+        "London"
+      ],
+      "locations": []
+    },
+    "2f44f164c794": {
+      "id": "2f44f164c794",
+      "importance": "Medium",
+      "summary": "Landlords in the North of England have urged the government to invest in regeneration projects outside of train station catchment areas so as not to leave other places behind",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Landlords",
+        "North of England"
+      ],
+      "locations": []
+    },
+    "d1393caceefc": {
+      "id": "d1393caceefc",
+      "importance": "Medium",
+      "summary": "Sovereign Network Group has revealed how it is “going against wider sector trends” by upping delivery in London, and set out its plans to achieve a C1 grade",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "London",
+        "Sovereign Network Group"
+      ],
+      "locations": []
+    },
+    "c6db03f7ccbb": {
+      "id": "c6db03f7ccbb",
+      "importance": "Medium",
+      "summary": "Southern Housing made a pre-tax loss of £7.7m in the last financial year, as its annual report revealed it is targeting at least £10m in further efficiencies this year.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Southern Housing"
+      ],
+      "locations": []
+    },
+    "1ba1b8260a27": {
+      "id": "1ba1b8260a27",
+      "importance": "Medium",
+      "summary": "One of the sector’s biggest builders says it will complete fewer homes over the next few years because it has had to change its bid for government grant funding",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Platform",
+        "SAHP"
+      ],
+      "locations": []
+    },
+    "b5f64cbea593": {
+      "id": "b5f64cbea593",
+      "importance": "Medium",
+      "summary": "The former Beever & Struthers office on Chester Road is to be knocked down to pave the way for the site to be redeveloped into 162 homes under plans being readied by the developer. The post Glenbrook works up more Manche",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Glenbrook",
+        "Manchester",
+        "Beever",
+        "Struthers"
+      ],
+      "locations": []
+    },
+    "e8a0ff922c1f": {
+      "id": "e8a0ff922c1f",
+      "importance": "Medium",
+      "summary": "Further actions to reduce the risk of flooding on the link road to Manchester Airport, a headache since the dual carriageway’s 2018 completion, have been presented to local councillors. The post Stockport looks to tackle",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Stockport",
+        "Further",
+        "Manchester Airport",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "63392e15c1ef": {
+      "id": "63392e15c1ef",
+      "importance": "Medium",
+      "summary": "Main contractor Rhodar has commenced strip-out of the former shopping centre, a £5m job that will line the site up for a £250m redevelopment led by Bolton Council and MEPC. The post Demolition of Crompton Place begins ap",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Demolition of Crompton Place",
+        "Main",
+        "Rhodar",
+        "Bolton Council and MEPC. The"
+      ],
+      "locations": []
+    },
+    "3d2c7f4ad87f": {
+      "id": "3d2c7f4ad87f",
+      "importance": "Medium",
+      "summary": "Now removed from the Green Belt and allocated for housing, the site had been an off-road motorcycle centre prior to the pandemic. The post Halton tipped to approve 94 homes appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Halton",
+        "Green Belt",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "ebe321555ff0": {
+      "id": "ebe321555ff0",
+      "importance": "Medium",
+      "summary": "Demolition of existing structures on the two-acre Parliament Street site is expected to begin in Q2 2027, while a planning application for a trio of residential towers rising to 27 storeys is expected this autumn. The po",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Davos",
+        "Brickland",
+        "Norton",
+        "Demolition"
+      ],
+      "locations": []
+    },
+    "6a5c2b0eadf7": {
+      "id": "6a5c2b0eadf7",
+      "importance": "Medium",
+      "summary": "The property group has mapped out a 452-home second phase of its Sandbach South masterplan, the fourth large-scale housing scheme the firm has proposed in Cheshire this year. The post Muller ramps up Sandbach ambitions a",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Muller",
+        "Sandbach",
+        "Sandbach South",
+        "Cheshire"
+      ],
+      "locations": []
+    },
+    "e209b5e673a2": {
+      "id": "e209b5e673a2",
+      "importance": "Medium",
+      "summary": "Thirty-four acres of Green Belt off Prescot Road in Aughton are the subject of plans for a residential development featuring 150 affordable properties. The post Persimmon lodges 300-home West Lancs proposal appeared firs",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders",
+        "Planning policy",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Persimmon",
+        "West Lancs",
+        "Thirty-four",
+        "Green Belt"
+      ],
+      "locations": []
+    },
+    "b388bdf25acc": {
+      "id": "b388bdf25acc",
+      "importance": "Medium",
+      "summary": "Replacing the town centre facility destroyed by fire last summer, the 100,000 sq ft project will also include flexible commercial space, in the first major plans to be submitted as the Rochdale town’s Mayoral Development",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Storage World Middleton",
+        "Replacing",
+        "Rochdale",
+        "Mayoral Development Corporation"
+      ],
+      "locations": []
+    },
+    "43d3180928d0": {
+      "id": "43d3180928d0",
+      "importance": "Medium",
+      "summary": "Having been shelved due to rising costs in 2022, plans to build a sports and wellbeing facility off Churchill Way in Salford to replace the arson-attacked Clarendon Leisure Centre are progressing towards a start on site ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Replacement Pendleton",
+        "Having",
+        "Churchill Way",
+        "Salford"
+      ],
+      "locations": []
+    },
+    "148feff6d30a": {
+      "id": "148feff6d30a",
+      "importance": "Medium",
+      "summary": "Armed with the Welsh Government’s go-ahead, the housebuilder can move forward with its fully affordable neighbourhood at Quarry Farm – either the 121-residence version that won at appeal or the 109-home version that won ",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders",
+        "Planning policy",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Castle Green",
+        "Flintshire",
+        "Armed",
+        "Welsh Government’s"
+      ],
+      "locations": []
+    },
+    "161cebe1136f": {
+      "id": "161cebe1136f",
+      "importance": "Medium",
+      "summary": "The analysis is by a quick-buy firm",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "More"
+      ],
+      "locations": []
+    },
+    "92502ea26579": {
+      "id": "92502ea26579",
+      "importance": "Medium",
+      "summary": "They operate from one office and several 'pods'",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency",
+        "Savills",
+        "They"
+      ],
+      "locations": []
+    },
+    "41787936c884": {
+      "id": "41787936c884",
+      "importance": "Medium",
+      "summary": "A firm of chartered surveyors is launching an estate agency – and it’s looking for “personable and enthusiastic” recruits. The Jonathan Wallis firm says it’s launching the agency next month “bringing together decades of ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Jonathan Wallis",
+        "Teesdale. The"
+      ],
+      "locations": []
+    },
+    "cb7d4129acc4": {
+      "id": "cb7d4129acc4",
+      "importance": "Medium",
+      "summary": "The government is already calling for house buying reforms",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency",
+        "Scottish",
+        "Britain. The"
+      ],
+      "locations": []
+    },
+    "0e68cfdb00e9": {
+      "id": "0e68cfdb00e9",
+      "importance": "Medium",
+      "summary": "On one particular day there will be an estimated 22,904 households moving",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Britain’s"
+      ],
+      "locations": []
+    },
+    "751fe7b54a7e": {
+      "id": "751fe7b54a7e",
+      "importance": "Medium",
+      "summary": "The results come in the latest Voice Of The Agent report.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents",
+        "Voice Of The Agent"
+      ],
+      "locations": []
+    },
+    "f2bb72599ff1": {
+      "id": "f2bb72599ff1",
+      "importance": "Medium",
+      "summary": "There's been a 55% rise in complaints received in first half of 2025",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Complaints",
+        "There's"
+      ],
+      "locations": []
+    },
+    "c4bcdf7c6a58": {
+      "id": "c4bcdf7c6a58",
+      "importance": "Medium",
+      "summary": "The service allows anonymous queries, so avoiding follow-up cold calls",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Sellers"
+      ],
+      "locations": []
+    },
+    "e222e4462826": {
+      "id": "e222e4462826",
+      "importance": "Medium",
+      "summary": "The group has 36 branches and is part of LRG",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "157f346512a1": {
+      "id": "157f346512a1",
+      "importance": "Medium",
+      "summary": "This is according to a franchise agency chain",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Fall-throughs"
+      ],
+      "locations": []
+    },
+    "4da43c8dff09": {
+      "id": "4da43c8dff09",
+      "importance": "Medium",
+      "summary": "There's been a survey of people who have moved in the past 12 months",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Industry",
+        "There's"
+      ],
+      "locations": []
+    },
+    "0dab7f8c42d2": {
+      "id": "0dab7f8c42d2",
+      "importance": "Medium",
+      "summary": "Figures have been produced by the Home Builders Federation",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Help To Buy",
+        "Figures",
+        "Home Builders Federation"
+      ],
+      "locations": []
+    },
+    "5573b35fed45": {
+      "id": "5573b35fed45",
+      "importance": "Medium",
+      "summary": "We are working with local authorities to create a national local land charges service that will speed up searches and reduce their cost.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Guidance",
+        "HM Land Registry",
+        "Local Land Charges Programme"
+      ],
+      "locations": []
+    },
+    "4f6394df668e": {
+      "id": "4f6394df668e",
+      "importance": "Medium",
+      "summary": "Number of guest nights, nights, and stays for short-term lets offered via online collaborative economy platforms from July 2023 to December 2025.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Short-term",
+        "Number"
+      ],
+      "locations": []
+    },
+    "606195e9b3cc": {
+      "id": "606195e9b3cc",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "2d9e555f83ea": {
+      "id": "2d9e555f83ea",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Indicators"
+      ],
+      "locations": []
+    },
+    "d04dbed0d233": {
+      "id": "d04dbed0d233",
+      "importance": "Medium",
+      "summary": "Number of guest nights, nights, and stays for short-term lets offered via online collaborative economy platforms from July 2024 to June 2025.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Short-term",
+        "Number"
+      ],
+      "locations": []
+    },
+    "433423424fd0": {
+      "id": "433423424fd0",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Private"
+      ],
+      "locations": []
+    },
+    "4291d96a1b54": {
+      "id": "4291d96a1b54",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Energy",
+        "England and Wales"
+      ],
+      "locations": []
+    },
+    "d610e5bca60f": {
+      "id": "d610e5bca60f",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Private"
+      ],
+      "locations": []
+    },
+    "c0d5d3942568": {
+      "id": "c0d5d3942568",
+      "importance": "Medium",
+      "summary": "Ratios of house prices to annual disposable household incomes, for countries of the UK, English regions, and local authorities in England and Wales.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Housing Purchase Affordability",
+        "Ratios",
+        "English",
+        "England and Wales"
+      ],
+      "locations": []
+    },
+    "98c188011994": {
+      "id": "98c188011994",
+      "importance": "Medium",
+      "summary": "Private rent prices by country and English region, expressed as a percentage of gross monthly income of private renting households. Part of our additional measures of housing affordability series.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Private",
+        "Wales and Northern Ireland",
+        "English",
+        "Part"
+      ],
+      "locations": []
+    },
+    "a936a3b80846": {
+      "id": "a936a3b80846",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Subnational"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 51,
+    "degraded": true,
+    "degraded_reason": "model did not return valid JSON: Expecting ',' delimiter: line 18 column 6 (char 3968)",
+    "model": null
+  }
+}
