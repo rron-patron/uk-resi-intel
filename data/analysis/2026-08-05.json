@@ -1,889 +1,768 @@
 {
-  "generated_at": "2026-08-05T10:31:02+00:00",
-  "date_label": "Wednesday 05 August 2026",
-  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: model did not return valid JSON: Expecting ',' delimiter: line 18 column 6 (char 3968)\n\n51 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "executive_summary": "The most consequential signal this morning is on the build-to-rent pipeline: separate reporting on BTR starts points to one of the sharpest quarterly falls on record, with new sites breaking ground drying up even as existing stock continues to add to overall housing supply. For an asset class that has relied on steady forward-funding commitments, a stalling pipeline is a leading indicator that viability and financing conditions are biting harder than completions data alone would suggest.\n\nThe private rented sector is absorbing the operational fallout from the Section 21 abolition deadline. Landlord Action's figures show a 28% jump in possession claims in July as landlords rushed to file ahead of the cut-off, and commentary today focuses on whether the revised Section 8 grounds and the courts can process the resulting volume without extending void periods. Ministers have also set out the enforcement data councils will be required to submit from next year, prompting landlord groups to warn against a 'league table' framing that could sharpen reputational risk for larger operators.\n\nOn tax, Property118 has won its DOTAS appeal against HMRC at tribunal, though commentary is careful to note the ruling does not validate incorporation planning for all landlords, leaving scope for continued case-by-case dispute.\n\nAt scheme level, Cheshire West and Chester councillors rejected outline consent for 70 homes proposed by land promoter Wain Estates off London Road, Davenham, against officer recommendation, instead approving a 136-acre solar farm on the same land. It is a reminder that local political risk to housing allocations persists even where planning officers support delivery.\n\nAmong today's official statistics releases, DLUHC's statutory homelessness figures for England (October to December 2025) and the Skills England 2026 annual skills report both touch the sector's supply-side constraints, though neither the homelessness release nor the accompanying building materials statistics carried headline figures in the material supplied this morning.",
   "sentiment": {
-    "overall": "neutral",
-    "score": 0,
-    "rationale": "No sentiment reading — analysis unavailable.",
-    "positive_signals": [],
-    "neutral_signals": [],
-    "negative_signals": []
+    "overall": "negative",
+    "score": -22,
+    "rationale": "A sharp fall in BTR starts and a surge in PRS possession activity point to strain on both the institutional pipeline and the private rented sector's operating conditions, while a rare tribunal win for landlords and rising agency confidence only partially offset that picture.",
+    "positive_signals": [
+      "agency business confidence reported as rising despite political distrust",
+      "Property118 wins DOTAS tribunal appeal against HMRC",
+      "£41.9m share buyback signals capital confidence at an unnamed major property firm"
+    ],
+    "neutral_signals": [
+      "routine appointments and acquisitions across agency networks",
+      "scheduled official statistics releases with no headline figures supplied"
+    ],
+    "negative_signals": [
+      "build-to-rent starts described as collapsing quarter-on-quarter",
+      "28% surge in possession claims around the Section 21 deadline",
+      "landlord groups warning of a 'compensation culture' in tribunals",
+      "Cheshire West and Chester refusing 70 homes against officer advice"
+    ]
   },
   "themes": [
     {
-      "name": "Residential investment",
-      "count": 7,
-      "direction": "steady",
-      "summary": "",
-      "article_ids": []
-    },
-    {
-      "name": "Affordable housing",
-      "count": 7,
-      "direction": "steady",
-      "summary": "",
-      "article_ids": []
-    },
-    {
       "name": "Housing supply",
-      "count": 6,
-      "direction": "steady",
-      "summary": "",
-      "article_ids": []
+      "count": 5,
+      "direction": "cooling",
+      "summary": "Today's coverage links a stalling BTR pipeline, a skills-system report flagging sector capacity gaps, materials statistics with no published headline figures, homelessness data, and opinion on 'acute' housing need, together painting a picture of supply-side strain without offering fresh quantified evidence of improvement.",
+      "article_ids": [
+        "af47dfa9bf96",
+        "a00021e303df",
+        "ea14a475d155",
+        "435aad0ddc6f",
+        "c8038fb47aa0"
+      ]
     },
     {
-      "name": "Planning policy",
-      "count": 5,
-      "direction": "steady",
-      "summary": "",
-      "article_ids": []
+      "name": "Residential investment",
+      "count": 3,
+      "direction": "cooling",
+      "summary": "The BTR pipeline contraction is the dominant investment story, alongside an unnamed listed property firm's £41.9m buyback, which reads as capital return rather than new deployment.",
+      "article_ids": [
+        "c8038fb47aa0",
+        "4353f5fd0e09",
+        "90046d9e3899"
+      ]
+    },
+    {
+      "name": "Build-to-rent",
+      "count": 2,
+      "direction": "cooling",
+      "summary": "Two reports today converge on the same point: new BTR starts have fallen sharply this quarter, even as delivered stock keeps contributing to housing supply.",
+      "article_ids": [
+        "c8038fb47aa0",
+        "4353f5fd0e09"
+      ]
     },
     {
       "name": "Housebuilders",
-      "count": 3,
+      "count": 2,
       "direction": "steady",
-      "summary": "",
-      "article_ids": []
+      "summary": "Government releases on building materials statistics and sector skills needs touch housebuilder input costs and labour capacity, though no specific figures were supplied this morning.",
+      "article_ids": [
+        "ea14a475d155",
+        "435aad0ddc6f"
+      ]
     },
     {
       "name": "Regional development",
-      "count": 3,
+      "count": 2,
       "direction": "steady",
-      "summary": "",
-      "article_ids": []
+      "summary": "Local-level stories from Cheshire and Oxford illustrate planning friction and council enforcement pressure at scheme and city level respectively.",
+      "article_ids": [
+        "0ecc25f9cea6",
+        "48708528bb40"
+      ]
+    },
+    {
+      "name": "Planning policy",
+      "count": 1,
+      "direction": "steady",
+      "summary": "Cheshire West and Chester's refusal of 70 homes in favour of a solar farm, against officer recommendation, underlines continuing local political risk to allocated housing sites.",
+      "article_ids": [
+        "0ecc25f9cea6"
+      ]
+    },
+    {
+      "name": "Affordable housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "DLUHC's statutory homelessness statistics for England (Q4 2025) were published today, a recurring data point for local authority and housing association allocation pressure, though no headline numbers were supplied.",
+      "article_ids": [
+        "a00021e303df"
+      ]
     }
   ],
   "companies": [
     {
-      "name": "Place North West",
-      "type": "Other",
-      "mentions": 10,
-      "context": ""
+      "name": "Wain Estates",
+      "type": "Developer",
+      "mentions": 1,
+      "context": "land promoter behind the 70-home scheme refused by Cheshire West and Chester"
     },
     {
-      "name": "Private",
-      "type": "Other",
-      "mentions": 3,
-      "context": ""
+      "name": "Cheshire West and Chester Council",
+      "type": "Government body",
+      "mentions": 1,
+      "context": "planning committee that rejected the Davenham housing scheme against officer advice"
     },
     {
-      "name": "SAHP",
-      "type": "Other",
-      "mentions": 2,
-      "context": ""
+      "name": "Foxtons",
+      "type": "Adviser",
+      "mentions": 1,
+      "context": "data cited showing roughly two-thirds of its tenants are international renters"
     },
     {
-      "name": "London",
-      "type": "Other",
-      "mentions": 2,
-      "context": ""
+      "name": "Landlord Action",
+      "type": "Adviser",
+      "mentions": 1,
+      "context": "published figures showing a 28% July surge in possession claims ahead of the Section 21 deadline"
     },
     {
-      "name": "Green Belt",
-      "type": "Other",
-      "mentions": 2,
-      "context": ""
-    },
-    {
-      "name": "Agency",
-      "type": "Other",
-      "mentions": 2,
-      "context": ""
-    },
-    {
-      "name": "There's",
-      "type": "Other",
-      "mentions": 2,
-      "context": ""
-    },
-    {
-      "name": "Short-term",
-      "type": "Other",
-      "mentions": 2,
-      "context": ""
-    },
-    {
-      "name": "Number",
-      "type": "Other",
-      "mentions": 2,
-      "context": ""
-    },
-    {
-      "name": "England and Wales",
-      "type": "Other",
-      "mentions": 2,
-      "context": ""
-    },
-    {
-      "name": "English",
-      "type": "Other",
-      "mentions": 2,
-      "context": ""
-    },
-    {
-      "name": "The World's Largest Data",
+      "name": "Property118",
       "type": "Other",
       "mentions": 1,
-      "context": ""
+      "context": "won a DOTAS tribunal appeal against HMRC over landlord incorporation tax planning"
     },
     {
-      "name": "Center Hub Pursues",
-      "type": "Other",
+      "name": "HMRC",
+      "type": "Government body",
       "mentions": 1,
-      "context": ""
+      "context": "respondent in the Property118 DOTAS tribunal case"
     },
     {
-      "name": "Development Pause. Is It",
-      "type": "Other",
+      "name": "Rightmove",
+      "type": "Proptech",
       "mentions": 1,
-      "context": ""
+      "context": "integrated enhanced lettings leads into a popular agency CRM"
     },
     {
-      "name": "Even Legal",
+      "name": "The Property Ombudsman",
       "type": "Other",
       "mentions": 1,
-      "context": ""
+      "context": "launched a self-service member portal as agency complaints rise"
     },
     {
-      "name": "Loudoun County",
-      "type": "Other",
+      "name": "Merrill Lynch International",
+      "type": "Adviser",
       "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "Virginia",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "Pablo Castro's Lawyers Quit",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "HueHub Suit",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "Citing",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
+      "context": "appointed to execute an unnamed major property firm's £41.9m share buyback"
     }
   ],
-  "projects": [],
-  "policy": [],
+  "projects": [
+    {
+      "name": "London Road, Davenham scheme",
+      "location": "Davenham, Cheshire West and Chester",
+      "developers": [
+        "Wain Estates"
+      ],
+      "homes": "70",
+      "value": "",
+      "summary": "Cheshire West and Chester's planning committee voted against officer recommendation to refuse outline consent for 70 homes on this site, approving instead a 136-acre solar farm proposal.",
+      "article_ids": [
+        "0ecc25f9cea6"
+      ]
+    }
+  ],
+  "policy": [
+    {
+      "headline": "Possession claims surge ahead of Section 21 cut-off",
+      "kind": "regulation",
+      "body": "Landlord Action reported a 28% rise in July possession claims as landlords filed ahead of the final Section 21 deadline, with commentary now turning to whether the revised Section 8 grounds introduced from 1 May and court capacity can process the backlog without extending void periods.",
+      "article_ids": [
+        "eba90b4c1b7d",
+        "58f9d85a5093",
+        "50baf5fd88f7"
+      ]
+    },
+    {
+      "headline": "Councils to receive new landlord enforcement data",
+      "kind": "regulation",
+      "body": "Ministers have set out the detailed enforcement data local authorities will be required to submit from next year, prompting landlord representative groups to warn against a 'league table' style presentation that could increase reputational and compliance exposure.",
+      "article_ids": [
+        "41981541dc5a"
+      ]
+    },
+    {
+      "headline": "Property118 wins DOTAS appeal against HMRC",
+      "kind": "tax",
+      "body": "A tribunal ruled in Property118's favour on a DOTAS disclosure appeal, easing near-term risk for that specific structure, though commentary notes the decision does not confirm that landlord incorporation planning works in all cases.",
+      "article_ids": [
+        "819c98360728"
+      ]
+    },
+    {
+      "headline": "Cheshire committee refuses 70 homes for solar farm",
+      "kind": "planning",
+      "body": "Cheshire West and Chester's planning committee went against officer recommendation to refuse Wain Estates' outline application for 70 homes off London Road, Davenham, approving a 136-acre solar farm on the site instead.",
+      "article_ids": [
+        "0ecc25f9cea6"
+      ]
+    }
+  ],
   "investor_view": {
-    "opportunities": [],
-    "risks": [],
-    "capital_flows": [],
-    "watch_next": []
+    "opportunities": [
+      {
+        "point": "Repricing of stabilised BTR assets",
+        "reasoning": "a drying forward-funding pipeline may soften land and construction pricing for operators able to acquire completed or near-complete stock"
+      },
+      {
+        "point": "Continued roll-up of fragmented agency and short-term rental operators",
+        "reasoning": "multiple small acquisitions reported today suggest consolidation capital is still being deployed at the operational end of the market even as development capital pulls back"
+      }
+    ],
+    "risks": [
+      {
+        "point": "Court capacity strain on possession timelines",
+        "reasoning": "a 28% rise in claims ahead of the Section 21 deadline could extend void periods for PRS and BTR operators if Section 8 processing lags"
+      },
+      {
+        "point": "Rising enforcement transparency for landlords",
+        "reasoning": "council data-sharing requirements from next year raise reputational risk for larger portfolio operators, particularly around HMO standards"
+      },
+      {
+        "point": "Local planning risk to allocated sites",
+        "reasoning": "Cheshire West and Chester's refusal against officer advice shows committee-level decisions can still override policy support for housing delivery"
+      }
+    ],
+    "capital_flows": [
+      "Forward-funding commitments into new BTR starts appear to be slowing sharply, based on today's pipeline reporting, even as completed stock keeps contributing to supply",
+      "An unnamed major property firm's £41.9m buyback, executed via Merrill Lynch International, points to capital being returned rather than redeployed into new development at that business"
+    ],
+    "watch_next": [
+      "Sentencing of the estate agent who admitted a £50,000 client fraud, due 1 September",
+      "Further quarterly data on BTR starts to confirm whether the pipeline contraction reported today is a one-off or a trend",
+      "Detail of the council enforcement data-sharing regime landlords are contesting, due to take effect next year"
+    ]
   },
-  "regions": [],
+  "regions": [
+    {
+      "name": "Cheshire West and Chester",
+      "mentions": 1,
+      "note": "planning committee refused 70 homes off London Road, Davenham, in favour of a solar farm"
+    },
+    {
+      "name": "Oxford",
+      "mentions": 1,
+      "note": "city council criticised landlords for letting poorly maintained HMOs amid a local housing shortage"
+    },
+    {
+      "name": "England",
+      "mentions": 1,
+      "note": "subject of today's statutory homelessness statistics for October to December 2025"
+    }
+  ],
   "articles": {
-    "10e68c1507c6": {
-      "id": "10e68c1507c6",
+    "0ecc25f9cea6": {
+      "id": "0ecc25f9cea6",
       "importance": "Medium",
-      "summary": "Loudoun County debates a pause on new facility applications, even though moratoriums are illegal in Virginia.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "The World's Largest Data",
-        "Center Hub Pursues",
-        "Development Pause. Is It",
-        "Even Legal"
-      ],
-      "locations": []
-    },
-    "70a4faa7b1d5": {
-      "id": "70a4faa7b1d5",
-      "importance": "Medium",
-      "summary": "Pablo Castro's legal battles intensify over Miami's largest planned Live Local Act project.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Pablo Castro's Lawyers Quit",
-        "HueHub Suit",
-        "Citing",
-        "Irreconcilable Differences'. Pablo Castro's"
-      ],
-      "locations": []
-    },
-    "0430b47abc66": {
-      "id": "0430b47abc66",
-      "importance": "Medium",
-      "summary": "Metropolis is considering converting NBC Tower's offices into apartments, with partner support and other commercial real estate deals in the Chicago area.",
-      "why_it_matters": "",
+      "summary": "Cheshire West and Chester's planning committee refused outline consent for 70 homes proposed by Wain Estates off London Road, Davenham, against officer recommendation, and instead approved a 136-acre solar farm on the site.",
+      "why_it_matters": "Shows continued local political risk to allocated housing sites even where planning officers support delivery.",
       "themes": [
-        "Residential investment"
-      ],
-      "companies": [
-        "NBC Tower Owner Mulls",
-        "Conversion",
-        "The Chicago Deal Sheet",
-        "Metropolis"
-      ],
-      "locations": []
-    },
-    "30f8d9bf38ed": {
-      "id": "30f8d9bf38ed",
-      "importance": "Medium",
-      "summary": "Orbit’s turnover and surplus were slightly up in the last financial year, while increased repair volumes contributed to a “challenging operating environment”",
-      "why_it_matters": "",
-      "themes": [
-        "Housing supply"
-      ],
-      "companies": [
-        "Orbit",
-        "Orbit’s"
-      ],
-      "locations": []
-    },
-    "e60f0327d801": {
-      "id": "e60f0327d801",
-      "importance": "Medium",
-      "summary": "A Cheshire-based procurement company has taken a majority stake in industry data firm Housemark",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "NHF and CIH",
-        "Housemark",
-        "Cheshire-based"
-      ],
-      "locations": []
-    },
-    "9f47c4fe70a4": {
-      "id": "9f47c4fe70a4",
-      "importance": "Medium",
-      "summary": "Midland Heart has seen its annual completions more than halve, while spending a record amount on improving its existing stock",
-      "why_it_matters": "",
-      "themes": [
-        "Housing supply"
-      ],
-      "companies": [
-        "Large Midlands",
-        "Midland Heart"
-      ],
-      "locations": []
-    },
-    "d8d3c1f3eef0": {
-      "id": "d8d3c1f3eef0",
-      "importance": "Medium",
-      "summary": "Taking partnership to the next level could be a solution to the housebuilding crisis, writes Stephen Teagle, chief executive of partnerships and regeneration at Vistry Group",
-      "why_it_matters": "",
-      "themes": [
-        "Housebuilders",
+        "Planning policy",
         "Regional development"
       ],
       "companies": [
-        "Councils",
-        "Taking",
-        "Stephen Teagle",
-        "Vistry Group"
+        "Wain Estates",
+        "Cheshire West and Chester Council"
       ],
-      "locations": []
+      "locations": [
+        "Davenham",
+        "Cheshire West and Chester"
+      ]
     },
-    "ab7e45d4d0de": {
-      "id": "ab7e45d4d0de",
+    "83f8fdd8ec2e": {
+      "id": "83f8fdd8ec2e",
       "importance": "Medium",
-      "summary": "BPHA’s pre-tax surplus has risen by 8% to £21.7m after its earnings from its development and sales business almost doubled, helping to offset a rise in operating costs",
-      "why_it_matters": "",
-      "themes": [
-        "Residential investment",
-        "Affordable housing"
-      ],
-      "companies": [
-        "BPHA’s"
-      ],
-      "locations": []
-    },
-    "42dd8433ad19": {
-      "id": "42dd8433ad19",
-      "importance": "Medium",
-      "summary": "Homes England is looking to recruit six investment directors and a finance director for its subsidiary, the National Housing Bank",
-      "why_it_matters": "",
-      "themes": [
-        "Residential investment"
-      ],
-      "companies": [
-        "National Housing Bank",
-        "Homes England"
-      ],
-      "locations": []
-    },
-    "b781fe39f737": {
-      "id": "b781fe39f737",
-      "importance": "Medium",
-      "summary": "Hyde Group has received Gateway 2 approval for a 100% affordable housing scheme in Greenwich",
-      "why_it_matters": "",
-      "themes": [
-        "Affordable housing"
-      ],
-      "companies": [
-        "Hyde",
-        "Gateway",
-        "London. Hyde Group",
-        "Greenwich"
-      ],
-      "locations": []
-    },
-    "1b68b005bf86": {
-      "id": "1b68b005bf86",
-      "importance": "Medium",
-      "summary": "Could the new prime minister finally make it so homes are designed to be accessible, inclusive and support everyone to thrive, asks Habinteg CEO Martin Warhurst",
-      "why_it_matters": "",
-      "themes": [
-        "Housing supply"
-      ],
-      "companies": [
-        "Fixing",
-        "Could",
-        "Habinteg CEO Martin Warhurst"
-      ],
-      "locations": []
-    },
-    "829122939170": {
-      "id": "829122939170",
-      "importance": "Medium",
-      "summary": "Onward’s chief executive Sandy Livingstone sits down with Ellie Brown to discuss swapping Scotland for the North West, SAHP bids and his expectations for Andy Burnham",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Onward’s",
-        "Andy Burnham",
-        "North West. Onward’s",
-        "Sandy Livingstone"
-      ],
-      "locations": []
-    },
-    "1c55daf9f499": {
-      "id": "1c55daf9f499",
-      "importance": "Medium",
-      "summary": "A new inquiry by a group of MPs is examining the problems preventing councils from building social rent homes at scale, and has asked the sector for practical solutions. Eliza Parr rounds up the key points",
-      "why_it_matters": "",
-      "themes": [
-        "Affordable housing"
-      ],
-      "companies": [
-        "Burnham",
-        "Here’s",
-        "Eliza Parr"
-      ],
-      "locations": []
-    },
-    "c614d72dd28b": {
-      "id": "c614d72dd28b",
-      "importance": "Medium",
-      "summary": "Clarion Housing Group has secured planning permission for 249 new social homes in London",
-      "why_it_matters": "",
-      "themes": [
-        "Planning policy",
-        "Affordable housing"
-      ],
-      "companies": [
-        "Clarion",
-        "Clarion Housing Group",
-        "London"
-      ],
-      "locations": []
-    },
-    "2f44f164c794": {
-      "id": "2f44f164c794",
-      "importance": "Medium",
-      "summary": "Landlords in the North of England have urged the government to invest in regeneration projects outside of train station catchment areas so as not to leave other places behind",
-      "why_it_matters": "",
-      "themes": [
-        "Regional development"
-      ],
-      "companies": [
-        "Landlords",
-        "North of England"
-      ],
-      "locations": []
-    },
-    "d1393caceefc": {
-      "id": "d1393caceefc",
-      "importance": "Medium",
-      "summary": "Sovereign Network Group has revealed how it is “going against wider sector trends” by upping delivery in London, and set out its plans to achieve a C1 grade",
-      "why_it_matters": "",
-      "themes": [
-        "Housing supply"
-      ],
-      "companies": [
-        "London",
-        "Sovereign Network Group"
-      ],
-      "locations": []
-    },
-    "c6db03f7ccbb": {
-      "id": "c6db03f7ccbb",
-      "importance": "Medium",
-      "summary": "Southern Housing made a pre-tax loss of £7.7m in the last financial year, as its annual report revealed it is targeting at least £10m in further efficiencies this year.",
-      "why_it_matters": "",
-      "themes": [
-        "Housing supply",
-        "Residential investment"
-      ],
-      "companies": [
-        "Southern Housing"
-      ],
-      "locations": []
-    },
-    "1ba1b8260a27": {
-      "id": "1ba1b8260a27",
-      "importance": "Medium",
-      "summary": "One of the sector’s biggest builders says it will complete fewer homes over the next few years because it has had to change its bid for government grant funding",
-      "why_it_matters": "",
-      "themes": [
-        "Housing supply",
-        "Residential investment"
-      ],
-      "companies": [
-        "Platform",
-        "SAHP"
-      ],
-      "locations": []
-    },
-    "b5f64cbea593": {
-      "id": "b5f64cbea593",
-      "importance": "Medium",
-      "summary": "The former Beever & Struthers office on Chester Road is to be knocked down to pave the way for the site to be redeveloped into 162 homes under plans being readied by the developer. The post Glenbrook works up more Manche",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Glenbrook",
-        "Manchester",
-        "Beever",
-        "Struthers"
-      ],
-      "locations": []
-    },
-    "e8a0ff922c1f": {
-      "id": "e8a0ff922c1f",
-      "importance": "Medium",
-      "summary": "Further actions to reduce the risk of flooding on the link road to Manchester Airport, a headache since the dual carriageway’s 2018 completion, have been presented to local councillors. The post Stockport looks to tackle",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Stockport",
-        "Further",
-        "Manchester Airport",
-        "Place North West"
-      ],
-      "locations": []
-    },
-    "63392e15c1ef": {
-      "id": "63392e15c1ef",
-      "importance": "Medium",
-      "summary": "Main contractor Rhodar has commenced strip-out of the former shopping centre, a £5m job that will line the site up for a £250m redevelopment led by Bolton Council and MEPC. The post Demolition of Crompton Place begins ap",
-      "why_it_matters": "",
-      "themes": [
-        "Residential investment"
-      ],
-      "companies": [
-        "Demolition of Crompton Place",
-        "Main",
-        "Rhodar",
-        "Bolton Council and MEPC. The"
-      ],
-      "locations": []
-    },
-    "3d2c7f4ad87f": {
-      "id": "3d2c7f4ad87f",
-      "importance": "Medium",
-      "summary": "Now removed from the Green Belt and allocated for housing, the site had been an off-road motorcycle centre prior to the pandemic. The post Halton tipped to approve 94 homes appeared first on Place North West .",
-      "why_it_matters": "",
-      "themes": [
-        "Planning policy"
-      ],
-      "companies": [
-        "Halton",
-        "Green Belt",
-        "Place North West"
-      ],
-      "locations": []
-    },
-    "ebe321555ff0": {
-      "id": "ebe321555ff0",
-      "importance": "Medium",
-      "summary": "Demolition of existing structures on the two-acre Parliament Street site is expected to begin in Q2 2027, while a planning application for a trio of residential towers rising to 27 storeys is expected this autumn. The po",
-      "why_it_matters": "",
-      "themes": [
-        "Planning policy"
-      ],
-      "companies": [
-        "Davos",
-        "Brickland",
-        "Norton",
-        "Demolition"
-      ],
-      "locations": []
-    },
-    "6a5c2b0eadf7": {
-      "id": "6a5c2b0eadf7",
-      "importance": "Medium",
-      "summary": "The property group has mapped out a 452-home second phase of its Sandbach South masterplan, the fourth large-scale housing scheme the firm has proposed in Cheshire this year. The post Muller ramps up Sandbach ambitions a",
-      "why_it_matters": "",
-      "themes": [
-        "Regional development"
-      ],
-      "companies": [
-        "Muller",
-        "Sandbach",
-        "Sandbach South",
-        "Cheshire"
-      ],
-      "locations": []
-    },
-    "e209b5e673a2": {
-      "id": "e209b5e673a2",
-      "importance": "Medium",
-      "summary": "Thirty-four acres of Green Belt off Prescot Road in Aughton are the subject of plans for a residential development featuring 150 affordable properties. The post Persimmon lodges 300-home West Lancs proposal appeared firs",
-      "why_it_matters": "",
-      "themes": [
-        "Housebuilders",
-        "Planning policy",
-        "Affordable housing"
-      ],
-      "companies": [
-        "Persimmon",
-        "West Lancs",
-        "Thirty-four",
-        "Green Belt"
-      ],
-      "locations": []
-    },
-    "b388bdf25acc": {
-      "id": "b388bdf25acc",
-      "importance": "Medium",
-      "summary": "Replacing the town centre facility destroyed by fire last summer, the 100,000 sq ft project will also include flexible commercial space, in the first major plans to be submitted as the Rochdale town’s Mayoral Development",
-      "why_it_matters": "",
-      "themes": [
-        "Residential investment"
-      ],
-      "companies": [
-        "Storage World Middleton",
-        "Replacing",
-        "Rochdale",
-        "Mayoral Development Corporation"
-      ],
-      "locations": []
-    },
-    "43d3180928d0": {
-      "id": "43d3180928d0",
-      "importance": "Medium",
-      "summary": "Having been shelved due to rising costs in 2022, plans to build a sports and wellbeing facility off Churchill Way in Salford to replace the arson-attacked Clarendon Leisure Centre are progressing towards a start on site ",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Replacement Pendleton",
-        "Having",
-        "Churchill Way",
-        "Salford"
-      ],
-      "locations": []
-    },
-    "148feff6d30a": {
-      "id": "148feff6d30a",
-      "importance": "Medium",
-      "summary": "Armed with the Welsh Government’s go-ahead, the housebuilder can move forward with its fully affordable neighbourhood at Quarry Farm – either the 121-residence version that won at appeal or the 109-home version that won ",
-      "why_it_matters": "",
-      "themes": [
-        "Housebuilders",
-        "Planning policy",
-        "Affordable housing"
-      ],
-      "companies": [
-        "Castle Green",
-        "Flintshire",
-        "Armed",
-        "Welsh Government’s"
-      ],
-      "locations": []
-    },
-    "161cebe1136f": {
-      "id": "161cebe1136f",
-      "importance": "Medium",
-      "summary": "The analysis is by a quick-buy firm",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "More"
-      ],
-      "locations": []
-    },
-    "92502ea26579": {
-      "id": "92502ea26579",
-      "importance": "Medium",
-      "summary": "They operate from one office and several 'pods'",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Agency",
-        "Savills",
-        "They"
-      ],
-      "locations": []
-    },
-    "41787936c884": {
-      "id": "41787936c884",
-      "importance": "Medium",
-      "summary": "A firm of chartered surveyors is launching an estate agency – and it’s looking for “personable and enthusiastic” recruits. The Jonathan Wallis firm says it’s launching the agency next month “bringing together decades of ",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "The Jonathan Wallis",
-        "Teesdale. The"
-      ],
-      "locations": []
-    },
-    "cb7d4129acc4": {
-      "id": "cb7d4129acc4",
-      "importance": "Medium",
-      "summary": "The government is already calling for house buying reforms",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Agency",
-        "Scottish",
-        "Britain. The"
-      ],
-      "locations": []
-    },
-    "0e68cfdb00e9": {
-      "id": "0e68cfdb00e9",
-      "importance": "Medium",
-      "summary": "On one particular day there will be an estimated 22,904 households moving",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Britain’s"
-      ],
-      "locations": []
-    },
-    "751fe7b54a7e": {
-      "id": "751fe7b54a7e",
-      "importance": "Medium",
-      "summary": "The results come in the latest Voice Of The Agent report.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Agents",
-        "Voice Of The Agent"
-      ],
-      "locations": []
-    },
-    "f2bb72599ff1": {
-      "id": "f2bb72599ff1",
-      "importance": "Medium",
-      "summary": "There's been a 55% rise in complaints received in first half of 2025",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Complaints",
-        "There's"
-      ],
-      "locations": []
-    },
-    "c4bcdf7c6a58": {
-      "id": "c4bcdf7c6a58",
-      "importance": "Medium",
-      "summary": "The service allows anonymous queries, so avoiding follow-up cold calls",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Sellers"
-      ],
-      "locations": []
-    },
-    "e222e4462826": {
-      "id": "e222e4462826",
-      "importance": "Medium",
-      "summary": "The group has 36 branches and is part of LRG",
-      "why_it_matters": "",
+      "summary": "A survey finds nearly half of agencies expect further growth despite 43% saying they trust no political party on housing policy.",
+      "why_it_matters": "Political distrust among frontline agents is a soft indicator of policy uncertainty risk for the wider sector.",
       "themes": [],
       "companies": [],
       "locations": []
     },
-    "157f346512a1": {
-      "id": "157f346512a1",
-      "importance": "Medium",
-      "summary": "This is according to a franchise agency chain",
-      "why_it_matters": "",
+    "18e15566eeb3": {
+      "id": "18e15566eeb3",
+      "importance": "Low",
+      "summary": "An agency franchise owner completed its third acquisition in twelve months, with further deals reportedly planned.",
+      "why_it_matters": "Minor consolidation news with no strategic read-through for institutional investors.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "91dbd6512477": {
+      "id": "91dbd6512477",
+      "importance": "Low",
+      "summary": "Research finds nine in ten landlords have not yet received a pet request from tenants, despite pet policy influencing rental decisions for over half of renters.",
+      "why_it_matters": "Marginal relevance to lettings management practice, no material investment implication.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "a29bb351ef00": {
+      "id": "a29bb351ef00",
+      "importance": "Low",
+      "summary": "A senior agent has joined a partnership after 17 years at an independent firm, bringing over 30 years of market experience.",
+      "why_it_matters": "Routine personnel move with no strategic signal for investors.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "a0fa952cc84b": {
+      "id": "a0fa952cc84b",
+      "importance": "Low",
+      "summary": "Rightmove's enhanced lettings leads have been integrated into a widely used agency CRM system.",
+      "why_it_matters": "Incremental proptech workflow update with limited relevance to institutional strategy.",
       "themes": [],
       "companies": [
-        "Fall-throughs"
+        "Rightmove"
       ],
       "locations": []
     },
-    "4da43c8dff09": {
-      "id": "4da43c8dff09",
-      "importance": "Medium",
-      "summary": "There's been a survey of people who have moved in the past 12 months",
-      "why_it_matters": "",
+    "71de3fc862ad": {
+      "id": "71de3fc862ad",
+      "importance": "Low",
+      "summary": "A property portal has committed to providing material information for free, with no charge passed to agents.",
+      "why_it_matters": "Minor operational announcement affecting agency cost lines, not investment-relevant.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "2e170417b6df": {
+      "id": "2e170417b6df",
+      "importance": "Low",
+      "summary": "A free maintenance reporting tool has launched for small landlords, offering time-stamped repair tracking.",
+      "why_it_matters": "Small-scale proptech launch with limited relevance beyond the small-landlord segment.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "2716e06972be": {
+      "id": "2716e06972be",
+      "importance": "Low",
+      "summary": "A study finds agents miss 94% of evening calls, with mid-sized agencies the least reachable at 96%.",
+      "why_it_matters": "Operational service-quality data point with no strategic implication for investors.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "9d6de439ade2": {
+      "id": "9d6de439ade2",
+      "importance": "Low",
+      "summary": "Research finds 95% of homebuyers face unexpected costs during a purchase, though professional fees remain largely transparent.",
+      "why_it_matters": "Consumer affordability friction point, of limited direct relevance to institutional strategy.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "2597296ce887": {
+      "id": "2597296ce887",
+      "importance": "Low",
+      "summary": "An estate agent has admitted defrauding a client of £50,000 and will be sentenced on 1 September.",
+      "why_it_matters": "Isolated fraud case with no sector-wide implication.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "80e1770288ae": {
+      "id": "80e1770288ae",
+      "importance": "Low",
+      "summary": "The Property Ombudsman has launched a self-service member portal for agents amid rising agency complaints.",
+      "why_it_matters": "Administrative development in redress infrastructure, limited direct investor relevance.",
       "themes": [],
       "companies": [
-        "Industry",
-        "There's"
+        "The Property Ombudsman"
       ],
       "locations": []
     },
-    "0dab7f8c42d2": {
-      "id": "0dab7f8c42d2",
-      "importance": "Medium",
-      "summary": "Figures have been produced by the Home Builders Federation",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Help To Buy",
-        "Figures",
-        "Home Builders Federation"
-      ],
-      "locations": []
-    },
-    "5573b35fed45": {
-      "id": "5573b35fed45",
-      "importance": "Medium",
-      "summary": "We are working with local authorities to create a national local land charges service that will speed up searches and reduce their cost.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Guidance",
-        "HM Land Registry",
-        "Local Land Charges Programme"
-      ],
-      "locations": []
-    },
-    "4f6394df668e": {
-      "id": "4f6394df668e",
-      "importance": "Medium",
-      "summary": "Number of guest nights, nights, and stays for short-term lets offered via online collaborative economy platforms from July 2023 to December 2025.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Short-term",
-        "Number"
-      ],
-      "locations": []
-    },
-    "606195e9b3cc": {
-      "id": "606195e9b3cc",
-      "importance": "Medium",
-      "summary": "",
-      "why_it_matters": "",
+    "af47dfa9bf96": {
+      "id": "af47dfa9bf96",
+      "importance": "Low",
+      "summary": "An opinion piece reiterates that the country needs more new homes and questions whether government figures, including Andy Burnham, are engaging with the argument.",
+      "why_it_matters": "Opinion restating known supply pressure without new data or policy detail.",
       "themes": [
-        "Affordable housing"
+        "Housing supply"
       ],
       "companies": [],
       "locations": []
     },
-    "2d9e555f83ea": {
-      "id": "2d9e555f83ea",
+    "58f9d85a5093": {
+      "id": "58f9d85a5093",
       "importance": "Medium",
-      "summary": "",
-      "why_it_matters": "",
+      "summary": "New figures give an early read on landlords' use of the revised Section 8 possession grounds introduced from 1 May, following the Section 21 abolition deadline.",
+      "why_it_matters": "Early evidence of how the PRS enforcement regime is bedding in matters for void-period risk in rental portfolios.",
       "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "4d474ed3737e": {
+      "id": "4d474ed3737e",
+      "importance": "Low",
+      "summary": "An agency has completed its second acquisition of the year, combining two established property businesses.",
+      "why_it_matters": "Routine consolidation with no strategic read for institutional capital.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "d84d8daf8a8a": {
+      "id": "d84d8daf8a8a",
+      "importance": "Low",
+      "summary": "A round-up of new appointments and departures across the property sector.",
+      "why_it_matters": "Personnel listing with no investment relevance.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "f6b86aa240f7": {
+      "id": "f6b86aa240f7",
+      "importance": "Low",
+      "summary": "An opinion piece argues the property industry has made gender diversity progress but should not conflate that with genuine inclusion.",
+      "why_it_matters": "Commentary piece with no new data or policy implication.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "20f1dfb84634": {
+      "id": "20f1dfb84634",
+      "importance": "Low",
+      "summary": "An acquisition has strengthened a growing short-term rental management operator, part of ongoing consolidation in that market.",
+      "why_it_matters": "Sector consolidation signal in short-term lettings, adjacent to but distinct from core BTR/PRS investment.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "c8038fb47aa0": {
+      "id": "c8038fb47aa0",
+      "importance": "High",
+      "summary": "Industry data shows the build-to-rent pipeline drying up as new starts fall sharply this quarter, though existing BTR stock continues to add materially to housing supply.",
+      "why_it_matters": "A shrinking forward pipeline is a leading indicator of reduced future institutional PRS stock growth and signals financing or viability pressure on new schemes.",
+      "themes": [
+        "Build-to-rent",
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "90046d9e3899": {
+      "id": "90046d9e3899",
+      "importance": "Medium",
+      "summary": "An unnamed major property firm has launched a £41.9m share buyback, appointing Merrill Lynch International to execute it.",
+      "why_it_matters": "Capital return via buyback can signal either balance-sheet confidence or a lack of near-term deployment opportunities, though the company's identity is not stated in the supplied material.",
+      "themes": [
+        "Residential investment"
+      ],
       "companies": [
-        "Indicators"
+        "Merrill Lynch International"
       ],
       "locations": []
     },
-    "d04dbed0d233": {
-      "id": "d04dbed0d233",
+    "50baf5fd88f7": {
+      "id": "50baf5fd88f7",
+      "importance": "Low",
+      "summary": "A column argues that clearing the Section 21 deadline was only the first step, with focus now shifting to whether new Section 8 grounds and the courts can deliver timely possession.",
+      "why_it_matters": "Opinion piece framing an operational risk already covered by the accompanying possession-claims data.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "eba90b4c1b7d": {
+      "id": "eba90b4c1b7d",
       "importance": "Medium",
-      "summary": "Number of guest nights, nights, and stays for short-term lets offered via online collaborative economy platforms from July 2024 to June 2025.",
-      "why_it_matters": "",
+      "summary": "Landlord Action's figures show possession claims rose 28% in July as landlords rushed to file ahead of the final Section 21 court deadline.",
+      "why_it_matters": "Gives investors a leading indicator of court and enforcement strain that could extend void periods across PRS and BTR portfolios.",
       "themes": [],
       "companies": [
-        "Short-term",
-        "Number"
+        "Landlord Action"
       ],
       "locations": []
     },
-    "433423424fd0": {
-      "id": "433423424fd0",
+    "819c98360728": {
+      "id": "819c98360728",
       "importance": "Medium",
-      "summary": "",
-      "why_it_matters": "",
+      "summary": "Property118 has won a DOTAS tribunal appeal against HMRC, though the ruling does not confirm its incorporation planning works for all landlords.",
+      "why_it_matters": "Reduces near-term tax-disclosure risk for one specific structure while leaving broader incorporation planning uncertainty for landlords unresolved.",
       "themes": [],
       "companies": [
-        "Private"
+        "Property118",
+        "HMRC"
       ],
       "locations": []
     },
-    "4291d96a1b54": {
-      "id": "4291d96a1b54",
+    "41981541dc5a": {
+      "id": "41981541dc5a",
       "importance": "Medium",
-      "summary": "",
-      "why_it_matters": "",
+      "summary": "Landlord groups have warned against a 'league table' style presentation of council enforcement data, after ministers revealed the detail councils will need to submit from next year.",
+      "why_it_matters": "New transparency requirements raise compliance and reputational risk for larger PRS and HMO operators subject to public enforcement scoring.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "4a9a3e00d207": {
+      "id": "4a9a3e00d207",
+      "importance": "Medium",
+      "summary": "Foxtons data shows roughly two-thirds of its lettings tenants are international renters, underlining the referencing difficulties this poses for landlords.",
+      "why_it_matters": "Highlights a structural referencing and compliance risk relevant to high-turnover urban PRS and BTR portfolios.",
       "themes": [],
       "companies": [
-        "Energy",
-        "England and Wales"
+        "Foxtons"
       ],
       "locations": []
     },
-    "d610e5bca60f": {
-      "id": "d610e5bca60f",
-      "importance": "Medium",
-      "summary": "",
-      "why_it_matters": "",
+    "ad0fd105604c": {
+      "id": "ad0fd105604c",
+      "importance": "Low",
+      "summary": "A former letting agency boss has admitted pocketing almost £50,000 from tenants' and landlords' rent and deposit payments.",
+      "why_it_matters": "Isolated criminal case with no sector-wide implication.",
       "themes": [],
-      "companies": [
-        "Private"
-      ],
+      "companies": [],
       "locations": []
     },
-    "c0d5d3942568": {
-      "id": "c0d5d3942568",
-      "importance": "Medium",
-      "summary": "Ratios of house prices to annual disposable household incomes, for countries of the UK, English regions, and local authorities in England and Wales.",
-      "why_it_matters": "",
+    "c1018690c86f": {
+      "id": "c1018690c86f",
+      "importance": "Low",
+      "summary": "Sponsored content discusses whether buy-to-let still delivers income and growth, stressing the importance of location and cost planning.",
+      "why_it_matters": "Advertorial content with no new data for professional investors.",
       "themes": [],
-      "companies": [
-        "Housing Purchase Affordability",
-        "Ratios",
-        "English",
-        "England and Wales"
-      ],
+      "companies": [],
       "locations": []
     },
-    "98c188011994": {
-      "id": "98c188011994",
-      "importance": "Medium",
-      "summary": "Private rent prices by country and English region, expressed as a percentage of gross monthly income of private renting households. Part of our additional measures of housing affordability series.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Private",
-        "Wales and Northern Ireland",
-        "English",
-        "Part"
+    "4353f5fd0e09": {
+      "id": "4353f5fd0e09",
+      "importance": "High",
+      "summary": "Reporting confirms build-to-rent new starts saw one of their sharpest quarterly falls, corroborating the pipeline contraction flagged elsewhere today.",
+      "why_it_matters": "A second independent read on the same trend strengthens the case that BTR delivery is slowing materially, not just a one-off data blip.",
+      "themes": [
+        "Build-to-rent",
+        "Housing supply",
+        "Residential investment"
       ],
+      "companies": [],
       "locations": []
     },
-    "a936a3b80846": {
-      "id": "a936a3b80846",
+    "4fcee5b70ebe": {
+      "id": "4fcee5b70ebe",
       "importance": "Medium",
-      "summary": "",
-      "why_it_matters": "",
+      "summary": "A landlord group warns that tribunals appear increasingly willing to award compensation for minor property issues at what it calls unreasonable percentages.",
+      "why_it_matters": "Signals rising litigation and compensation risk that could affect asset management costs for PRS and BTR disrepair claims.",
       "themes": [],
-      "companies": [
-        "Subnational"
+      "companies": [],
+      "locations": []
+    },
+    "48708528bb40": {
+      "id": "48708528bb40",
+      "importance": "Medium",
+      "summary": "Oxford City Council has criticised landlords for exploiting the city's housing shortage by letting out badly maintained HMOs.",
+      "why_it_matters": "Raises enforcement and reputational risk for HMO operators in high-demand university city markets.",
+      "themes": [
+        "Regional development"
       ],
+      "companies": [],
+      "locations": [
+        "Oxford"
+      ]
+    },
+    "e5fa457c5194": {
+      "id": "e5fa457c5194",
+      "importance": "Low",
+      "summary": "Government has published the first annual monitoring and evaluation report for its UK-wide Child Poverty Strategy.",
+      "why_it_matters": "Limited direct relevance to residential investment beyond broad housing-cost context.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "bbde5fe194d3": {
+      "id": "bbde5fe194d3",
+      "importance": "Low",
+      "summary": "A DVLA research listing page with no housing relevance.",
+      "why_it_matters": "No implication for the residential sector.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "ea14a475d155": {
+      "id": "ea14a475d155",
+      "importance": "Medium",
+      "summary": "Government has published building materials and components statistics for July 2026, though no headline figures were included in the supplied material.",
+      "why_it_matters": "Materials cost and availability data is a direct input to housebuilder margins and construction timelines.",
+      "themes": [
+        "Housebuilders",
+        "Housing supply"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "33b3983f6600": {
+      "id": "33b3983f6600",
+      "importance": "Low",
+      "summary": "A Department for Transport statistics landing page with no housing relevance.",
+      "why_it_matters": "No implication for the residential sector.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "66fa34582ab8": {
+      "id": "66fa34582ab8",
+      "importance": "Low",
+      "summary": "UK official holdings of international reserves for July 2026 were published, unrelated to housing.",
+      "why_it_matters": "No implication for the residential sector.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "2ef88024916b": {
+      "id": "2ef88024916b",
+      "importance": "Low",
+      "summary": "Domestic road freight statistics for April 2025 to March 2026, including HGV driver vacancy data, were published.",
+      "why_it_matters": "No implication for the residential sector.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "ed0e6bb7c4b4": {
+      "id": "ed0e6bb7c4b4",
+      "importance": "Low",
+      "summary": "A government report examines the environmental impacts of ten alternative fuels to petroleum.",
+      "why_it_matters": "No implication for the residential sector.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "068b1d0ceaf2": {
+      "id": "068b1d0ceaf2",
+      "importance": "Low",
+      "summary": "Monthly MRSA, MSSA, Gram-negative bacteraemia and CDI infection data were published.",
+      "why_it_matters": "No implication for the residential sector.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "0e3819fce3fa": {
+      "id": "0e3819fce3fa",
+      "importance": "Low",
+      "summary": "Domestic road freight activity dataset (RFS01) was published by the Department for Transport.",
+      "why_it_matters": "No implication for the residential sector.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "460a50379799": {
+      "id": "460a50379799",
+      "importance": "Low",
+      "summary": "The Ministry of Defence's statistics pre-release access list was updated.",
+      "why_it_matters": "No implication for the residential sector.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "9d4b24ef6a64": {
+      "id": "9d4b24ef6a64",
+      "importance": "Low",
+      "summary": "Twice-yearly medicine supply disruption statistics for the UK, to June 2026, were published.",
+      "why_it_matters": "No implication for the residential sector.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "96ccfc4ec32a": {
+      "id": "96ccfc4ec32a",
+      "importance": "Low",
+      "summary": "An update to the Children's People and Nature Survey for England 2024 was published.",
+      "why_it_matters": "No implication for the residential sector.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "435aad0ddc6f": {
+      "id": "435aad0ddc6f",
+      "importance": "Medium",
+      "summary": "Skills England published its 2026 annual skills report and sectoral needs assessments, flagging challenges in the skills system across priority sectors.",
+      "why_it_matters": "Construction labour availability is a recurring constraint on housebuilding delivery, though no construction-specific figures were included in the supplied excerpt.",
+      "themes": [
+        "Housebuilders",
+        "Housing supply"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "5545c4bbe461": {
+      "id": "5545c4bbe461",
+      "importance": "Low",
+      "summary": "Monthly coal mining production and manpower returns for 2026 were published.",
+      "why_it_matters": "No implication for the residential sector.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "96e5f2912fbb": {
+      "id": "96e5f2912fbb",
+      "importance": "Low",
+      "summary": "A survey of employees and self-employed workers on managing health and wellbeing at work was published.",
+      "why_it_matters": "No implication for the residential sector.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "a00021e303df": {
+      "id": "a00021e303df",
+      "importance": "High",
+      "summary": "DLUHC published statutory homelessness statistics for England covering October to December 2025, including applications, duties and outcomes by local authority.",
+      "why_it_matters": "Homelessness duty figures directly affect temporary accommodation demand and allocation pressure on housing associations and councils, though no headline totals were included in the supplied excerpt.",
+      "themes": [
+        "Affordable housing",
+        "Housing supply"
+      ],
+      "companies": [],
+      "locations": [
+        "England"
+      ]
+    },
+    "23f3f107d069": {
+      "id": "23f3f107d069",
+      "importance": "Low",
+      "summary": "A dataset listing registered and licensed vessels over 10 metres was published.",
+      "why_it_matters": "No implication for the residential sector.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "5939f14af0ca": {
+      "id": "5939f14af0ca",
+      "importance": "Low",
+      "summary": "A dataset listing registered and licensed vessels 10 metres and under was published.",
+      "why_it_matters": "No implication for the residential sector.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "b5b3d26ac742": {
+      "id": "b5b3d26ac742",
+      "importance": "Low",
+      "summary": "Weekly average UK retail road fuel pump prices were published.",
+      "why_it_matters": "No implication for the residential sector.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "8fef8b352509": {
+      "id": "8fef8b352509",
+      "importance": "Low",
+      "summary": "NHS Community Services Statistics for May 2026 were published, covering patient-level community care data.",
+      "why_it_matters": "No implication for the residential sector.",
+      "themes": [],
+      "companies": [],
       "locations": []
     }
   },
   "meta": {
-    "rated": 0,
-    "unrated": 51,
-    "degraded": true,
-    "degraded_reason": "model did not return valid JSON: Expecting ',' delimiter: line 18 column 6 (char 3968)",
-    "model": null
-  }
+    "rated": 50,
+    "unrated": 0,
+    "degraded": false,
+    "model": "claude-sonnet-5",
+    "input_tokens": 10414,
+    "output_tokens": 19748,
+    "stop_reason": "end_turn"
+  },
+  "generated_at": "2026-08-05T11:32:45+00:00",
+  "date_label": "Wednesday 05 August 2026"
 }
