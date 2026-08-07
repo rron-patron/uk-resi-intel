@@ -1,0 +1,1012 @@
+{
+  "generated_at": "2026-08-07T10:48:59+00:00",
+  "date_label": "Friday 07 August 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: model did not return valid JSON after 3 attempts: Expecting ',' delimiter: line 83 column 353 (char 13344)\n\n60 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 11,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Student housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Later living",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 9,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 8,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 7,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Renters’ Rights Act",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Plans",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Analysis",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Landlords",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "New-build",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Agents",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Home REIT",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Northern Irish",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Belfast",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Northern Ireland",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Moat",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "People",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Southway Housing Trust and Wythenshawe",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Community Housing Group",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Cuffe",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "bb5111d4e2f2": {
+      "id": "bb5111d4e2f2",
+      "importance": "Medium",
+      "summary": "Home REIT has now completed the disposal of its remaining properties, but said it remains unable to distribute capital to its shareholders due to ongoing legal threats",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Home REIT"
+      ],
+      "locations": []
+    },
+    "84445225a2c1": {
+      "id": "84445225a2c1",
+      "importance": "Medium",
+      "summary": "A Northern Ireland property developer is planning to deliver 170 social homes in Belfast on a site previously earmarked for student accommodation",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Student housing"
+      ],
+      "companies": [
+        "Northern Irish",
+        "Belfast",
+        "Northern Ireland"
+      ],
+      "locations": []
+    },
+    "1bf9214fcc70": {
+      "id": "1bf9214fcc70",
+      "importance": "Medium",
+      "summary": "Moat has nearly doubled its pre-tax surplus from £12.2m to £23.9m, according to its annual report for the year up to March 2026",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Moat"
+      ],
+      "locations": []
+    },
+    "454e3571d2c9": {
+      "id": "454e3571d2c9",
+      "importance": "Medium",
+      "summary": "Gráinne Cuffe speaks to would-be CEO John Bowker about how merger talks between Southway Housing and WCHG are going",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "People",
+        "Southway Housing Trust and Wythenshawe",
+        "Community Housing Group",
+        "Cuffe"
+      ],
+      "locations": []
+    },
+    "a904a94e21b1": {
+      "id": "a904a94e21b1",
+      "importance": "Medium",
+      "summary": "With ‘Broad Locations’ we have the chance to deliver a new kind of edge-of-city living, writes Tom Fox, senior associate at We Made That",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "London’s",
+        "With",
+        "Broad Locations",
+        "Tom Fox"
+      ],
+      "locations": []
+    },
+    "ba6856e84a95": {
+      "id": "ba6856e84a95",
+      "importance": "Medium",
+      "summary": "A £400,000 fund from the London mayor has launched today to help enforce the Renters’ Rights Act",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "London",
+        "Renters’ Rights Act"
+      ],
+      "locations": []
+    },
+    "82ce7730690a": {
+      "id": "82ce7730690a",
+      "importance": "Medium",
+      "summary": "Lenders have announced an overhaul of loans to help housing associations upgrade their homes",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Retrofit",
+        "Lenders"
+      ],
+      "locations": []
+    },
+    "3b7ed88d9b49": {
+      "id": "3b7ed88d9b49",
+      "importance": "Medium",
+      "summary": "The city council wants to implement a licensing scheme for certain properties across the whole of the city after a recent survey found the 99% of schemes surveyed failed to meet expected standards. The post Salford seeks",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Salford",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "5a7cb3629f59": {
+      "id": "5a7cb3629f59",
+      "importance": "Medium",
+      "summary": "A fly-through video has been released showcasing the council’s plans to refresh the 17.5-acre green space, part of its wider £30m investment in the town. The post Knowsley teases revamp of Halewood’s Grace Park appeared ",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Knowsley",
+        "Halewood’s Grace Park",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "cce1a516b5d1": {
+      "id": "cce1a516b5d1",
+      "importance": "Medium",
+      "summary": "Concerns over highway safety led to councillors to commence the rejection process for the application from charity Binas Yisachar, which would have converted a former care home into two-form primary school for up to 120 ",
+      "why_it_matters": "",
+      "themes": [
+        "Later living"
+      ],
+      "companies": [
+        "Manchester",
+        "Crumpsall",
+        "Concerns",
+        "Binas Yisachar"
+      ],
+      "locations": []
+    },
+    "2d22ce936892": {
+      "id": "2d22ce936892",
+      "importance": "Medium",
+      "summary": "Cityside’s Sparth House scheme will see the redevelopment of a Manchester Road site into a four-storey facility comprising 21 dementia care beds, 48 nursing bedrooms and five respite bedrooms. The post Go-ahead secured f",
+      "why_it_matters": "",
+      "themes": [
+        "Later living"
+      ],
+      "companies": [
+        "Go-ahead",
+        "Rochdale",
+        "Cityside’s Sparth House",
+        "Manchester Road"
+      ],
+      "locations": []
+    },
+    "eaab708f9610": {
+      "id": "eaab708f9610",
+      "importance": "Medium",
+      "summary": "Designed by PRP Architects, the replacement Moya Cole Hospice has been built next to the facility’s original 1971 building south of Cheadle Royal. The post Caddick delivers £26.5m Heald Green health project appeared firs",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Caddick",
+        "Heald Green",
+        "Designed",
+        "PRP Architects"
+      ],
+      "locations": []
+    },
+    "b06be51a6295": {
+      "id": "b06be51a6295",
+      "importance": "Medium",
+      "summary": "Starting in September, the Computer Centre and Huyton Annexe in the town centre will be demolished to make way for Genr8 Kajima Regeneration and Knowsley Council’s St Michael’s Place: a series of affordable apartments, a",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing",
+        "Regional development"
+      ],
+      "companies": [
+        "Huyton",
+        "Starting",
+        "Computer Centre and Huyton Annexe",
+        "Kajima Regeneration and Knowsley Council’s"
+      ],
+      "locations": []
+    },
+    "e87287e54808": {
+      "id": "e87287e54808",
+      "importance": "Medium",
+      "summary": "Howe Construction Services has lodged outline proposals for 50 homes off Burnley Road in Loveclough. The post Plans in for 50 Rossendale homes appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Plans",
+        "Rossendale",
+        "Howe Construction Services",
+        "Burnley Road"
+      ],
+      "locations": []
+    },
+    "663ce6d9fff1": {
+      "id": "663ce6d9fff1",
+      "importance": "Medium",
+      "summary": "Redrow has got the ball rolling on a possible 450 homes in Culcheth, while Bellway is looking to add 250 homes to its Golborne Road development. The post Housing giants seek Warrington success appeared first on Place Nor",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Housing",
+        "Warrington",
+        "Redrow",
+        "Culcheth"
+      ],
+      "locations": []
+    },
+    "9eecc9801ef1": {
+      "id": "9eecc9801ef1",
+      "importance": "Medium",
+      "summary": "Matson Ground Estate Company has filed proposals to turn redundant farm buildings into flexible workspace, wellness facilities, and two padel courts as it looks to diversify income at Home Farm. The post Plans submitted ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Plans",
+        "Windermere",
+        "Matson Ground Estate Company",
+        "Home Farm. The"
+      ],
+      "locations": []
+    },
+    "be18aaba2cee": {
+      "id": "be18aaba2cee",
+      "importance": "Medium",
+      "summary": "There are some signs that the market has found a little momentum",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Burnham Bounce"
+      ],
+      "locations": []
+    },
+    "639a764f12c5": {
+      "id": "639a764f12c5",
+      "importance": "Medium",
+      "summary": "Analysis finds suspected cases remain above historic levels",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Tenancy",
+        "Analysis"
+      ],
+      "locations": []
+    },
+    "295514f45bb1": {
+      "id": "295514f45bb1",
+      "importance": "Medium",
+      "summary": "New national business brings together more than 50 surveyors under single name",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property"
+      ],
+      "locations": []
+    },
+    "cad3eb86ade3": {
+      "id": "cad3eb86ade3",
+      "importance": "Medium",
+      "summary": "Residential sector recorded its slowest decline since October",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Housebuilding",
+        "Residential"
+      ],
+      "locations": []
+    },
+    "5489094bd6b4": {
+      "id": "5489094bd6b4",
+      "importance": "Medium",
+      "summary": "Acquisition brings UK-wide portfolio spanning office, industrial, retail and leisure sectors",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Property",
+        "Acquisition",
+        "UK-wide"
+      ],
+      "locations": []
+    },
+    "98cf569ed56c": {
+      "id": "98cf569ed56c",
+      "importance": "Medium",
+      "summary": "Country and destination search lists show areas of most interest",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rightmove",
+        "Brit",
+        "Country"
+      ],
+      "locations": []
+    },
+    "78b303190aff": {
+      "id": "78b303190aff",
+      "importance": "Medium",
+      "summary": "First-half sales up 13% as full-year guidance moves to top end of previous range",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders",
+        "Housing supply"
+      ],
+      "companies": [
+        "Major",
+        "First-half"
+      ],
+      "locations": []
+    },
+    "b26832308c79": {
+      "id": "b26832308c79",
+      "importance": "Medium",
+      "summary": "Advertised prices increased 8.7% annually despite fewer enquiries",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "London",
+        "Advertised"
+      ],
+      "locations": []
+    },
+    "e4c5622f0c4f": {
+      "id": "e4c5622f0c4f",
+      "importance": "Medium",
+      "summary": "More than 100 attended the session on compliance and changes to possession rules",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "Renters’ Rights Act",
+        "More"
+      ],
+      "locations": []
+    },
+    "2b4791b08341": {
+      "id": "2b4791b08341",
+      "importance": "Medium",
+      "summary": "The latest deal adds around 250 fully managed properties to the network's portfolio",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Fast-growing"
+      ],
+      "locations": []
+    },
+    "207f2a298a20": {
+      "id": "207f2a298a20",
+      "importance": "Medium",
+      "summary": "Updated guidance covers risk assessments, check-ins and staff support",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Updated"
+      ],
+      "locations": []
+    },
+    "f86dfce91f89": {
+      "id": "f86dfce91f89",
+      "importance": "Medium",
+      "summary": "Just 5% of sellers this year owned their property for less than three years",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Short-term",
+        "Just"
+      ],
+      "locations": []
+    },
+    "da7bc78c6580": {
+      "id": "da7bc78c6580",
+      "importance": "Medium",
+      "summary": "Programmable technology could reserve buyer funds until conditions are met",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Programmable"
+      ],
+      "locations": []
+    },
+    "9698f6b9581b": {
+      "id": "9698f6b9581b",
+      "importance": "Medium",
+      "summary": "Gap with existing properties has widened by 6.2 percentage points since 2016",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "New-build"
+      ],
+      "locations": []
+    },
+    "8fc178988ba0": {
+      "id": "8fc178988ba0",
+      "importance": "Medium",
+      "summary": "Industry body calls for clearer priorities ahead of next RRA reform phase",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Industry"
+      ],
+      "locations": []
+    },
+    "6bc7eb0e1182": {
+      "id": "6bc7eb0e1182",
+      "importance": "Medium",
+      "summary": "Propertymark to respond to consultation on special treatment for some agreements",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Ground",
+        "Propertymark"
+      ],
+      "locations": []
+    },
+    "0d11d62990f4": {
+      "id": "0d11d62990f4",
+      "importance": "Medium",
+      "summary": "Overall prices rose 2.7% YOY in May to July, but local trends varied sharply",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Regional",
+        "ESPC",
+        "Overall"
+      ],
+      "locations": []
+    },
+    "aa46e49e9bb6": {
+      "id": "aa46e49e9bb6",
+      "importance": "Medium",
+      "summary": "Four colleagues beat their 90-minute target by around 27 minutes",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Property",
+        "Four"
+      ],
+      "locations": []
+    },
+    "e47ba69bde14": {
+      "id": "e47ba69bde14",
+      "importance": "Medium",
+      "summary": "The UPRN has been around for six years but is not universally used by agents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents",
+        "Unique Property Reference Numbers",
+        "The UPRN"
+      ],
+      "locations": []
+    },
+    "61463d24f5e1": {
+      "id": "61463d24f5e1",
+      "importance": "Medium",
+      "summary": "iad UK îs the UK part of an international brand",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency"
+      ],
+      "locations": []
+    },
+    "70d11778ec40": {
+      "id": "70d11778ec40",
+      "importance": "Medium",
+      "summary": "This will be a nationwide service operating through LRG's national branch network",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Brands",
+        "LRG's"
+      ],
+      "locations": []
+    },
+    "042081dcedd8": {
+      "id": "042081dcedd8",
+      "importance": "Medium",
+      "summary": "Data from Connells Group makes sobering reading for agents in London",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Why Londoners",
+        "Data",
+        "Connells Group",
+        "London"
+      ],
+      "locations": []
+    },
+    "33da1967ecc8": {
+      "id": "33da1967ecc8",
+      "importance": "Medium",
+      "summary": "In London, the percentage premium is less now than a decade ago",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "New-build",
+        "London. In London"
+      ],
+      "locations": []
+    },
+    "e2c0e8038d49": {
+      "id": "e2c0e8038d49",
+      "importance": "Medium",
+      "summary": "There are five tips for home movers",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Movers"
+      ],
+      "locations": []
+    },
+    "ea00d9c7c529": {
+      "id": "ea00d9c7c529",
+      "importance": "Medium",
+      "summary": "It is offered for sale for only the second time in 250 years.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Famous"
+      ],
+      "locations": []
+    },
+    "f9db8acd14d5": {
+      "id": "f9db8acd14d5",
+      "importance": "Medium",
+      "summary": "Connells has quantified what every agent already knows",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Connells"
+      ],
+      "locations": []
+    },
+    "9578a3bbf39a": {
+      "id": "9578a3bbf39a",
+      "importance": "Medium",
+      "summary": "The government is consulting on a possible new exemption",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Some"
+      ],
+      "locations": []
+    },
+    "d648745df688": {
+      "id": "d648745df688",
+      "importance": "Medium",
+      "summary": "Zoopla says the market has seen a sharper than usual summer slowdown",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Autumn",
+        "Zoopla"
+      ],
+      "locations": []
+    },
+    "02460bee3e99": {
+      "id": "02460bee3e99",
+      "importance": "Medium",
+      "summary": "Her disappearance led to the creation of the Suzy Lamplugh Trust",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents",
+        "Suzy’s",
+        "Suzy Lamplugh Trust"
+      ],
+      "locations": []
+    },
+    "e6edd39d8c60": {
+      "id": "e6edd39d8c60",
+      "importance": "Medium",
+      "summary": "Scotland’s buying system offers England valuable lessons in certainty, fall-throughs and market confidence.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property SigNATure",
+        "Scottish",
+        "Scotland’s"
+      ],
+      "locations": []
+    },
+    "37c29fae08bb": {
+      "id": "37c29fae08bb",
+      "importance": "Medium",
+      "summary": "This is according to London agency Benham and Reeves.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Prime London",
+        "London",
+        "Benham and Reeves"
+      ],
+      "locations": []
+    },
+    "358e2c3d245d": {
+      "id": "358e2c3d245d",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - The government has pledged to reduce duplicate data entry in the PRS Database after early testing by landlords.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "PRS Database",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "eb9677e67f7a": {
+      "id": "eb9677e67f7a",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Fraudsters are using AI to create entire fake tenant identities and slip past referencing checks, reports Goodlord.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "News",
+        "Helen Gregory",
+        "Fraudsters",
+        "Goodlord"
+      ],
+      "locations": []
+    },
+    "5bb3e6cce967": {
+      "id": "5bb3e6cce967",
+      "importance": "Medium",
+      "summary": "Column - Property Redress - Market student rentals early, get renewals in writing, and keep records to reduce voids, disputes and risks under new rental rules.",
+      "why_it_matters": "",
+      "themes": [
+        "Student housing"
+      ],
+      "companies": [
+        "Student",
+        "Column",
+        "Property Redress",
+        "Market"
+      ],
+      "locations": []
+    },
+    "2c8c4d9bbd1d": {
+      "id": "2c8c4d9bbd1d",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - A landlord has been told to pay more than £4,500 after failing to clear piles of rubbish that attracted vermin from his three rental properties.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Rubbish-strewn",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "e4656614231f": {
+      "id": "e4656614231f",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Stoke-on-Trent City Council is planning a major crackdown on the number and quality of HMOs across the city.",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "West Midlands",
+        "News",
+        "Helen Gregory",
+        "Stoke-on-Trent City Council"
+      ],
+      "locations": []
+    },
+    "870c5242f539": {
+      "id": "870c5242f539",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - The London borough of Haringey is setting up a renters’ forum as Sadiq Khan invests £400,000 in council enforcement.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "London",
+        "News",
+        "Helen Gregory",
+        "The London"
+      ],
+      "locations": []
+    },
+    "0239c226d3c5": {
+      "id": "0239c226d3c5",
+      "importance": "Medium",
+      "summary": "News - Tom Entwistle - Section 21 and the assured shorthold tenancy finally came to an end on the 31st of July. Tom Entwistle comments",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "News",
+        "Tom Entwistle",
+        "Section",
+        "July. Tom Entwistle"
+      ],
+      "locations": []
+    },
+    "3f22707e4265": {
+      "id": "3f22707e4265",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Burnley and Scarbrough councils want landlords to have their say on plans to extend selective licensing in their boroughs.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "News",
+        "Helen Gregory",
+        "Burnley and Scarbrough"
+      ],
+      "locations": []
+    },
+    "473977a71535": {
+      "id": "473977a71535",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Landlords who can show evidence of rents actually achieved could be in a stronger position when defending rent increases at tribunal.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Actual",
+        "News",
+        "Helen Gregory",
+        "Landlords"
+      ],
+      "locations": []
+    },
+    "6cf64512a681": {
+      "id": "6cf64512a681",
+      "importance": "Medium",
+      "summary": "Regulatory Policy Committee's opinion of the quality of the evidence and analysis in the Department of Health and Social Care's options assessments.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Regulatory Policy Committee's",
+        "Department of Health and Social Care's"
+      ],
+      "locations": []
+    },
+    "11c53e361dba": {
+      "id": "11c53e361dba",
+      "importance": "Medium",
+      "summary": "Analysis and learning from radiotherapy and near miss data reported voluntarily by UK radiotherapy providers and the relevant reporting authorities.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Safer",
+        "Analysis"
+      ],
+      "locations": []
+    },
+    "71e0852aa606": {
+      "id": "71e0852aa606",
+      "importance": "Medium",
+      "summary": "Survey findings on arrivals’ satisfaction, confidence in border security, Border Force behaviour and digital border services.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK Border Arrivals Survey",
+        "Survey",
+        "Border Force"
+      ],
+      "locations": []
+    },
+    "d2382ae24bc6": {
+      "id": "d2382ae24bc6",
+      "importance": "Medium",
+      "summary": "Annual estimates of research and development performed and funded by business enterprise, higher education, government, UK Research and Innovation, and private non-profit organisations.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Gross",
+        "Annual",
+        "UK Research and Innovation"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 60,
+    "degraded": true,
+    "degraded_reason": "model did not return valid JSON after 3 attempts: Expecting ',' delimiter: line 83 column 353 (char 13344)",
+    "model": null
+  }
+}
