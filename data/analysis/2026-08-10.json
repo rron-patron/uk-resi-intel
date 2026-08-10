@@ -1,0 +1,652 @@
+{
+  "executive_summary": "L&Q has reported a first-quarter deficit after booking a £233m loss on the sale of its private rented sector business, though the housing association says the disposal has let it cut debt. The scale of the write-down underlines how exposed even top-tier registered providers have been to PRS portfolio repricing.\n\nInside Housing reports that Vivid is exploring taking a stake in a house builder, a move that would mark a further step by large associations into direct development capacity rather than relying solely on Section 106 and forward-funded pipelines. No terms or target have been disclosed.\n\nBirmingham City Council has publicly criticised GreenSquareAccord for declining to complete a sale of a development to a local co-operative at the price originally agreed, blaming construction cost and interest rate inflation. The row is a visible symptom of how build cost escalation is straining delivery partnerships between local authorities, associations and community groups.\n\nNational house price data continues to soften: growth has slowed to its weakest pace since 2023 with the average property value effectively flat at £299,253, while commentary around the October Budget is reportedly already dampening transaction sentiment. In London, the salary needed to buy the average property has risen 6.4% to £74,520 as rents climb 4.2%, reinforcing the affordability gap that continues to support rental demand.\n\nLocal planning activity remains active at the margins, with Preston City Council approving conversion of the Miller Arcade into 46 flats and Pendle Council clearing an M&S foodhall scheme near Colne, but these are small, single-site items against a subdued macro backdrop.",
+  "sentiment": {
+    "overall": "negative",
+    "score": -15,
+    "rationale": "National price growth is at its weakest since 2023 and agents are citing Budget-related tax speculation and mortgage conditions as depressing activity, while a major association has taken a large loss tied to PRS disposal; the only clearly positive signals are isolated strategic moves by housing associations rather than a broad market improvement.",
+    "positive_signals": [
+      "Vivid exploring a stake in a house builder, a potential new capital route for affordable delivery",
+      "L&Q using PRS sale proceeds to cut debt",
+      "continued local planning approvals in Preston and Colne"
+    ],
+    "neutral_signals": [
+      "routine proptech and agency tooling announcements",
+      "unrelated government data releases on flights, trade and NEET youth included in today's feed"
+    ],
+    "negative_signals": [
+      "UK house price growth at weakest rate since 2023",
+      "London affordability gap widening with required salary up 6.4%",
+      "Budget tax speculation reportedly hitting transaction sentiment",
+      "mortgage market blamed for housing 'doldrums'",
+      "£233m loss booked by L&Q on PRS business sale",
+      "public dispute between Birmingham council and GreenSquareAccord over construction cost inflation"
+    ]
+  },
+  "themes": [
+    {
+      "name": "Affordable housing",
+      "count": 4,
+      "direction": "steady",
+      "summary": "Coverage centres on financial and delivery pressure inside the registered provider sector, from L&Q's PRS disposal loss to the Birmingham/GreenSquareAccord pricing dispute, alongside a call from Riverside for stronger government backing to tackle homelessness.",
+      "article_ids": [
+        "adcaac43caf3",
+        "fece743ae4a0",
+        "c64e1971dd42",
+        "3697f65623f0"
+      ]
+    },
+    {
+      "name": "Housing supply",
+      "count": 4,
+      "direction": "cooling",
+      "summary": "National price data shows growth stalling, with only small-scale local schemes such as Preston's Miller Arcade conversion adding to supply against that soft backdrop.",
+      "article_ids": [
+        "eade6f787963",
+        "40d8ba293349",
+        "83dc08fc54de",
+        "f74af1f613cb"
+      ]
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 4,
+      "direction": "cooling",
+      "summary": "Agents and commentators attribute market stagnation to mortgage conditions and rising uncertainty ahead of the October Budget, with mortgage fraud also flagged as an increasing risk category.",
+      "article_ids": [
+        "40d8ba293349",
+        "eec921ab57cf",
+        "e3620aecdf73",
+        "be772ad230bc"
+      ]
+    },
+    {
+      "name": "Regional development",
+      "count": 4,
+      "direction": "steady",
+      "summary": "Localised planning wins in Preston and Lancashire contrast with a north-south divergence in pricing, with London and the south east reportedly softer as government attention shifts north.",
+      "article_ids": [
+        "eade6f787963",
+        "019f955899a8",
+        "ee9a749c042d",
+        "f74af1f613cb"
+      ]
+    },
+    {
+      "name": "Build-to-rent",
+      "count": 3,
+      "direction": "cooling",
+      "summary": "L&Q's exit from its PRS business and rising London rental costs point to continued repricing and affordability strain in the rented sector, while Propertymark is pushing back on how a new landlord database will be implemented.",
+      "article_ids": [
+        "c64e1971dd42",
+        "ee9a749c042d",
+        "cf3ac4783223"
+      ]
+    },
+    {
+      "name": "Residential investment",
+      "count": 3,
+      "direction": "steady",
+      "summary": "Capital movements today are association-led rather than institutional: Vivid weighing a housebuilder stake and L&Q reshaping its balance sheet after a large PRS disposal loss, against a backdrop of rising London affordability pressure.",
+      "article_ids": [
+        "fece743ae4a0",
+        "c64e1971dd42",
+        "ee9a749c042d"
+      ]
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "Two local authority committee approvals feature, both single-site and low-signal for wider policy direction.",
+      "article_ids": [
+        "eade6f787963",
+        "019f955899a8"
+      ]
+    },
+    {
+      "name": "Housebuilders",
+      "count": 2,
+      "direction": "steady",
+      "summary": "Coverage is limited to a housing association's exploration of a stake in a house builder and an unnamed housebuilder's brand refresh, neither carrying disclosed financial detail.",
+      "article_ids": [
+        "fece743ae4a0",
+        "b472acdc716d"
+      ]
+    }
+  ],
+  "companies": [
+    {
+      "name": "Winkworth",
+      "type": "Adviser",
+      "mentions": 2,
+      "context": "Facing High Court action against its non-executive chair alongside a share price slide tied to a family boardroom dispute"
+    },
+    {
+      "name": "L&Q",
+      "type": "Housing association",
+      "mentions": 1,
+      "context": "Booked a £233m loss on sale of its PRS business while cutting debt"
+    },
+    {
+      "name": "Vivid",
+      "type": "Housing association",
+      "mentions": 1,
+      "context": "Exploring a partnership or equity stake in a house builder"
+    },
+    {
+      "name": "GreenSquareAccord",
+      "type": "Housing association",
+      "mentions": 1,
+      "context": "Accused by Birmingham City Council of reneging on an agreed sale price to a co-operative"
+    },
+    {
+      "name": "Birmingham City Council",
+      "type": "Government body",
+      "mentions": 1,
+      "context": "Published an open letter criticising GreenSquareAccord over the stalled sale"
+    },
+    {
+      "name": "Riverside",
+      "type": "Housing association",
+      "mentions": 1,
+      "context": "Chief executive writes on tackling rough sleeping in partnership with government"
+    },
+    {
+      "name": "Lloyds",
+      "type": "Other",
+      "mentions": 1,
+      "context": "Its House Price Index prompted industry reaction on a subdued housing market"
+    },
+    {
+      "name": "Propertymark",
+      "type": "Adviser",
+      "mentions": 1,
+      "context": "Warning that a new landlord database design must not add administrative burden"
+    },
+    {
+      "name": "Preston City Council",
+      "type": "Government body",
+      "mentions": 1,
+      "context": "Approved conversion of the Miller Arcade into 46 flats"
+    },
+    {
+      "name": "Pendle Council",
+      "type": "Government body",
+      "mentions": 1,
+      "context": "Approved an M&S foodhall scheme near Colne"
+    },
+    {
+      "name": "M&S",
+      "type": "Other",
+      "mentions": 1,
+      "context": "Retail scheme approved in partnership with Monte Blackburn"
+    },
+    {
+      "name": "Monte Blackburn",
+      "type": "Developer",
+      "mentions": 1,
+      "context": "Co-developer of the approved Colne foodhall site"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Miller Arcade conversion",
+      "location": "Preston, Preston City Council",
+      "developers": [],
+      "homes": "46",
+      "value": "",
+      "summary": "Former office space in the historic Miller Arcade has been approved for conversion into 46 flats by the city council's planning committee.",
+      "article_ids": [
+        "eade6f787963"
+      ]
+    },
+    {
+      "name": "Co-operative sale scheme dispute",
+      "location": "Birmingham, Birmingham City Council",
+      "developers": [
+        "GreenSquareAccord"
+      ],
+      "homes": "",
+      "value": "",
+      "summary": "A development GreenSquareAccord had agreed to sell to a local co-operative is now disputed, with the council saying the housing association is refusing to honour the originally agreed price amid cost inflation.",
+      "article_ids": [
+        "adcaac43caf3"
+      ]
+    },
+    {
+      "name": "M&S Foodhall, Colne",
+      "location": "Colne, Pendle Borough Council",
+      "developers": [
+        "Monte Blackburn"
+      ],
+      "homes": "",
+      "value": "",
+      "summary": "Pendle Council has approved a retail scheme near the Boundary Mill designer outlet, developed jointly by M&S and Monte Blackburn; not a residential scheme but relevant to placemaking around the site.",
+      "article_ids": [
+        "019f955899a8"
+      ]
+    }
+  ],
+  "policy": [
+    {
+      "headline": "Propertymark warns on landlord database burden",
+      "kind": "regulation",
+      "body": "Propertymark has cautioned that the design of the forthcoming landlord database must reflect how letting agencies actually operate, rather than adding a new compliance layer to every instruction. No implementation date or detail on scope was given in the coverage.",
+      "article_ids": [
+        "cf3ac4783223"
+      ]
+    },
+    {
+      "headline": "MTD deadline passes with landlords unregistered",
+      "kind": "tax",
+      "body": "A Making Tax Digital deadline for landlords has passed with thousands reportedly still unregistered, according to LandlordZone, though the piece carries no supporting figures or enforcement detail.",
+      "article_ids": [
+        "82f0b3417233"
+      ]
+    },
+    {
+      "headline": "Budget speculation reported to be denting sentiment",
+      "kind": "tax",
+      "body": "With the Budget not due until October, agents quoted in trade press say speculation about potential tax changes is already affecting buyer and seller behaviour, though no specific measures have been confirmed.",
+      "article_ids": [
+        "e3620aecdf73"
+      ]
+    }
+  ],
+  "investor_view": {
+    "opportunities": [
+      {
+        "point": "Housing associations moving into development-adjacent equity",
+        "reasoning": "Vivid's exploration of a housebuilder stake could signal a template for associations to secure supply chain control rather than relying purely on Section 106"
+      },
+      {
+        "point": "Distressed or contested affordable housing sales",
+        "reasoning": "the Birmingham/GreenSquareAccord dispute suggests some registered providers are reassessing disposal pricing as build costs rise, which could create renegotiation opportunities for buyers with patient capital"
+      },
+      {
+        "point": "London rental demand underpinned by ownership affordability gap",
+        "reasoning": "a £74,520 required salary for average purchase keeps pressure on the rented sector even as headline PRS portfolio sales continue"
+      }
+    ],
+    "risks": [
+      {
+        "point": "Registered provider balance sheet strain",
+        "reasoning": "L&Q's £233m loss on its PRS disposal shows repricing risk is still being absorbed by large associations, which may affect counterparty risk on joint schemes"
+      },
+      {
+        "point": "Transaction sentiment softening ahead of the Budget",
+        "reasoning": "agents report tax speculation is already suppressing activity months before any announcement, which could delay deal flow into Q4"
+      },
+      {
+        "point": "Mortgage market conditions cited as a drag on volumes",
+        "reasoning": "commentary links continued market stagnation to mortgage availability and cost rather than a one-off factor"
+      }
+    ],
+    "capital_flows": [
+      "L&Q rotating out of its PRS business to reduce debt, a signal that some associations are prioritising balance sheet repair over rental portfolio scale",
+      "Vivid weighing a direct equity move into housebuilding capacity rather than deploying capital purely through land-led acquisitions",
+      "No large institutional BTR or portfolio transactions reported today, suggesting continued caution while pricing and policy uncertainty persist"
+    ],
+    "watch_next": [
+      "Vivid's confirmation or denial of a housebuilder stake, and any named target",
+      "L&Q's full first-quarter results detail beyond the PRS disposal loss",
+      "October Budget announcements given reported pre-emptive market softening",
+      "Any response from GreenSquareAccord to Birmingham City Council's open letter"
+    ]
+  },
+  "regions": [
+    {
+      "name": "London",
+      "mentions": 2,
+      "note": "rental affordability required salary rising and prices reported softer amid broader south/north divergence"
+    },
+    {
+      "name": "South East England",
+      "mentions": 1,
+      "note": "house prices reported falling as government focus shifts north"
+    },
+    {
+      "name": "Birmingham",
+      "mentions": 1,
+      "note": "council in public dispute with GreenSquareAccord over a stalled co-operative sale"
+    },
+    {
+      "name": "Preston",
+      "mentions": 1,
+      "note": "Miller Arcade approved for 46-flat conversion"
+    },
+    {
+      "name": "Colne / Pendle",
+      "mentions": 1,
+      "note": "M&S foodhall scheme approved near Boundary Mill outlet"
+    },
+    {
+      "name": "UK (national)",
+      "mentions": 2,
+      "note": "house price growth at weakest rate since 2023 per latest indices"
+    }
+  ],
+  "articles": {
+    "adcaac43caf3": {
+      "id": "adcaac43caf3",
+      "importance": "Medium",
+      "summary": "Birmingham City Council has published an open letter criticising GreenSquareAccord for refusing to complete a sale of a development to a local co-operative at the price originally agreed, citing inflation and interest rate rises as the cause.",
+      "why_it_matters": "Illustrates how construction cost inflation is straining delivery partnerships between councils, associations and community-led housing groups.",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "GreenSquareAccord",
+        "Birmingham City Council"
+      ],
+      "locations": [
+        "Birmingham"
+      ]
+    },
+    "fece743ae4a0": {
+      "id": "fece743ae4a0",
+      "importance": "High",
+      "summary": "Inside Housing reports that housing association Vivid is exploring partnership options with a house builder, including a possible equity stake, though no target or terms are disclosed.",
+      "why_it_matters": "A registered provider taking a direct stake in a builder would mark a notable shift in how associations secure development capacity.",
+      "themes": [
+        "Affordable housing",
+        "Housebuilders",
+        "Residential investment"
+      ],
+      "companies": [
+        "Vivid"
+      ],
+      "locations": []
+    },
+    "c64e1971dd42": {
+      "id": "c64e1971dd42",
+      "importance": "High",
+      "summary": "L&Q has reported a first-quarter deficit after booking a £233m loss on the sale of its private rented sector business, while saying the disposal has helped reduce debt.",
+      "why_it_matters": "A loss of this size at a top-tier association signals continued repricing risk in PRS portfolios and balance sheet pressure across the sector.",
+      "themes": [
+        "Affordable housing",
+        "Build-to-rent",
+        "Residential investment"
+      ],
+      "companies": [
+        "L&Q"
+      ],
+      "locations": []
+    },
+    "3697f65623f0": {
+      "id": "3697f65623f0",
+      "importance": "Low",
+      "summary": "Riverside's chief executive Paul Dolan writes that the housing sector is ready to help the prime minister tackle rough sleeping if government provides sufficient resources and urgency.",
+      "why_it_matters": "An opinion piece with no new commitments or figures, limited direct implication for investment decisions.",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Riverside"
+      ],
+      "locations": []
+    },
+    "eade6f787963": {
+      "id": "eade6f787963",
+      "importance": "Low",
+      "summary": "Preston City Council's planning committee has approved conversion of the historic Miller Arcade's office space into 46 flats.",
+      "why_it_matters": "A small single-site conversion with limited portfolio-level significance beyond adding to local supply.",
+      "themes": [
+        "Housing supply",
+        "Regional development",
+        "Planning policy"
+      ],
+      "companies": [
+        "Preston City Council"
+      ],
+      "locations": [
+        "Preston"
+      ]
+    },
+    "019f955899a8": {
+      "id": "019f955899a8",
+      "importance": "Low",
+      "summary": "Pendle Council has approved plans by M&S and Monte Blackburn for a foodhall near the Boundary Mill designer outlet at Colne.",
+      "why_it_matters": "A retail scheme rather than residential, of limited relevance beyond local placemaking context.",
+      "themes": [
+        "Regional development",
+        "Planning policy"
+      ],
+      "companies": [
+        "M&S",
+        "Monte Blackburn",
+        "Pendle Council"
+      ],
+      "locations": [
+        "Colne",
+        "Pendle"
+      ]
+    },
+    "40d8ba293349": {
+      "id": "40d8ba293349",
+      "importance": "Medium",
+      "summary": "Industry figures are quoted reacting to the latest Lloyds House Price Index, characterising the market as struggling rather than broken.",
+      "why_it_matters": "Reflects continued softness in transaction sentiment that could delay disposals and acquisitions in the near term.",
+      "themes": [
+        "Housing supply",
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Lloyds"
+      ],
+      "locations": []
+    },
+    "193ddde70ba7": {
+      "id": "193ddde70ba7",
+      "importance": "Low",
+      "summary": "Winkworth has launched High Court proceedings against its non-executive chair, alleging breaches of confidentiality and director duties.",
+      "why_it_matters": "A governance dispute at a listed estate agency with limited direct bearing on resi investment fundamentals.",
+      "themes": [],
+      "companies": [
+        "Winkworth"
+      ],
+      "locations": []
+    },
+    "83dc08fc54de": {
+      "id": "83dc08fc54de",
+      "importance": "High",
+      "summary": "House price growth has slowed to its weakest rate since 2023, with the average property value broadly unchanged at £299,253.",
+      "why_it_matters": "National price data confirming a stalling market is a key macro input for underwriting and valuation assumptions.",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "ee9a749c042d": {
+      "id": "ee9a749c042d",
+      "importance": "High",
+      "summary": "London renters now need a salary of £74,520 to buy the average property, up 6.4% year on year, as monthly rents have risen 4.2%.",
+      "why_it_matters": "Widening affordability gap continues to support structural rental demand even as ownership costs rise, a key data point for BTR underwriting.",
+      "themes": [
+        "Build-to-rent",
+        "Residential investment",
+        "Regional development"
+      ],
+      "companies": [],
+      "locations": [
+        "London"
+      ]
+    },
+    "cf3ac4783223": {
+      "id": "cf3ac4783223",
+      "importance": "Medium",
+      "summary": "Propertymark has warned that the design of the planned landlord database must not create additional administrative burden for every letting instruction.",
+      "why_it_matters": "Implementation choices could add compliance cost across the private rented sector, relevant to landlords and managing agents.",
+      "themes": [
+        "Build-to-rent"
+      ],
+      "companies": [
+        "Propertymark"
+      ],
+      "locations": []
+    },
+    "eec921ab57cf": {
+      "id": "eec921ab57cf",
+      "importance": "Medium",
+      "summary": "New figures show mortgage fraud rising across every reported category, described as a worrying trend for the property market.",
+      "why_it_matters": "Rising fraud risk could affect lender underwriting standards and transaction friction across the market.",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "29365e8308e7": {
+      "id": "29365e8308e7",
+      "importance": "Low",
+      "summary": "A new tool allows agents to gauge sellers' price expectations before initial contact, via responses to online valuations.",
+      "why_it_matters": "Minor proptech development with no disclosed financial or market-wide impact.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "b472acdc716d": {
+      "id": "b472acdc716d",
+      "importance": "Low",
+      "summary": "An unnamed housebuilder is marking its 80th anniversary with a brand refresh due to appear on developments this month.",
+      "why_it_matters": "No commercial or strategic detail disclosed, limiting relevance beyond brand awareness.",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "b1442084b985": {
+      "id": "b1442084b985",
+      "importance": "Low",
+      "summary": "Two housing technology firms have partnered to combine AI and human support for out-of-hours calls, aiming to filter routine enquiries from emergencies.",
+      "why_it_matters": "A proptech operational tie-up with no disclosed financial terms or named clients.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "e4392b1c17ce": {
+      "id": "e4392b1c17ce",
+      "importance": "Medium",
+      "summary": "Winkworth's share price has fallen from around 205p a year ago to roughly 170p amid an ongoing family boardroom dispute.",
+      "why_it_matters": "Signals governance risk feeding through to market value at a listed agency group.",
+      "themes": [],
+      "companies": [
+        "Winkworth"
+      ],
+      "locations": []
+    },
+    "f74af1f613cb": {
+      "id": "f74af1f613cb",
+      "importance": "Medium",
+      "summary": "House prices in London and the south east are reported falling, framed against government attention and investment shifting further north.",
+      "why_it_matters": "A regional divergence in pricing could reshape where capital and development focus concentrate over the medium term.",
+      "themes": [
+        "Housing supply",
+        "Regional development"
+      ],
+      "companies": [],
+      "locations": [
+        "London",
+        "South East England"
+      ]
+    },
+    "ac4cfe025214": {
+      "id": "ac4cfe025214",
+      "importance": "Low",
+      "summary": "Sellers will now be able to suggest a price and explain their reasoning as part of an online valuation process.",
+      "why_it_matters": "Incremental proptech feature with no disclosed market-wide impact.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "e3620aecdf73": {
+      "id": "e3620aecdf73",
+      "importance": "Medium",
+      "summary": "A leading agent says speculation about the October Budget's tax measures is already affecting housing market activity, despite no policy having been confirmed.",
+      "why_it_matters": "Pre-emptive sentiment effects ahead of fiscal announcements can delay transactions and complicate near-term forecasting.",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "be772ad230bc": {
+      "id": "be772ad230bc",
+      "importance": "Medium",
+      "summary": "Commentators are attributing continued housing market stagnation to mortgage conditions, following figures showing subdued activity.",
+      "why_it_matters": "Reinforces that financing costs and availability remain the dominant constraint on transaction volumes.",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "e5b23790b284": {
+      "id": "e5b23790b284",
+      "importance": "Low",
+      "summary": "An estate agency feature highlights fundraising support for a local hospice.",
+      "why_it_matters": "Community and CSR item with no market or investment relevance.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "82f0b3417233": {
+      "id": "82f0b3417233",
+      "importance": "Medium",
+      "summary": "A Making Tax Digital deadline for landlords has passed with thousands reportedly still unregistered, according to LandlordZone, though no supporting figures are given.",
+      "why_it_matters": "Non-compliance at scale could bring enforcement action and added administrative pressure onto private landlords.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "27a7a553d531": {
+      "id": "27a7a553d531",
+      "importance": "Low",
+      "summary": "A government interim report reviews the rise in young people not in education, employment or training, unrelated to housing.",
+      "why_it_matters": "No direct relevance to residential property markets or investment.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "82f150435491": {
+      "id": "82f150435491",
+      "importance": "Low",
+      "summary": "A government study estimates the economic and social welfare impacts of night flights and possible policy changes.",
+      "why_it_matters": "No direct relevance to residential property markets or investment.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "3e6919919488": {
+      "id": "3e6919919488",
+      "importance": "Low",
+      "summary": "Official statistics detail UK trade in services asymmetries by partner country between 2016 and 2024.",
+      "why_it_matters": "No direct relevance to residential property markets or investment.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "058e9ff2354f": {
+      "id": "058e9ff2354f",
+      "importance": "Low",
+      "summary": "A government summary covers short-notice flight cancellations at UK airports between May and July 2026.",
+      "why_it_matters": "No direct relevance to residential property markets or investment.",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 26,
+    "unrated": 0,
+    "degraded": false,
+    "model": "claude-sonnet-5",
+    "input_tokens": 6460,
+    "output_tokens": 14515,
+    "stop_reason": "end_turn"
+  },
+  "generated_at": "2026-08-10T11:34:36+00:00",
+  "date_label": "Monday 10 August 2026"
+}

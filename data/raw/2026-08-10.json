@@ -1,0 +1,510 @@
+{
+  "collected_at": "2026-08-10T11:31:34+00:00",
+  "date_london": "2026-08-10",
+  "counts": {
+    "seen_in_feeds": 42,
+    "new": 26,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 5,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 5"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 2,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 2"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 9,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 9"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 6,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 6"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "scrape",
+      "url": "https://www.landlordzone.co.uk/news",
+      "found": 6,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/blog/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/rss.xml -> 0",
+        "scrape https://www.landlordzone.co.uk/news -> 6"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 4,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 4"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Council hits out at GSA for refusing to sell development to co-operative at ‘initially agreed price’",
+      "url": "https://insidehousing.co.uk/home/council-hits-out-at-gsa-for-refusing-to-sell-development-to-co-operative-at-initially-agreed-price-98298",
+      "published": "2026-08-10T10:51:26+00:00",
+      "excerpt": "Birmingham City Council leaders have published an open letter criticising GreenSquareAccord’s refusal to sell a development to a local co-operative at the ‘initially agreed price’, after inflation and rising interest rates impacted construction costs",
+      "entities": [
+        "Birmingham City Council",
+        "GreenSquareAccord’s"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:31:51+00:00",
+      "id": "adcaac43caf3"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Exclusive: Vivid explores buying stake in house builder",
+      "url": "https://insidehousing.co.uk/home/exclusive-vivid-explores-buying-stake-in-house-builder-98299",
+      "published": "2026-08-10T10:36:38+00:00",
+      "excerpt": "Housing association Vivid is exploring partnership opportunities with a house builder, including buying a stake, Inside Housing can reveal",
+      "entities": [
+        "Exclusive",
+        "Vivid",
+        "Housing",
+        "Inside Housing"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:31:51+00:00",
+      "id": "fece743ae4a0"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "L&Q books £233m loss on sale of PRS business, but cuts debt",
+      "url": "https://insidehousing.co.uk/home/lq-books-233m-loss-on-sale-of-prs-business-but-cuts-debt-98297",
+      "published": "2026-08-10T06:00:00+00:00",
+      "excerpt": "L&Q has reported a deficit in the first quarter of the financial year after booking a £233m loss from the sale of its private rented sector business",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:31:51+00:00",
+      "id": "c64e1971dd42"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Riverside’s Paul Dolan – how can we help the prime minister end rough sleeping for good?",
+      "url": "https://insidehousing.co.uk/home/riversides-paul-dolan-how-can-we-help-the-prime-minister-end-rough-sleeping-for-good-98227",
+      "published": "2026-08-10T11:13:56+00:00",
+      "excerpt": "If the government brings the urgency and resources required to tackle homelessness, the sector stands ready to act, writes Paul Dolan, chief executive of Riverside",
+      "entities": [
+        "Riverside’s Paul Dolan",
+        "Paul Dolan",
+        "Riverside"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:31:51+00:00",
+      "id": "3697f65623f0"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Preston’s historic Miller Arcade to become apartments",
+      "url": "https://placenorthwest.co.uk/prestons-historic-miller-arcade-to-become-apartments",
+      "published": "2026-08-10T09:34:51+00:00",
+      "excerpt": "Former office space will be repurposed into 46 flats under plans approved by the city council’s planning committee on Thursday. The post Preston’s historic Miller Arcade to become apartments appeared first on Place North West .",
+      "entities": [
+        "Preston’s",
+        "Miller Arcade",
+        "Former",
+        "Thursday. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:31:59+00:00",
+      "id": "eade6f787963"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "All-clear for Colne’s M&S Foodhall",
+      "url": "https://placenorthwest.co.uk/all-clear-for-colnes-ms-foodhall",
+      "published": "2026-08-10T08:57:07+00:00",
+      "excerpt": "A Pendle Council committee has rubber-stamped plans submitted by the retail heavyweight in conjunction with Monte Blackburn to develop a site close to the Boundary Mill designer outlet. The post All-clear for Colne’s M&S Foodhall appeared first on Place North West .",
+      "entities": [
+        "All-clear",
+        "Colne’s M&S Foodhall",
+        "Pendle Council",
+        "Monte Blackburn",
+        "Boundary Mill",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:31:59+00:00",
+      "id": "019f955899a8"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "UK housing market ‘not broken but barely breathing’",
+      "url": "https://propertyindustryeye.com/uk-housing-market-not-broken-but-barely-breathing",
+      "published": "2026-08-10T05:40:36+00:00",
+      "excerpt": "Industry figures react to the latest Lloyds House Price Index figures",
+      "entities": [
+        "Industry",
+        "Lloyds House Price Index"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:32:00+00:00",
+      "id": "40d8ba293349"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Winkworth launches High Court proceedings against non-exec chair",
+      "url": "https://propertyindustryeye.com/winkworth-launches-high-court-proceedings-against-non-exec-chair",
+      "published": "2026-08-10T05:38:31+00:00",
+      "excerpt": "Estate agency group alleges breaches of confidentiality and director duties",
+      "entities": [
+        "Winkworth",
+        "High Court",
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:32:00+00:00",
+      "id": "193ddde70ba7"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "House price growth slows to weakest rate since 2023",
+      "url": "https://propertyindustryeye.com/house-price-growth-slows-to-weakest-rate-since-2023",
+      "published": "2026-08-10T05:36:24+00:00",
+      "excerpt": "Average property value remains broadly unchanged at £299,253",
+      "entities": [
+        "House",
+        "Average"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:32:00+00:00",
+      "id": "83dc08fc54de"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "London renters need £74,520 salary for average property",
+      "url": "https://propertyindustryeye.com/london-renters-need-74520-salary-for-average-property",
+      "published": "2026-08-10T05:34:35+00:00",
+      "excerpt": "Required income rises 6.4% annually as monthly rent jumps 4.2%",
+      "entities": [
+        "London",
+        "Required"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:32:00+00:00",
+      "id": "ee9a749c042d"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Landlord database ‘must not add new burden to every instruction’",
+      "url": "https://propertyindustryeye.com/landlord-database-must-not-add-new-burden-to-every-instruction",
+      "published": "2026-08-10T05:32:57+00:00",
+      "excerpt": "Propertymark warns final design must reflect how letting agencies operate",
+      "entities": [
+        "Landlord",
+        "Propertymark"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:32:00+00:00",
+      "id": "cf3ac4783223"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Mortgage fraud rise is ‘worrying trend’ for property market",
+      "url": "https://propertyindustryeye.com/mortgage-fraud-rise-is-worrying-trend-for-property-market",
+      "published": "2026-08-10T05:30:49+00:00",
+      "excerpt": "Figures point to increases across every reported category",
+      "entities": [
+        "Mortgage",
+        "Figures"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:32:00+00:00",
+      "id": "eec921ab57cf"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "New tool gives agents early insight into sellers’ price expectations",
+      "url": "https://propertyindustryeye.com/new-tool-gives-agents-early-insight-into-sellers-price-expectations",
+      "published": "2026-08-10T05:28:53+00:00",
+      "excerpt": "Homeowners can respond to online valuations before agents make contact",
+      "entities": [
+        "Homeowners"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:32:00+00:00",
+      "id": "29365e8308e7"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Housebuilder marks 80th anniversary with brand refresh",
+      "url": "https://propertyindustryeye.com/housebuilder-marks-80th-anniversary-with-brand-refresh",
+      "published": "2026-08-10T05:26:53+00:00",
+      "excerpt": "New branding will begin appearing on developments this month",
+      "entities": [
+        "Housebuilder"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:32:00+00:00",
+      "id": "b472acdc716d"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Housing tech firms combine AI and human support for out-of-hours calls",
+      "url": "https://propertyindustryeye.com/housing-tech-firms-combine-ai-and-human-support-for-out-of-hours-calls",
+      "published": "2026-08-10T05:24:51+00:00",
+      "excerpt": "Partnership aims to filter routine enquiries while escalating emergencies",
+      "entities": [
+        "Housing",
+        "Partnership"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:32:00+00:00",
+      "id": "b1442084b985"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Share price slide as Winkworth family feud leaves agency in turmoil",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/share-price-slide-as-winkworth-family-feud-leaves-agency-in-turmoil",
+      "published": "2026-08-09T23:07:00+00:00",
+      "excerpt": "A year ago, Winkworth’s share price was 205p but it is now circa 170p.",
+      "entities": [
+        "Share",
+        "Winkworth",
+        "Winkworth’s"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:32:00+00:00",
+      "id": "e4392b1c17ce"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "South of England house prices fall as government heads north",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/south-of-england-house-prices-fall-as-government-heads-north",
+      "published": "2026-08-09T23:06:00+00:00",
+      "excerpt": "Prices fall in London and the south east",
+      "entities": [
+        "South of England",
+        "Prices",
+        "London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:32:00+00:00",
+      "id": "f74af1f613cb"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Sellers to suggest a price as part of online valuation",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/sellers-to-suggest-a-price-as-part-of-online-valuation",
+      "published": "2026-08-09T23:05:00+00:00",
+      "excerpt": "Sellers are also invited to comment on how they reached their suggested valuation",
+      "entities": [
+        "Sellers"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:32:00+00:00",
+      "id": "ac4cfe025214"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Budget tax chatter is hitting housing market says leading agent",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/budget-tax-chatter-is-hitting-housing-market-says-leading-agent",
+      "published": "2026-08-09T23:04:00+00:00",
+      "excerpt": "The Budget is not until October but speculation is rife",
+      "entities": [
+        "Budget",
+        "The Budget"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:32:00+00:00",
+      "id": "e3620aecdf73"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Mortgages blamed for housing market doldrums",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/mortgages-blamed-for-housing-market-doldrums",
+      "published": "2026-08-09T23:02:00+00:00",
+      "excerpt": "The remarks follow figures showing a stagnant housing market",
+      "entities": [
+        "Mortgages"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:32:00+00:00",
+      "id": "be772ad230bc"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agents Do Charity – a generous help for a hospice",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/agents-do-charity-a-generous-help-for-a-hospice",
+      "published": "2026-08-09T23:00:00+00:00",
+      "excerpt": "The hospice is a vital service for so many local families",
+      "entities": [
+        "Agents Do Charity"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:32:00+00:00",
+      "id": "e5b23790b284"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "BreakingNewsOpinioninformationsponsoredpodcastcolumnMTD deadline passes with thousands of landlords unregistered",
+      "url": "https://landlordzone.co.uk/news/mtd-deadline-passes-with-thousands-of-landlords-unregistered",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "BreakingNewsOpinioninformationsponsoredpodcastcolumnMTD"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-10T11:32:07+00:00",
+      "id": "82f0b3417233"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Young people and work: interim report",
+      "url": "https://gov.uk/government/publications/young-people-and-work-interim-report",
+      "published": "2026-08-10T10:30:47+00:00",
+      "excerpt": "The young people and work report is an independent review of the increase in the number of young people who are not in education, employment or training (NEET).",
+      "entities": [
+        "Young",
+        "NEET"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-10T11:32:08+00:00",
+      "id": "27a7a553d531"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Socio-economic impacts of night flying study",
+      "url": "https://gov.uk/government/publications/socio-economic-impacts-of-night-flying-study",
+      "published": "2026-08-10T08:30:01+00:00",
+      "excerpt": "Estimates the economic and social welfare impacts of night flights and how this would be impacted by changes to UK night flying policy.…",
+      "entities": [
+        "Socio-economic",
+        "Estimates"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-10T11:32:08+00:00",
+      "id": "82f150435491"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK trade in services asymmetries by partner country and service type: 2016 to 2024",
+      "url": "https://gov.uk/government/statistics/uk-trade-in-services-asymmetries-by-partner-country-and-service-type-2016-to-2024",
+      "published": "2026-08-10T08:30:01+00:00",
+      "excerpt": "Estimates of UK services asymmetries with bilateral partner countries, including a timeseries analysis of asymmetries from 2016 to 2024. These are official statistics in development.",
+      "entities": [
+        "Estimates of UK",
+        "These"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-10T11:32:08+00:00",
+      "id": "3e6919919488"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Monthly short-notice cancellations at UK Airports",
+      "url": "https://gov.uk/government/publications/monthly-short-notice-cancellations-at-uk-airports",
+      "published": "2026-08-10T08:00:05+00:00",
+      "excerpt": "A summary of the analysis conducted to calculate the number of passenger flights that were cancelled at short notice from May to July 2026.",
+      "entities": [
+        "Monthly",
+        "UK Airports"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-10T11:32:08+00:00",
+      "id": "058e9ff2354f"
+    }
+  ]
+}
