@@ -1,0 +1,560 @@
+{
+  "collected_at": "2026-08-11T10:38:03+00:00",
+  "date_london": "2026-08-11",
+  "counts": {
+    "seen_in_feeds": 67,
+    "new": 28,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 11,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 11"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 7,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 7"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 18,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 18"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 3,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 3"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 6,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 6"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Affordable starts in London triple in first quarter, figures reveal",
+      "url": "https://insidehousing.co.uk/home/affordable-starts-in-london-triple-in-first-quarter-figures-reveal-98312",
+      "published": "2026-08-11T10:33:22+00:00",
+      "excerpt": "Affordable housing starts in London more than tripled in the first quarter of the financial year, according to the latest figures from the Greater London Authority",
+      "entities": [
+        "Affordable",
+        "London",
+        "Greater London Authority"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:12+00:00",
+      "id": "236331dd5124"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Hyde strikes £100m deal with UAE-owned developer on London scheme",
+      "url": "https://insidehousing.co.uk/home/hyde-strikes-100m-deal-with-uae-owned-developer-on-london-scheme-98311",
+      "published": "2026-08-11T09:45:00+00:00",
+      "excerpt": "Hyde has agreed to pay £100m to a developer to forward-fund 337 homes on a major mixed-use scheme in south London",
+      "entities": [
+        "Hyde",
+        "UAE-owned",
+        "London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:12+00:00",
+      "id": "e18788b76704"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Firm selling sensors to social landlords acquires rival",
+      "url": "https://insidehousing.co.uk/home/firm-selling-sensors-to-social-landlords-acquires-rival-98273",
+      "published": "2026-08-11T08:56:41+00:00",
+      "excerpt": "A firm selling sensors to social landlords has acquired one of its rivals, and now aims to install the product in one million homes within five years",
+      "entities": [
+        "Firm"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:12+00:00",
+      "id": "eba4458a0761"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "People who are hard-of-hearing are having their safety and independence put at risk by badly designed developments",
+      "url": "https://insidehousing.co.uk/home/people-who-are-hard-of-hearing-are-having-their-safety-and-independence-put-at-risk-by-badly-designed-developments-98065",
+      "published": "2026-08-11T06:00:00+00:00",
+      "excerpt": "Housing intended for mixed communities and long lives must assume varied communication needs such as hearing loss, writes Alan Wright, senior architectural technologist at Boyer Design",
+      "entities": [
+        "People",
+        "Housing",
+        "Alan Wright",
+        "Boyer Design"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:12+00:00",
+      "id": "62190c9600fa"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Cheshire East refusal of 200 residences overturned",
+      "url": "https://placenorthwest.co.uk/cheshire-east-refusal-of-200-residences-overturned",
+      "published": "2026-08-11T10:13:39+00:00",
+      "excerpt": "Bloor Homes’ outline application for a residential development off Prestbury Road in Macclesfield was given the go-ahead by the Planning Inspectorate on Monday. The post Cheshire East refusal of 200 residences overturned appeared first on Place North West .",
+      "entities": [
+        "Cheshire East",
+        "Bloor Homes",
+        "Prestbury Road",
+        "Macclesfield",
+        "Planning Inspectorate",
+        "Monday. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:20+00:00",
+      "id": "1727f06a0cc0"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Casey Group lands £6m Longford Park work",
+      "url": "https://placenorthwest.co.uk/casey-group-lands-6m-longford-park-work",
+      "published": "2026-08-11T09:27:51+00:00",
+      "excerpt": "Having agreed terms on the contract with Trafford Council, the Rochdale-based firm will begin the renovation programme later this month. The post Casey Group lands £6m Longford Park work appeared first on Place North West .",
+      "entities": [
+        "Casey Group",
+        "Longford Park",
+        "Having",
+        "Trafford Council",
+        "Rochdale-based",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:20+00:00",
+      "id": "7c4ba12b9ea9"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Blackpool seeks Central Drive development partner",
+      "url": "https://placenorthwest.co.uk/blackpool-seeks-central-drive-development-partner",
+      "published": "2026-08-11T08:49:41+00:00",
+      "excerpt": "Early market engagement has been launched as the council looks to advance a housing-led regeneration programme backed by grant funding of £90.4m from Homes England. The post Blackpool seeks Central Drive development partner appeared first on Place North West .",
+      "entities": [
+        "Blackpool",
+        "Central Drive",
+        "Early",
+        "Homes England. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:20+00:00",
+      "id": "99b36855f50e"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Story to build £4.2m Cleator Moor community hub",
+      "url": "https://placenorthwest.co.uk/story-to-build-4-2m-cleator-moor-community-hub",
+      "published": "2026-08-10T15:23:39+00:00",
+      "excerpt": "Cumberland Council has appointed its principal contractor for the project, which will see the linking of the grade two-listed former Credit Union building town and library to create 10,800 sq ft facility with exhibition spaces, a youth activities area, and café. The post Story to build £4.2m Cleator Moor community hub appeared first on Place North West .",
+      "entities": [
+        "Story",
+        "Cleator Moor",
+        "Cumberland Council",
+        "Credit Union",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:20+00:00",
+      "id": "ea6d76eb4473"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Hyndburn signs off hospital clearance",
+      "url": "https://placenorthwest.co.uk/hyndburn-signs-off-hospital-clearance",
+      "published": "2026-08-10T13:41:29+00:00",
+      "excerpt": "Closed in 2024, Accrington’s Victoria Hospital will now be levelled, making way for replacement health facilities. The post Hyndburn signs off hospital clearance appeared first on Place North West .",
+      "entities": [
+        "Hyndburn",
+        "Closed",
+        "Accrington’s Victoria Hospital",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:20+00:00",
+      "id": "fdb97203dd01"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Prime Central London property prices have fallen 23% since 2015",
+      "url": "https://propertyindustryeye.com/prime-central-london-property-prices-have-fallen-23-since-2015",
+      "published": "2026-08-11T05:56:41+00:00",
+      "excerpt": "Prime London properties were twice as expensive before the EU referendum.",
+      "entities": [
+        "Prime Central London",
+        "Prime London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:21+00:00",
+      "id": "e520313adfe5"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "New listings outpaced sales agreed in July",
+      "url": "https://propertyindustryeye.com/new-listings-outpaced-sales-agreed-in-july",
+      "published": "2026-08-11T05:54:05+00:00",
+      "excerpt": "Listings are rising faster than sales",
+      "entities": [
+        "July. Listings"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:21+00:00",
+      "id": "11d89c04ec8e"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Mayor of London to fund Renters Rights Act enforcement officers",
+      "url": "https://propertyindustryeye.com/mayor-of-london-to-fund-renters-rights-act-enforcement-officers",
+      "published": "2026-08-11T05:52:25+00:00",
+      "excerpt": "The funding will go towards the training of newly recruited officers",
+      "entities": [
+        "Mayor of London",
+        "Renters Rights Act"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:21+00:00",
+      "id": "f605fe3a6014"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Tenants need to earn £75,000 to rent in London",
+      "url": "https://propertyindustryeye.com/tenants-need-to-earn-75000-to-rent-in-london",
+      "published": "2026-08-11T05:50:16+00:00",
+      "excerpt": "You need to earn £75,000 to rent in London",
+      "entities": [
+        "Tenants",
+        "London. You",
+        "London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:21+00:00",
+      "id": "8c988ee42c80"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Charity begins at home…with a home deposit",
+      "url": "https://propertyindustryeye.com/charity-begins-at-home-with-a-home-deposit",
+      "published": "2026-08-11T05:48:54+00:00",
+      "excerpt": "Bank of Mum and Dad and Grandparents becomes essential for first-time buyers",
+      "entities": [
+        "Charity",
+        "Bank of Mum and Dad and Grandparents"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:21+00:00",
+      "id": "3e9626ab4909"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Renters’ Rights compliance simplified with Form 4A automation",
+      "url": "https://propertyindustryeye.com/renters-rights-compliance-simplified-with-form-4a-automation",
+      "published": "2026-08-11T05:46:27+00:00",
+      "excerpt": "Regulation simplified",
+      "entities": [
+        "Renters’ Rights",
+        "Form",
+        "Regulation"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:21+00:00",
+      "id": "cd6c0e8335ee"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Reform-run council launches crackdown on HMO sector",
+      "url": "https://propertyindustryeye.com/reform-run-council-launches-crackdown-on-hmo-sector",
+      "published": "2026-08-11T05:44:07+00:00",
+      "excerpt": "HMO crackdown",
+      "entities": [
+        "Reform-run"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:21+00:00",
+      "id": "d745e4b5feef"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "New tool launched to check lease length and extension costs",
+      "url": "https://propertyindustryeye.com/new-tool-launched-to-check-lease-length-and-extension-costs",
+      "published": "2026-08-11T05:42:55+00:00",
+      "excerpt": "Lease extension cost estimates",
+      "entities": [
+        "Lease"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:21+00:00",
+      "id": "4c061c1bc056"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Rental homes in Manchester letting faster despite higher rents",
+      "url": "https://propertyindustryeye.com/rental-homes-in-manchester-letting-faster-despite-higher-rents",
+      "published": "2026-08-11T05:40:48+00:00",
+      "excerpt": "Manchester rentals in high demand",
+      "entities": [
+        "Rental",
+        "Manchester"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:21+00:00",
+      "id": "d72495e23d73"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Controversial new name for rebranded estate agency",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/controversial-new-name-as-agency-strips-back",
+      "published": "2026-08-10T23:05:00+00:00",
+      "excerpt": "It's a complete rethink of how an estate agency operates, it's claimed",
+      "entities": [
+        "Controversial",
+        "It's"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:21+00:00",
+      "id": "96fae0f44ae1"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Mortgage misery as lenders reverse earlier rate cuts",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/mortgage-misery-as-lenders-reverse-earlier-rate-cuts",
+      "published": "2026-08-10T23:04:00+00:00",
+      "excerpt": "The assessment comes from the respected Moneyfacts organisation",
+      "entities": [
+        "Mortgage",
+        "Moneyfacts"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:21+00:00",
+      "id": "61be09ccd550"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agent names key appointment to widen sales opportunities",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/agent-names-key-appointment-to-widen-sales-opportunities",
+      "published": "2026-08-10T23:03:00+00:00",
+      "excerpt": "There's an increased interest in auctions given the stagnant housing market",
+      "entities": [
+        "Agent",
+        "There's"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:21+00:00",
+      "id": "4674b6ffe261"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Platform links agents, lenders and conveyancers for quicker sales",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/platform-links-agents-lenders-and-conveyancers-for-quicker-sales",
+      "published": "2026-08-10T23:02:00+00:00",
+      "excerpt": "Fledgling PropTech firm myMoveToday has launched an AI-powered conveyancing and deal management platform. It says it’s built specifically to eliminate ‘pipeline friction’ and cut deal closing times, offering agents real-time chain visibility and automated document tracking. It says it connects the three core sales transaction stakeholders—estate agents, conveyancing solicitors, and mortgage…",
+      "entities": [
+        "Platform",
+        "Fledgling PropTech",
+        "AI-powered"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:21+00:00",
+      "id": "6d8f7e01c3fe"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Prime London property market revives – for now (Opinion)",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/prime-london-property-market-revives-for-now-opinion",
+      "published": "2026-08-10T23:01:00+00:00",
+      "excerpt": "It's better than last year - but that's a low bar",
+      "entities": [
+        "Prime London",
+        "Opinion",
+        "It's"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:21+00:00",
+      "id": "fc8a47b78d34"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agents Together beefs up mentoring activities",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/agents-together-beefs-up-mentoring-activities",
+      "published": "2026-08-10T23:00:00+00:00",
+      "excerpt": "Agents Together has appointed a Chief Matchmaker. Danielle Nash will lead the day-to-day operation of the mentoring programme. Her responsibilities will include matching mentors with mentees, supporting both sides throughout the relationship and strengthening engagement across the Agents Together community. She will also help shape the organisation’s presence at industry events and will represent…",
+      "entities": [
+        "Agents Together",
+        "Chief Matchmaker. Danielle Nash",
+        "Agents"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:21+00:00",
+      "id": "f990f0aaa3a9"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Landlords warned to build evidence before raising rents",
+      "url": "https://landlordzone.co.uk/news/landlords-warned-to-build-evidence-before-raising-rents",
+      "published": "2026-08-10T14:06:31+00:00",
+      "excerpt": "News - Helen Gregory - Landlords are being urged to gather tribunal-ready evidence to justify rent increases under the new Section 13 regime.",
+      "entities": [
+        "Landlords",
+        "News",
+        "Helen Gregory",
+        "Section"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:22+00:00",
+      "id": "50e0a52f1bc9"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Average London renter now needs to earn £74,520 a year",
+      "url": "https://landlordzone.co.uk/news/average-london-renter-now-needs-to-earn-ps74-520-a-year",
+      "published": "2026-08-10T13:53:28+00:00",
+      "excerpt": "News - Helen Gregory - Tenants need an annual salary of £74,520 to afford the average London home after monthly rents in the capital climbed to £2,484.",
+      "entities": [
+        "Average London",
+        "News",
+        "Helen Gregory",
+        "Tenants",
+        "London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:22+00:00",
+      "id": "501d83665efb"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Judge brands unlicensed landlord 'rogue' over dismissive attitude",
+      "url": "https://landlordzone.co.uk/news/judge-brands-unlicensed-landlord-rogue-over-dismissive-attitude",
+      "published": "2026-08-10T11:46:33+00:00",
+      "excerpt": "News - Helen Gregory - A tribunal has criticised a landlord who failed to license her rental property, describing her as dismissive of tenants’ concerns.",
+      "entities": [
+        "Judge",
+        "News",
+        "Helen Gregory"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-11T10:38:22+00:00",
+      "id": "ef7c76f2a9eb"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Pension Decumulation and Decision-making",
+      "url": "https://gov.uk/government/publications/pension-decumulation-and-decision-making",
+      "published": "2026-08-11T09:34:04+00:00",
+      "excerpt": "A report of findings from qualitative interviews with individuals aged 53 to 67 exploring how they understand, approach and make decisions about pension decumulation.",
+      "entities": [
+        "Pension Decumulation and Decision-making"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-11T10:38:23+00:00",
+      "id": "e738e712bc67"
+    }
+  ]
+}
