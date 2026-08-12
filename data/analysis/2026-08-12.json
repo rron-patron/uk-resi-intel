@@ -1,0 +1,721 @@
+{
+  "generated_at": "2026-08-12T11:12:42+00:00",
+  "date_label": "Wednesday 12 August 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n38 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Student housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "Continued",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Monthly",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Major",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Agents",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "PropTech",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Section",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Department",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Transport",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Water",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "England’s Rough Sleepers Initiative",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Teixeira",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Centre",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Homelessness Impact",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "UK’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "IN FOCUS",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Stockport’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Stockroom",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "6e2845c294f1": {
+      "id": "6e2845c294f1",
+      "importance": "Medium",
+      "summary": "The prime minister’s commitment could launch a new generation of England’s Rough Sleepers Initiative – and ending long-term rough sleeping is the right place to start, writes Lígia Teixeira, chief executive of the Centre",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "England’s Rough Sleepers Initiative",
+        "Teixeira",
+        "Centre",
+        "Homelessness Impact"
+      ],
+      "locations": []
+    },
+    "219126bdb146": {
+      "id": "219126bdb146",
+      "importance": "Medium",
+      "summary": "The boss of one of the UK’s biggest house builders has urged the government to cut stamp duty immediately to “stimulate demand” in the housing market",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Major",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    "6111f887d9e9": {
+      "id": "6111f887d9e9",
+      "importance": "Medium",
+      "summary": "A little over a year since opening its doors for the first time, Stockroom has welcomed more than a million visitors and contributed to a 15% rise in footfall at the council-owned Merseyway Shopping Centre. The post IN F",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "IN FOCUS",
+        "Stockport’s",
+        "Stockroom",
+        "Merseyway Shopping Centre. The"
+      ],
+      "locations": []
+    },
+    "de1fb90e9a6c": {
+      "id": "de1fb90e9a6c",
+      "importance": "Medium",
+      "summary": "A 1.5-acre former industrial site off Seaford Road with planning permission for a 412-bed student development is up for grabs. The post Team Quest searches for buyer for £5.5m Salford PBSA site appeared first on Place No",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Residential investment",
+        "Student housing"
+      ],
+      "companies": [
+        "Team Quest",
+        "Salford PBSA",
+        "Seaford Road",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "df7598693b5b": {
+      "id": "df7598693b5b",
+      "importance": "Medium",
+      "summary": "Oldham’s long-awaited gateway project is now on site, with Muse and the council’s appointed contractor beginning work on 75 affordable homes. The post Willmott Dixon makes start on Prince’s Gate appeared first on Place N",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Willmott Dixon",
+        "Prince’s Gate. Oldham’s",
+        "Muse",
+        "Prince’s Gate"
+      ],
+      "locations": []
+    },
+    "8d36b9e82271": {
+      "id": "8d36b9e82271",
+      "importance": "Medium",
+      "summary": "Nick Wiggans has been promoted to the senior position and will now lead the analysis and underwriting of the Macclesfield-based residential investor and developer’s capital allocation. The post Portfolio strategy directo",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Portfolio",
+        "Views. Nick Wiggans",
+        "Macclesfield-based",
+        "Views"
+      ],
+      "locations": []
+    },
+    "6e9e6203d608": {
+      "id": "6e9e6203d608",
+      "importance": "Medium",
+      "summary": "Blackbrook Hall and Oakwood Homes each had their applications approved by the local authority’s planning committee, meaning 51 residences are due to be built in Broughton and 63 in the city centre. The post Preston rubbe",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Preston",
+        "Blackbrook Hall and Oakwood Homes",
+        "Broughton",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "fa31ddd06e44": {
+      "id": "fa31ddd06e44",
+      "importance": "Medium",
+      "summary": "Outline planning permission has been granted for the development of a former off-road motorcycle track previously classed as Green Belt. The post Go-ahead secured for 94 Halton homes appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Go-ahead",
+        "Halton",
+        "Outline",
+        "Green Belt. The"
+      ],
+      "locations": []
+    },
+    "7f20e9f392b7": {
+      "id": "7f20e9f392b7",
+      "importance": "Medium",
+      "summary": "Robot wars",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents",
+        "AI-generated",
+        "Robot"
+      ],
+      "locations": []
+    },
+    "d79a5b66f481": {
+      "id": "d79a5b66f481",
+      "importance": "Medium",
+      "summary": "New build sales slow",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "653aa98ccee2": {
+      "id": "653aa98ccee2",
+      "importance": "Medium",
+      "summary": "Ask most estate agency owners how their business is doing and you’ll get an answer about fee income. Instructions up, exchanges up, a record month in Q2 etc. What you rarely hear first is the profit figure; and almost ne",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Instructions",
+        "What",
+        "Turnover",
+        "Profit"
+      ],
+      "locations": []
+    },
+    "f0c30e8faf07": {
+      "id": "f0c30e8faf07",
+      "importance": "Medium",
+      "summary": "Let’s be honest – no landlords signed up to become compliance officers, legal experts, or legislative gurus. They signed up to invest in property. And yet, the weight of the regulatory obligation that’s landed on their s",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Let’s",
+        "They",
+        "Renters’ Rights Act",
+        "Continued"
+      ],
+      "locations": []
+    },
+    "751883922251": {
+      "id": "751883922251",
+      "importance": "Medium",
+      "summary": "The journey of a first-time buyer can take you through a wealth of emotions, from excitement to anxiety, confidence to uncertainty, sometimes all in one day, but a new study from LPL, a firm of property lawyers, has foun",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Continued"
+      ],
+      "locations": []
+    },
+    "96f177c92147": {
+      "id": "96f177c92147",
+      "importance": "Medium",
+      "summary": "PropTech firm myMoveToday has launched an AI-powered conveyancing and deal management platform. It says it’s built specifically to eliminate ‘pipeline friction’ and cut deal closing times, offering agents real-time chain",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Interest rates & mortgages",
+        "Residential investment"
+      ],
+      "companies": [
+        "Platform",
+        "PropTech",
+        "AI-powered",
+        "Continued"
+      ],
+      "locations": []
+    },
+    "463e16b2d402": {
+      "id": "463e16b2d402",
+      "importance": "Medium",
+      "summary": "Tim O’Riordan – a popular estate agents that worked in the industry for 30 years – sadly passed away last week at the age of 61. Tim – along with Simon Bond – set up O’Riordan Bond in 1995, opening their first branch in ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Industry",
+        "Tim O’Riordan",
+        "Simon Bond",
+        "O’Riordan Bond"
+      ],
+      "locations": []
+    },
+    "ba0dddd8ef50": {
+      "id": "ba0dddd8ef50",
+      "importance": "Medium",
+      "summary": "Four out of five flat owners are struggling to sell their properties ‘within six months or so’, it has been revealed. Speaking on Radio 4’s Today Programme, Richard Donnell, executive director at Zoopla, highlighted the ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Four",
+        "Zoopla. Four",
+        "Speaking",
+        "Radio"
+      ],
+      "locations": []
+    },
+    "a8aa32f6884d": {
+      "id": "a8aa32f6884d",
+      "importance": "Medium",
+      "summary": "Typical new build homes in the South contain “hidden costs” of around £55,000, an influential thinktank estimates. The Centre for Policy Studies (CPS) says many buyers are unaware of the amounts built into the price of t",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders",
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Typical",
+        "South",
+        "The Centre",
+        "Policy Studies"
+      ],
+      "locations": []
+    },
+    "5224f1a5f88b": {
+      "id": "5224f1a5f88b",
+      "importance": "Medium",
+      "summary": "Buyer interest has fallen by a third in three years",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Taxes",
+        "Buyer"
+      ],
+      "locations": []
+    },
+    "85953c326081": {
+      "id": "85953c326081",
+      "importance": "Medium",
+      "summary": "myMoveToday is inviting agents to join its first cohort of users",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "PropTech"
+      ],
+      "locations": []
+    },
+    "d78afa350ca1": {
+      "id": "d78afa350ca1",
+      "importance": "Medium",
+      "summary": "This is according to the latest house price index from e.surv.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "North of England"
+      ],
+      "locations": []
+    },
+    "b8a3388c98a8": {
+      "id": "b8a3388c98a8",
+      "importance": "Medium",
+      "summary": "The agency says that, like sport, it's \"built around people, not processes\"",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agent"
+      ],
+      "locations": []
+    },
+    "bffdc1684d51": {
+      "id": "bffdc1684d51",
+      "importance": "Medium",
+      "summary": "It’s been discovered that a 19th-century estate agent used peepshow technology to create what historians are calling an early version of Rightmove Brooks and Green, a high-end estate agent based in Old Bond Street, Londo",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rightmove",
+        "It’s",
+        "Rightmove Brooks and Green",
+        "Old Bond Street"
+      ],
+      "locations": []
+    },
+    "ffb6fb6fe622": {
+      "id": "ffb6fb6fe622",
+      "importance": "Medium",
+      "summary": "Exhibitors want footfall and business from outside the south east",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Major",
+        "Exhibitors"
+      ],
+      "locations": []
+    },
+    "8e4e3ca61bbf": {
+      "id": "8e4e3ca61bbf",
+      "importance": "Medium",
+      "summary": "Column - Paul Shamplina - Section 21 is gone but getting your property back isn’t. Paul Shamplina outlines what landlords need to know about the new Section 8 reality.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Part",
+        "Column",
+        "Paul Shamplina",
+        "Section"
+      ],
+      "locations": []
+    },
+    "ca2866d95683": {
+      "id": "ca2866d95683",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Letting agents have started using AI to deal with increasingly sophisticated tenants’ complaints…generated by AI.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Agents",
+        "ChatGPT",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "4d0e82caae96": {
+      "id": "4d0e82caae96",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - The Supreme Court is to rule on a key Section 21 gas safety dispute which could affect scores of landlords’ possession claims.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "Supreme Court",
+        "Section",
+        "News"
+      ],
+      "locations": []
+    },
+    "f0c315d3f351": {
+      "id": "f0c315d3f351",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Leaseholders in England and Wales can use a new tool to find out how much time is left on their lease and to work out the cost of extending it.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Calculator",
+        "News",
+        "Helen Gregory",
+        "Leaseholders"
+      ],
+      "locations": []
+    },
+    "cfdece6e4d17": {
+      "id": "cfdece6e4d17",
+      "importance": "Medium",
+      "summary": "The latest data tables on local government finance.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Live"
+      ],
+      "locations": []
+    },
+    "49a766058515": {
+      "id": "49a766058515",
+      "importance": "Medium",
+      "summary": "UK and world shipping fleet statistical tables, produced by Department for Transport from data mostly supplied by IHS Global.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Shipping",
+        "Department",
+        "Transport",
+        "IHS Global"
+      ],
+      "locations": []
+    },
+    "bebfa36bd313": {
+      "id": "bebfa36bd313",
+      "importance": "Medium",
+      "summary": "Data on UK international and domestic sea passengers, produced by Department for Transport.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "SPAS",
+        "Data",
+        "Department",
+        "Transport"
+      ],
+      "locations": []
+    },
+    "1dea84ead4ba": {
+      "id": "1dea84ead4ba",
+      "importance": "Medium",
+      "summary": "Monthly statistics on UK international and domestic sea passengers.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Monthly"
+      ],
+      "locations": []
+    },
+    "30f129ec5c4f": {
+      "id": "30f129ec5c4f",
+      "importance": "Medium",
+      "summary": "Waves 5 and 6 of the Children’s People and Nature Survey ran between the 16 and 23 August 2023 (during the school holidays) and 18 and 26 September 2023 (during term-time). The survey aims to understand how children and ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Children’s People and Nature",
+        "Survey",
+        "Waves",
+        "Children’s People and Nature Survey"
+      ],
+      "locations": []
+    },
+    "f8d9e1e40684": {
+      "id": "f8d9e1e40684",
+      "importance": "Medium",
+      "summary": "To monitor transport activity on a timelier basis for topical issues relating to transport.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Developing"
+      ],
+      "locations": []
+    },
+    "6120f79a3429": {
+      "id": "6120f79a3429",
+      "importance": "Medium",
+      "summary": "Daily usage of selected domestic transport by mode for Great Britain.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Daily",
+        "Great Britain"
+      ],
+      "locations": []
+    },
+    "4187e10cbb02": {
+      "id": "4187e10cbb02",
+      "importance": "Medium",
+      "summary": "Monthly update to the UK Ship Register statistics on ships joining and leaving the UK Ship Register. The monthly statistics cover January 2015 to June 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK Ship Register Statistics",
+        "Monthly",
+        "UK Ship Register",
+        "UK Ship Register. The"
+      ],
+      "locations": []
+    },
+    "654680ed0f2c": {
+      "id": "654680ed0f2c",
+      "importance": "Medium",
+      "summary": "Monthly local reports on rainfall, soil moisture deficit, river flows, groundwater levels and reservoir levels.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Water",
+        "England. Monthly"
+      ],
+      "locations": []
+    },
+    "23e7fa98afe9": {
+      "id": "23e7fa98afe9",
+      "importance": "Medium",
+      "summary": "Documents accompanying the findings of the Community and Engagement Survey in 2025/26.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community and Engagement Survey",
+        "Documents"
+      ],
+      "locations": []
+    },
+    "b0f085bf399e": {
+      "id": "b0f085bf399e",
+      "importance": "Medium",
+      "summary": "Monthly reports on rainfall, soil moisture deficit, river flows, groundwater levels and reservoir levels.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Water",
+        "Monthly"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 38,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
