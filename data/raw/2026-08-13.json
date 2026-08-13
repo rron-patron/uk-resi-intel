@@ -1,0 +1,897 @@
+{
+  "collected_at": "2026-08-13T11:12:57+00:00",
+  "date_london": "2026-08-13",
+  "counts": {
+    "seen_in_feeds": 87,
+    "new": 47,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 7,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 7"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 10,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 10"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 18,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 18"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 13,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 13"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 9,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 9"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "NIHE to allow sale of land earmarked for social housing after lack of ‘viable’ bids",
+      "url": "https://insidehousing.co.uk/home/nihe-to-allow-sale-of-land-earmarked-for-social-housing-after-lack-of-viable-bids-98334",
+      "published": "2026-08-13T08:49:06+00:00",
+      "excerpt": "The Northern Ireland Housing Executive is set to allow the sale of the leasehold of a site it owns after receiving no “viable” bids to build social housing there",
+      "entities": [
+        "NIHE",
+        "The Northern Ireland Housing",
+        "Executive"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:06+00:00",
+      "id": "0f2ba84e5eb5"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "East Midlands landlord secures £140m deal with NatWest",
+      "url": "https://insidehousing.co.uk/home/east-midlands-landlord-secures-140m-deal-with-natwest-98340",
+      "published": "2026-08-13T09:05:53+00:00",
+      "excerpt": "Futures Housing Group has secured a £140m refinancing agreement with NatWest",
+      "entities": [
+        "East Midlands",
+        "NatWest. Futures Housing Group",
+        "NatWest"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:06+00:00",
+      "id": "3e8335867cc5"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Curo returns to surplus but sees operating margin slip to 11.5%",
+      "url": "https://insidehousing.co.uk/home/curo-returns-to-surplus-but-sees-operating-margin-slip-to-115-98329",
+      "published": "2026-08-12T13:45:00+00:00",
+      "excerpt": "Curo has returned to surplus, but saw a fall in turnover and a decline in its consolidated operating margin to 11.5%, placing it in the bottom quartile across the sector for that metric",
+      "entities": [
+        "Curo"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:06+00:00",
+      "id": "d5c40a4ca11d"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Forshaw, AND Capital form £185m Northern resi fund",
+      "url": "https://placenorthwest.co.uk/forshaw-and-capital-form-185m-northern-resi-fund",
+      "published": "2026-08-13T10:52:07+00:00",
+      "excerpt": "The Bolton-based developer has signed a letter of intent with the Canadian equity firm to scale up its delivery of homes and hotel rooms across the North of England. The post Forshaw, AND Capital form £185m Northern resi fund appeared first on Place North West .",
+      "entities": [
+        "Forshaw",
+        "AND Capital",
+        "The Bolton-based",
+        "Canadian",
+        "North of England. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:13+00:00",
+      "id": "5aca89f3c498"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "GM Mayor targets 10,000 new social homes by May 2028",
+      "url": "https://placenorthwest.co.uk/gm-mayor-targets-10000-new-social-homes-by-may-2028",
+      "published": "2026-08-13T09:07:55+00:00",
+      "excerpt": "A Greater Manchester public sector land bank will enable Mayor Bev Craig to make a sizeable dent in her overall goal to see 50,000 council and social homes built by 2039 – with a fifth due to be constructed, on site, or through planning within two years. The post GM Mayor targets 10,000 new social homes by May 2028 appeared first on Place North West .",
+      "entities": [
+        "GM Mayor",
+        "Greater Manchester",
+        "Mayor Bev Craig",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:13+00:00",
+      "id": "c2f894e9f020"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Grey Belt pitch made as 180-home Woodhouses scheme submitted",
+      "url": "https://placenorthwest.co.uk/grey-belt-pitch-made-as-180-home-woodhouses-scheme-submitted",
+      "published": "2026-08-12T15:09:44+00:00",
+      "excerpt": "North Lumb Farm wants to establish outline planning permission for a development north of the village, bringing it closer to Failsworth’s built-up area. The post Grey Belt pitch made as 180-home Woodhouses scheme submitted appeared first on Place North West .",
+      "entities": [
+        "Grey Belt",
+        "Woodhouses",
+        "North Lumb Farm",
+        "Failsworth’s",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:13+00:00",
+      "id": "05b147b1d932"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Cheshire Fresh puts in for 2,100 Crewe homes",
+      "url": "https://placenorthwest.co.uk/cheshire-fresh-puts-in-for-2100-crewe-homes",
+      "published": "2026-08-12T13:39:45+00:00",
+      "excerpt": "Land at Red Hall Farm close to Leighton Hospital is subject of the Weavers Green outline planning application, as the developer looks to expand Crewe to the north-west. The post Cheshire Fresh puts in for 2,100 Crewe homes appeared first on Place North West .",
+      "entities": [
+        "Cheshire Fresh",
+        "Crewe",
+        "Land",
+        "Red Hall Farm",
+        "Leighton Hospital",
+        "Weavers Green",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:13+00:00",
+      "id": "bbafc2689bb9"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Rayner criticized over £20k speaking fee at Propertymark event",
+      "url": "https://propertyindustryeye.com/rayner-criticized-over-20k-speaking-fee-at-propertymark-event",
+      "published": "2026-08-13T05:56:19+00:00",
+      "excerpt": "Angela Rayner has been criticized after accepting a £20,000 speaking fee from Propertymark. About 20 members of the London Renters Union gathered outside the Ministry of Housing, Communities and Local Government at 8:30am yesterday morning to present a novelty £20,001 cheque to Angela Rayner. The protest targeted her acceptance of a £20,000 speaking fee from … Continued",
+      "entities": [
+        "Rayner",
+        "Propertymark",
+        "Angela Rayner",
+        "Propertymark. About",
+        "London Renters Union",
+        "Ministry of Housing",
+        "Communities and Local Government",
+        "Angela Rayner. The"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "a9d77217360b"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Calls for clarity, new thresholds and reductions to SDLT",
+      "url": "https://propertyindustryeye.com/calls-for-clarity-new-thresholds-and-reductions-to-sdlt",
+      "published": "2026-08-13T05:54:06+00:00",
+      "excerpt": "The new Prime Minister’s swift decision to rule out abolishing Stamp Duty could help revive buyer activity following a month of political uncertainty, according to Adam Jennings, head of residential at Chestertons. The number of prospective buyers registering across Chestertons’ London-wide network fell by 22% year-on-year to 1,740 in July – the steepest decline since … Continued",
+      "entities": [
+        "Calls",
+        "SDLT. The",
+        "Prime Minister’s",
+        "Stamp Duty",
+        "Adam Jennings",
+        "Chestertons. The",
+        "Chestertons’ London-wide",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "c4af5c5e2f93"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Goodlord – do not joke about tenancy fraud",
+      "url": "https://propertyindustryeye.com/goodlord-do-not-joke-about-tenancy-fraud",
+      "published": "2026-08-13T05:52:01+00:00",
+      "excerpt": "A new fraud report by Goodlord, entitled “Tenancy fraud is no joke” reviewed a sample of over 1m completed references during the period April 2023 – July 2026, and found that AI Intelligence (AI) has made convincing payslips, bank statements, and employment references easier to create than ever before. Oli Sherlock, managing director of insurance … Continued",
+      "entities": [
+        "Goodlord",
+        "Tenancy",
+        "AI Intelligence",
+        "Oli Sherlock",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "ee0ebb0d99d9"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Affordable housing provider using AI to spot damp and mould",
+      "url": "https://propertyindustryeye.com/affordable-housing-provider-using-ai-to-spot-damp-and-mould",
+      "published": "2026-08-13T05:50:41+00:00",
+      "excerpt": "Affordable housing provider, Stonewater, has partnered with AI specialist SPOTR to build a new approach to property management. The SPOTR AI image analysis platform is helping Stonewater improve the speed and regularity of risk assessment using uploaded and open-source images. SPOTR’s software has been developed and trained to assess photographs from in and around properties … Continued",
+      "entities": [
+        "Affordable",
+        "Stonewater",
+        "SPOTR",
+        "The SPOTR AI",
+        "SPOTR’s",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "8082c282c54a"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Knight Frank reports summer surge in London sales market",
+      "url": "https://propertyindustryeye.com/knight-frank-reports-summer-surge-in-london-sales-market",
+      "published": "2026-08-13T05:48:13+00:00",
+      "excerpt": "Knight Frank’s London sales team has reported a significant uplift in activity across the mainstream housing market this summer, defying the usual seasonal slowdown as committed, needs-based buyers continue to push ahead with transactions. New data from Knight Frank shows that the number of exchanges across London’s mainstream market increased by 15% in the three … Continued",
+      "entities": [
+        "Knight Frank",
+        "London",
+        "Knight Frank’s London",
+        "London’s",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "09e5a8279388"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "As rental supply shrinks, where do renters compete the most?",
+      "url": "https://propertyindustryeye.com/as-rental-supply-shrinks-where-do-renters-compete-the-most",
+      "published": "2026-08-13T05:46:29+00:00",
+      "excerpt": "The UK’s tightest rental markets aren’t necessarily the most affordable. Demand is highest at both ends of the market, price wise, with some flatsharers chasing affordability, and some willing to pay a premium for lifestyle and connectivity. That’s according to Q2 2026 demand data from flatshare site SpareRoom. The highest demand for rooms is in … Continued",
+      "entities": [
+        "The UK’s",
+        "Demand",
+        "That’s",
+        "SpareRoom. The",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "fb9875e899fe"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Agents need to talk says The Guild as it plans UK tour",
+      "url": "https://propertyindustryeye.com/agents-need-to-talk-says-the-guild-as-it-plans-uk-tour",
+      "published": "2026-08-13T05:44:24+00:00",
+      "excerpt": "The Guild of Property Professionals is taking its community on the road this autumn, bringing Members together for a nationwide series of regional meetings designed to create space for honest conversations, shared experiences and practical support between independent agents. Starting in Exeter on 7 September, the tour will visit locations across the UK until 19 … Continued",
+      "entities": [
+        "Agents",
+        "The Guild",
+        "The Guild of Property Professionals",
+        "Members",
+        "Starting",
+        "Exeter",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "e2065ee64052"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Void periods shorten after Renters’ Rights Act",
+      "url": "https://propertyindustryeye.com/void-periods-shorten-after-renters-rights-act",
+      "published": "2026-08-13T05:42:37+00:00",
+      "excerpt": "Void periods have shortened since the Renters’ Rights Act was introduced in May, according to new research. Average voids across England have eased, suggesting that landlords are beginning to adapt to the new laws, property management firm Rushbrook & Rathbone says. Many property owners are using this period of change as an opportunity to ensure … Continued",
+      "entities": [
+        "Void",
+        "Renters’ Rights Act. Void",
+        "Renters’ Rights Act",
+        "Average",
+        "Rushbrook",
+        "Rathbone",
+        "Many",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "05c5f35c50ca"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Bristol still England’s Japanese knotweed capital",
+      "url": "https://propertyindustryeye.com/bristol-still-englands-japanese-knotweed-capital",
+      "published": "2026-08-13T05:40:01+00:00",
+      "excerpt": "Bristol has retained its position as England’s leading Japanese knotweed hotspot, recording more than twice the infestation density of any other area. Analysis by Environet identified 1,324 incidences across Bristol, equivalent to 32.29 per square mile. Merseyside ranked second at 13.45 per square mile, followed by Greater London at 7.67. Greater Manchester and Lancashire completed the … Continued",
+      "entities": [
+        "Bristol",
+        "England’s Japanese",
+        "England’s",
+        "Japanese",
+        "Analysis",
+        "Environet",
+        "Merseyside",
+        "Greater London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "d32f1b429c5b"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "New row over Angela Rayner’s £20k fee from Propertymark",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/rayners-20k-fee-from-propertymark-is-back-in-the-headlines",
+      "published": "2026-08-12T23:06:00+00:00",
+      "excerpt": "She's been presented with a parody scheme to emulate a 'lobby fee'",
+      "entities": [
+        "Angela Rayner’s",
+        "Propertymark. She's"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "82db2b757711"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Downbeat RICS report points to a disappointing autumn market",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/downbeat-rics-report-points-to-a-disappointing-autumn-market",
+      "published": "2026-08-12T23:05:00+00:00",
+      "excerpt": "Little sign of a meaningful recovery, say RICS of the housing market",
+      "entities": [
+        "Downbeat RICS",
+        "Little",
+        "RICS"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "0587027f85e5"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Stamp Duty remains a nice little earner for Burnham",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/stamp-duty-remains-a-nice-little-earner-for-burnham",
+      "published": "2026-08-12T23:04:00+00:00",
+      "excerpt": "The housing market may be struggling but HM Treasury is raking in stamp duty",
+      "entities": [
+        "Stamp Duty",
+        "Burnham. The",
+        "HM Treasury"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "fa12b98de13f"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Autumn road tour as agency trade group meets members",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/autumn-road-tour-as-agency-trade-group-meets-members",
+      "published": "2026-08-12T23:03:00+00:00",
+      "excerpt": "The tour starts in just three weeks time",
+      "entities": [
+        "Autumn"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "41585671e895"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "London’s prime housing market agony continues",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/londons-prime-housing-market-agony-continues",
+      "published": "2026-08-12T23:02:00+00:00",
+      "excerpt": "More depressing data from LonRes",
+      "entities": [
+        "London’s",
+        "More",
+        "LonRes"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "c5af7917486c"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Upscale UK agency brand opens new overseas office",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/upscale-uk-agency-brand-opens-new-overseas-office",
+      "published": "2026-08-12T23:01:00+00:00",
+      "excerpt": "Fine & Country now has licences in over 300 locations worldwide",
+      "entities": [
+        "Upscale UK",
+        "Fine",
+        "Country"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "b4e54a0f4a0f"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Winkworth family feud put on ice as warring parties talk",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/winkworth-family-feud-put-on-ice-as-warring-parties-talk",
+      "published": "2026-08-12T14:17:13+00:00",
+      "excerpt": "Winkworth has issued an update on the extraordinary family feud that has boiled over into legal action. A statement from the firm says Simon Agace – the non-executive chairman – has provided “undertakings to the company, restricting him from taking or encouraging steps to remove or appoint directors without seven days’ written notice and not […]",
+      "entities": [
+        "Winkworth",
+        "Simon Agace"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "aacf54663b4e"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Tenants confront Rayner over £20,000 speaking fee",
+      "url": "https://landlordzone.co.uk/news/tenants-confront-rayner-over-ps20-000-speaking-fee",
+      "published": "2026-08-13T10:22:13+00:00",
+      "excerpt": "News - Helen Gregory - Protesting tenants in London turned up at Housing Secretary Angela Rayner’s office to hand her a cheque for £20,001.",
+      "entities": [
+        "Tenants",
+        "Rayner",
+        "News",
+        "Helen Gregory",
+        "Protesting",
+        "London",
+        "Housing Secretary Angela Rayner’s"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "0e55e6cef298"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Landlords feel unfairly blamed for housing crisis",
+      "url": "https://landlordzone.co.uk/news/landlords-feel-unfairly-blamed-for-housing-crisis",
+      "published": "2026-08-12T16:51:11+00:00",
+      "excerpt": "News - Helen Gregory - An increasingly stressed landlord community feel they are becoming a convenient scapegoat for many of housing problems.",
+      "entities": [
+        "Landlords",
+        "News",
+        "Helen Gregory"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "973aa85e9785"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Landlords face longer gaps between tenancies than a year ago",
+      "url": "https://landlordzone.co.uk/news/landlords-face-longer-gaps-between-tenancies-than-a-year-ago",
+      "published": "2026-08-12T16:40:00+00:00",
+      "excerpt": "News - Helen Gregory - The average rental void period in England has eased since the Renters’ Rights Act came in and now stands at 21 days.",
+      "entities": [
+        "Landlords",
+        "News",
+        "Helen Gregory",
+        "Renters’ Rights Act"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "8f63d3c822ac"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Property118 v HMRC revisited: what the judgment found",
+      "url": "https://landlordzone.co.uk/news/property118-v-hmrc-revisited-what-the-judgment-found",
+      "published": "2026-08-12T13:57:01+00:00",
+      "excerpt": "News - Tom Entwistle - The First-tier Tribunal’s ruled that Property118’s incorporation planning did not need to be disclosed under HMRCs Disclosure of Tax Avoidance",
+      "entities": [
+        "HMRC",
+        "News",
+        "Tom Entwistle",
+        "The First-tier Tribunal’s",
+        "HMRCs Disclosure of Tax Avoidance"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "ddd980c4552b"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Landlords offered cash to make homes greener in lease scheme",
+      "url": "https://landlordzone.co.uk/news/landlords-offered-cash-to-make-homes-greener-in-lease-scheme",
+      "published": "2026-08-12T12:29:16+00:00",
+      "excerpt": "News - Helen Gregory - Landlords in Brighton & Hove are getting cash to fund EPC improvements - if they help solve the city’s temporary accommodation shortage.",
+      "entities": [
+        "Landlords",
+        "News",
+        "Helen Gregory",
+        "Brighton",
+        "Hove"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-13T11:13:15+00:00",
+      "id": "827790c88d75"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Latest cattle, sheep and pig slaughter statistics",
+      "url": "https://gov.uk/government/statistics/cattle-sheep-and-pig-slaughter",
+      "published": "2026-08-13T08:30:11+00:00",
+      "excerpt": "Monthly UK statistics on cattle, sheep and pig slaughter and meat production.",
+      "entities": [
+        "Latest",
+        "Monthly UK"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-13T11:13:16+00:00",
+      "id": "4b94873d3e9c"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Mortgage and landlord possession statistics: April to June 2026",
+      "url": "https://gov.uk/government/statistics/mortgage-and-landlord-possession-statistics-april-to-june-2026",
+      "published": "2026-08-13T08:30:10+00:00",
+      "excerpt": "Quarterly National Statistics on possession claim actions in county courts by mortgage lenders and social and private landlords.",
+      "entities": [
+        "Mortgage",
+        "Quarterly National Statistics"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-13T11:13:16+00:00",
+      "id": "0e7e6cbe6b61"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Energy Trends: UK renewables",
+      "url": "https://gov.uk/government/statistics/energy-trends-section-6-renewables",
+      "published": "2026-08-13T08:30:10+00:00",
+      "excerpt": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
+      "entities": [
+        "Energy Trends",
+        "Data",
+        "UK’s"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-13T11:13:16+00:00",
+      "id": "e7702d3e1ad6"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Historical statistics notices on the number of cattle, sheep and pigs slaughtered in the UK, 2026",
+      "url": "https://gov.uk/government/statistics/historical-statistics-notices-on-the-number-of-cattle-sheep-and-pigs-slaughtered-in-the-uk-2026",
+      "published": "2026-08-13T08:30:10+00:00",
+      "excerpt": "Previously published copies of the monthly Accredited Official statistics publication on the number of cattle, sheep and pigs slaughtered in the UK.",
+      "entities": [
+        "Historical",
+        "Previously",
+        "Accredited Official"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-13T11:13:16+00:00",
+      "id": "a4c7edcbdb8d"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Surveillance of respiratory syncytial virus: winter 2024 to 2025",
+      "url": "https://gov.uk/government/publications/surveillance-of-respiratory-syncytial-virus-winter-2024-to-2025",
+      "published": "2026-08-13T08:30:10+00:00",
+      "excerpt": "An annual overview of respiratory syncytial virus (RSV) surveillance results from the winter period.",
+      "entities": [
+        "Surveillance"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-13T11:13:16+00:00",
+      "id": "365c54be135c"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Monthly entry clearance visa applications: July 2026",
+      "url": "https://gov.uk/government/statistics/monthly-entry-clearance-visa-applications-july-2026",
+      "published": "2026-08-13T08:30:10+00:00",
+      "excerpt": "Statistics on visa applications for people coming to the UK for work, study and family reasons.…",
+      "entities": [
+        "Monthly",
+        "Statistics"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-13T11:13:16+00:00",
+      "id": "0fbf4d8bca2d"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Qualification results in England: summer 2026",
+      "url": "https://gov.uk/government/publications/qualification-results-in-england-summer-2026",
+      "published": "2026-08-13T08:30:09+00:00",
+      "excerpt": "Results issued for GCSEs, AS and A Levels, vocational and technical qualifications included in performance tables (applied generals, tech levels, technical awards and technical certificates), and the technical qualification …",
+      "entities": [
+        "Qualification",
+        "Results",
+        "GCSEs",
+        "Levels"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-13T11:13:16+00:00",
+      "id": "e33d47a5beef"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Animal feed prices",
+      "url": "https://gov.uk/government/statistical-data-sets/animal-feed-prices",
+      "published": "2026-08-13T08:30:09+00:00",
+      "excerpt": "Series of straights and compound animal feed prices across Great Britain.…",
+      "entities": [
+        "Animal",
+        "Series",
+        "Great Britain"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-13T11:13:16+00:00",
+      "id": "1bca28ebbdaf"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK overseas trade in goods statistics: June 2026",
+      "url": "https://gov.uk/government/statistics/uk-overseas-trade-in-goods-statistics-june-2026",
+      "published": "2026-08-13T08:30:08+00:00",
+      "excerpt": "…This publication provides details of the overseas trade in goods statistics (OTS) of the UK. They are a comprehensive dataset covering the UK's trade in goods at country and product level.…",
+      "entities": [
+        "UK. They",
+        "UK's"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-13T11:13:16+00:00",
+      "id": "c1a6304935fb"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Statutory homelessness in England: January to March 2026",
+      "url": "https://gov.uk/government/statistics/statutory-homelessness-in-england-january-to-march-2026",
+      "published": "2026-08-13T08:30:08+00:00",
+      "excerpt": "Accredited official statistics on statutory homelessness applications, duties, and outcomes for local authorities in England.",
+      "entities": [
+        "Statutory",
+        "Accredited"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-13T11:13:16+00:00",
+      "id": "93fcb3435b9d"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Surveillance of respiratory syncytial virus: winter 2025 to 2026",
+      "url": "https://gov.uk/government/publications/surveillance-of-respiratory-syncytial-virus-winter-2025-to-2026",
+      "published": "2026-08-13T08:30:08+00:00",
+      "excerpt": "An annual overview of respiratory syncytial virus (RSV) surveillance results from the winter period.",
+      "entities": [
+        "Surveillance"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-13T11:13:16+00:00",
+      "id": "6aa217507c09"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Local authority revenue expenditure and financing England: Revenue outturn multi-year data set",
+      "url": "https://gov.uk/government/statistics/local-authority-revenue-expenditure-and-financing-england-revenue-outturn-multi-year-data-set",
+      "published": "2026-08-13T08:30:08+00:00",
+      "excerpt": "Revenue Outturn time series data set covering 2017-18 to 2024-25.",
+      "entities": [
+        "Local",
+        "Revenue",
+        "Revenue Outturn"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-13T11:13:16+00:00",
+      "id": "e17215f608c9"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK overseas trade in goods statistics June 2026: import and export data",
+      "url": "https://gov.uk/government/statistical-data-sets/uk-overseas-trade-in-goods-statistics-june-2026-import-and-export-data",
+      "published": "2026-08-13T08:30:08+00:00",
+      "excerpt": "EU and non-EU import and export data for June 2026.",
+      "entities": [],
+      "kind": "data",
+      "collected_at": "2026-08-13T11:13:16+00:00",
+      "id": "761854051065"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Local authority revenue expenditure and financing England: 2022 to 2023 - final release",
+      "url": "https://gov.uk/government/statistics/local-authority-revenue-expenditure-and-financing-england-2022-to-2023-third-release",
+      "published": "2026-08-13T08:30:08+00:00",
+      "excerpt": "Final outturn estimates of local authority revenue expenditure and financing for 2022 to 2023.",
+      "entities": [
+        "Local",
+        "Final"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-13T11:13:16+00:00",
+      "id": "b5db1dfb9518"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Economic activity and social change in the UK, real-time indicators: 13 August 2026",
+      "url": "https://gov.uk/government/statistics/economic-activity-and-social-change-in-the-uk-real-time-indicators-13-august-2026",
+      "published": "2026-08-13T08:30:06+00:00",
+      "excerpt": "Early experimental data and analysis on economic activity and social change in the UK. These real-time indicators are created using rapid response surveys, novel data sources and experimental methods.",
+      "entities": [
+        "Economic",
+        "Early",
+        "UK. These"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-13T11:13:16+00:00",
+      "id": "e3362207e752"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Business Investment in the UK: April to June 2026 provisional results",
+      "url": "https://gov.uk/government/statistics/business-investment-in-the-uk-april-to-june-2026-provisional-results",
+      "published": "2026-08-13T08:30:06+00:00",
+      "excerpt": "Estimates of short-term indicators of investment in non-financial assets; business investment, and asset and sector breakdowns of total gross fixed capital formation",
+      "entities": [
+        "Business Investment",
+        "Estimates"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-13T11:13:16+00:00",
+      "id": "3f489daa8bd6"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "GDP first quarterly estimate, UK: April to June 2026",
+      "url": "https://gov.uk/government/statistics/gdp-first-quarterly-estimate-uk-april-to-june-2026",
+      "published": "2026-08-13T06:00:03+00:00",
+      "excerpt": "…Contains current and constant price data on the value of goods and services to indicate the economic performance of the UK.",
+      "entities": [
+        "Contains"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-13T11:13:16+00:00",
+      "id": "42ff4157a24b"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK Trade: June 2026",
+      "url": "https://gov.uk/government/statistics/uk-trade-june-2026",
+      "published": "2026-08-13T06:00:03+00:00",
+      "excerpt": "Total value of UK exports and imports of goods and services in current prices, chained volume measures and implied deflators.",
+      "entities": [
+        "UK Trade",
+        "Total"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-13T11:13:16+00:00",
+      "id": "bd76a31bebd7"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Construction output in Great Britain: June 2026, new orders and Construction Output Price Indices, April to June 2026",
+      "url": "https://gov.uk/government/statistics/construction-output-in-great-britain-june-2026-new-orders-and-construction-output-price-indices-april-to-june-2026",
+      "published": "2026-08-13T06:00:03+00:00",
+      "excerpt": "Short-term measures of output by the construction industry, contracts awarded for new construction work in Great Britain and a summary of the Construction Output Price Indices (OPIs) in the UK for Quarter 2 (April to June) 2026.",
+      "entities": [
+        "Construction",
+        "Great Britain",
+        "Construction Output Price Indices",
+        "Short-term",
+        "OPIs",
+        "Quarter"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-13T11:13:16+00:00",
+      "id": "0f7adac119d5"
+    }
+  ]
+}

@@ -1,0 +1,830 @@
+{
+  "generated_at": "2026-08-13T11:13:22+00:00",
+  "date_label": "Thursday 13 August 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n47 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 6,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 6,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Continued",
+      "type": "Other",
+      "mentions": 7,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Landlords",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Rayner",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Stamp Duty",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "London’s",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Renters’ Rights Act",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Surveillance",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Great Britain",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Local",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "NIHE",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Northern Ireland Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Executive",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "East Midlands",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "NatWest. Futures Housing Group",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "NatWest",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Curo",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "0f2ba84e5eb5": {
+      "id": "0f2ba84e5eb5",
+      "importance": "Medium",
+      "summary": "The Northern Ireland Housing Executive is set to allow the sale of the leasehold of a site it owns after receiving no “viable” bids to build social housing there",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "NIHE",
+        "The Northern Ireland Housing",
+        "Executive"
+      ],
+      "locations": []
+    },
+    "3e8335867cc5": {
+      "id": "3e8335867cc5",
+      "importance": "Medium",
+      "summary": "Futures Housing Group has secured a £140m refinancing agreement with NatWest",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "East Midlands",
+        "NatWest. Futures Housing Group",
+        "NatWest"
+      ],
+      "locations": []
+    },
+    "d5c40a4ca11d": {
+      "id": "d5c40a4ca11d",
+      "importance": "Medium",
+      "summary": "Curo has returned to surplus, but saw a fall in turnover and a decline in its consolidated operating margin to 11.5%, placing it in the bottom quartile across the sector for that metric",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Curo"
+      ],
+      "locations": []
+    },
+    "5aca89f3c498": {
+      "id": "5aca89f3c498",
+      "importance": "Medium",
+      "summary": "The Bolton-based developer has signed a letter of intent with the Canadian equity firm to scale up its delivery of homes and hotel rooms across the North of England. The post Forshaw, AND Capital form £185m Northern resi",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Forshaw",
+        "AND Capital",
+        "The Bolton-based",
+        "Canadian"
+      ],
+      "locations": []
+    },
+    "c2f894e9f020": {
+      "id": "c2f894e9f020",
+      "importance": "Medium",
+      "summary": "A Greater Manchester public sector land bank will enable Mayor Bev Craig to make a sizeable dent in her overall goal to see 50,000 council and social homes built by 2039 – with a fifth due to be constructed, on site, or ",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Housing supply"
+      ],
+      "companies": [
+        "GM Mayor",
+        "Greater Manchester",
+        "Mayor Bev Craig",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "05b147b1d932": {
+      "id": "05b147b1d932",
+      "importance": "Medium",
+      "summary": "North Lumb Farm wants to establish outline planning permission for a development north of the village, bringing it closer to Failsworth’s built-up area. The post Grey Belt pitch made as 180-home Woodhouses scheme submitt",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Grey Belt",
+        "Woodhouses",
+        "North Lumb Farm",
+        "Failsworth’s"
+      ],
+      "locations": []
+    },
+    "bbafc2689bb9": {
+      "id": "bbafc2689bb9",
+      "importance": "Medium",
+      "summary": "Land at Red Hall Farm close to Leighton Hospital is subject of the Weavers Green outline planning application, as the developer looks to expand Crewe to the north-west. The post Cheshire Fresh puts in for 2,100 Crewe hom",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Cheshire Fresh",
+        "Crewe",
+        "Land",
+        "Red Hall Farm"
+      ],
+      "locations": []
+    },
+    "a9d77217360b": {
+      "id": "a9d77217360b",
+      "importance": "Medium",
+      "summary": "Angela Rayner has been criticized after accepting a £20,000 speaking fee from Propertymark. About 20 members of the London Renters Union gathered outside the Ministry of Housing, Communities and Local Government at 8:30a",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Rayner",
+        "Propertymark",
+        "Angela Rayner",
+        "Propertymark. About"
+      ],
+      "locations": []
+    },
+    "c4af5c5e2f93": {
+      "id": "c4af5c5e2f93",
+      "importance": "Medium",
+      "summary": "The new Prime Minister’s swift decision to rule out abolishing Stamp Duty could help revive buyer activity following a month of political uncertainty, according to Adam Jennings, head of residential at Chestertons. The n",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Calls",
+        "SDLT. The",
+        "Prime Minister’s",
+        "Stamp Duty"
+      ],
+      "locations": []
+    },
+    "ee0ebb0d99d9": {
+      "id": "ee0ebb0d99d9",
+      "importance": "Medium",
+      "summary": "A new fraud report by Goodlord, entitled “Tenancy fraud is no joke” reviewed a sample of over 1m completed references during the period April 2023 – July 2026, and found that AI Intelligence (AI) has made convincing pays",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Goodlord",
+        "Tenancy",
+        "AI Intelligence",
+        "Oli Sherlock"
+      ],
+      "locations": []
+    },
+    "8082c282c54a": {
+      "id": "8082c282c54a",
+      "importance": "Medium",
+      "summary": "Affordable housing provider, Stonewater, has partnered with AI specialist SPOTR to build a new approach to property management. The SPOTR AI image analysis platform is helping Stonewater improve the speed and regularity ",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Affordable",
+        "Stonewater",
+        "SPOTR",
+        "The SPOTR AI"
+      ],
+      "locations": []
+    },
+    "09e5a8279388": {
+      "id": "09e5a8279388",
+      "importance": "Medium",
+      "summary": "Knight Frank’s London sales team has reported a significant uplift in activity across the mainstream housing market this summer, defying the usual seasonal slowdown as committed, needs-based buyers continue to push ahead",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Knight Frank",
+        "London",
+        "Knight Frank’s London",
+        "London’s"
+      ],
+      "locations": []
+    },
+    "fb9875e899fe": {
+      "id": "fb9875e899fe",
+      "importance": "Medium",
+      "summary": "The UK’s tightest rental markets aren’t necessarily the most affordable. Demand is highest at both ends of the market, price wise, with some flatsharers chasing affordability, and some willing to pay a premium for lifest",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Affordable housing"
+      ],
+      "companies": [
+        "The UK’s",
+        "Demand",
+        "That’s",
+        "SpareRoom. The"
+      ],
+      "locations": []
+    },
+    "e2065ee64052": {
+      "id": "e2065ee64052",
+      "importance": "Medium",
+      "summary": "The Guild of Property Professionals is taking its community on the road this autumn, bringing Members together for a nationwide series of regional meetings designed to create space for honest conversations, shared experi",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents",
+        "The Guild",
+        "The Guild of Property Professionals",
+        "Members"
+      ],
+      "locations": []
+    },
+    "05c5f35c50ca": {
+      "id": "05c5f35c50ca",
+      "importance": "Medium",
+      "summary": "Void periods have shortened since the Renters’ Rights Act was introduced in May, according to new research. Average voids across England have eased, suggesting that landlords are beginning to adapt to the new laws, prope",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Void",
+        "Renters’ Rights Act. Void",
+        "Renters’ Rights Act",
+        "Average"
+      ],
+      "locations": []
+    },
+    "d32f1b429c5b": {
+      "id": "d32f1b429c5b",
+      "importance": "Medium",
+      "summary": "Bristol has retained its position as England’s leading Japanese knotweed hotspot, recording more than twice the infestation density of any other area. Analysis by Environet identified 1,324 incidences across Bristol, equ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Bristol",
+        "England’s Japanese",
+        "England’s",
+        "Japanese"
+      ],
+      "locations": []
+    },
+    "82db2b757711": {
+      "id": "82db2b757711",
+      "importance": "Medium",
+      "summary": "She's been presented with a parody scheme to emulate a 'lobby fee'",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Angela Rayner’s",
+        "Propertymark. She's"
+      ],
+      "locations": []
+    },
+    "0587027f85e5": {
+      "id": "0587027f85e5",
+      "importance": "Medium",
+      "summary": "Little sign of a meaningful recovery, say RICS of the housing market",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Downbeat RICS",
+        "Little",
+        "RICS"
+      ],
+      "locations": []
+    },
+    "fa12b98de13f": {
+      "id": "fa12b98de13f",
+      "importance": "Medium",
+      "summary": "The housing market may be struggling but HM Treasury is raking in stamp duty",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Stamp Duty",
+        "Burnham. The",
+        "HM Treasury"
+      ],
+      "locations": []
+    },
+    "41585671e895": {
+      "id": "41585671e895",
+      "importance": "Medium",
+      "summary": "The tour starts in just three weeks time",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Autumn"
+      ],
+      "locations": []
+    },
+    "c5af7917486c": {
+      "id": "c5af7917486c",
+      "importance": "Medium",
+      "summary": "More depressing data from LonRes",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "London’s",
+        "More",
+        "LonRes"
+      ],
+      "locations": []
+    },
+    "b4e54a0f4a0f": {
+      "id": "b4e54a0f4a0f",
+      "importance": "Medium",
+      "summary": "Fine & Country now has licences in over 300 locations worldwide",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Upscale UK",
+        "Fine",
+        "Country"
+      ],
+      "locations": []
+    },
+    "aacf54663b4e": {
+      "id": "aacf54663b4e",
+      "importance": "Medium",
+      "summary": "Winkworth has issued an update on the extraordinary family feud that has boiled over into legal action. A statement from the firm says Simon Agace – the non-executive chairman – has provided “undertakings to the company,",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Winkworth",
+        "Simon Agace"
+      ],
+      "locations": []
+    },
+    "0e55e6cef298": {
+      "id": "0e55e6cef298",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Protesting tenants in London turned up at Housing Secretary Angela Rayner’s office to hand her a cheque for £20,001.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Tenants",
+        "Rayner",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "973aa85e9785": {
+      "id": "973aa85e9785",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - An increasingly stressed landlord community feel they are becoming a convenient scapegoat for many of housing problems.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "8f63d3c822ac": {
+      "id": "8f63d3c822ac",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - The average rental void period in England has eased since the Renters’ Rights Act came in and now stands at 21 days.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "News",
+        "Helen Gregory",
+        "Renters’ Rights Act"
+      ],
+      "locations": []
+    },
+    "ddd980c4552b": {
+      "id": "ddd980c4552b",
+      "importance": "Medium",
+      "summary": "News - Tom Entwistle - The First-tier Tribunal’s ruled that Property118’s incorporation planning did not need to be disclosed under HMRCs Disclosure of Tax Avoidance",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "HMRC",
+        "News",
+        "Tom Entwistle",
+        "The First-tier Tribunal’s"
+      ],
+      "locations": []
+    },
+    "827790c88d75": {
+      "id": "827790c88d75",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Landlords in Brighton & Hove are getting cash to fund EPC improvements - if they help solve the city’s temporary accommodation shortage.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Landlords",
+        "News",
+        "Helen Gregory",
+        "Brighton"
+      ],
+      "locations": []
+    },
+    "4b94873d3e9c": {
+      "id": "4b94873d3e9c",
+      "importance": "Medium",
+      "summary": "Monthly UK statistics on cattle, sheep and pig slaughter and meat production.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Latest",
+        "Monthly UK"
+      ],
+      "locations": []
+    },
+    "0e7e6cbe6b61": {
+      "id": "0e7e6cbe6b61",
+      "importance": "Medium",
+      "summary": "Quarterly National Statistics on possession claim actions in county courts by mortgage lenders and social and private landlords.",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Mortgage",
+        "Quarterly National Statistics"
+      ],
+      "locations": []
+    },
+    "e7702d3e1ad6": {
+      "id": "e7702d3e1ad6",
+      "importance": "Medium",
+      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Energy Trends",
+        "Data",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    "a4c7edcbdb8d": {
+      "id": "a4c7edcbdb8d",
+      "importance": "Medium",
+      "summary": "Previously published copies of the monthly Accredited Official statistics publication on the number of cattle, sheep and pigs slaughtered in the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Historical",
+        "Previously",
+        "Accredited Official"
+      ],
+      "locations": []
+    },
+    "365c54be135c": {
+      "id": "365c54be135c",
+      "importance": "Medium",
+      "summary": "An annual overview of respiratory syncytial virus (RSV) surveillance results from the winter period.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Surveillance"
+      ],
+      "locations": []
+    },
+    "0fbf4d8bca2d": {
+      "id": "0fbf4d8bca2d",
+      "importance": "Medium",
+      "summary": "Statistics on visa applications for people coming to the UK for work, study and family reasons.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Monthly",
+        "Statistics"
+      ],
+      "locations": []
+    },
+    "e33d47a5beef": {
+      "id": "e33d47a5beef",
+      "importance": "Medium",
+      "summary": "Results issued for GCSEs, AS and A Levels, vocational and technical qualifications included in performance tables (applied generals, tech levels, technical awards and technical certificates), and the technical qualificat",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Qualification",
+        "Results",
+        "GCSEs",
+        "Levels"
+      ],
+      "locations": []
+    },
+    "1bca28ebbdaf": {
+      "id": "1bca28ebbdaf",
+      "importance": "Medium",
+      "summary": "Series of straights and compound animal feed prices across Great Britain.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Animal",
+        "Series",
+        "Great Britain"
+      ],
+      "locations": []
+    },
+    "c1a6304935fb": {
+      "id": "c1a6304935fb",
+      "importance": "Medium",
+      "summary": "…This publication provides details of the overseas trade in goods statistics (OTS) of the UK. They are a comprehensive dataset covering the UK's trade in goods at country and product level.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK. They",
+        "UK's"
+      ],
+      "locations": []
+    },
+    "93fcb3435b9d": {
+      "id": "93fcb3435b9d",
+      "importance": "Medium",
+      "summary": "Accredited official statistics on statutory homelessness applications, duties, and outcomes for local authorities in England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Statutory",
+        "Accredited"
+      ],
+      "locations": []
+    },
+    "6aa217507c09": {
+      "id": "6aa217507c09",
+      "importance": "Medium",
+      "summary": "An annual overview of respiratory syncytial virus (RSV) surveillance results from the winter period.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Surveillance"
+      ],
+      "locations": []
+    },
+    "e17215f608c9": {
+      "id": "e17215f608c9",
+      "importance": "Medium",
+      "summary": "Revenue Outturn time series data set covering 2017-18 to 2024-25.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Local",
+        "Revenue",
+        "Revenue Outturn"
+      ],
+      "locations": []
+    },
+    "761854051065": {
+      "id": "761854051065",
+      "importance": "Medium",
+      "summary": "EU and non-EU import and export data for June 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "b5db1dfb9518": {
+      "id": "b5db1dfb9518",
+      "importance": "Medium",
+      "summary": "Final outturn estimates of local authority revenue expenditure and financing for 2022 to 2023.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Local",
+        "Final"
+      ],
+      "locations": []
+    },
+    "e3362207e752": {
+      "id": "e3362207e752",
+      "importance": "Medium",
+      "summary": "Early experimental data and analysis on economic activity and social change in the UK. These real-time indicators are created using rapid response surveys, novel data sources and experimental methods.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Economic",
+        "Early",
+        "UK. These"
+      ],
+      "locations": []
+    },
+    "3f489daa8bd6": {
+      "id": "3f489daa8bd6",
+      "importance": "Medium",
+      "summary": "Estimates of short-term indicators of investment in non-financial assets; business investment, and asset and sector breakdowns of total gross fixed capital formation",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Business Investment",
+        "Estimates"
+      ],
+      "locations": []
+    },
+    "42ff4157a24b": {
+      "id": "42ff4157a24b",
+      "importance": "Medium",
+      "summary": "…Contains current and constant price data on the value of goods and services to indicate the economic performance of the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Contains"
+      ],
+      "locations": []
+    },
+    "bd76a31bebd7": {
+      "id": "bd76a31bebd7",
+      "importance": "Medium",
+      "summary": "Total value of UK exports and imports of goods and services in current prices, chained volume measures and implied deflators.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK Trade",
+        "Total"
+      ],
+      "locations": []
+    },
+    "0f7adac119d5": {
+      "id": "0f7adac119d5",
+      "importance": "Medium",
+      "summary": "Short-term measures of output by the construction industry, contracts awarded for new construction work in Great Britain and a summary of the Construction Output Price Indices (OPIs) in the UK for Quarter 2 (April to Jun",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Construction",
+        "Great Britain",
+        "Construction Output Price Indices",
+        "Short-term"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 47,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
