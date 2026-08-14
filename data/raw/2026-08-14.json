@@ -1,0 +1,846 @@
+{
+  "collected_at": "2026-08-14T11:09:00+00:00",
+  "date_london": "2026-08-14",
+  "counts": {
+    "seen_in_feeds": 88,
+    "new": 46,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 9,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 9"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 9,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 9"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 18,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 18"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 13,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 13"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 9,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 9"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Landlords avoid tender process for stock transfers amid uptick in off-market deals, advisors say",
+      "url": "https://insidehousing.co.uk/home/landlords-avoid-tender-process-for-stock-transfers-amid-uptick-in-off-market-deals-advisors-say-98359",
+      "published": "2026-08-14T10:33:01+00:00",
+      "excerpt": "Housing associations are increasingly pursuing stock transfers on an off-market basis, negotiating at executive level rather than going out to tender, according to advisors",
+      "entities": [
+        "Landlords",
+        "Housing"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:09+00:00",
+      "id": "e6a5484f3ce2"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Greater Manchester mayor urges councils to identify derelict public land to help 50,000-homes target",
+      "url": "https://insidehousing.co.uk/home/greater-manchester-mayor-urges-councils-to-identify-derelict-public-land-to-help-50000-homes-target-98354",
+      "published": "2026-08-14T09:33:38+00:00",
+      "excerpt": "Bev Craig, the new mayor of Greater Manchester, has revealed plans to launch a public sector land bank as part of efforts to build 50,000 new affordable homes across the region",
+      "entities": [
+        "Greater Manchester",
+        "Bev Craig"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:09+00:00",
+      "id": "f0ae8cd22a80"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Guinness back in surplus as building safety spend falls",
+      "url": "https://insidehousing.co.uk/home/guinness-back-in-surplus-as-building-safety-spend-falls-98357",
+      "published": "2026-08-14T09:47:04+00:00",
+      "excerpt": "Large national landlord The Guinness Partnership has returned to surplus after reducing its costs, including its overall spend on building safety",
+      "entities": [
+        "Guinness",
+        "Large",
+        "The Guinness Partnership"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:09+00:00",
+      "id": "15fb3a59e944"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Avant Homes agrees to defer remediation payments to government",
+      "url": "https://insidehousing.co.uk/home/avant-homes-agrees-to-defer-remediation-payments-to-government-98358",
+      "published": "2026-08-14T10:40:00+00:00",
+      "excerpt": "Avant Homes is the first developer to agree a deal allowing it to defer its reimbursement of fire safety remediation costs to the government",
+      "entities": [
+        "Avant Homes"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:09+00:00",
+      "id": "f6885c1ca2d1"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "What has got London councils building again?",
+      "url": "https://insidehousing.co.uk/home/what-has-got-london-councils-building-again-98269",
+      "published": "2026-08-14T09:49:44+00:00",
+      "excerpt": "It’s encouraging to see local authorities reasserting themselves as active housing providers rather than simply commissioners, says Boyer’s James Cogan",
+      "entities": [
+        "What",
+        "London",
+        "It’s",
+        "Boyer’s James Cogan"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:09+00:00",
+      "id": "a857d14dcf4f"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Oglesby puts in for Winters Building conversion",
+      "url": "https://placenorthwest.co.uk/oglesby-puts-in-for-winters-building-conversion",
+      "published": "2026-08-14T09:57:32+00:00",
+      "excerpt": "Bruntwood chief executive Chris Oglesby has plans to convert the upper floors of the St Ann’s Square asset into apartments, including a penthouse taking up the entirety of the top floor. The post Oglesby puts in for Winters Building conversion appeared first on Place North West .",
+      "entities": [
+        "Oglesby",
+        "Winters Building",
+        "Bruntwood",
+        "Chris Oglesby",
+        "St Ann’s Square",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:16+00:00",
+      "id": "d6a30097e9ee"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Unanimous approval for two Stockport schools",
+      "url": "https://placenorthwest.co.uk/unanimous-approval-for-two-stockport-schools",
+      "published": "2026-08-14T09:14:08+00:00",
+      "excerpt": "Bramhall High School and Moorfield Primary School will be replaced under two planning applications that won the favour of councillors during yesterday’s planning committee meeting. The post Unanimous approval for two Stockport schools appeared first on Place North West .",
+      "entities": [
+        "Unanimous",
+        "Stockport",
+        "Bramhall High School and Moorfield",
+        "Primary School",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:16+00:00",
+      "id": "a730152c4488"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Imperial Court conversion clears planning hurdle",
+      "url": "https://placenorthwest.co.uk/imperial-court-conversion-clears-planning-hurdle",
+      "published": "2026-08-14T08:29:04+00:00",
+      "excerpt": "Seth Real Estate's plan to turn the former HMRC office block into 95 apartments will now progress to a Gateway 2 submission. The post Imperial Court conversion clears planning hurdle appeared first on Place North West .",
+      "entities": [
+        "Imperial Court",
+        "Seth Real Estate's",
+        "HMRC",
+        "Gateway",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:16+00:00",
+      "id": "7d425891c6c1"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Wrightcare’s Handforth proposal back on the agenda",
+      "url": "https://placenorthwest.co.uk/wrightcares-handforth-proposal-back-on-the-agenda",
+      "published": "2026-08-13T14:08:58+00:00",
+      "excerpt": "Withdrawn from a Cheshire East planning docket earlier this year, the 76-bed facility has returned in a reduced form, this time with approval recommended. The post Wrightcare’s Handforth proposal back on the agenda appeared first on Place North West .",
+      "entities": [
+        "Wrightcare’s Handforth",
+        "Withdrawn",
+        "Cheshire East",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:16+00:00",
+      "id": "60d2a22fee39"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Trafford completes Loreto deal",
+      "url": "https://placenorthwest.co.uk/trafford-completes-loreto-deal",
+      "published": "2026-08-13T12:46:56+00:00",
+      "excerpt": "The council has bought the former preparatory school site in Altrincham, setting in motion the expansion of North Cestrian School to help meet demand for secondary school places. The post Trafford completes Loreto deal appeared first on Place North West .",
+      "entities": [
+        "Trafford",
+        "Loreto",
+        "Altrincham",
+        "North Cestrian School",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:16+00:00",
+      "id": "de7b3076d83e"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Housing demand and sales are stagnant, says RICS",
+      "url": "https://propertyindustryeye.com/housing-demand-and-sales-are-stagnant-says-rics",
+      "published": "2026-08-14T05:54:30+00:00",
+      "excerpt": "The UK housing market showed little improvement in July, with buyer demand and agreed sales broadly unchanged from the previous month, according to the Royal Institution of Chartered Surveyors (RICS) UK Residential Market Survey. New buyer enquiries recorded a net balance of -28% in July, flat compared with June. While the reading remains firmly negative, it … Continued",
+      "entities": [
+        "Housing",
+        "RICS. The UK",
+        "Royal Institution of Chartered Surveyors",
+        "RICS",
+        "UK Residential Market Survey",
+        "June. While",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:17+00:00",
+      "id": "f1774ae9ef73"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Another day, another PM, another Budget",
+      "url": "https://propertyindustryeye.com/another-day-another-pm-another-budget",
+      "published": "2026-08-14T05:52:33+00:00",
+      "excerpt": "Pre 2017, Budget’s almost always took place in March/April. This was a period of the year when, if you were thinking about your biggest asset, your house, you could then, post Budget, get it on the market and hit the best season. The ‘Autumn Statement’ was just that. Now, for reasons no one has satisfactorily explained, … Continued",
+      "entities": [
+        "Another",
+        "Budget. Pre",
+        "Budget’s",
+        "April. This",
+        "Budget",
+        "Autumn Statement",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:17+00:00",
+      "id": "f60f493a7cf4"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Reaction to UK Finance mortgage arrears data",
+      "url": "https://propertyindustryeye.com/reaction-to-uk-finance-mortgage-arrears-data",
+      "published": "2026-08-14T05:50:23+00:00",
+      "excerpt": "UK Finance has released its latest mortgage arrears and possessions data for Q2 2026, which highlighted continuing lender support for customers facing financial difficulty. There were 77,940 homeowner mortgages in arrears of 2.5% or more of the outstanding balance in the second quarter of 2026, which was 1% fewer than in the previous quarter. The … Continued",
+      "entities": [
+        "Reaction",
+        "UK Finance",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:17+00:00",
+      "id": "3c09dc4a520c"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Landlords ‘raising asking rents as bidding war ban hits’",
+      "url": "https://propertyindustryeye.com/landlords-raising-asking-rents-as-bidding-war-ban-hits",
+      "published": "2026-08-14T05:48:17+00:00",
+      "excerpt": "Landlords are raising their asking rents significantly following the introduction of Labour’s Renters’ Rights Act but not for the reason readers might expect, Chestertons has reported. The company says that it saw a surge of activity after the Act was passed and returned certainty to the market but this then simmered down in July. But … Continued",
+      "entities": [
+        "Landlords",
+        "Labour’s Renters’ Rights Act",
+        "Chestertons",
+        "July. But",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:17+00:00",
+      "id": "f10d1bddb5ed"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Homes in Glasgow sell fastest in the UK",
+      "url": "https://propertyindustryeye.com/homes-in-glasgow-sell-fastest-in-the-uk",
+      "published": "2026-08-14T05:46:00+00:00",
+      "excerpt": "Glasgow, Worcester and Belfast are the cities where houses sell the fastest – with many selling in less than two weeks. Figures from property management software provider Alto, which is plugged into more than 6,000 estate agents nationwide, found homes move quickest in the Scottish city – with Glasgow taking the number one spot where … Continued",
+      "entities": [
+        "Homes",
+        "Glasgow",
+        "UK. Glasgow",
+        "Worcester and Belfast",
+        "Figures",
+        "Alto",
+        "Scottish",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:17+00:00",
+      "id": "b6386c5e4789"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Unfreezing housing benefits will not drive up rents",
+      "url": "https://propertyindustryeye.com/unfreezing-housing-benefits-will-not-drive-up-rents",
+      "published": "2026-08-14T05:44:45+00:00",
+      "excerpt": "New analysis suggests that unfreezing housing benefits would not drive increasing rents. It comes as ministers consider whether to continue freezing housing benefit rates from April next year. Successive governments have frozen Local Housing Allowance (LHA) rates in an effort to limit welfare spending. Most recently the Prime Minister, Andy Burnham, argued that the housing benefit … Continued",
+      "entities": [
+        "Unfreezing",
+        "Successive",
+        "Local Housing Allowance",
+        "Most",
+        "Prime Minister",
+        "Andy Burnham",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:17+00:00",
+      "id": "62b225c49c7b"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Air-conditioning searches double as 61% consider installation",
+      "url": "https://propertyindustryeye.com/air-conditioning-searches-double-as-61-consider-installation",
+      "published": "2026-08-14T05:42:17+00:00",
+      "excerpt": "Searches for homes with air conditioning on Rightmove have more than doubled this summer, rising by 104% compared with the same period last year, as new research suggests many households are becoming more conscious of how well their homes cope during hot weather. New consumer research from Rightmove, the UK’s largest property platform, reveals that … Continued",
+      "entities": [
+        "Air-conditioning",
+        "Searches",
+        "Rightmove",
+        "UK’s",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:17+00:00",
+      "id": "98a13ec03082"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Scotland’s housing emergency decades in the making",
+      "url": "https://propertyindustryeye.com/scotlands-housing-emergency-decades-in-the-making",
+      "published": "2026-08-14T05:40:32+00:00",
+      "excerpt": "Scotland’s housing emergency was decades in the making according to Scottish property firm DJ Alexander Ltd. The lettings and estate agency said that declining volumes of social housing coupled with a rising population over the last 20 years has led to the current housing emergency. Between March 2007 until March 2024 the Scottish population increased … Continued",
+      "entities": [
+        "Scotland’s",
+        "Scottish",
+        "DJ Alexander Ltd. The",
+        "Between March",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:17+00:00",
+      "id": "eed86ec79e35"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Landlords lodge almost 29,000 possession claims",
+      "url": "https://propertyindustryeye.com/landlords-lodge-almost-29000-possession-claims",
+      "published": "2026-08-14T05:38:16+00:00",
+      "excerpt": "Landlords lodged 28,610 possession claims across England and Wales during the four quarters to March 2026, according to analysis by LegalforLandlords. The figures show that court action remains a significant feature of the rental market despite strong tenant demand, high rents and intense competition for available homes. LegalforLandlords says possession proceedings may result from rent ……",
+      "entities": [
+        "Landlords",
+        "England and Wales",
+        "LegalforLandlords. The",
+        "LegalforLandlords",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:17+00:00",
+      "id": "39adae612a42"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Phil Spencer: Why local agents shouldn’t fear the big boys",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/phil-spencer-why-local-agents-shouldnt-fear-the-big-boys",
+      "published": "2026-08-13T23:06:00+00:00",
+      "excerpt": "Right now it’s easy to see why these acquisitions happen.",
+      "entities": [
+        "Phil Spencer",
+        "Right"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:18+00:00",
+      "id": "75f3465c1d1f"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "London’s housing market shows surprise summer pick-up",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/londons-housing-market-shows-surprise-summer-pick-up",
+      "published": "2026-08-13T23:05:00+00:00",
+      "excerpt": "This is according to Knight Frank",
+      "entities": [
+        "London’s",
+        "Knight Frank"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:18+00:00",
+      "id": "d668bdedc153"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Savills weathers UK and global political storms",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/savills-weathers-business-storm-caused-by-uk-and-global-politics",
+      "published": "2026-08-13T23:04:00+00:00",
+      "excerpt": "Revenue and profits increased - but the UK market did not perform so well",
+      "entities": [
+        "Savills",
+        "Revenue"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:18+00:00",
+      "id": "089bd2b68489"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Top agency says Burnham might have boosted housing market",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/top-agency-says-burnham-might-have-boosted-housing-market",
+      "published": "2026-08-13T23:02:00+00:00",
+      "excerpt": "buyer demand fell sharply in July, in part because of speculation over taxation.",
+      "entities": [
+        "Burnham"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:18+00:00",
+      "id": "25ae1fa4eaa3"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Life’s a beach – but only if you have £1.4m",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/lifes-a-beach-but-only-if-you-have-1-4m",
+      "published": "2026-08-13T23:01:00+00:00",
+      "excerpt": "A portal has made comparative analyses with other property types",
+      "entities": [
+        "Life’s"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:18+00:00",
+      "id": "4dcbf158e160"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Home ownership defines Haves and Have Nots – warning",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/home-ownership-will-define-haves-and-have-nots-warn-lenders",
+      "published": "2026-08-13T23:00:00+00:00",
+      "excerpt": "The gap between owners and non-owners is set to widen",
+      "entities": [
+        "Home",
+        "Haves and Have Nots"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:18+00:00",
+      "id": "789fdae8d34e"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Landlords reject link between benefit levels and rent rises",
+      "url": "https://landlordzone.co.uk/news/landlords-reject-link-between-benefit-levels-and-rent-rises",
+      "published": "2026-08-14T11:01:08+00:00",
+      "excerpt": "News - Helen Gregory - The NRLA suggests there’s no clear link between benefit levels and rent increases, as ministers consider continuing to freeze rates.",
+      "entities": [
+        "Landlords",
+        "News",
+        "Helen Gregory",
+        "The NRLA"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:18+00:00",
+      "id": "1b643acd68ac"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Last-minute Section 21 rush could smash 2015 record",
+      "url": "https://landlordzone.co.uk/news/last-minute-section-21-rush-could-smash-2015-record",
+      "published": "2026-08-13T16:03:00+00:00",
+      "excerpt": "News - Helen Gregory - Section 21 claims are likely to break records this year, despite only being legal for the first seven months, predicts Paul Shamplina.",
+      "entities": [
+        "Last-minute Section",
+        "News",
+        "Helen Gregory",
+        "Section",
+        "Paul Shamplina"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:18+00:00",
+      "id": "8cd6827e2795"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "104-year-old landlord wins appeal over banning order",
+      "url": "https://landlordzone.co.uk/news/104-year-old-landlord-wins-appeal-over-banning-order",
+      "published": "2026-08-13T14:57:59+00:00",
+      "excerpt": "News - Helen Gregory - An Upper Tribunal has ruled that a banned landlord's tenants should have been considered when making the order.",
+      "entities": [
+        "News",
+        "Helen Gregory",
+        "An Upper Tribunal"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-14T11:09:18+00:00",
+      "id": "2a2dbb404476"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community Interest Companies registered in July 2026",
+      "url": "https://gov.uk/government/publications/community-interest-companies-new-cics-registered",
+      "published": "2026-08-14T10:02:02+00:00",
+      "excerpt": "Information on community interest companies (CICs) that were registered in the last month.",
+      "entities": [
+        "Community Interest Companies",
+        "Information",
+        "CICs"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-14T11:09:20+00:00",
+      "id": "aa4677523fd0"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community and Engagement Survey 2025/26: local decisions",
+      "url": "https://gov.uk/government/statistics/community-and-engagement-survey-202526-local-decisions",
+      "published": "2026-08-14T08:33:41+00:00",
+      "excerpt": "The findings of the Community and Engagement Survey for influencing local decisions in 2025/26.",
+      "entities": [
+        "Community and Engagement Survey"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-14T11:09:20+00:00",
+      "id": "db6d256305df"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community and Engagement Survey 2025/26: loneliness",
+      "url": "https://gov.uk/government/statistics/community-and-engagement-survey-202526-loneliness",
+      "published": "2026-08-14T08:33:00+00:00",
+      "excerpt": "The findings of the Community and Engagement Survey for loneliness in 2025/26.",
+      "entities": [
+        "Community and Engagement Survey"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-14T11:09:20+00:00",
+      "id": "7caa2941b78d"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community and Engagement Survey 2025/26: volunteering",
+      "url": "https://gov.uk/government/statistics/community-and-engagement-survey-202526-volunteering",
+      "published": "2026-08-14T08:30:01+00:00",
+      "excerpt": "The findings of the Community and Engagement Survey for volunteering and charitable giving in 2025/26.",
+      "entities": [
+        "Community and Engagement Survey"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-14T11:09:20+00:00",
+      "id": "887f25ba742a"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community and Engagement Survey 2025/26: support networks",
+      "url": "https://gov.uk/government/statistics/community-and-engagement-survey-202526-support-networks",
+      "published": "2026-08-14T08:30:01+00:00",
+      "excerpt": "The findings of the Community and Engagement Survey for support networks in 2025/26.",
+      "entities": [
+        "Community and Engagement Survey"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-14T11:09:20+00:00",
+      "id": "95b65eaf43de"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community and Engagement Survey 2025/26: summary report",
+      "url": "https://gov.uk/government/statistics/community-and-engagement-survey-202526-summary-report",
+      "published": "2026-08-14T08:30:01+00:00",
+      "excerpt": "Report covering the headline findings of the Community and Engagement Survey in 2025/26.",
+      "entities": [
+        "Community and Engagement Survey",
+        "Report"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-14T11:09:20+00:00",
+      "id": "b8dacda68ba1"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community and Engagement Survey 2025/26: pride in local area",
+      "url": "https://gov.uk/government/statistics/community-and-engagement-survey-202526-pride-in-local-area",
+      "published": "2026-08-14T08:30:01+00:00",
+      "excerpt": "The findings of the Community and Engagement Survey for pride in local area in 2025/26.",
+      "entities": [
+        "Community and Engagement Survey"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-14T11:09:20+00:00",
+      "id": "aad93d15081a"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community and Engagement Survey 2025/26: live sport and gambling",
+      "url": "https://gov.uk/government/statistics/community-and-engagement-survey-202526-live-sport-and-gambling",
+      "published": "2026-08-14T08:30:00+00:00",
+      "excerpt": "The findings of the Community and Engagement Survey for live sport and gambling in 2025/26.",
+      "entities": [
+        "Community and Engagement Survey"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-14T11:09:20+00:00",
+      "id": "5fa548041124"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community and Engagement Survey 2025/26: libraries",
+      "url": "https://gov.uk/government/statistics/community-and-engagement-survey-202526-libraries",
+      "published": "2026-08-14T08:30:00+00:00",
+      "excerpt": "The findings of the Community and Engagement Survey for libraries in 2025/26.",
+      "entities": [
+        "Community and Engagement Survey"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-14T11:09:20+00:00",
+      "id": "63d0aa34b9fa"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community and Engagement Survey 2025/26: neighbourhood",
+      "url": "https://gov.uk/government/statistics/community-and-engagement-survey-202526-neighbourhood",
+      "published": "2026-08-14T08:30:00+00:00",
+      "excerpt": "The findings of the Community and Engagement Survey for neighbourhood and community in 2025/26.",
+      "entities": [
+        "Community and Engagement Survey"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-14T11:09:20+00:00",
+      "id": "cb33bb51d164"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Public opinions and social trends, Great Britain: July 2026",
+      "url": "https://gov.uk/government/statistics/public-opinions-and-social-trends-great-britain-july-2026",
+      "published": "2026-08-14T08:30:00+00:00",
+      "excerpt": "Social insights on daily life and events, including important issues facing the UK, from the Opinions and Lifestyle Survey (OPN).",
+      "entities": [
+        "Public",
+        "Great Britain",
+        "Social",
+        "Opinions and Lifestyle Survey"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-14T11:09:20+00:00",
+      "id": "4adb8fa67c6a"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community and Engagement Survey 2025/26: domestic tourism",
+      "url": "https://gov.uk/government/statistics/community-and-engagement-survey-202526-domestic-tourism",
+      "published": "2026-08-14T08:30:00+00:00",
+      "excerpt": "The findings of the Community and Engagement Survey for domestic tourism in 2025/26.",
+      "entities": [
+        "Community and Engagement Survey"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-14T11:09:20+00:00",
+      "id": "ed981a56e3f2"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community and Engagement Survey 2025/26: museums and galleries",
+      "url": "https://gov.uk/government/statistics/community-and-engagement-survey-202526-museums-and-galleries",
+      "published": "2026-08-14T08:30:00+00:00",
+      "excerpt": "The findings of the Community and Engagement Survey for museums and galleries in 2025/26.",
+      "entities": [
+        "Community and Engagement Survey"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-14T11:09:20+00:00",
+      "id": "229de19dc67d"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community and Engagement Survey 2025/26: major events",
+      "url": "https://gov.uk/government/statistics/community-and-engagement-survey-202526-major-events",
+      "published": "2026-08-14T08:30:00+00:00",
+      "excerpt": "The findings of the Community and Engagement Survey for major events in 2025/26.",
+      "entities": [
+        "Community and Engagement Survey"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-14T11:09:20+00:00",
+      "id": "11e26cb1dfd0"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community and Engagement Survey 2025/26: archives",
+      "url": "https://gov.uk/government/statistics/community-and-engagement-survey-202526-archives",
+      "published": "2026-08-14T08:30:00+00:00",
+      "excerpt": "The findings of the Community and Engagement Survey for archives in 2025/26.",
+      "entities": [
+        "Community and Engagement Survey"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-14T11:09:20+00:00",
+      "id": "e122d7989f0f"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community and Engagement Survey 2025/26: civic engagement",
+      "url": "https://gov.uk/government/statistics/community-and-engagement-survey-202526-civic-engagement",
+      "published": "2026-08-14T08:30:00+00:00",
+      "excerpt": "The findings of the Community and Engagement Survey for civic engagement in 2025/26.",
+      "entities": [
+        "Community and Engagement Survey"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-14T11:09:20+00:00",
+      "id": "4dac6b1b5497"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community and Engagement Survey 2025/26: heritage",
+      "url": "https://gov.uk/government/statistics/community-and-engagement-survey-202526-heritage",
+      "published": "2026-08-14T08:30:00+00:00",
+      "excerpt": "The findings of the Community and Engagement Survey for heritage in 2025/26.",
+      "entities": [
+        "Community and Engagement Survey"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-14T11:09:20+00:00",
+      "id": "ea977da22081"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community and Engagement Survey 2025/26: arts",
+      "url": "https://gov.uk/government/statistics/community-and-engagement-survey-202526-arts",
+      "published": "2026-08-14T08:30:00+00:00",
+      "excerpt": "The findings of the Community and Engagement Survey for arts in 2025/26.",
+      "entities": [
+        "Community and Engagement Survey"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-14T11:09:20+00:00",
+      "id": "ed11baf9adae"
+    }
+  ]
+}

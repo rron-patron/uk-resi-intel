@@ -1,0 +1,786 @@
+{
+  "generated_at": "2026-08-14T11:09:26+00:00",
+  "date_label": "Friday 14 August 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n46 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Community and Engagement Survey",
+      "type": "Other",
+      "mentions": 16,
+      "context": ""
+    },
+    {
+      "name": "Continued",
+      "type": "Other",
+      "mentions": 9,
+      "context": ""
+    },
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Landlords",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Scottish",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Greater Manchester",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Bev Craig",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Guinness",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Large",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Guinness Partnership",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Avant Homes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "What",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "It’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Boyer’s James Cogan",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Oglesby",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Winters Building",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "e6a5484f3ce2": {
+      "id": "e6a5484f3ce2",
+      "importance": "Medium",
+      "summary": "Housing associations are increasingly pursuing stock transfers on an off-market basis, negotiating at executive level rather than going out to tender, according to advisors",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Landlords",
+        "Housing"
+      ],
+      "locations": []
+    },
+    "f0ae8cd22a80": {
+      "id": "f0ae8cd22a80",
+      "importance": "Medium",
+      "summary": "Bev Craig, the new mayor of Greater Manchester, has revealed plans to launch a public sector land bank as part of efforts to build 50,000 new affordable homes across the region",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Greater Manchester",
+        "Bev Craig"
+      ],
+      "locations": []
+    },
+    "15fb3a59e944": {
+      "id": "15fb3a59e944",
+      "importance": "Medium",
+      "summary": "Large national landlord The Guinness Partnership has returned to surplus after reducing its costs, including its overall spend on building safety",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Guinness",
+        "Large",
+        "The Guinness Partnership"
+      ],
+      "locations": []
+    },
+    "f6885c1ca2d1": {
+      "id": "f6885c1ca2d1",
+      "importance": "Medium",
+      "summary": "Avant Homes is the first developer to agree a deal allowing it to defer its reimbursement of fire safety remediation costs to the government",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Avant Homes"
+      ],
+      "locations": []
+    },
+    "a857d14dcf4f": {
+      "id": "a857d14dcf4f",
+      "importance": "Medium",
+      "summary": "It’s encouraging to see local authorities reasserting themselves as active housing providers rather than simply commissioners, says Boyer’s James Cogan",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "What",
+        "London",
+        "It’s",
+        "Boyer’s James Cogan"
+      ],
+      "locations": []
+    },
+    "d6a30097e9ee": {
+      "id": "d6a30097e9ee",
+      "importance": "Medium",
+      "summary": "Bruntwood chief executive Chris Oglesby has plans to convert the upper floors of the St Ann’s Square asset into apartments, including a penthouse taking up the entirety of the top floor. The post Oglesby puts in for Wint",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Oglesby",
+        "Winters Building",
+        "Bruntwood",
+        "Chris Oglesby"
+      ],
+      "locations": []
+    },
+    "a730152c4488": {
+      "id": "a730152c4488",
+      "importance": "Medium",
+      "summary": "Bramhall High School and Moorfield Primary School will be replaced under two planning applications that won the favour of councillors during yesterday’s planning committee meeting. The post Unanimous approval for two Sto",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Unanimous",
+        "Stockport",
+        "Bramhall High School and Moorfield",
+        "Primary School"
+      ],
+      "locations": []
+    },
+    "7d425891c6c1": {
+      "id": "7d425891c6c1",
+      "importance": "Medium",
+      "summary": "Seth Real Estate's plan to turn the former HMRC office block into 95 apartments will now progress to a Gateway 2 submission. The post Imperial Court conversion clears planning hurdle appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Imperial Court",
+        "Seth Real Estate's",
+        "HMRC",
+        "Gateway"
+      ],
+      "locations": []
+    },
+    "60d2a22fee39": {
+      "id": "60d2a22fee39",
+      "importance": "Medium",
+      "summary": "Withdrawn from a Cheshire East planning docket earlier this year, the 76-bed facility has returned in a reduced form, this time with approval recommended. The post Wrightcare’s Handforth proposal back on the agenda appea",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Wrightcare’s Handforth",
+        "Withdrawn",
+        "Cheshire East",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "de7b3076d83e": {
+      "id": "de7b3076d83e",
+      "importance": "Medium",
+      "summary": "The council has bought the former preparatory school site in Altrincham, setting in motion the expansion of North Cestrian School to help meet demand for secondary school places. The post Trafford completes Loreto deal a",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trafford",
+        "Loreto",
+        "Altrincham",
+        "North Cestrian School"
+      ],
+      "locations": []
+    },
+    "f1774ae9ef73": {
+      "id": "f1774ae9ef73",
+      "importance": "Medium",
+      "summary": "The UK housing market showed little improvement in July, with buyer demand and agreed sales broadly unchanged from the previous month, according to the Royal Institution of Chartered Surveyors (RICS) UK Residential Marke",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Housing",
+        "RICS. The UK",
+        "Royal Institution of Chartered Surveyors",
+        "RICS"
+      ],
+      "locations": []
+    },
+    "f60f493a7cf4": {
+      "id": "f60f493a7cf4",
+      "importance": "Medium",
+      "summary": "Pre 2017, Budget’s almost always took place in March/April. This was a period of the year when, if you were thinking about your biggest asset, your house, you could then, post Budget, get it on the market and hit the bes",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Another",
+        "Budget. Pre",
+        "Budget’s",
+        "April. This"
+      ],
+      "locations": []
+    },
+    "3c09dc4a520c": {
+      "id": "3c09dc4a520c",
+      "importance": "Medium",
+      "summary": "UK Finance has released its latest mortgage arrears and possessions data for Q2 2026, which highlighted continuing lender support for customers facing financial difficulty. There were 77,940 homeowner mortgages in arrear",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Reaction",
+        "UK Finance",
+        "Continued"
+      ],
+      "locations": []
+    },
+    "f10d1bddb5ed": {
+      "id": "f10d1bddb5ed",
+      "importance": "Medium",
+      "summary": "Landlords are raising their asking rents significantly following the introduction of Labour’s Renters’ Rights Act but not for the reason readers might expect, Chestertons has reported. The company says that it saw a surg",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "Labour’s Renters’ Rights Act",
+        "Chestertons",
+        "July. But"
+      ],
+      "locations": []
+    },
+    "b6386c5e4789": {
+      "id": "b6386c5e4789",
+      "importance": "Medium",
+      "summary": "Glasgow, Worcester and Belfast are the cities where houses sell the fastest – with many selling in less than two weeks. Figures from property management software provider Alto, which is plugged into more than 6,000 estat",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Homes",
+        "Glasgow",
+        "UK. Glasgow",
+        "Worcester and Belfast"
+      ],
+      "locations": []
+    },
+    "62b225c49c7b": {
+      "id": "62b225c49c7b",
+      "importance": "Medium",
+      "summary": "New analysis suggests that unfreezing housing benefits would not drive increasing rents. It comes as ministers consider whether to continue freezing housing benefit rates from April next year. Successive governments have",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Unfreezing",
+        "Successive",
+        "Local Housing Allowance",
+        "Most"
+      ],
+      "locations": []
+    },
+    "98a13ec03082": {
+      "id": "98a13ec03082",
+      "importance": "Medium",
+      "summary": "Searches for homes with air conditioning on Rightmove have more than doubled this summer, rising by 104% compared with the same period last year, as new research suggests many households are becoming more conscious of ho",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Air-conditioning",
+        "Searches",
+        "Rightmove",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    "eed86ec79e35": {
+      "id": "eed86ec79e35",
+      "importance": "Medium",
+      "summary": "Scotland’s housing emergency was decades in the making according to Scottish property firm DJ Alexander Ltd. The lettings and estate agency said that declining volumes of social housing coupled with a rising population o",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Scotland’s",
+        "Scottish",
+        "DJ Alexander Ltd. The",
+        "Between March"
+      ],
+      "locations": []
+    },
+    "39adae612a42": {
+      "id": "39adae612a42",
+      "importance": "Medium",
+      "summary": "Landlords lodged 28,610 possession claims across England and Wales during the four quarters to March 2026, according to analysis by LegalforLandlords. The figures show that court action remains a significant feature of t",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "England and Wales",
+        "LegalforLandlords. The",
+        "LegalforLandlords"
+      ],
+      "locations": []
+    },
+    "75f3465c1d1f": {
+      "id": "75f3465c1d1f",
+      "importance": "Medium",
+      "summary": "Right now it’s easy to see why these acquisitions happen.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Phil Spencer",
+        "Right"
+      ],
+      "locations": []
+    },
+    "d668bdedc153": {
+      "id": "d668bdedc153",
+      "importance": "Medium",
+      "summary": "This is according to Knight Frank",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "London’s",
+        "Knight Frank"
+      ],
+      "locations": []
+    },
+    "089bd2b68489": {
+      "id": "089bd2b68489",
+      "importance": "Medium",
+      "summary": "Revenue and profits increased - but the UK market did not perform so well",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Savills",
+        "Revenue"
+      ],
+      "locations": []
+    },
+    "25ae1fa4eaa3": {
+      "id": "25ae1fa4eaa3",
+      "importance": "Medium",
+      "summary": "buyer demand fell sharply in July, in part because of speculation over taxation.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Burnham"
+      ],
+      "locations": []
+    },
+    "4dcbf158e160": {
+      "id": "4dcbf158e160",
+      "importance": "Medium",
+      "summary": "A portal has made comparative analyses with other property types",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Life’s"
+      ],
+      "locations": []
+    },
+    "789fdae8d34e": {
+      "id": "789fdae8d34e",
+      "importance": "Medium",
+      "summary": "The gap between owners and non-owners is set to widen",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Home",
+        "Haves and Have Nots"
+      ],
+      "locations": []
+    },
+    "1b643acd68ac": {
+      "id": "1b643acd68ac",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - The NRLA suggests there’s no clear link between benefit levels and rent increases, as ministers consider continuing to freeze rates.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "News",
+        "Helen Gregory",
+        "The NRLA"
+      ],
+      "locations": []
+    },
+    "8cd6827e2795": {
+      "id": "8cd6827e2795",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Section 21 claims are likely to break records this year, despite only being legal for the first seven months, predicts Paul Shamplina.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Last-minute Section",
+        "News",
+        "Helen Gregory",
+        "Section"
+      ],
+      "locations": []
+    },
+    "2a2dbb404476": {
+      "id": "2a2dbb404476",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - An Upper Tribunal has ruled that a banned landlord's tenants should have been considered when making the order.",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "News",
+        "Helen Gregory",
+        "An Upper Tribunal"
+      ],
+      "locations": []
+    },
+    "aa4677523fd0": {
+      "id": "aa4677523fd0",
+      "importance": "Medium",
+      "summary": "Information on community interest companies (CICs) that were registered in the last month.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community Interest Companies",
+        "Information",
+        "CICs"
+      ],
+      "locations": []
+    },
+    "db6d256305df": {
+      "id": "db6d256305df",
+      "importance": "Medium",
+      "summary": "The findings of the Community and Engagement Survey for influencing local decisions in 2025/26.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community and Engagement Survey"
+      ],
+      "locations": []
+    },
+    "7caa2941b78d": {
+      "id": "7caa2941b78d",
+      "importance": "Medium",
+      "summary": "The findings of the Community and Engagement Survey for loneliness in 2025/26.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community and Engagement Survey"
+      ],
+      "locations": []
+    },
+    "887f25ba742a": {
+      "id": "887f25ba742a",
+      "importance": "Medium",
+      "summary": "The findings of the Community and Engagement Survey for volunteering and charitable giving in 2025/26.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community and Engagement Survey"
+      ],
+      "locations": []
+    },
+    "95b65eaf43de": {
+      "id": "95b65eaf43de",
+      "importance": "Medium",
+      "summary": "The findings of the Community and Engagement Survey for support networks in 2025/26.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community and Engagement Survey"
+      ],
+      "locations": []
+    },
+    "b8dacda68ba1": {
+      "id": "b8dacda68ba1",
+      "importance": "Medium",
+      "summary": "Report covering the headline findings of the Community and Engagement Survey in 2025/26.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community and Engagement Survey",
+        "Report"
+      ],
+      "locations": []
+    },
+    "aad93d15081a": {
+      "id": "aad93d15081a",
+      "importance": "Medium",
+      "summary": "The findings of the Community and Engagement Survey for pride in local area in 2025/26.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community and Engagement Survey"
+      ],
+      "locations": []
+    },
+    "5fa548041124": {
+      "id": "5fa548041124",
+      "importance": "Medium",
+      "summary": "The findings of the Community and Engagement Survey for live sport and gambling in 2025/26.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community and Engagement Survey"
+      ],
+      "locations": []
+    },
+    "63d0aa34b9fa": {
+      "id": "63d0aa34b9fa",
+      "importance": "Medium",
+      "summary": "The findings of the Community and Engagement Survey for libraries in 2025/26.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community and Engagement Survey"
+      ],
+      "locations": []
+    },
+    "cb33bb51d164": {
+      "id": "cb33bb51d164",
+      "importance": "Medium",
+      "summary": "The findings of the Community and Engagement Survey for neighbourhood and community in 2025/26.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community and Engagement Survey"
+      ],
+      "locations": []
+    },
+    "4adb8fa67c6a": {
+      "id": "4adb8fa67c6a",
+      "importance": "Medium",
+      "summary": "Social insights on daily life and events, including important issues facing the UK, from the Opinions and Lifestyle Survey (OPN).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Public",
+        "Great Britain",
+        "Social",
+        "Opinions and Lifestyle Survey"
+      ],
+      "locations": []
+    },
+    "ed981a56e3f2": {
+      "id": "ed981a56e3f2",
+      "importance": "Medium",
+      "summary": "The findings of the Community and Engagement Survey for domestic tourism in 2025/26.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community and Engagement Survey"
+      ],
+      "locations": []
+    },
+    "229de19dc67d": {
+      "id": "229de19dc67d",
+      "importance": "Medium",
+      "summary": "The findings of the Community and Engagement Survey for museums and galleries in 2025/26.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community and Engagement Survey"
+      ],
+      "locations": []
+    },
+    "11e26cb1dfd0": {
+      "id": "11e26cb1dfd0",
+      "importance": "Medium",
+      "summary": "The findings of the Community and Engagement Survey for major events in 2025/26.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community and Engagement Survey"
+      ],
+      "locations": []
+    },
+    "e122d7989f0f": {
+      "id": "e122d7989f0f",
+      "importance": "Medium",
+      "summary": "The findings of the Community and Engagement Survey for archives in 2025/26.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community and Engagement Survey"
+      ],
+      "locations": []
+    },
+    "4dac6b1b5497": {
+      "id": "4dac6b1b5497",
+      "importance": "Medium",
+      "summary": "The findings of the Community and Engagement Survey for civic engagement in 2025/26.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community and Engagement Survey"
+      ],
+      "locations": []
+    },
+    "ea977da22081": {
+      "id": "ea977da22081",
+      "importance": "Medium",
+      "summary": "The findings of the Community and Engagement Survey for heritage in 2025/26.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community and Engagement Survey"
+      ],
+      "locations": []
+    },
+    "ed11baf9adae": {
+      "id": "ed11baf9adae",
+      "importance": "Medium",
+      "summary": "The findings of the Community and Engagement Survey for arts in 2025/26.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community and Engagement Survey"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 46,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
