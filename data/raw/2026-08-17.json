@@ -1,0 +1,510 @@
+{
+  "collected_at": "2026-08-17T10:03:44+00:00",
+  "date_london": "2026-08-17",
+  "counts": {
+    "seen_in_feeds": 36,
+    "new": 24,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 3,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 3"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 1,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 1"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 9,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 9"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 6,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 6"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 2,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 2"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 5,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 5"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Scottish government could miss affordable homes target by 35,000, research suggests",
+      "url": "https://insidehousing.co.uk/home/scottish-government-could-miss-affordable-homes-target-by-35000-research-suggests-98368",
+      "published": "2026-08-17T09:29:59+00:00",
+      "excerpt": "The Scottish government is facing the prospect of missing its long-term affordable homes target by 35,000 amid the increasing financial challenges of development, according to a new report",
+      "entities": [
+        "Scottish",
+        "The Scottish"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-17T10:03:53+00:00",
+      "id": "a658f17fbb8c"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "AIM weighs up cinema for former Blackpool cinema",
+      "url": "https://placenorthwest.co.uk/aim-weighs-up-cinema-for-former-blackpool-cinema",
+      "published": "2026-08-17T09:49:59+00:00",
+      "excerpt": "The former Odeon off Rigby Road could once again show films as landlord AIM Land explores options for the remaining space at its Bloomfield Central scheme. The post AIM weighs up cinema for former Blackpool cinema appeared first on Place North West .",
+      "entities": [
+        "Blackpool",
+        "Odeon",
+        "Rigby Road",
+        "AIM Land",
+        "Bloomfield Central",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-17T10:04:00+00:00",
+      "id": "1ab2f8786935"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Largest August price drop since 2018, says Rightmove",
+      "url": "https://propertyindustryeye.com/largest-august-price-drop-since-2018-says-rightmove",
+      "published": "2026-08-17T05:52:52+00:00",
+      "excerpt": "The average asking price of a newly listed home coming to the market for sale has fallen by 2.0% (-£7,360) this month to £364,999, according to the latest house price index from Rightmove. The firm says that prices usually fall in August, but this is a much larger August price drop than the ten-year average … Continued",
+      "entities": [
+        "Largest August",
+        "Rightmove. The",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-17T10:04:02+00:00",
+      "id": "534042f74c0a"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "UK property market takes an unexpected 11% summer knock",
+      "url": "https://propertyindustryeye.com/uk-property-market-takes-an-unexpected-11-summer-knock",
+      "published": "2026-08-17T05:50:23+00:00",
+      "excerpt": "The biggest talking point in the UK property market this week is the 11% drop in sales agreed from last week. Some summer softening is perfectly normal, but the size of this week’s fall was slightly unexpected, particularly after the previous two weeks had been unusually strong and had bucked the normal seasonal trend. So, is … Continued",
+      "entities": [
+        "Some",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-17T10:04:02+00:00",
+      "id": "cecc6120b683"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Landlords paying in cash are negotiating large discounts",
+      "url": "https://propertyindustryeye.com/landlords-paying-in-cash-are-negotiating-large-discounts",
+      "published": "2026-08-17T05:48:24+00:00",
+      "excerpt": "Buy-to-let investors are capitalising on a cooling housing market, using their chain-free position and increasingly their cash reserves to push for steep price reductions, according to new analysis from Hamptons using Connells Group data. In July 2026, landlords accounted for 14.1% of all home purchases in Great Britain, up from the 12.4% year-to-date average. As … Continued",
+      "entities": [
+        "Landlords",
+        "Buy-to-let",
+        "Hamptons",
+        "Connells Group",
+        "In July",
+        "Great Britain",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-17T10:04:02+00:00",
+      "id": "0d1af30bc393"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "New collaboration between Land Registry and Ordnance Survey",
+      "url": "https://propertyindustryeye.com/new-collaboration-between-land-registry-and-ordnance-survey",
+      "published": "2026-08-17T05:46:34+00:00",
+      "excerpt": "A new collaboration between HM Land Registry (HMLR) and Ordnance Survey (OS) will help transform the property market by enhancing data accessibility and innovation in the housing and geospatial sectors. This will reduce friction for citizens and businesses, boost confidence in property rights and the housing sector, and support government policy and economic growth. HMLR … Continued",
+      "entities": [
+        "Land Registry and Ordnance Survey",
+        "HM Land Registry",
+        "HMLR",
+        "Ordnance Survey",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-17T10:04:02+00:00",
+      "id": "a230dfb0e1a2"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Households earning £100m a year exporting solar power",
+      "url": "https://propertyindustryeye.com/households-earned-100m-exporting-solar-power",
+      "published": "2026-08-17T05:45:02+00:00",
+      "excerpt": "British households have received almost £100m for selling surplus solar electricity back to the grid through Octopus Energy during the past year. More than 400,000 households are now using the supplier’s export tariffs, receiving an average payment of £244 over the 12-month period. Collectively, customers exported more than 825 GWh of spare electricity to the … Continued",
+      "entities": [
+        "Households",
+        "British",
+        "Octopus Energy",
+        "More",
+        "Collectively",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-17T10:04:02+00:00",
+      "id": "36f15483d09e"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Propertymark urges benefits increase for poorest private tenants",
+      "url": "https://propertyindustryeye.com/propertymark-urges-benefits-increase-for-poorest-private-tenants",
+      "published": "2026-08-17T05:44:18+00:00",
+      "excerpt": "Propertymark has written to the government calling for action to ensure housing support matches real rents. The trade body has contacted Baroness Sherlock – Minister of State at the Department for Work and Pensions (DWP) – following her statement that local authority Crisis and Resilience Fund housing payments are available to private tenants who cannot … Continued",
+      "entities": [
+        "Propertymark",
+        "Baroness Sherlock",
+        "Minister of State",
+        "Department",
+        "Work and Pensions",
+        "Crisis and Resilience Fund",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-17T10:04:02+00:00",
+      "id": "517ffcb765f5"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Home ownership set to become Britain’s biggest financial divide",
+      "url": "https://propertyindustryeye.com/home-ownership-set-to-become-britains-biggest-financial-divide",
+      "published": "2026-08-17T05:40:29+00:00",
+      "excerpt": "Home ownership will become the central dividing line of financial security in Britain by 2050, with owning a home increasingly dependent on family wealth rather than hard work and saving, according to a long-term strategy report “Finance for a Fairer Future” from the Building Societies Association (BSA). It warns that, unless action is taken, the … Continued",
+      "entities": [
+        "Home",
+        "Britain’s",
+        "Britain",
+        "Finance",
+        "Fairer Future",
+        "Building Societies Association",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-17T10:04:02+00:00",
+      "id": "296eaa208daa"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Are homes ready for Burnham’s home care plans?",
+      "url": "https://propertyindustryeye.com/are-homes-ready-for-burnhams-home-care-plans",
+      "published": "2026-08-17T05:38:24+00:00",
+      "excerpt": "For millions of families across the UK, there is a hope that our parents and grandparents will be able to stay in the homes they know and love as they get older, rather than having to leave simply because their mobility has changed. Andy Burnham’s plans for the future of social care have put greater … Continued",
+      "entities": [
+        "Burnham’s",
+        "Andy Burnham’s",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-17T10:04:02+00:00",
+      "id": "793b0edad33a"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Four million pets to move into rental property this year",
+      "url": "https://propertyindustryeye.com/four-million-pets-to-move-into-rental-property-this-year",
+      "published": "2026-08-17T05:36:57+00:00",
+      "excerpt": "Around four million renters in England have welcomed, or intend to welcome, a pet during 2026 following changes introduced by the Renters’ Rights Act, according to Simply Business. Its research found that 44% of tenants have already acquired or plan to acquire a pet this year, with 12% acting within weeks of the reforms taking … Continued",
+      "entities": [
+        "Four",
+        "Around",
+        "Renters’ Rights Act",
+        "Simply Business. Its",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-17T10:04:02+00:00",
+      "id": "c1ea31a3df1e"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agency creates four director posts as part of growth programme",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/agency-creates-four-director-posts-as-part-of-growth-programme",
+      "published": "2026-08-16T23:20:00+00:00",
+      "excerpt": "The agency was founded in 2020 and has over 250 self-employed agents",
+      "entities": [
+        "Agency"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-17T10:04:02+00:00",
+      "id": "717475400dbe"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Rightmove warns of price falls as Burnham Bounce backfires",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/rightmove-warns-of-price-falls-as-burnham-bounce-backfires",
+      "published": "2026-08-16T23:15:00+00:00",
+      "excerpt": "Rightmove has U-turned on its price prediction for 2026",
+      "entities": [
+        "Rightmove",
+        "Burnham Bounce",
+        "U-turned"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-17T10:04:02+00:00",
+      "id": "a584645f5ae4"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Controversial agency’s tax case to be heard soon",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/controversial-agencys-tax-case-to-be-heard-soon",
+      "published": "2026-08-16T23:05:00+00:00",
+      "excerpt": "The case is to be heard next month",
+      "entities": [
+        "Controversial"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-17T10:04:02+00:00",
+      "id": "e3e40c13b0d8"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agency moves to larger premises after sales expansion",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/agency-moves-to-larger-premises-after-sales-expansion",
+      "published": "2026-08-16T23:03:00+00:00",
+      "excerpt": "Two branch offices and growing business volumes demanded new premises",
+      "entities": [
+        "Agency"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-17T10:04:02+00:00",
+      "id": "dc453fb94c86"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "London market the worst in Britain by almost every measure",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/london-market-the-worst-in-britain-by-almost-every-measure",
+      "published": "2026-08-16T23:02:00+00:00",
+      "excerpt": "Rightmove says price falls, homes on sale and affordability all spell bad news",
+      "entities": [
+        "London",
+        "Britain",
+        "Rightmove"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-17T10:04:02+00:00",
+      "id": "1366fe16f820"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Sellers slash prices as investors demand better deals",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/sellers-slash-prices-as-investors-demand-better-deals",
+      "published": "2026-08-16T23:00:00+00:00",
+      "excerpt": "That’s according to new analysis from Hamptons using Connells Group data.",
+      "entities": [
+        "Sellers",
+        "That’s",
+        "Hamptons",
+        "Connells Group"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-17T10:04:02+00:00",
+      "id": "2c3f04c38fc1"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Landlords flex cash advantage to win big discounts",
+      "url": "https://landlordzone.co.uk/news/landlords-flex-cash-advantage-to-win-big-discounts",
+      "published": "2026-08-17T10:02:28+00:00",
+      "excerpt": "News - Helen Gregory - Buy-to-let investors are using their chain-free position and cash reserves to drive hard bargains, according to Hamptons.",
+      "entities": [
+        "Landlords",
+        "News",
+        "Helen Gregory",
+        "Buy-to-let",
+        "Hamptons"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-17T10:04:03+00:00",
+      "id": "bcd56752fee4"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Trust, but always verify, here’s a landlord's guide to periodic inspections",
+      "url": "https://landlordzone.co.uk/news/trust-but-always-verify-heres-a-landlords-guide-to-periodic-inspections",
+      "published": "2026-08-17T09:38:31+00:00",
+      "excerpt": "Information - Tom Entwistle - Periodic, well-documented inspections are not an ad hoc luxury to be disregarded at will, but a necessity in today’s devious world",
+      "entities": [
+        "Trust",
+        "Information",
+        "Tom Entwistle",
+        "Periodic"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-17T10:04:03+00:00",
+      "id": "6e0ea075f7c2"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Consumer insights tracker",
+      "url": "https://gov.uk/government/publications/consumer-insights-tracker",
+      "published": "2026-08-17T09:06:22+00:00",
+      "excerpt": "The Food Standard Agency's monthly tracking survey that monitors changes in consumers’ behaviour and attitudes in relation to food.",
+      "entities": [
+        "Consumer",
+        "The Food Standard Agency's"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-17T10:04:04+00:00",
+      "id": "3839019e060b"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Wholesale fruit and vegetable prices",
+      "url": "https://gov.uk/government/statistical-data-sets/wholesale-fruit-and-vegetable-prices-weekly-average",
+      "published": "2026-08-17T08:30:06+00:00",
+      "excerpt": "Series of fortnightly average wholesale market prices of selected home grown horticultural produce.",
+      "entities": [
+        "Wholesale",
+        "Series"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-17T10:04:04+00:00",
+      "id": "4a1d187049bd"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Lowland agricultural peat characteristics which influence water quality and peat hydrology",
+      "url": "https://gov.uk/government/publications/lowland-agricultural-peat-characteristics-which-influence-water-quality-and-peat-hydrology",
+      "published": "2026-08-17T08:30:06+00:00",
+      "excerpt": "Investigates the influence of lowland agricultural peat on water quality, the effect peat properties have on water tables, and effective approaches to raising water tables.",
+      "entities": [
+        "Lowland",
+        "Investigates"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-17T10:04:04+00:00",
+      "id": "7129e1277e70"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Banana prices",
+      "url": "https://gov.uk/government/statistical-data-sets/banana-prices",
+      "published": "2026-08-17T08:30:06+00:00",
+      "excerpt": "Average fortnightly wholesale prices of bananas by country of origin.…",
+      "entities": [
+        "Banana",
+        "Average"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-17T10:04:04+00:00",
+      "id": "a25f74f4780f"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "RPC opinion: reforming weddings law in England and Wales",
+      "url": "https://gov.uk/government/publications/rpc-opinion-reforming-weddings-law-in-england-and-wales",
+      "published": "2026-08-17T08:16:41+00:00",
+      "excerpt": "Our opinion of the quality of the evidence and analysis in the options assessment from Ministry of Justice.",
+      "entities": [
+        "England and Wales. Our",
+        "Ministry of Justice"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-17T10:04:04+00:00",
+      "id": "efc7808337d3"
+    }
+  ]
+}

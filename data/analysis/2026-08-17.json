@@ -1,0 +1,494 @@
+{
+  "generated_at": "2026-08-17T10:04:09+00:00",
+  "date_label": "Monday 17 August 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n24 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Continued",
+      "type": "Other",
+      "mentions": 9,
+      "context": ""
+    },
+    {
+      "name": "Hamptons",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Landlords",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Buy-to-let",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Connells Group",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Britain",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Agency",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Rightmove",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Scottish",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Scottish",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Blackpool",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Odeon",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Rigby Road",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "AIM Land",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Bloomfield Central",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Largest August",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Rightmove. The",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Some",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "In July",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "a658f17fbb8c": {
+      "id": "a658f17fbb8c",
+      "importance": "Medium",
+      "summary": "The Scottish government is facing the prospect of missing its long-term affordable homes target by 35,000 amid the increasing financial challenges of development, according to a new report",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Scottish",
+        "The Scottish"
+      ],
+      "locations": []
+    },
+    "1ab2f8786935": {
+      "id": "1ab2f8786935",
+      "importance": "Medium",
+      "summary": "The former Odeon off Rigby Road could once again show films as landlord AIM Land explores options for the remaining space at its Bloomfield Central scheme. The post AIM weighs up cinema for former Blackpool cinema appear",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Blackpool",
+        "Odeon",
+        "Rigby Road",
+        "AIM Land"
+      ],
+      "locations": []
+    },
+    "534042f74c0a": {
+      "id": "534042f74c0a",
+      "importance": "Medium",
+      "summary": "The average asking price of a newly listed home coming to the market for sale has fallen by 2.0% (-£7,360) this month to £364,999, according to the latest house price index from Rightmove. The firm says that prices usual",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Largest August",
+        "Rightmove. The",
+        "Continued"
+      ],
+      "locations": []
+    },
+    "cecc6120b683": {
+      "id": "cecc6120b683",
+      "importance": "Medium",
+      "summary": "The biggest talking point in the UK property market this week is the 11% drop in sales agreed from last week. Some summer softening is perfectly normal, but the size of this week’s fall was slightly unexpected, particula",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Some",
+        "Continued"
+      ],
+      "locations": []
+    },
+    "0d1af30bc393": {
+      "id": "0d1af30bc393",
+      "importance": "Medium",
+      "summary": "Buy-to-let investors are capitalising on a cooling housing market, using their chain-free position and increasingly their cash reserves to push for steep price reductions, according to new analysis from Hamptons using Co",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "Buy-to-let",
+        "Hamptons",
+        "Connells Group"
+      ],
+      "locations": []
+    },
+    "a230dfb0e1a2": {
+      "id": "a230dfb0e1a2",
+      "importance": "Medium",
+      "summary": "A new collaboration between HM Land Registry (HMLR) and Ordnance Survey (OS) will help transform the property market by enhancing data accessibility and innovation in the housing and geospatial sectors. This will reduce ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Land Registry and Ordnance Survey",
+        "HM Land Registry",
+        "HMLR",
+        "Ordnance Survey"
+      ],
+      "locations": []
+    },
+    "36f15483d09e": {
+      "id": "36f15483d09e",
+      "importance": "Medium",
+      "summary": "British households have received almost £100m for selling surplus solar electricity back to the grid through Octopus Energy during the past year. More than 400,000 households are now using the supplier’s export tariffs, ",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Households",
+        "British",
+        "Octopus Energy",
+        "More"
+      ],
+      "locations": []
+    },
+    "517ffcb765f5": {
+      "id": "517ffcb765f5",
+      "importance": "Medium",
+      "summary": "Propertymark has written to the government calling for action to ensure housing support matches real rents. The trade body has contacted Baroness Sherlock – Minister of State at the Department for Work and Pensions (DWP)",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Propertymark",
+        "Baroness Sherlock",
+        "Minister of State",
+        "Department"
+      ],
+      "locations": []
+    },
+    "296eaa208daa": {
+      "id": "296eaa208daa",
+      "importance": "Medium",
+      "summary": "Home ownership will become the central dividing line of financial security in Britain by 2050, with owning a home increasingly dependent on family wealth rather than hard work and saving, according to a long-term strateg",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Home",
+        "Britain’s",
+        "Britain",
+        "Finance"
+      ],
+      "locations": []
+    },
+    "793b0edad33a": {
+      "id": "793b0edad33a",
+      "importance": "Medium",
+      "summary": "For millions of families across the UK, there is a hope that our parents and grandparents will be able to stay in the homes they know and love as they get older, rather than having to leave simply because their mobility ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Burnham’s",
+        "Andy Burnham’s",
+        "Continued"
+      ],
+      "locations": []
+    },
+    "c1ea31a3df1e": {
+      "id": "c1ea31a3df1e",
+      "importance": "Medium",
+      "summary": "Around four million renters in England have welcomed, or intend to welcome, a pet during 2026 following changes introduced by the Renters’ Rights Act, according to Simply Business. Its research found that 44% of tenants ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Four",
+        "Around",
+        "Renters’ Rights Act",
+        "Simply Business. Its"
+      ],
+      "locations": []
+    },
+    "717475400dbe": {
+      "id": "717475400dbe",
+      "importance": "Medium",
+      "summary": "The agency was founded in 2020 and has over 250 self-employed agents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency"
+      ],
+      "locations": []
+    },
+    "a584645f5ae4": {
+      "id": "a584645f5ae4",
+      "importance": "Medium",
+      "summary": "Rightmove has U-turned on its price prediction for 2026",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rightmove",
+        "Burnham Bounce",
+        "U-turned"
+      ],
+      "locations": []
+    },
+    "e3e40c13b0d8": {
+      "id": "e3e40c13b0d8",
+      "importance": "Medium",
+      "summary": "The case is to be heard next month",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Controversial"
+      ],
+      "locations": []
+    },
+    "dc453fb94c86": {
+      "id": "dc453fb94c86",
+      "importance": "Medium",
+      "summary": "Two branch offices and growing business volumes demanded new premises",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency"
+      ],
+      "locations": []
+    },
+    "1366fe16f820": {
+      "id": "1366fe16f820",
+      "importance": "Medium",
+      "summary": "Rightmove says price falls, homes on sale and affordability all spell bad news",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "London",
+        "Britain",
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    "2c3f04c38fc1": {
+      "id": "2c3f04c38fc1",
+      "importance": "Medium",
+      "summary": "That’s according to new analysis from Hamptons using Connells Group data.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Sellers",
+        "That’s",
+        "Hamptons",
+        "Connells Group"
+      ],
+      "locations": []
+    },
+    "bcd56752fee4": {
+      "id": "bcd56752fee4",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Buy-to-let investors are using their chain-free position and cash reserves to drive hard bargains, according to Hamptons.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "News",
+        "Helen Gregory",
+        "Buy-to-let"
+      ],
+      "locations": []
+    },
+    "6e0ea075f7c2": {
+      "id": "6e0ea075f7c2",
+      "importance": "Medium",
+      "summary": "Information - Tom Entwistle - Periodic, well-documented inspections are not an ad hoc luxury to be disregarded at will, but a necessity in today’s devious world",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Trust",
+        "Information",
+        "Tom Entwistle",
+        "Periodic"
+      ],
+      "locations": []
+    },
+    "3839019e060b": {
+      "id": "3839019e060b",
+      "importance": "Medium",
+      "summary": "The Food Standard Agency's monthly tracking survey that monitors changes in consumers’ behaviour and attitudes in relation to food.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Consumer",
+        "The Food Standard Agency's"
+      ],
+      "locations": []
+    },
+    "4a1d187049bd": {
+      "id": "4a1d187049bd",
+      "importance": "Medium",
+      "summary": "Series of fortnightly average wholesale market prices of selected home grown horticultural produce.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Wholesale",
+        "Series"
+      ],
+      "locations": []
+    },
+    "7129e1277e70": {
+      "id": "7129e1277e70",
+      "importance": "Medium",
+      "summary": "Investigates the influence of lowland agricultural peat on water quality, the effect peat properties have on water tables, and effective approaches to raising water tables.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Lowland",
+        "Investigates"
+      ],
+      "locations": []
+    },
+    "a25f74f4780f": {
+      "id": "a25f74f4780f",
+      "importance": "Medium",
+      "summary": "Average fortnightly wholesale prices of bananas by country of origin.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Banana",
+        "Average"
+      ],
+      "locations": []
+    },
+    "efc7808337d3": {
+      "id": "efc7808337d3",
+      "importance": "Medium",
+      "summary": "Our opinion of the quality of the evidence and analysis in the options assessment from Ministry of Justice.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "England and Wales. Our",
+        "Ministry of Justice"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 24,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
