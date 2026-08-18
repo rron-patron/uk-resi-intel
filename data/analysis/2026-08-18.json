@@ -1,0 +1,741 @@
+{
+  "generated_at": "2026-08-18T09:18:18+00:00",
+  "date_label": "Tuesday 18 August 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n40 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Planning policy",
+      "count": 6,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Residential investment",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Later living",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Continued",
+      "type": "Other",
+      "mentions": 8,
+      "context": ""
+    },
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Monthly",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Statistics",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Thousands",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Labour",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "HMRC",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Universal Credit",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Sector",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "National Planning Policy Framework",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Newly",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Stephen Delahunty",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "NPPF",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Great Places",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Great Places Housing Group",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Manchester",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Interested",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Inspector",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Wain Homes’ Preston",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "763b7df245c5": {
+      "id": "763b7df245c5",
+      "importance": "Medium",
+      "summary": "Newly revised planning guidance for England aims to unlock thousands of new homes around train stations and on the green belt. Stephen Delahunty rounds up the sector’s reaction",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Sector",
+        "National Planning Policy Framework",
+        "Newly",
+        "Stephen Delahunty"
+      ],
+      "locations": []
+    },
+    "5d61710c14a8": {
+      "id": "5d61710c14a8",
+      "importance": "Medium",
+      "summary": "The government is promising that “thousands of new homes” will be built close to train stations – including on the green belt – as part of newly revised planning guidance for England",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Thousands",
+        "NPPF"
+      ],
+      "locations": []
+    },
+    "f9fa88b24a3d": {
+      "id": "f9fa88b24a3d",
+      "importance": "Medium",
+      "summary": "Great Places Housing Group completed 311 new homes in the first quarter of this financial year up to 30 June",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Great Places",
+        "Great Places Housing Group"
+      ],
+      "locations": []
+    },
+    "416016964826": {
+      "id": "416016964826",
+      "importance": "Medium",
+      "summary": "Interested parties have until 28 September to weigh in on the strategic spatial framework before the document is set to government for examination. The post Manchester launches local plan consultation appeared first on P",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Manchester",
+        "Interested",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "51ec4d4e2566": {
+      "id": "51ec4d4e2566",
+      "importance": "Medium",
+      "summary": "Siding with the developer over the city council, the Planning Inspectorate has permitted the development of a 50,600 sq ft care home, a 4,300 sq ft community hall, and up to 167 homes on 25 acres of open countryside in B",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Later living"
+      ],
+      "companies": [
+        "Inspector",
+        "Wain Homes’ Preston",
+        "Siding",
+        "Planning Inspectorate"
+      ],
+      "locations": []
+    },
+    "9c683563fb40": {
+      "id": "9c683563fb40",
+      "importance": "Medium",
+      "summary": "The three North West local authorities will now have to treat residential planning applications with a presumption in favour of approval, formulate an action plan to stimulate residential delivery, and add a 20% buffer t",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Housing supply"
+      ],
+      "companies": [
+        "Stockport",
+        "Lancaster",
+        "Chorley",
+        "Housing Delivery Test. The"
+      ],
+      "locations": []
+    },
+    "41ca2da10750": {
+      "id": "41ca2da10750",
+      "importance": "Medium",
+      "summary": "A community facility serving Broughton’s Orthodox Jewish community, alongside 24 houses, and five assisted living flats, is proposed on a long-vacant plot off Bury New Road. The post Plans in for Jewish homes and communi",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Plans",
+        "Jewish",
+        "Salford",
+        "Broughton’s Orthodox Jewish"
+      ],
+      "locations": []
+    },
+    "b465a66a3290": {
+      "id": "b465a66a3290",
+      "importance": "Medium",
+      "summary": "Modern method auction (MMoA) sales are gaining ground in the UK housing market, according to new data from Lomond, a network of lettings and sales agents, which shows that house purchases via this method have increased b",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "House",
+        "Modern",
+        "MMoA",
+        "Lomond"
+      ],
+      "locations": []
+    },
+    "1565f4f58dd4": {
+      "id": "1565f4f58dd4",
+      "importance": "Medium",
+      "summary": "e4 Strategic, a proptech digital solutions provider, has joined the Project 28 Charter, supporting the industry-wide drive to create faster and more certain property transactions. Established by Landmark Information Grou",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Strategic",
+        "Project",
+        "Charter",
+        "Established"
+      ],
+      "locations": []
+    },
+    "b51d2658776c": {
+      "id": "b51d2658776c",
+      "importance": "Medium",
+      "summary": "AI adoption across construction and commercial property has accelerated significantly over the past year, but firms are struggling to turn pilot studies into routine practice, according to new research from the Royal Ins",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Royal Institution of Chartered Surveyors",
+        "RICS",
+        "The RICS AI",
+        "Commercial Property and Construction Report"
+      ],
+      "locations": []
+    },
+    "ed1fe4174180": {
+      "id": "ed1fe4174180",
+      "importance": "Medium",
+      "summary": "Thousands of new homes will be built around England’s train, tram and underground stations under new planning rules introduced on 17 August, helping families to live closer to work, schools and transport. The common-sens",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Residential investment"
+      ],
+      "companies": [
+        "Reaction",
+        "Thousands",
+        "England’s",
+        "Continued"
+      ],
+      "locations": []
+    },
+    "e811e03bd59b": {
+      "id": "e811e03bd59b",
+      "importance": "Medium",
+      "summary": "Andy Burnham returned from his summer holiday last week and his honeymoon as Prime Minister also felt over. The ‘Burnham bounce’ has pushed Labour from the high teens to the mid-twenties in the opinion polls. However, in",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Expect",
+        "Smorgasbord",
+        "Andy Burnham",
+        "Prime Minister"
+      ],
+      "locations": []
+    },
+    "207829d036ca": {
+      "id": "207829d036ca",
+      "importance": "Medium",
+      "summary": "The number of UK residential properties sold by overseas individuals fell by almost 9% during the latest tax year, according to HMRC figures obtained by Bowmore Wealth Group. Non-resident individuals sold 16,520 homes in",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Non-residents",
+        "HMRC",
+        "Bowmore Wealth Group. Non-resident",
+        "Activity"
+      ],
+      "locations": []
+    },
+    "634464d9923c": {
+      "id": "634464d9923c",
+      "importance": "Medium",
+      "summary": "Private equity firm Providence Equity Partners has agreed to acquire residential property valuation and risk data provider Hometrack for an undisclosed sum. Hometrack supplies automated valuation technology and property ",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages",
+        "Residential investment"
+      ],
+      "companies": [
+        "Providence",
+        "Hometrack. Private",
+        "Providence Equity Partners",
+        "Hometrack"
+      ],
+      "locations": []
+    },
+    "28b67ec0f3c7": {
+      "id": "28b67ec0f3c7",
+      "importance": "Medium",
+      "summary": "There has been a sharp rise in the number of US citizens renting properties in Britain since Donald Trump took office in January 2025, according to new analysis conducted by rental market experts Goodlord, which shows th",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Trump’s",
+        "Britain",
+        "Donald Trump",
+        "Goodlord"
+      ],
+      "locations": []
+    },
+    "1e2bed6d90b7": {
+      "id": "1e2bed6d90b7",
+      "importance": "Medium",
+      "summary": "A new analysis of Zoopla data by Landlord Resource shows the lowest-yielding and highest-yielding locations in the UK for buy to let landlords. Sunderland has the highest average gross yield of 9.3% – a rate that is also",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Sunderland",
+        "Zoopla",
+        "Landlord Resource",
+        "Rents"
+      ],
+      "locations": []
+    },
+    "57b4f45f0f12": {
+      "id": "57b4f45f0f12",
+      "importance": "Medium",
+      "summary": "An agency is taking sales into the community, not just at a branch",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents"
+      ],
+      "locations": []
+    },
+    "8746bcc44867": {
+      "id": "8746bcc44867",
+      "importance": "Medium",
+      "summary": "Another four brokers have joined the ranks this month",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Leading",
+        "Another"
+      ],
+      "locations": []
+    },
+    "30f736720909": {
+      "id": "30f736720909",
+      "importance": "Medium",
+      "summary": "He allegedly tried to wind up the firm",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Labour MP",
+        "Covid"
+      ],
+      "locations": []
+    },
+    "4690ebf103af": {
+      "id": "4690ebf103af",
+      "importance": "Medium",
+      "summary": "AML is no longer a side-desk activity",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Branches"
+      ],
+      "locations": []
+    },
+    "d977c7cec782": {
+      "id": "d977c7cec782",
+      "importance": "Medium",
+      "summary": "“What excites us most is the opportunity to collaborate with more than 1,000 eXp agents\"",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "London",
+        "What"
+      ],
+      "locations": []
+    },
+    "653aedd94c34": {
+      "id": "653aedd94c34",
+      "importance": "Medium",
+      "summary": "Widening gap between fastest and slowest areas",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "New Zoopla",
+        "Widening"
+      ],
+      "locations": []
+    },
+    "b9961a3fa923": {
+      "id": "b9961a3fa923",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Voice of Landlords Associations has called for an independent review of English councils’ relationships with Justice for Tenants.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "Justice",
+        "Tenants. News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "547f5a99920a": {
+      "id": "547f5a99920a",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - More than 100 rental homes on the royal estates fail to meet legal minimum energy standards, an investigation has found.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Royal",
+        "News",
+        "Helen Gregory",
+        "More"
+      ],
+      "locations": []
+    },
+    "0541a6e46ab5": {
+      "id": "0541a6e46ab5",
+      "importance": "Medium",
+      "summary": "Weekly data from UK laboratories on the number of cases of notifiable bacteria and viruses (see important note in Details section, below).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Notifiable",
+        "Weekly",
+        "Details"
+      ],
+      "locations": []
+    },
+    "66e0b57bc22f": {
+      "id": "66e0b57bc22f",
+      "importance": "Medium",
+      "summary": "Preliminary and updated outbreak assessments for avian influenza (bird flu) in Europe, Russia and the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Avian",
+        "Europe",
+        "Russia",
+        "UK. Preliminary"
+      ],
+      "locations": []
+    },
+    "e5d681e314b7": {
+      "id": "e5d681e314b7",
+      "importance": "Medium",
+      "summary": "Impact of the conflict in the Middle East on UK road fuel prices, spreads and margins.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Enhanced",
+        "Impact",
+        "Middle East"
+      ],
+      "locations": []
+    },
+    "65693dcaf063": {
+      "id": "65693dcaf063",
+      "importance": "Medium",
+      "summary": "Summary of findings of the population’s attitudes to attempts to address the rise in the number of young people not in education, employment or training.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "General",
+        "Young",
+        "Summary"
+      ],
+      "locations": []
+    },
+    "f03cdabe9c94": {
+      "id": "f03cdabe9c94",
+      "importance": "Medium",
+      "summary": "A national public health bulletin from the UK Health Security Agency (UKHSA).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Health Protection Report",
+        "UK Health Security Agency",
+        "UKHSA"
+      ],
+      "locations": []
+    },
+    "ef8c6dc8c55c": {
+      "id": "ef8c6dc8c55c",
+      "importance": "Medium",
+      "summary": "The Marine Management Organisation (MMO) is consulting on proposals to consolidate the provisional monthly Non-Quota Species (NQS) uptake by UK vessels in EU waters release and the monthly UK Sea Fisheries Statistical (S",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Monthly",
+        "The Marine Management Organisation",
+        "Non-Quota Species",
+        "UK Sea Fisheries Statistical"
+      ],
+      "locations": []
+    },
+    "9d75729993e3": {
+      "id": "9d75729993e3",
+      "importance": "Medium",
+      "summary": "Statistics about sanctions on Universal Credit (UC). The data will be available as normal for analysis via Stat-Xplore.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Benefit Sanctions",
+        "Statistics",
+        "Universal Credit",
+        "Stat-Xplore"
+      ],
+      "locations": []
+    },
+    "ced553d55688": {
+      "id": "ced553d55688",
+      "importance": "Medium",
+      "summary": "Monthly tables and commentary on the numbers and rates of individual insolvencies, including bankruptcies, debt relief orders and individual voluntary arrangements in England and Wales and Northern Ireland, and quarterly",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Individual",
+        "Monthly",
+        "England and Wales and Northern Ireland"
+      ],
+      "locations": []
+    },
+    "4d433d2ff152": {
+      "id": "4d433d2ff152",
+      "importance": "Medium",
+      "summary": "Statistics for the number of claims, starts, people and households on Universal Credit.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Universal Credit",
+        "Statistics"
+      ],
+      "locations": []
+    },
+    "64759cc21a31": {
+      "id": "64759cc21a31",
+      "importance": "Medium",
+      "summary": "We publish both Official Statistics and Management Information on marine activities in England and the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Statistics",
+        "MMO. We",
+        "Official Statistics and Management Information"
+      ],
+      "locations": []
+    },
+    "3f6a6d2f6822": {
+      "id": "3f6a6d2f6822",
+      "importance": "Medium",
+      "summary": "Monthly tables and commentary on the numbers, rates and sectors of companies that have entered formal insolvency procedures in England and Wales, Scotland and Northern Ireland.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Company",
+        "Monthly",
+        "England and Wales",
+        "Scotland and Northern Ireland"
+      ],
+      "locations": []
+    },
+    "9243f4f6c246": {
+      "id": "9243f4f6c246",
+      "importance": "Medium",
+      "summary": "Productivity flash estimates for Quarter 2 (Apr to June) 2026, based on the GDP first quarterly estimate and labour market statistics, and productivity overview for Quarter 1 (Jan to Mar) 2026",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Productivity",
+        "Quarter"
+      ],
+      "locations": []
+    },
+    "9d3d0749ad3d": {
+      "id": "9d3d0749ad3d",
+      "importance": "Medium",
+      "summary": "Monthly estimates of payrolled employees and their pay from HM Revenue and Customs’ (HMRC’s) Pay As You Earn (PAYE) Real Time Information (RTI) data. This is a joint release between HMRC and the Office for National Stati",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Earnings",
+        "Pay As You Earn",
+        "Real Time Information",
+        "Monthly"
+      ],
+      "locations": []
+    },
+    "12b8696dd038": {
+      "id": "12b8696dd038",
+      "importance": "Medium",
+      "summary": "Regional, local authority, and parliamentary constituency breakdowns of changes in UK employment, unemployment, and economic inactivity, and other related statistics. These are official statistics in development.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Labour",
+        "Regional",
+        "These"
+      ],
+      "locations": []
+    },
+    "39afd1ceaf32": {
+      "id": "39afd1ceaf32",
+      "importance": "Medium",
+      "summary": "Estimates of employment, unemployment, inactivity, average weekly earnings, vacancies and other labour market related statistics for the UK.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK Labour Market",
+        "Estimates"
+      ],
+      "locations": []
+    },
+    "e22d2a079cb8": {
+      "id": "e22d2a079cb8",
+      "importance": "Medium",
+      "summary": "A high-level picture of the risks facing the sector now or in the future, in order to help trustees take proportionate steps within their own context to prepare.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Charity Sector Risk Assessment"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 40,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
