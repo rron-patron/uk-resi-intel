@@ -1,0 +1,829 @@
+{
+  "generated_at": "2026-08-19T09:28:27+00:00",
+  "date_label": "Wednesday 19 August 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n45 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 8,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 8,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Build-to-rent",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Fire",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Average",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Insights",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "England and Wales",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "CPIH",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Northern Ireland",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "UK House Price Index",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Consumer",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Billionaire Buys Into BTR",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "With",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Deal. Inditex's Ortega",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Two Welsh",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Welsh",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Westchurch",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Bredbury",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Thirteen",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Green Belt",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "e6c0a5fc373e": {
+      "id": "e6c0a5fc373e",
+      "importance": "Medium",
+      "summary": "Inditex's Ortega enters UK real estate with a £150M BTR purchase.",
+      "why_it_matters": "",
+      "themes": [
+        "Build-to-rent",
+        "Residential investment"
+      ],
+      "companies": [
+        "Billionaire Buys Into BTR",
+        "With",
+        "Deal. Inditex's Ortega"
+      ],
+      "locations": []
+    },
+    "24ae355e5ca6": {
+      "id": "24ae355e5ca6",
+      "importance": "Medium",
+      "summary": "Two Welsh housing associations have retained their green governance and financial viability grades after the Welsh regulator published its latest review documents",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Two Welsh",
+        "Welsh"
+      ],
+      "locations": []
+    },
+    "6c4b5fc38889": {
+      "id": "6c4b5fc38889",
+      "importance": "Medium",
+      "summary": "Fire chiefs have called for a long-term strategy and funding to tackle wildfires as they are spreading more often to urban areas and putting people’s homes at risk",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Fire"
+      ],
+      "locations": []
+    },
+    "225c8452fab1": {
+      "id": "225c8452fab1",
+      "importance": "Medium",
+      "summary": "Thirteen acres of Green Belt land off Shakespeare Road on the southern fringe of the Stockport town is the subject of plans for a mix of one- to four-bed affordable properties. The post Westchurch sets out plans for 134 ",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Westchurch",
+        "Bredbury",
+        "Thirteen",
+        "Green Belt"
+      ],
+      "locations": []
+    },
+    "8b757134aa65": {
+      "id": "8b757134aa65",
+      "importance": "Medium",
+      "summary": "The local council has had its decision to reject plans for a log flume and 77-metre tall fairground ride upheld by the Planning Inspectorate. The post Blackpool prevails in rollercoaster appeal appeared first on Place No",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Blackpool",
+        "Planning Inspectorate. The",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "22cd2866e40b": {
+      "id": "22cd2866e40b",
+      "importance": "Medium",
+      "summary": "The housebuilder has submitted plans for 192 homes as part of a wider 1,500-home masterplan east of Royton in Oldham. The post Barratt Redrow next to firm up Beal Valley intentions appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders",
+        "Regional development"
+      ],
+      "companies": [
+        "Barratt Redrow",
+        "Beal Valley",
+        "Royton",
+        "Oldham. The"
+      ],
+      "locations": []
+    },
+    "ec6528ae6a79": {
+      "id": "ec6528ae6a79",
+      "importance": "Medium",
+      "summary": "Liquid Funding Business, which owns the former Stocktons Furniture store site, and JV partner Relentless Developments have worked with SimpsonHaugh Architects to come up with revised proposals for the build-to-rent schem",
+      "why_it_matters": "",
+      "themes": [
+        "Build-to-rent",
+        "Residential investment"
+      ],
+      "companies": [
+        "Relentless",
+        "Ancoats",
+        "Liquid Funding Business",
+        "Stocktons Furniture"
+      ],
+      "locations": []
+    },
+    "cb9ecedeb666": {
+      "id": "cb9ecedeb666",
+      "importance": "Medium",
+      "summary": "Propertymark data shows growth across most of Great Britain",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Average",
+        "Propertymark",
+        "Great Britain"
+      ],
+      "locations": []
+    },
+    "1b78b52dbcb4": {
+      "id": "1b78b52dbcb4",
+      "importance": "Medium",
+      "summary": "Residential operation joins platform connecting more than 1,000 agents nationwide",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Established",
+        "Residential"
+      ],
+      "locations": []
+    },
+    "14081f90c113": {
+      "id": "14081f90c113",
+      "importance": "Medium",
+      "summary": "Average home mover bill remains broadly flat despite rising inflation",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Conveyancing",
+        "Average"
+      ],
+      "locations": []
+    },
+    "b92f19b393d6": {
+      "id": "b92f19b393d6",
+      "importance": "Medium",
+      "summary": "Mortgage volatility prompts buyers to adopt 'wait and see' approach as regional divide widens",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Half",
+        "Mortgage"
+      ],
+      "locations": []
+    },
+    "57510a1252ad": {
+      "id": "57510a1252ad",
+      "importance": "Medium",
+      "summary": "Appointment allows firm to tender for new and established residential developments",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Property",
+        "Appointment"
+      ],
+      "locations": []
+    },
+    "fc4919ba157c": {
+      "id": "fc4919ba157c",
+      "importance": "Medium",
+      "summary": "New buy-to-let option targets expat and international investors using SPV structures",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Lender"
+      ],
+      "locations": []
+    },
+    "f26c9eeb0884": {
+      "id": "f26c9eeb0884",
+      "importance": "Medium",
+      "summary": "July figures suggest conflict in the Middle East is adding to economic headwinds",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Construction",
+        "Middle East"
+      ],
+      "locations": []
+    },
+    "d2c78fd29183": {
+      "id": "d2c78fd29183",
+      "importance": "Medium",
+      "summary": "Pop-up exhibition aims to win vendors who have struggled to sell",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Agency",
+        "Pop-up"
+      ],
+      "locations": []
+    },
+    "9f8173759827": {
+      "id": "9f8173759827",
+      "importance": "Medium",
+      "summary": "Nearly 1,000 residential blocks surveyed in four months using aerial and thermal imaging",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Housing",
+        "Nearly"
+      ],
+      "locations": []
+    },
+    "0ed6cb7192e2": {
+      "id": "0ed6cb7192e2",
+      "importance": "Medium",
+      "summary": "Extend at a cost, or sell at a reduction?",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Short",
+        "Extend"
+      ],
+      "locations": []
+    },
+    "6f812fc7c6e5": {
+      "id": "6f812fc7c6e5",
+      "importance": "Medium",
+      "summary": "In most other regions, there was a small rise",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "London"
+      ],
+      "locations": []
+    },
+    "8912bd32d57d": {
+      "id": "8912bd32d57d",
+      "importance": "Medium",
+      "summary": "The figures come from mortgage lenders' trade body UK Finance",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Good News",
+        "UK Finance"
+      ],
+      "locations": []
+    },
+    "e216956d33e3": {
+      "id": "e216956d33e3",
+      "importance": "Medium",
+      "summary": "Modern Method of Auction increasingly popular amongst concerned sellers",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Modern Method of Auction"
+      ],
+      "locations": []
+    },
+    "2db84c468e8b": {
+      "id": "2db84c468e8b",
+      "importance": "Medium",
+      "summary": "Demand for solar panels has boomed during the heatwaves, too",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Energy",
+        "Demand"
+      ],
+      "locations": []
+    },
+    "907923f2ccff": {
+      "id": "907923f2ccff",
+      "importance": "Medium",
+      "summary": "The deal is with Ordnance Survey",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Land Registry",
+        "Ordnance Survey"
+      ],
+      "locations": []
+    },
+    "72ae27b98a47": {
+      "id": "72ae27b98a47",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Landlords in Bolton would face mandatory training as a condition of getting an additional licence under plans agreed by the town council.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "News",
+        "Helen Gregory",
+        "Bolton"
+      ],
+      "locations": []
+    },
+    "0f8b62d8e681": {
+      "id": "0f8b62d8e681",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Tribunal orders landlord to repay £17,475 and criticises her property management style.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Landlord's",
+        "News",
+        "Helen Gregory",
+        "Tribunal"
+      ],
+      "locations": []
+    },
+    "010e0eb44dc1": {
+      "id": "010e0eb44dc1",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - The proportion of landlords reporting strong tenant demand has risen for the first time since early 2024.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tenant",
+        "PRS. News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "f80bf619e9f1": {
+      "id": "f80bf619e9f1",
+      "importance": "Medium",
+      "summary": "News - Maria White - Stourbridge wildfires raise a difficult question for landlords: what happens when a rental is suddenly left uninhabitable?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "When",
+        "News",
+        "Maria White",
+        "Stourbridge"
+      ],
+      "locations": []
+    },
+    "fd3ae7ae9769": {
+      "id": "fd3ae7ae9769",
+      "importance": "Medium",
+      "summary": "A comparison of independent forecasts for the UK economy in August 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Forecasts"
+      ],
+      "locations": []
+    },
+    "01406ae8e50a": {
+      "id": "01406ae8e50a",
+      "importance": "Medium",
+      "summary": "Detailed statistics on fires attended and response times by fire and rescue services across England, and fire-related fatalities and casualties in those fires.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Detailed"
+      ],
+      "locations": []
+    },
+    "6fb39c144e7c": {
+      "id": "6fb39c144e7c",
+      "importance": "Medium",
+      "summary": "Insights into UK companies’ exporting behaviour and attitudes towards exporting, including perceptions around trade barriers, drawn from fieldwork completed across 2025.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Insights"
+      ],
+      "locations": []
+    },
+    "170a46a13bf0": {
+      "id": "170a46a13bf0",
+      "importance": "Medium",
+      "summary": "Official Statistics estimating the contribution of DCMS Sectors, to the UK economy, measured by GVA (gross value added).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "DCMS Economic Estimates",
+        "Monthly GVA",
+        "Official Statistics",
+        "DCMS Sectors"
+      ],
+      "locations": []
+    },
+    "e61f232fe23d": {
+      "id": "e61f232fe23d",
+      "importance": "Medium",
+      "summary": "Report bringing together data on the delivery of globally competitive clinical research through the UK Clinical Research Delivery programme.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "UK Clinical Research Delivery",
+        "Report"
+      ],
+      "locations": []
+    },
+    "23589868e2ef": {
+      "id": "23589868e2ef",
+      "importance": "Medium",
+      "summary": "This publication brings together police funding figures for the years ending 31 March 2016 to 31 March 2027, into a single definitive publication",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Police",
+        "England and Wales"
+      ],
+      "locations": []
+    },
+    "b98f3bbe5cdb": {
+      "id": "b98f3bbe5cdb",
+      "importance": "Medium",
+      "summary": "The Price Index of Private Rents (PIPR) measures private rent inflation for new and existing tenancies. The UK House Price Index measures house price inflation.",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Private",
+        "The Price Index of Private",
+        "Rents",
+        "PIPR"
+      ],
+      "locations": []
+    },
+    "cde691c5a333": {
+      "id": "cde691c5a333",
+      "importance": "Medium",
+      "summary": "…A longer time series of contributions to the Consumer Prices Index including owner occupiers' housing costs (CPIH) and Consumer Prices Index (CPI), UK, monthly.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Contributions",
+        "Consumer Prices Index",
+        "CPIH"
+      ],
+      "locations": []
+    },
+    "57ec54586a02": {
+      "id": "57ec54586a02",
+      "importance": "Medium",
+      "summary": "House price index and standardised prices for Northern Ireland between Jan - Mar (Quarter 1) 2005 and Apr - Jun (Quarter 2) 2026",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Northern Ireland House Price",
+        "Index Quarter",
+        "House",
+        "Northern Ireland"
+      ],
+      "locations": []
+    },
+    "9cfdfac903dc": {
+      "id": "9cfdfac903dc",
+      "importance": "Medium",
+      "summary": "The Children’s People and Nature Survey ran between the 12th and 26th August 2022 (during the school holidays) and 21st September and 10th October 2022 (during term-time), to understand how children and young people aged",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Children’s People and Nature",
+        "Survey"
+      ],
+      "locations": []
+    },
+    "22faa6125444": {
+      "id": "22faa6125444",
+      "importance": "Medium",
+      "summary": "The Ministry of Housing, Communities and Local Government collects detailed information on incidents attended by Fire and Rescue Services.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Fire",
+        "The Ministry of Housing",
+        "Communities and Local Government",
+        "Fire and Rescue Services"
+      ],
+      "locations": []
+    },
+    "ca136122b17c": {
+      "id": "ca136122b17c",
+      "importance": "Medium",
+      "summary": "Monthly report showing the data for the average house prices for England, Northern Ireland, Scotland and Wales, including in CSV format.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK House Price Index",
+        "Monthly",
+        "Northern Ireland",
+        "Scotland and Wales"
+      ],
+      "locations": []
+    },
+    "c37a47f26979": {
+      "id": "c37a47f26979",
+      "importance": "Medium",
+      "summary": "Download aggregated data behind the UK House Price Index (UK HPI), in CSV format.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK House Price Index",
+        "Download",
+        "UK HPI"
+      ],
+      "locations": []
+    },
+    "9b2ebc0f9c96": {
+      "id": "9b2ebc0f9c96",
+      "importance": "Medium",
+      "summary": "Annual estimates of regional gross disposable household income (GDHI) for the UK International Territorial Level (ITL) regions, local and combined authorities, and other economic regions.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Regional",
+        "Annual",
+        "GDHI",
+        "UK International Territorial Level"
+      ],
+      "locations": []
+    },
+    "e88f7f336450": {
+      "id": "e88f7f336450",
+      "importance": "Medium",
+      "summary": "Insights from the second UK Public Survey of Risk Perception, Resilience and Preparedness. The survey was conducted with a nationally representative sample of over 10,000 UK adults between 27th Feb and 11th May 2026.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK Public Survey of Risk",
+        "Perception",
+        "Resilience and Preparedness",
+        "Insights"
+      ],
+      "locations": []
+    },
+    "56a13324878d": {
+      "id": "56a13324878d",
+      "importance": "Medium",
+      "summary": "User research carried out to support the development of the Energy Performance of Buildings Certificates statistics.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Energy Performance of Buildings Certificates",
+        "England and Wales",
+        "User"
+      ],
+      "locations": []
+    },
+    "cabd4a835a63": {
+      "id": "cabd4a835a63",
+      "importance": "Medium",
+      "summary": "The time series datasets connected to the Producer price inflation, UK: July 2026 bulletin…",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Producer"
+      ],
+      "locations": []
+    },
+    "d7c9fe90ed28": {
+      "id": "d7c9fe90ed28",
+      "importance": "Medium",
+      "summary": "Price indices percentage changes and weights for the different measures of consumer price inflation.",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Consumer",
+        "Price"
+      ],
+      "locations": []
+    },
+    "ddeb5cdf21e3": {
+      "id": "ddeb5cdf21e3",
+      "importance": "Medium",
+      "summary": "Comprehensive database of time series covering measures of inflation data for the UK including CPIH, CPI and RPI.",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Consumer",
+        "Comprehensive",
+        "CPIH",
+        "CPI and RPI"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 45,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
