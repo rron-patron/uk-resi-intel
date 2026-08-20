@@ -1,0 +1,826 @@
+{
+  "generated_at": "2026-08-20T09:20:48+00:00",
+  "date_label": "Thursday 20 August 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n47 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 8,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "UK’s",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Chartered Institute of Public Finance",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "More",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Expired",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "TwentyEA",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "England and Wales",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Trade",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Annual",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Blue Book",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "UK National Accounts",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Start",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Programme",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Max Banfield",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Rural Housing Enablers",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "House",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "187b4d0ab173": {
+      "id": "187b4d0ab173",
+      "importance": "Medium",
+      "summary": "Programme manager Max Banfield discusses how Rural Housing Enablers help communities turn local housing need into affordable homes",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Start",
+        "Programme",
+        "Max Banfield",
+        "Rural Housing Enablers"
+      ],
+      "locations": []
+    },
+    "f478fe0e9e83": {
+      "id": "f478fe0e9e83",
+      "importance": "Medium",
+      "summary": "Stonebond has reported a 39% rise in revenue to £198.3m for the year ended 30 November 2025",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "House",
+        "Stonebond"
+      ],
+      "locations": []
+    },
+    "3a12c6bb19f8": {
+      "id": "3a12c6bb19f8",
+      "importance": "Medium",
+      "summary": "Abri has launched a £2.5bn Euro Medium-Term Note programme to help strengthen its investment plans",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Abri",
+        "Euro Medium-Term Note"
+      ],
+      "locations": []
+    },
+    "8bb1ed9ccd99": {
+      "id": "8bb1ed9ccd99",
+      "importance": "Medium",
+      "summary": "Applications for funding to remove cladding from the highest-risk buildings under 11 metres are now open",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Applications"
+      ],
+      "locations": []
+    },
+    "779e7db17299": {
+      "id": "779e7db17299",
+      "importance": "Medium",
+      "summary": "The government published the latest version of the National Planning Policy Framework. But was it worth the wait? Inside Housing has five key takeaways",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Housing supply"
+      ],
+      "companies": [
+        "NPPF",
+        "Housing Delivery Test",
+        "National Planning Policy Framework",
+        "Inside Housing"
+      ],
+      "locations": []
+    },
+    "eb7694d902d0": {
+      "id": "eb7694d902d0",
+      "importance": "Medium",
+      "summary": "The council has opted not to include four Green Belt sites in its refreshed local plan in response to concerns from residents and politicians. The authority has also formally objected to Peel Land’s Gibfield Park masterp",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Regional development"
+      ],
+      "companies": [
+        "Wigan",
+        "Green Belt",
+        "Peel Land’s Gibfield Park",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "bc50e1302e67": {
+      "id": "bc50e1302e67",
+      "importance": "Medium",
+      "summary": "\"Cheshire East is finally facing up to the consequences of decisions deferred, problems ignored, and opportunities missed over more than a decade,” wrote the Chartered Institute of Public Finance and Accountancy in its r",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Genuine",
+        "Cheshire East Council",
+        "Cheshire East",
+        "Chartered Institute of Public Finance"
+      ],
+      "locations": []
+    },
+    "a642cb052621": {
+      "id": "a642cb052621",
+      "importance": "Medium",
+      "summary": "PP O’Connor has completed the demolition of the former Greater Manchester Police HQ, which is earmarked for redevelopment by FEC. The post Site clearance completes paving way for 1,250 Stretford homes appeared first on P",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Site",
+        "Stretford",
+        "PP O’Connor",
+        "Greater Manchester Police HQ"
+      ],
+      "locations": []
+    },
+    "9a44aa2a6bae": {
+      "id": "9a44aa2a6bae",
+      "importance": "Medium",
+      "summary": "With the structural budget gap due to grow from £44.9m in 2026-27 to £118.6m in 2030-31, the Chartered Institute of Public Finance and Accountancy’s review of the council’s books paints a picture of a local authority str",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Halton’s",
+        "With",
+        "Chartered Institute of Public Finance",
+        "Accountancy’s"
+      ],
+      "locations": []
+    },
+    "784c667e166c": {
+      "id": "784c667e166c",
+      "importance": "Medium",
+      "summary": "The former Swinton Park Golf Club off the East Lancs Road could be redeveloped into 700 homes under plans worked up by the land promoter, which acquired the site nine years ago. The post Wain Estates ramps up plans for 1",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Wain Estates",
+        "Salford",
+        "Swinton Park Golf Club",
+        "East Lancs Road"
+      ],
+      "locations": []
+    },
+    "94e1709445a3": {
+      "id": "94e1709445a3",
+      "importance": "Medium",
+      "summary": "The initial stages of work are underway at the 300-acre residential scheme, with Manchester and Cheshire Construction kicking off the creation of a gateway to the development a couple of weeks ahead of schedule. The post",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Spades",
+        "Handforth Garden Village. The",
+        "Manchester and Cheshire Construction",
+        "Handforth Garden Village"
+      ],
+      "locations": []
+    },
+    "4c7337e07b96": {
+      "id": "4c7337e07b96",
+      "importance": "Medium",
+      "summary": "Latest official figures reveal diverging trends across the UK housing market",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Rent",
+        "ONS. Latest"
+      ],
+      "locations": []
+    },
+    "086110e1e0a1": {
+      "id": "086110e1e0a1",
+      "importance": "Medium",
+      "summary": "Property industry reacts to the latest ONS house price and rent data",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Modest",
+        "Property"
+      ],
+      "locations": []
+    },
+    "017223836cda": {
+      "id": "017223836cda",
+      "importance": "Medium",
+      "summary": "Portfolio passes 1,500 homes as business sets out ambitious five-year growth plans",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Property",
+        "Portfolio"
+      ],
+      "locations": []
+    },
+    "8261935c970e": {
+      "id": "8261935c970e",
+      "importance": "Medium",
+      "summary": "Fewer prospective purchasers enter the market but activity remains stable",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Buyer",
+        "Fewer"
+      ],
+      "locations": []
+    },
+    "9e67f2422471": {
+      "id": "9e67f2422471",
+      "importance": "Medium",
+      "summary": "More than half of prospective purchasers wrongly believe existing debt automatically prevents approval",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Mortgage",
+        "More"
+      ],
+      "locations": []
+    },
+    "fb2994c53998": {
+      "id": "fb2994c53998",
+      "importance": "Medium",
+      "summary": "Lender adds zero-fee and fixed-fee options for HMO and multi-unit purchases and remortgages",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Lender"
+      ],
+      "locations": []
+    },
+    "ca2128882403": {
+      "id": "ca2128882403",
+      "importance": "Medium",
+      "summary": "Average transaction time has risen to seven months as the route to exchange lengthens",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Expired",
+        "Average"
+      ],
+      "locations": []
+    },
+    "080955fa8443": {
+      "id": "080955fa8443",
+      "importance": "Medium",
+      "summary": "More than 3,900 firms assessed using data on completion times and other measures",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Conveyancers",
+        "More"
+      ],
+      "locations": []
+    },
+    "c97e3812a8f0": {
+      "id": "c97e3812a8f0",
+      "importance": "Medium",
+      "summary": "Three-strong team will take on London cycling event to raise funds for young people",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Three-strong",
+        "London"
+      ],
+      "locations": []
+    },
+    "b8541fdf153c": {
+      "id": "b8541fdf153c",
+      "importance": "Medium",
+      "summary": "This is according to new analysis of market data by industry consultancy TwentyEA.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency",
+        "UK’s",
+        "TwentyEA"
+      ],
+      "locations": []
+    },
+    "6106c85574bf": {
+      "id": "6106c85574bf",
+      "importance": "Medium",
+      "summary": "Will survey information be a standard component of the seller's pack?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Plea",
+        "Will"
+      ],
+      "locations": []
+    },
+    "3b993e23dccb": {
+      "id": "3b993e23dccb",
+      "importance": "Medium",
+      "summary": "This is according to industry consultancy TwentyEA",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Expired",
+        "TwentyEA"
+      ],
+      "locations": []
+    },
+    "e42154f4f6dc": {
+      "id": "e42154f4f6dc",
+      "importance": "Medium",
+      "summary": "The tactic may win viewings, but can backfire badly",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Many",
+        "AI-improved"
+      ],
+      "locations": []
+    },
+    "0abf33bc0ad4": {
+      "id": "0abf33bc0ad4",
+      "importance": "Medium",
+      "summary": "Falling values could give buyers fresh opportunities, but affordability and leasehold concerns remain key.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property SigNATure",
+        "London",
+        "Falling"
+      ],
+      "locations": []
+    },
+    "62273cf5a42f": {
+      "id": "62273cf5a42f",
+      "importance": "Medium",
+      "summary": "Industry leaders have responded to house price and inflation data",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Hope",
+        "Industry"
+      ],
+      "locations": []
+    },
+    "f113d9a872b2": {
+      "id": "f113d9a872b2",
+      "importance": "Medium",
+      "summary": "News - Tom Entwistle - Demonstrating that you’re claiming a fair market rent at the tribunal hearing is crucial to winning your case",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Defending",
+        "Renters’ Rights",
+        "News",
+        "Tom Entwistle"
+      ],
+      "locations": []
+    },
+    "11a4bb2a44a4": {
+      "id": "11a4bb2a44a4",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Burnley Council plans to restrict new HMOs in a bid to deter investors who see the borough as a “high yield investment opportunity”.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "HMOs",
+        "News",
+        "Helen Gregory",
+        "Burnley Council"
+      ],
+      "locations": []
+    },
+    "972e5f3e1bec": {
+      "id": "972e5f3e1bec",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - The number of landlords hit by rent arrears has fallen to a record low, with most continuing to report profitable lettings businesses.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Record",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "64927788b9c4": {
+      "id": "64927788b9c4",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - The government is hiring 1,000 new judges and tribunal members this year to cope with increased demand due to the Renters’ Rights Act.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Minister",
+        "PRS-focused",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "7f82f2bdc9ca": {
+      "id": "7f82f2bdc9ca",
+      "importance": "Medium",
+      "summary": "Stocks of cereals held on farm in England and Wales",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Cereal",
+        "Stocks",
+        "England and Wales"
+      ],
+      "locations": []
+    },
+    "43d10b5b94b3": {
+      "id": "43d10b5b94b3",
+      "importance": "Medium",
+      "summary": "Monthly statistics on the activity of UK hatcheries and UK poultry slaughterhouses.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Latest",
+        "Monthly"
+      ],
+      "locations": []
+    },
+    "55f1ec5a46df": {
+      "id": "55f1ec5a46df",
+      "importance": "Medium",
+      "summary": "Previously published copies of the 2026, monthly Accredited Official Statistics publications on the activity of UK hatcheries and UK poultry slaughterhouses.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Historical",
+        "Previously",
+        "Accredited Official Statistics"
+      ],
+      "locations": []
+    },
+    "732d8fe830cc": {
+      "id": "732d8fe830cc",
+      "importance": "Medium",
+      "summary": "Estimates of numbers of exporting registered businesses in the UK, 2016 to 2024.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Number",
+        "Estimates"
+      ],
+      "locations": []
+    },
+    "a6ce0e6dd8ef": {
+      "id": "a6ce0e6dd8ef",
+      "importance": "Medium",
+      "summary": "A monthly snapshot of the UK’s trade and investment position, summarising trade statistics produced by ONS, HMRC, DBT and others.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s",
+        "HMRC"
+      ],
+      "locations": []
+    },
+    "768ce6d53fd9": {
+      "id": "768ce6d53fd9",
+      "importance": "Medium",
+      "summary": "Annual statistics on vessels, land equipment and aircraft of the armed forces, and military formations.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Annual"
+      ],
+      "locations": []
+    },
+    "85044c3a2173": {
+      "id": "85044c3a2173",
+      "importance": "Medium",
+      "summary": "The impact of challenges facing the economy and other events on UK businesses, including financial performance, workforce, trade, and business resilience.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Business"
+      ],
+      "locations": []
+    },
+    "fb2bb71d75e9": {
+      "id": "fb2bb71d75e9",
+      "importance": "Medium",
+      "summary": "Annual and quarterly impacts on the 2025 UK National Accounts from recent methodological improvements, and new survey and administrative information.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Blue Book",
+        "Annual",
+        "UK National Accounts"
+      ],
+      "locations": []
+    },
+    "dda787973438": {
+      "id": "dda787973438",
+      "importance": "Medium",
+      "summary": "The HMRC research programme supports and provides evidence for how we make and evaluate our policies.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Research",
+        "HMRC. The HMRC"
+      ],
+      "locations": []
+    },
+    "9d3f7305a5e6": {
+      "id": "9d3f7305a5e6",
+      "importance": "Medium",
+      "summary": "A snapshot of the UK’s latest trade and investment position, summarising statistics produced by ONS, DBT, and UNCTAD.…",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "UK’s",
+        "UNCTAD"
+      ],
+      "locations": []
+    },
+    "39bd6cd6ae59": {
+      "id": "39bd6cd6ae59",
+      "importance": "Medium",
+      "summary": "Early experimental data and analysis on economic activity and social change in the UK. These real-time indicators are created using rapid response surveys, novel data sources and experimental methods.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Economic",
+        "Early",
+        "UK. These"
+      ],
+      "locations": []
+    },
+    "640e31176cd4": {
+      "id": "640e31176cd4",
+      "importance": "Medium",
+      "summary": "Additional analysis on the industry impacts of the 2026 UK National Accounts methodological improvements and new survey and administrative information.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Blue Book",
+        "Additional",
+        "UK National Accounts"
+      ],
+      "locations": []
+    },
+    "843aa32f4163": {
+      "id": "843aa32f4163",
+      "importance": "Medium",
+      "summary": "Staffing numbers of directly employed staff of the HM Prison and Probation Service.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "HM Prison",
+        "Probation Service",
+        "Staffing",
+        "HM Prison and Probation Service"
+      ],
+      "locations": []
+    },
+    "a73b68234cb3": {
+      "id": "a73b68234cb3",
+      "importance": "Medium",
+      "summary": "Reports of outbreaks and incidents of Listeria monocytogenes in England and Wales.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Listeria",
+        "Reports",
+        "England and Wales"
+      ],
+      "locations": []
+    },
+    "19fc75fca0d8": {
+      "id": "19fc75fca0d8",
+      "importance": "Medium",
+      "summary": "Data on the UK’s domestic extraction, imports and exports and flow of materials (biomass, minerals and fossil fuels), 1990 to 2024.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Material",
+        "Data",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    "c19111c94ed7": {
+      "id": "c19111c94ed7",
+      "importance": "Medium",
+      "summary": "MOD supported employment estimates broken down by region and industry group.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "88bde8648e31": {
+      "id": "88bde8648e31",
+      "importance": "Medium",
+      "summary": "Trade in goods data, including breakdown of imports and exports by Standard Industrial Classification, region (EU and non-EU), business size and by domestic and foreign ownership.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Trade",
+        "Standard Industrial Classification"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 47,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
