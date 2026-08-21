@@ -1,0 +1,706 @@
+{
+  "generated_at": "2026-08-21T09:55:01+00:00",
+  "date_label": "Friday 21 August 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n39 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 7,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Later living",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 7,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Labour",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Landlords",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Non-Quota",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "HMRC",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Public",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Clarion",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Richard Cook",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Majority",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Northern Ireland’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Welsh",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "National Development Framework. The",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "National Development Framework",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Labour Campaign Group",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Council Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Housing Revenue Account",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Newlon Housing Trust",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "42d5b4075488": {
+      "id": "42d5b4075488",
+      "importance": "Medium",
+      "summary": "Our approach has to be grounded in what residents need over the lifetime of a home, and in the long-term stewardship of the places we help create, writes Richard Cook, chief development officer at Clarion",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Clarion",
+        "Richard Cook"
+      ],
+      "locations": []
+    },
+    "c2b4bca25990": {
+      "id": "c2b4bca25990",
+      "importance": "Medium",
+      "summary": "The vast majority of people responding to Northern Ireland’s draft rural policy have agreed with its vision, according to a new report on consultation responses",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Majority",
+        "Northern Ireland’s"
+      ],
+      "locations": []
+    },
+    "528f0e863d9f": {
+      "id": "528f0e863d9f",
+      "importance": "Medium",
+      "summary": "The Welsh government is consulting on major changes to the country’s National Development Framework for the first time",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Welsh",
+        "National Development Framework. The",
+        "National Development Framework"
+      ],
+      "locations": []
+    },
+    "a5e64dfb52a9": {
+      "id": "a5e64dfb52a9",
+      "importance": "Medium",
+      "summary": "The Labour Campaign Group for Council Housing has called on the chancellor to cancel all Housing Revenue Account debt to give an “immediate boost” to council finances",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Labour",
+        "The Labour Campaign Group",
+        "Council Housing",
+        "Housing Revenue Account"
+      ],
+      "locations": []
+    },
+    "d080a3a70a4b": {
+      "id": "d080a3a70a4b",
+      "importance": "Medium",
+      "summary": "Newlon Housing Trust has hired Jerome Geoghegan into a new executive role of director of homes and investment",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Newlon Housing Trust",
+        "Jerome Geoghegan"
+      ],
+      "locations": []
+    },
+    "929a885e4f46": {
+      "id": "929a885e4f46",
+      "importance": "Medium",
+      "summary": "The Northern Irish government has launched a consultation on proposals to change how developments are classified and quantified in a bid to improve the planning system",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Northern Irish",
+        "The Northern Irish"
+      ],
+      "locations": []
+    },
+    "d330e7dcb462": {
+      "id": "d330e7dcb462",
+      "importance": "Medium",
+      "summary": "ACLO, the property company owned by Hyrum Cook - the founder of the Manchester ath-leisure brand Adanola - and his brother Barney have been given consent to rid Marlsbro House of its distinctive chequerboard cladding and",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Sportswear",
+        "ACLO",
+        "Hyrum Cook",
+        "Manchester"
+      ],
+      "locations": []
+    },
+    "59cb499440ec": {
+      "id": "59cb499440ec",
+      "importance": "Medium",
+      "summary": "With the aim of constructing the 28,000 sq ft scheme by 2030, Latos Data Centres has submitted plans for a facility off Bower Street in Newton Heath. The post Manchester AI-ready data centre proposal tabled appeared firs",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Manchester AI-ready",
+        "With",
+        "Latos Data Centres",
+        "Bower Street"
+      ],
+      "locations": []
+    },
+    "c24fddb5eb39": {
+      "id": "c24fddb5eb39",
+      "importance": "Medium",
+      "summary": "Architect and planner Spencer Reid wants to merge three buildings off Railway Road into 39 bedrooms across three floors that could be used as either hotel rooms or HMO bedrooms. The post Flex hotel/HMO planned for Leigh ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Flex",
+        "Leigh. Architect",
+        "Spencer Reid",
+        "Railway Road"
+      ],
+      "locations": []
+    },
+    "b40885ed5ab6": {
+      "id": "b40885ed5ab6",
+      "importance": "Medium",
+      "summary": "Transport for Greater Manchester has put a call out for a company to finance, deliver, and operate a mid-density apartment scheme in the town centre – a project that it says is particularly suitable for SMEs. The post Re",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Resi",
+        "Bury Interchange",
+        "Transport",
+        "Greater Manchester"
+      ],
+      "locations": []
+    },
+    "f17a71987b73": {
+      "id": "f17a71987b73",
+      "importance": "Medium",
+      "summary": "Wrightcare Developments and Deansgate M5’s plan to build on a brownfield site in Handforth won councillors' approval, despite sitting within the Green Belt. The post Cheshire East approves 68-bed care home appeared first",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Later living"
+      ],
+      "companies": [
+        "Cheshire East",
+        "Wrightcare Developments and Deansgate",
+        "Handforth",
+        "Green Belt. The"
+      ],
+      "locations": []
+    },
+    "0ae65af994e9": {
+      "id": "0ae65af994e9",
+      "importance": "Medium",
+      "summary": "As Manchester Developments awaits a verdict from Trafford Council on its attempt to convert the derelict public house into housing, the company will have to pay £18,200 over failing to repair the structure. The post Owne",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Owner of Stretford’s",
+        "Robin Hood",
+        "As Manchester Developments",
+        "Trafford Council"
+      ],
+      "locations": []
+    },
+    "d84560fdbca2": {
+      "id": "d84560fdbca2",
+      "importance": "Medium",
+      "summary": "Formerly the head of partnership homes in the North West at the housebuilder, Diane Howcroft will now focus on identifying, acquiring, and delivering the next great site for development. The post Persimmon Homes Lancashi",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Persimmon Homes Lancashire",
+        "Formerly",
+        "North West",
+        "Diane Howcroft"
+      ],
+      "locations": []
+    },
+    "bfec9e8734b3": {
+      "id": "bfec9e8734b3",
+      "importance": "Medium",
+      "summary": "After last week’s unexpected drop in sales agreed, the overall picture is looking better",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "After"
+      ],
+      "locations": []
+    },
+    "9664a013cc22": {
+      "id": "9664a013cc22",
+      "importance": "Medium",
+      "summary": "Founders retain significant shareholdings as deal backs next phase of growth and technology investment",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Investment",
+        "Founders"
+      ],
+      "locations": []
+    },
+    "0621911cae21": {
+      "id": "0621911cae21",
+      "importance": "Medium",
+      "summary": "Changes will see greater use of artificial intelligence and live data to improve lead matching",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Changes"
+      ],
+      "locations": []
+    },
+    "54d78b61d6e0": {
+      "id": "54d78b61d6e0",
+      "importance": "Medium",
+      "summary": "Propertymark and Propalt team up to provide data when referrals are generated through Connect",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Partnership",
+        "Propertymark and Propalt",
+        "Connect"
+      ],
+      "locations": []
+    },
+    "e468f6c51552": {
+      "id": "e468f6c51552",
+      "importance": "Medium",
+      "summary": "Serviced accommodation deal forms part of plans for further expansion across the North East",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Property",
+        "Serviced",
+        "North East"
+      ],
+      "locations": []
+    },
+    "a52371567535": {
+      "id": "a52371567535",
+      "importance": "Medium",
+      "summary": "Tenant registrations dip but competition for available homes remains intense",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Nine",
+        "Tenant"
+      ],
+      "locations": []
+    },
+    "fcb2780c3c9c": {
+      "id": "fcb2780c3c9c",
+      "importance": "Medium",
+      "summary": "More than 80% of lots sold as residential and commercial properties attracted bidders",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "More"
+      ],
+      "locations": []
+    },
+    "3da1422e4144": {
+      "id": "3da1422e4144",
+      "importance": "Medium",
+      "summary": "Demand in Essex is more than three times higher than in the capital, research finds",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "New-build",
+        "London. Demand",
+        "Essex"
+      ],
+      "locations": []
+    },
+    "f79518ca6ab7": {
+      "id": "f79518ca6ab7",
+      "importance": "Medium",
+      "summary": "New initiative will provide practical guidance on development finance and lender requirements",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Lender"
+      ],
+      "locations": []
+    },
+    "8c49c6b87fa2": {
+      "id": "8c49c6b87fa2",
+      "importance": "Medium",
+      "summary": "The Budget is scheduled for October 28",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Burnham",
+        "The Budget"
+      ],
+      "locations": []
+    },
+    "5c8f15837510": {
+      "id": "5c8f15837510",
+      "importance": "Medium",
+      "summary": "Agents access free basic material information reports when they generate a referral through the platform.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Material Information",
+        "Propertymark Connect. Agents"
+      ],
+      "locations": []
+    },
+    "55b90cc47bc9": {
+      "id": "55b90cc47bc9",
+      "importance": "Medium",
+      "summary": "Propertymark has released its latest market snapshot",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Increasing",
+        "Propertymark"
+      ],
+      "locations": []
+    },
+    "d030a5ebbe3d": {
+      "id": "d030a5ebbe3d",
+      "importance": "Medium",
+      "summary": "The bank spoke to 1,000 prospective first time buyers",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "First"
+      ],
+      "locations": []
+    },
+    "3342689bf650": {
+      "id": "3342689bf650",
+      "importance": "Medium",
+      "summary": "Costs need not be a deterrent if the arrangements are understood by buyers",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Warning",
+        "Costs"
+      ],
+      "locations": []
+    },
+    "ac601a5a6791": {
+      "id": "ac601a5a6791",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Property tribunals expect their caseload to triple from about 12,500 cases a year to at least 36,000 a year over the next couple of years.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Renters' Rights Act",
+        "News",
+        "Helen Gregory",
+        "Property"
+      ],
+      "locations": []
+    },
+    "466499630912": {
+      "id": "466499630912",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Landlords have been urged to help stop illegal tobacco being sold from Oxfordshire shops by carrying out proper checks on tenants.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "News",
+        "Helen Gregory",
+        "Oxfordshire"
+      ],
+      "locations": []
+    },
+    "d1f135d7593c": {
+      "id": "d1f135d7593c",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - A landlord has had a £7,500 fine upheld after failing to address 21 electrical safety defects at a property where four children were living.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Landlord",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "736d02d26efe": {
+      "id": "736d02d26efe",
+      "importance": "Medium",
+      "summary": "News - Maria White - Landlords in Lewisham may no longer be able to rely on waiting for a tenant complaint before problems come to the council’s attention.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Lewisham’s",
+        "PRS. News",
+        "Maria White",
+        "Landlords"
+      ],
+      "locations": []
+    },
+    "2bb55a366697": {
+      "id": "2bb55a366697",
+      "importance": "Medium",
+      "summary": "Non-Quota species uptake by UK vessels in EU waters - July 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Non-Quota"
+      ],
+      "locations": []
+    },
+    "bd55d53456bd": {
+      "id": "bd55d53456bd",
+      "importance": "Medium",
+      "summary": "These tables contain the number of online job adverts split by local authority and occupation (SOC 2020).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Labour",
+        "Standard Occupation Classification",
+        "These"
+      ],
+      "locations": []
+    },
+    "36e3d6a219c9": {
+      "id": "36e3d6a219c9",
+      "importance": "Medium",
+      "summary": "Non-Quota species uptake by UK vessels: Provisional dataset",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Non-Quota",
+        "Provisional"
+      ],
+      "locations": []
+    },
+    "92191a84d0e3": {
+      "id": "92191a84d0e3",
+      "importance": "Medium",
+      "summary": "…Summary of HM Revenue and Customs' tax receipts, National Insurance contributions (NICs), and expenditure for the UK.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "HMRC",
+        "National Insurance",
+        "Summary of HM Revenue and Customs",
+        "NICs"
+      ],
+      "locations": []
+    },
+    "9ac02178cbef": {
+      "id": "9ac02178cbef",
+      "importance": "Medium",
+      "summary": "Quality report for statistics relating to HM Revenue and Customs (HMRC) receipts.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Quality",
+        "HMRC",
+        "HM Revenue and Customs"
+      ],
+      "locations": []
+    },
+    "9ff693a2033e": {
+      "id": "9ff693a2033e",
+      "importance": "Medium",
+      "summary": "The time series datasets consistent with the Public sector finances, UK: July 2026 bulletin.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Public"
+      ],
+      "locations": []
+    },
+    "5cfe0df82e68": {
+      "id": "5cfe0df82e68",
+      "importance": "Medium",
+      "summary": "A presentational framework for the headline measures of Public Sector Finance Statistics (net borrowing net cash requirement and net debt) is explained in this release. This includes the reasons for changes in net borrow",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Public",
+        "Public Sector Finance Statistics"
+      ],
+      "locations": []
+    },
+    "a662a4ac42be": {
+      "id": "a662a4ac42be",
+      "importance": "Medium",
+      "summary": "DCMS and its public bodies produce official statistics covering its sectors.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Statistics",
+        "DCMS. DCMS"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 39,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}

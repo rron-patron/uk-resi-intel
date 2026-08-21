@@ -1,0 +1,737 @@
+{
+  "collected_at": "2026-08-21T09:54:35+00:00",
+  "date_london": "2026-08-21",
+  "counts": {
+    "seen_in_feeds": 92,
+    "new": 39,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 13,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 13"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 11,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 11"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 18,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 18"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 8,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 8"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Clarion chief development officer – in a tough operating climate, we must make sure sustainability doesn’t get sidelined",
+      "url": "https://insidehousing.co.uk/home/clarion-chief-development-officer-in-a-tough-operating-climate-we-must-make-sure-sustainability-doesnt-get-sidelined-98412",
+      "published": "2026-08-21T09:17:06+00:00",
+      "excerpt": "Our approach has to be grounded in what residents need over the lifetime of a home, and in the long-term stewardship of the places we help create, writes Richard Cook, chief development officer at Clarion",
+      "entities": [
+        "Clarion",
+        "Richard Cook"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:43+00:00",
+      "id": "42d5b4075488"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Majority backs Northern Ireland’s draft rural policy",
+      "url": "https://insidehousing.co.uk/home/majority-backs-northern-irelands-draft-rural-policy-98417",
+      "published": "2026-08-20T15:09:36+00:00",
+      "excerpt": "The vast majority of people responding to Northern Ireland’s draft rural policy have agreed with its vision, according to a new report on consultation responses",
+      "entities": [
+        "Majority",
+        "Northern Ireland’s"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:43+00:00",
+      "id": "c2b4bca25990"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Welsh government opens consultation on changes to National Development Framework",
+      "url": "https://insidehousing.co.uk/home/welsh-government-opens-consultation-on-changes-to-national-development-framework-98415",
+      "published": "2026-08-20T10:45:00+00:00",
+      "excerpt": "The Welsh government is consulting on major changes to the country’s National Development Framework for the first time",
+      "entities": [
+        "Welsh",
+        "National Development Framework. The",
+        "National Development Framework"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:43+00:00",
+      "id": "528f0e863d9f"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Labour campaign group urges chancellor to cancel all council HRA debt",
+      "url": "https://insidehousing.co.uk/home/labour-campaign-group-urges-chancellor-to-cancel-all-council-hra-debt-98409",
+      "published": "2026-08-20T13:31:39+00:00",
+      "excerpt": "The Labour Campaign Group for Council Housing has called on the chancellor to cancel all Housing Revenue Account debt to give an “immediate boost” to council finances",
+      "entities": [
+        "Labour",
+        "The Labour Campaign Group",
+        "Council Housing",
+        "Housing Revenue Account"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:43+00:00",
+      "id": "a5e64dfb52a9"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Newlon Housing Trust recruits deputy chief executive into homes and investment role",
+      "url": "https://insidehousing.co.uk/home/newlon-housing-trust-recruits-deputy-chief-executive-into-homes-and-investment-role-98411",
+      "published": "2026-08-20T14:10:24+00:00",
+      "excerpt": "Newlon Housing Trust has hired Jerome Geoghegan into a new executive role of director of homes and investment",
+      "entities": [
+        "Newlon Housing Trust",
+        "Jerome Geoghegan"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:43+00:00",
+      "id": "d080a3a70a4b"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Northern Irish government proposes changes to development classification to improve planning process",
+      "url": "https://insidehousing.co.uk/home/northern-irish-government-proposes-changes-to-development-classification-to-improve-planning-process-98413",
+      "published": "2026-08-20T10:08:40+00:00",
+      "excerpt": "The Northern Irish government has launched a consultation on proposals to change how developments are classified and quantified in a bid to improve the planning system",
+      "entities": [
+        "Northern Irish",
+        "The Northern Irish"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:43+00:00",
+      "id": "929a885e4f46"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Sportswear mogul limbers up for revamp of NQ eyesore",
+      "url": "https://placenorthwest.co.uk/sportswear-mogul-limbers-up-for-revamp-of-nq-eyesore",
+      "published": "2026-08-21T09:28:42+00:00",
+      "excerpt": "ACLO, the property company owned by Hyrum Cook - the founder of the Manchester ath-leisure brand Adanola - and his brother Barney have been given consent to rid Marlsbro House of its distinctive chequerboard cladding and refurbish the listed building into a mixed-use scheme featuring a private members bar. The post Sportswear mogul limbers up for revamp of NQ eyesore appeared first on Place North…",
+      "entities": [
+        "Sportswear",
+        "ACLO",
+        "Hyrum Cook",
+        "Manchester",
+        "Adanola",
+        "Barney",
+        "Marlsbro House",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:51+00:00",
+      "id": "d330e7dcb462"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Manchester AI-ready data centre proposal tabled",
+      "url": "https://placenorthwest.co.uk/manchester-ai-ready-data-centre-proposal-tabled",
+      "published": "2026-08-20T13:35:47+00:00",
+      "excerpt": "With the aim of constructing the 28,000 sq ft scheme by 2030, Latos Data Centres has submitted plans for a facility off Bower Street in Newton Heath. The post Manchester AI-ready data centre proposal tabled appeared first on Place North West .",
+      "entities": [
+        "Manchester AI-ready",
+        "With",
+        "Latos Data Centres",
+        "Bower Street",
+        "Newton Heath. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:51+00:00",
+      "id": "59cb499440ec"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Flex hotel/HMO planned for Leigh",
+      "url": "https://placenorthwest.co.uk/flex-hotel-hmo-planned-for-leigh",
+      "published": "2026-08-20T13:22:32+00:00",
+      "excerpt": "Architect and planner Spencer Reid wants to merge three buildings off Railway Road into 39 bedrooms across three floors that could be used as either hotel rooms or HMO bedrooms. The post Flex hotel/HMO planned for Leigh appeared first on Place North West .",
+      "entities": [
+        "Flex",
+        "Leigh. Architect",
+        "Spencer Reid",
+        "Railway Road",
+        "Leigh",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:51+00:00",
+      "id": "c24fddb5eb39"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Resi funder wanted for £40m Bury Interchange homes",
+      "url": "https://placenorthwest.co.uk/resi-funder-wanted-for-40m-bury-interchange-homes",
+      "published": "2026-08-20T10:52:16+00:00",
+      "excerpt": "Transport for Greater Manchester has put a call out for a company to finance, deliver, and operate a mid-density apartment scheme in the town centre – a project that it says is particularly suitable for SMEs. The post Resi funder wanted for £40m Bury Interchange homes appeared first on Place North West .",
+      "entities": [
+        "Resi",
+        "Bury Interchange",
+        "Transport",
+        "Greater Manchester",
+        "SMEs. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:51+00:00",
+      "id": "b40885ed5ab6"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Cheshire East approves 68-bed care home",
+      "url": "https://placenorthwest.co.uk/cheshire-east-approves-68-bed-care-home",
+      "published": "2026-08-20T09:57:46+00:00",
+      "excerpt": "Wrightcare Developments and Deansgate M5’s plan to build on a brownfield site in Handforth won councillors' approval, despite sitting within the Green Belt. The post Cheshire East approves 68-bed care home appeared first on Place North West .",
+      "entities": [
+        "Cheshire East",
+        "Wrightcare Developments and Deansgate",
+        "Handforth",
+        "Green Belt. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:51+00:00",
+      "id": "f17a71987b73"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Owner of Stretford’s fire-damaged Robin Hood pub fined",
+      "url": "https://placenorthwest.co.uk/owner-of-stretfords-fire-damaged-robin-hood-pub-fined",
+      "published": "2026-08-20T09:13:18+00:00",
+      "excerpt": "As Manchester Developments awaits a verdict from Trafford Council on its attempt to convert the derelict public house into housing, the company will have to pay £18,200 over failing to repair the structure. The post Owner of Stretford’s fire-damaged Robin Hood pub fined appeared first on Place North West .",
+      "entities": [
+        "Owner of Stretford’s",
+        "Robin Hood",
+        "As Manchester Developments",
+        "Trafford Council",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:51+00:00",
+      "id": "0ae65af994e9"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Persimmon Homes Lancashire appoints land director",
+      "url": "https://placenorthwest.co.uk/persimmon-homes-lancashire-appoints-land-director",
+      "published": "2026-08-20T09:07:45+00:00",
+      "excerpt": "Formerly the head of partnership homes in the North West at the housebuilder, Diane Howcroft will now focus on identifying, acquiring, and delivering the next great site for development. The post Persimmon Homes Lancashire appoints land director appeared first on Place North West .",
+      "entities": [
+        "Persimmon Homes Lancashire",
+        "Formerly",
+        "North West",
+        "Diane Howcroft",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:51+00:00",
+      "id": "d84560fdbca2"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "UK property market bounces back after last week’s summer wobble",
+      "url": "https://propertyindustryeye.com/uk-property-market-bounces-back-after-last-weeks-summer-wobble",
+      "published": "2026-08-21T05:40:04+00:00",
+      "excerpt": "After last week’s unexpected drop in sales agreed, the overall picture is looking better",
+      "entities": [
+        "After"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:53+00:00",
+      "id": "bfec9e8734b3"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Investment giant takes majority stake in rental platform",
+      "url": "https://propertyindustryeye.com/investment-giant-takes-majority-stake-in-rental-platform",
+      "published": "2026-08-21T05:38:49+00:00",
+      "excerpt": "Founders retain significant shareholdings as deal backs next phase of growth and technology investment",
+      "entities": [
+        "Investment",
+        "Founders"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:53+00:00",
+      "id": "9664a013cc22"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Property platform business rebrands as part of AI overhaul",
+      "url": "https://propertyindustryeye.com/property-platform-business-rebrands-as-part-of-ai-overhaul",
+      "published": "2026-08-21T05:36:31+00:00",
+      "excerpt": "Changes will see greater use of artificial intelligence and live data to improve lead matching",
+      "entities": [
+        "Property",
+        "Changes"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:53+00:00",
+      "id": "0621911cae21"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Partnership gives agents access to free material information reports",
+      "url": "https://propertyindustryeye.com/partnership-gives-agents-access-to-free-material-information-reports",
+      "published": "2026-08-21T05:34:05+00:00",
+      "excerpt": "Propertymark and Propalt team up to provide data when referrals are generated through Connect",
+      "entities": [
+        "Partnership",
+        "Propertymark and Propalt",
+        "Connect"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:53+00:00",
+      "id": "54d78b61d6e0"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Property management portfolio tops 200 with firm’s first acquisition",
+      "url": "https://propertyindustryeye.com/property-management-portfolio-tops-200-with-firms-first-acquisition",
+      "published": "2026-08-21T05:32:43+00:00",
+      "excerpt": "Serviced accommodation deal forms part of plans for further expansion across the North East",
+      "entities": [
+        "Property",
+        "Serviced",
+        "North East"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:53+00:00",
+      "id": "e468f6c51552"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Nine applicants for every available rental property, data shows",
+      "url": "https://propertyindustryeye.com/nine-applicants-for-every-available-rental-property-data-shows",
+      "published": "2026-08-21T05:30:17+00:00",
+      "excerpt": "Tenant registrations dip but competition for available homes remains intense",
+      "entities": [
+        "Nine",
+        "Tenant"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:53+00:00",
+      "id": "a52371567535"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "August property auction raises more than £30m",
+      "url": "https://propertyindustryeye.com/august-property-auction-raises-more-than-30m",
+      "published": "2026-08-21T05:28:46+00:00",
+      "excerpt": "More than 80% of lots sold as residential and commercial properties attracted bidders",
+      "entities": [
+        "More"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:53+00:00",
+      "id": "fcb2780c3c9c"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "New-build buyers favour commuter counties over London",
+      "url": "https://propertyindustryeye.com/new-build-buyers-favour-commuter-counties-over-london",
+      "published": "2026-08-21T05:26:29+00:00",
+      "excerpt": "Demand in Essex is more than three times higher than in the capital, research finds",
+      "entities": [
+        "New-build",
+        "London. Demand",
+        "Essex"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:53+00:00",
+      "id": "3da1422e4144"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Lender launches academy for aspiring property developers",
+      "url": "https://propertyindustryeye.com/lender-launches-academy-for-aspiring-property-developers",
+      "published": "2026-08-21T05:24:00+00:00",
+      "excerpt": "New initiative will provide practical guidance on development finance and lender requirements",
+      "entities": [
+        "Lender"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:53+00:00",
+      "id": "f79518ca6ab7"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Burnham to levy “catastrophic” property taxes, warns agency boss",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/burnham-to-hit-property-with-catastrophic-taxes-warns-agency-boss",
+      "published": "2026-08-20T23:06:00+00:00",
+      "excerpt": "The Budget is scheduled for October 28",
+      "entities": [
+        "Burnham",
+        "The Budget"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:53+00:00",
+      "id": "8c49c6b87fa2"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Material Information service now partnered with Propertymark Connect",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/material-information-service-now-partnered-with-propertymark-connect",
+      "published": "2026-08-20T23:04:00+00:00",
+      "excerpt": "Agents access free basic material information reports when they generate a referral through the platform.",
+      "entities": [
+        "Material Information",
+        "Propertymark Connect. Agents"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:53+00:00",
+      "id": "5c8f15837510"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Increasing sales stock adds to market’s summer stagnation",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/increasing-sales-stock-adds-to-markets-summer-stagnation",
+      "published": "2026-08-20T23:03:00+00:00",
+      "excerpt": "Propertymark has released its latest market snapshot",
+      "entities": [
+        "Increasing",
+        "Propertymark"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:53+00:00",
+      "id": "55b90cc47bc9"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "First time buyers over-cautious about mortgages, claims bank",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/first-time-buyers-over-cautious-about-mortgages-claims-bank",
+      "published": "2026-08-20T23:01:00+00:00",
+      "excerpt": "The bank spoke to 1,000 prospective first time buyers",
+      "entities": [
+        "First"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:53+00:00",
+      "id": "d030a5ebbe3d"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Warning over privately-run communal areas in new blocks",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/warning-over-privately-run-communal-areas-in-new-blocks",
+      "published": "2026-08-20T23:00:00+00:00",
+      "excerpt": "Costs need not be a deterrent if the arrangements are understood by buyers",
+      "entities": [
+        "Warning",
+        "Costs"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:53+00:00",
+      "id": "3342689bf650"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Renters' Rights Act expected to triple property tribunal workload",
+      "url": "https://landlordzone.co.uk/news/renters-rights-act-expected-to-triple-property-tribunal-workload",
+      "published": "2026-08-20T16:47:20+00:00",
+      "excerpt": "News - Helen Gregory - Property tribunals expect their caseload to triple from about 12,500 cases a year to at least 36,000 a year over the next couple of years.",
+      "entities": [
+        "Renters' Rights Act",
+        "News",
+        "Helen Gregory",
+        "Property"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:53+00:00",
+      "id": "ac601a5a6791"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Landlords urged not to turn blind eye to dodgy tobacco sales",
+      "url": "https://landlordzone.co.uk/news/landlords-urged-not-to-turn-blind-eye-to-dodgy-tobacco-sales",
+      "published": "2026-08-20T16:31:32+00:00",
+      "excerpt": "News - Helen Gregory - Landlords have been urged to help stop illegal tobacco being sold from Oxfordshire shops by carrying out proper checks on tenants.",
+      "entities": [
+        "Landlords",
+        "News",
+        "Helen Gregory",
+        "Oxfordshire"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:53+00:00",
+      "id": "466499630912"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Landlord fined after 21 electrical defects left family at risk",
+      "url": "https://landlordzone.co.uk/news/landlord-fined-after-21-electrical-defects-left-family-at-risk",
+      "published": "2026-08-20T16:17:57+00:00",
+      "excerpt": "News - Helen Gregory - A landlord has had a £7,500 fine upheld after failing to address 21 electrical safety defects at a property where four children were living.",
+      "entities": [
+        "Landlord",
+        "News",
+        "Helen Gregory"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:53+00:00",
+      "id": "d1f135d7593c"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Lewisham’s rogue landlord crackdown sends a warning to the PRS",
+      "url": "https://landlordzone.co.uk/news/lewishams-rogue-landlord-crackdown-sends-a-warning-to-the-prs",
+      "published": "2026-08-20T13:29:40+00:00",
+      "excerpt": "News - Maria White - Landlords in Lewisham may no longer be able to rely on waiting for a tenant complaint before problems come to the council’s attention.",
+      "entities": [
+        "Lewisham’s",
+        "PRS. News",
+        "Maria White",
+        "Landlords",
+        "Lewisham"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-21T09:54:53+00:00",
+      "id": "736d02d26efe"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Non-Quota species uptake by UK vessels in EU waters - July 2026",
+      "url": "https://gov.uk/government/statistics/non-quota-species-uptake-by-uk-vessels-in-eu-waters-july-2026",
+      "published": "2026-08-21T08:30:00+00:00",
+      "excerpt": "Non-Quota species uptake by UK vessels in EU waters - July 2026.",
+      "entities": [
+        "Non-Quota"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-21T09:54:55+00:00",
+      "id": "2bb55a366697"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Labour demand volumes by Standard Occupation Classification (SOC 2020), UK, January 2017 to July 2026",
+      "url": "https://gov.uk/government/statistics/labour-demand-volumes-by-standard-occupation-classification-soc-2020-uk-january-2017-to-july-2026",
+      "published": "2026-08-21T08:30:00+00:00",
+      "excerpt": "These tables contain the number of online job adverts split by local authority and occupation (SOC 2020).",
+      "entities": [
+        "Labour",
+        "Standard Occupation Classification",
+        "These"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-21T09:54:55+00:00",
+      "id": "bd55d53456bd"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Non-Quota species uptake by UK vessels: Provisional dataset 2026",
+      "url": "https://gov.uk/government/statistics/non-quota-species-uptake-by-uk-vessels-provisional-dataset-2026",
+      "published": "2026-08-21T08:30:00+00:00",
+      "excerpt": "Non-Quota species uptake by UK vessels: Provisional dataset",
+      "entities": [
+        "Non-Quota",
+        "Provisional"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-21T09:54:55+00:00",
+      "id": "36e3d6a219c9"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "HMRC tax receipts and National Insurance contributions for the UK",
+      "url": "https://gov.uk/government/statistics/hmrc-tax-and-nics-receipts-for-the-uk",
+      "published": "2026-08-21T06:00:03+00:00",
+      "excerpt": "…Summary of HM Revenue and Customs' tax receipts, National Insurance contributions (NICs), and expenditure for the UK.…",
+      "entities": [
+        "HMRC",
+        "National Insurance",
+        "Summary of HM Revenue and Customs",
+        "NICs"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-21T09:54:55+00:00",
+      "id": "92191a84d0e3"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Quality report: HMRC receipts",
+      "url": "https://gov.uk/government/statistics/hmrc-receipts-quality-reports",
+      "published": "2026-08-21T06:00:03+00:00",
+      "excerpt": "Quality report for statistics relating to HM Revenue and Customs (HMRC) receipts.",
+      "entities": [
+        "Quality",
+        "HMRC",
+        "HM Revenue and Customs"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-21T09:54:55+00:00",
+      "id": "9ac02178cbef"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Public sector finances, UK: July 2026 time series",
+      "url": "https://gov.uk/government/statistics/public-sector-finances-uk-july-2026-time-series",
+      "published": "2026-08-21T06:00:03+00:00",
+      "excerpt": "The time series datasets consistent with the Public sector finances, UK: July 2026 bulletin.",
+      "entities": [
+        "Public"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-21T09:54:55+00:00",
+      "id": "9ff693a2033e"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Public sector finances, UK: July 2026",
+      "url": "https://gov.uk/government/statistics/public-sector-finances-uk-july-2026",
+      "published": "2026-08-21T06:00:03+00:00",
+      "excerpt": "A presentational framework for the headline measures of Public Sector Finance Statistics (net borrowing net cash requirement and net debt) is explained in this release. This includes the reasons for changes in net borrowing …",
+      "entities": [
+        "Public",
+        "Public Sector Finance Statistics"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-21T09:54:55+00:00",
+      "id": "5cfe0df82e68"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Statistics at DCMS",
+      "url": "https://gov.uk/government/organisations/department-for-digital-culture-media-and-sport/about/statistics",
+      "published": "2026-08-20T14:59:22+00:00",
+      "excerpt": "DCMS and its public bodies produce official statistics covering its sectors.",
+      "entities": [
+        "Statistics",
+        "DCMS. DCMS"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-21T09:54:55+00:00",
+      "id": "a662a4ac42be"
+    }
+  ]
+}
