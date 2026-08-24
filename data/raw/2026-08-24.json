@@ -1,0 +1,532 @@
+{
+  "collected_at": "2026-08-24T10:20:48+00:00",
+  "date_london": "2026-08-24",
+  "counts": {
+    "seen_in_feeds": 39,
+    "new": 27,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 4,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 4"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 3,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 3"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 9,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 9"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 7,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 7"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 3,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 3"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 3,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 3"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Mayors to get powers to overrule councils on planning decisions",
+      "url": "https://insidehousing.co.uk/home/mayors-to-get-powers-to-overrule-councils-on-planning-decisions-98433",
+      "published": "2026-08-24T10:15:00+00:00",
+      "excerpt": "Regional mayors will get power to overrule local councils on planning decisions, the prime minister is set to announce",
+      "entities": [
+        "Mayors",
+        "Regional"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:20:57+00:00",
+      "id": "9e89e872cd6e"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Five banks back Housing Plus Group with £961m funding package",
+      "url": "https://insidehousing.co.uk/home/five-banks-back-housing-plus-group-with-961m-funding-package-98430",
+      "published": "2026-08-24T09:15:00+00:00",
+      "excerpt": "Housing Plus Group has completed a major funding programme after securing £961m from five banking partners",
+      "entities": [
+        "Five",
+        "Housing Plus Group"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:20:57+00:00",
+      "id": "7d8e73237093"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Plans submitted for 2,000 homes as part of Stratford Cross scheme’s third phase",
+      "url": "https://insidehousing.co.uk/home/plans-submitted-for-2000-homes-as-part-of-stratford-cross-schemes-third-phase-98427",
+      "published": "2026-08-24T07:00:00+00:00",
+      "excerpt": "A planning application has been submitted to the London Borough of Newham for the final 2,000-home phase of development at Stratford Cross",
+      "entities": [
+        "Plans",
+        "Stratford Cross",
+        "London Borough of Newham"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:20:57+00:00",
+      "id": "7d6bba0c0fe7"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Richborough latest to seize Woodford opportunity",
+      "url": "https://placenorthwest.co.uk/richborough-latest-to-seize-woodford-opportunity",
+      "published": "2026-08-24T09:44:22+00:00",
+      "excerpt": "Ten acres of grazing land off Jenny Lane in Stockport could be redeveloped into 75 homes under outline plans put to the local council. The post Richborough latest to seize Woodford opportunity appeared first on Place North West .",
+      "entities": [
+        "Richborough",
+        "Woodford",
+        "Jenny Lane",
+        "Stockport",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:03+00:00",
+      "id": "93099e6c3d19"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Morgan Sindall cracks on at iSH Enterprise Campus",
+      "url": "https://placenorthwest.co.uk/morgan-sindall-cracks-on-at-ish-enterprise-campus",
+      "published": "2026-08-24T09:00:08+00:00",
+      "excerpt": "Working for Cumberland Council, the contractor has started on a pair of buildings amounting to 64,000 s ft at Leconfield Industrial Estate in Cleator Moor. The post Morgan Sindall cracks on at iSH Enterprise Campus appeared first on Place North West .",
+      "entities": [
+        "Morgan Sindall",
+        "Enterprise Campus. Working",
+        "Cumberland Council",
+        "Leconfield Industrial Estate",
+        "Cleator Moor. The",
+        "Enterprise Campus",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:03+00:00",
+      "id": "510def45094f"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Buntin steps up at Liverpool City Region",
+      "url": "https://placenorthwest.co.uk/buntin-steps-up-at-liverpool-city-region",
+      "published": "2026-08-24T06:31:49+00:00",
+      "excerpt": "Paul Buntin has been promoted to interim director of regeneration and housing at the combined authority after four years as head of development. The post Buntin steps up at Liverpool City Region appeared first on Place North West .",
+      "entities": [
+        "Buntin",
+        "Liverpool City Region. Paul",
+        "Liverpool City Region",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:03+00:00",
+      "id": "95d1ee6c7542"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Cities and commuter spots with strongest asking price growth revealed",
+      "url": "https://propertyindustryeye.com/cities-and-commuter-spots-with-strongest-asking-price-growth-revealed",
+      "published": "2026-08-24T05:40:56+00:00",
+      "excerpt": "Rightmove analysis around six major urban locations highlights where listed prices are climbing most",
+      "entities": [
+        "Cities",
+        "Rightmove"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:05+00:00",
+      "id": "d4ec734409e8"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "AI platform for estate agents launches with £1m backing",
+      "url": "https://propertyindustryeye.com/ai-platform-for-estate-agents-launches-with-1m-backing",
+      "published": "2026-08-24T05:38:50+00:00",
+      "excerpt": "ClearPath AI plans to automate routine work across residential sales transactions",
+      "entities": [
+        "ClearPath AI"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:05+00:00",
+      "id": "b5d30768a127"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Prime property network rebrands after listings near £4bn",
+      "url": "https://propertyindustryeye.com/prime-property-network-rebrands-after-listings-near-4bn",
+      "published": "2026-08-24T05:36:45+00:00",
+      "excerpt": "Platform has grown to 479 agents across 229 companies since launching in 2024",
+      "entities": [
+        "Prime",
+        "Platform"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:05+00:00",
+      "id": "9d2aac19ecd9"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Landlord possession claims rise 6% as repossessions fall",
+      "url": "https://propertyindustryeye.com/landlord-possession-claims-rise-6-as-repossessions-fall",
+      "published": "2026-08-24T05:32:37+00:00",
+      "excerpt": "Figures reveal a rise in court action by landlords alongside a decline in mortgage possession cases",
+      "entities": [
+        "Landlord",
+        "Figures"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:05+00:00",
+      "id": "46f426137a28"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "HMRC inspectors to assess homes for mansion tax – report",
+      "url": "https://propertyindustryeye.com/hmrc-inspectors-to-assess-homes-for-mansion-tax-report",
+      "published": "2026-08-24T05:30:25+00:00",
+      "excerpt": "Tax officials could demand access to properties to determine whether the levy applies",
+      "entities": [
+        "HMRC"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:05+00:00",
+      "id": "4e49c94cf70f"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Mayors could get powers to override councils on property developments",
+      "url": "https://propertyindustryeye.com/mayors-could-get-powers-to-override-councils-on-property-developments",
+      "published": "2026-08-24T05:28:50+00:00",
+      "excerpt": "Proposals would extend planning powers and give regional leaders greater influence",
+      "entities": [
+        "Mayors",
+        "Proposals"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:05+00:00",
+      "id": "94e60fb04fc3"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency fundraiser secures Rightmove boost for kids’ hospice",
+      "url": "https://propertyindustryeye.com/estate-agency-fundraiser-secures-rightmove-boost-for-kids-hospice",
+      "published": "2026-08-24T05:26:48+00:00",
+      "excerpt": "The property portal and CPS Homes have each pledged £500 ahead of the Cardiff Half Marathon",
+      "entities": [
+        "Estate",
+        "Rightmove",
+        "CPS Homes",
+        "Cardiff Half Marathon"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:05+00:00",
+      "id": "2c1018cc9c98"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Agency team takes on triathlon for children’s cancer charity",
+      "url": "https://propertyindustryeye.com/agency-team-takes-on-triathlon-for-childrens-cancer-charity",
+      "published": "2026-08-24T05:24:52+00:00",
+      "excerpt": "Three property professionals will swim, cycle and run to raise funds for families",
+      "entities": [
+        "Agency",
+        "Three"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:05+00:00",
+      "id": "5ee13fffb42e"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "New AI platform handles sales from instruction onwards",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/new-ai-platform-manages-transactions-from-instruction-onwards",
+      "published": "2026-08-23T23:06:00+00:00",
+      "excerpt": "The platform spans property, legal, finance and compliance.",
+      "entities": [
+        "New AI"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:05+00:00",
+      "id": "958454cedb5a"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Are estate agency names too boring and predictable?",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/are-estate-agency-names-too-boring-and-predictable",
+      "published": "2026-08-23T23:05:00+00:00",
+      "excerpt": "League table of the most over-used words - but are they the most effective?",
+      "entities": [
+        "League"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:05+00:00",
+      "id": "0b4beae2137a"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "London market woe as new-build buyers head out",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/london-market-woe-as-new-build-buyers-head-out",
+      "published": "2026-08-23T23:03:00+00:00",
+      "excerpt": "New build prices have fallen in London too",
+      "entities": [
+        "London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:05+00:00",
+      "id": "8fa9b8ba1493"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agent’s hospice charity run wins Rightmove boost",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/agents-hospice-charity-run-wins-rightmove-boost",
+      "published": "2026-08-23T23:02:00+00:00",
+      "excerpt": "The portal's given £500 as a donation",
+      "entities": [
+        "Agent’s",
+        "Rightmove"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:05+00:00",
+      "id": "d92dc184d794"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Housing costs near best secondary schools ‘price out ordinary families’",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/housing-costs-near-best-secondary-schools-price-out-ordinary-families",
+      "published": "2026-08-23T23:01:00+00:00",
+      "excerpt": "As school holidays near the end, so a new assessment looks at house premiums",
+      "entities": [
+        "Housing"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:05+00:00",
+      "id": "a3930198e701"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "South of England housing markets drop down commuter league table",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/south-of-england-housing-markets-drop-down-commuter-league-table",
+      "published": "2026-08-23T23:00:00+00:00",
+      "excerpt": "Rightmove has calculated popularity and price movements around six cities",
+      "entities": [
+        "South of England",
+        "Rightmove"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:05+00:00",
+      "id": "3eba92a91888"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "HMRC property tax inspectors to make valuation visits – report",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/hmrc-property-tax-inspectors-to-make-valuation-visits-newspaper",
+      "published": "2026-08-23T04:53:54+00:00",
+      "excerpt": "The tax applies from 2028",
+      "entities": [
+        "HMRC"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:05+00:00",
+      "id": "53ca24ad1053"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Article 4 areas halve landlords' chances of winning appeals",
+      "url": "https://landlordzone.co.uk/news/article-4-areas-halve-landlords-chances-of-winning-appeals",
+      "published": "2026-08-24T09:40:57+00:00",
+      "excerpt": "News - Helen Gregory - HMO landlords are nearly twice as likely to win planning appeals outside Article 4 areas, according to new research.",
+      "entities": [
+        "Article",
+        "News",
+        "Helen Gregory"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:05+00:00",
+      "id": "1f1b725efb89"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Property tribunals prepare for surge in cases following reforms",
+      "url": "https://landlordzone.co.uk/news/property-tribunals-prepare-for-surge-in-cases-following-reforms",
+      "published": "2026-08-24T08:29:18+00:00",
+      "excerpt": "News - Helen Gregory - Property tribunals are planning changes to the way cases are handled as they prepare for a significant increase in workload.",
+      "entities": [
+        "Property",
+        "News",
+        "Helen Gregory"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:05+00:00",
+      "id": "d1bfb6905e18"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Like many landlords the King is facing a hefty bill",
+      "url": "https://landlordzone.co.uk/news/like-many-landlords-the-king-is-facing-a-hefty-bill",
+      "published": "2026-08-22T11:34:03+00:00",
+      "excerpt": "News - Tom Entwistle - If the King can't afford to insulate his cottages, what chance for the rest of us?",
+      "entities": [
+        "Like",
+        "King",
+        "News",
+        "Tom Entwistle"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-24T10:21:05+00:00",
+      "id": "64e61bbde582"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Expert Committee on Pesticide Residues in Food (PRiF) annual report",
+      "url": "https://gov.uk/government/publications/expert-committee-on-pesticide-residues-in-food-prif-annual-report",
+      "published": "2026-08-24T09:00:04+00:00",
+      "excerpt": "Summary of the work carried out by the Expert Committee on Pesticide Residues in Food.",
+      "entities": [
+        "Expert Committee",
+        "Pesticide Residues",
+        "Food",
+        "PRiF",
+        "Summary"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-24T10:21:07+00:00",
+      "id": "5cd7b2d6eb38"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Redefining investment in digital infrastructure in the UK: 2026",
+      "url": "https://gov.uk/government/statistics/redefining-investment-in-digital-infrastructure-in-the-uk-2026",
+      "published": "2026-08-24T08:30:03+00:00",
+      "excerpt": "Estimates of investment in digital infrastructure in the UK using an expanded definition of infrastructure that includes selected intellectual property products and permits for the use of radio spectrum alongside traditional physical infrastructure assets.…",
+      "entities": [
+        "Redefining",
+        "Estimates"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-24T10:21:07+00:00",
+      "id": "344ead751d38"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Data centres and the UK National Accounts",
+      "url": "https://gov.uk/government/statistics/data-centres-and-the-uk-national-accounts",
+      "published": "2026-08-24T08:30:03+00:00",
+      "excerpt": "This article will describe how data centres impact the UKs National Accounts and where relevant data is seen. It is one of a series of articles to be released by ONS on the digital economy including digital infrastructure and the development of an AI thematic account.…",
+      "entities": [
+        "Data",
+        "UK National Accounts. This",
+        "UKs National Accounts"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-24T10:21:07+00:00",
+      "id": "037366b21310"
+    }
+  ]
+}

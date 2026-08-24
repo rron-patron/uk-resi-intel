@@ -1,0 +1,542 @@
+{
+  "generated_at": "2026-08-24T10:21:12+00:00",
+  "date_label": "Monday 24 August 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n27 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 6,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Rightmove",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Mayors",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "HMRC",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Regional",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Five",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Housing Plus Group",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Plans",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Stratford Cross",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "London Borough of Newham",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Richborough",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Woodford",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Jenny Lane",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Stockport",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Morgan Sindall",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Enterprise Campus. Working",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Cumberland Council",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Leconfield Industrial Estate",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "9e89e872cd6e": {
+      "id": "9e89e872cd6e",
+      "importance": "Medium",
+      "summary": "Regional mayors will get power to overrule local councils on planning decisions, the prime minister is set to announce",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Mayors",
+        "Regional"
+      ],
+      "locations": []
+    },
+    "7d8e73237093": {
+      "id": "7d8e73237093",
+      "importance": "Medium",
+      "summary": "Housing Plus Group has completed a major funding programme after securing £961m from five banking partners",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Five",
+        "Housing Plus Group"
+      ],
+      "locations": []
+    },
+    "7d6bba0c0fe7": {
+      "id": "7d6bba0c0fe7",
+      "importance": "Medium",
+      "summary": "A planning application has been submitted to the London Borough of Newham for the final 2,000-home phase of development at Stratford Cross",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Plans",
+        "Stratford Cross",
+        "London Borough of Newham"
+      ],
+      "locations": []
+    },
+    "93099e6c3d19": {
+      "id": "93099e6c3d19",
+      "importance": "Medium",
+      "summary": "Ten acres of grazing land off Jenny Lane in Stockport could be redeveloped into 75 homes under outline plans put to the local council. The post Richborough latest to seize Woodford opportunity appeared first on Place Nor",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Richborough",
+        "Woodford",
+        "Jenny Lane",
+        "Stockport"
+      ],
+      "locations": []
+    },
+    "510def45094f": {
+      "id": "510def45094f",
+      "importance": "Medium",
+      "summary": "Working for Cumberland Council, the contractor has started on a pair of buildings amounting to 64,000 s ft at Leconfield Industrial Estate in Cleator Moor. The post Morgan Sindall cracks on at iSH Enterprise Campus appea",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Morgan Sindall",
+        "Enterprise Campus. Working",
+        "Cumberland Council",
+        "Leconfield Industrial Estate"
+      ],
+      "locations": []
+    },
+    "95d1ee6c7542": {
+      "id": "95d1ee6c7542",
+      "importance": "Medium",
+      "summary": "Paul Buntin has been promoted to interim director of regeneration and housing at the combined authority after four years as head of development. The post Buntin steps up at Liverpool City Region appeared first on Place N",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Buntin",
+        "Liverpool City Region. Paul",
+        "Liverpool City Region",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "d4ec734409e8": {
+      "id": "d4ec734409e8",
+      "importance": "Medium",
+      "summary": "Rightmove analysis around six major urban locations highlights where listed prices are climbing most",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Cities",
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    "b5d30768a127": {
+      "id": "b5d30768a127",
+      "importance": "Medium",
+      "summary": "ClearPath AI plans to automate routine work across residential sales transactions",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "ClearPath AI"
+      ],
+      "locations": []
+    },
+    "9d2aac19ecd9": {
+      "id": "9d2aac19ecd9",
+      "importance": "Medium",
+      "summary": "Platform has grown to 479 agents across 229 companies since launching in 2024",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Prime",
+        "Platform"
+      ],
+      "locations": []
+    },
+    "46f426137a28": {
+      "id": "46f426137a28",
+      "importance": "Medium",
+      "summary": "Figures reveal a rise in court action by landlords alongside a decline in mortgage possession cases",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Landlord",
+        "Figures"
+      ],
+      "locations": []
+    },
+    "4e49c94cf70f": {
+      "id": "4e49c94cf70f",
+      "importance": "Medium",
+      "summary": "Tax officials could demand access to properties to determine whether the levy applies",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "HMRC"
+      ],
+      "locations": []
+    },
+    "94e60fb04fc3": {
+      "id": "94e60fb04fc3",
+      "importance": "Medium",
+      "summary": "Proposals would extend planning powers and give regional leaders greater influence",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Mayors",
+        "Proposals"
+      ],
+      "locations": []
+    },
+    "2c1018cc9c98": {
+      "id": "2c1018cc9c98",
+      "importance": "Medium",
+      "summary": "The property portal and CPS Homes have each pledged £500 ahead of the Cardiff Half Marathon",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate",
+        "Rightmove",
+        "CPS Homes",
+        "Cardiff Half Marathon"
+      ],
+      "locations": []
+    },
+    "5ee13fffb42e": {
+      "id": "5ee13fffb42e",
+      "importance": "Medium",
+      "summary": "Three property professionals will swim, cycle and run to raise funds for families",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency",
+        "Three"
+      ],
+      "locations": []
+    },
+    "958454cedb5a": {
+      "id": "958454cedb5a",
+      "importance": "Medium",
+      "summary": "The platform spans property, legal, finance and compliance.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "New AI"
+      ],
+      "locations": []
+    },
+    "0b4beae2137a": {
+      "id": "0b4beae2137a",
+      "importance": "Medium",
+      "summary": "League table of the most over-used words - but are they the most effective?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "League"
+      ],
+      "locations": []
+    },
+    "8fa9b8ba1493": {
+      "id": "8fa9b8ba1493",
+      "importance": "Medium",
+      "summary": "New build prices have fallen in London too",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "London"
+      ],
+      "locations": []
+    },
+    "d92dc184d794": {
+      "id": "d92dc184d794",
+      "importance": "Medium",
+      "summary": "The portal's given £500 as a donation",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Agent’s",
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    "a3930198e701": {
+      "id": "a3930198e701",
+      "importance": "Medium",
+      "summary": "As school holidays near the end, so a new assessment looks at house premiums",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Housing"
+      ],
+      "locations": []
+    },
+    "3eba92a91888": {
+      "id": "3eba92a91888",
+      "importance": "Medium",
+      "summary": "Rightmove has calculated popularity and price movements around six cities",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "South of England",
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    "53ca24ad1053": {
+      "id": "53ca24ad1053",
+      "importance": "Medium",
+      "summary": "The tax applies from 2028",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "HMRC"
+      ],
+      "locations": []
+    },
+    "1f1b725efb89": {
+      "id": "1f1b725efb89",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - HMO landlords are nearly twice as likely to win planning appeals outside Article 4 areas, according to new research.",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Article",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "d1bfb6905e18": {
+      "id": "d1bfb6905e18",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Property tribunals are planning changes to the way cases are handled as they prepare for a significant increase in workload.",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Property",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "64e61bbde582": {
+      "id": "64e61bbde582",
+      "importance": "Medium",
+      "summary": "News - Tom Entwistle - If the King can't afford to insulate his cottages, what chance for the rest of us?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Like",
+        "King",
+        "News",
+        "Tom Entwistle"
+      ],
+      "locations": []
+    },
+    "5cd7b2d6eb38": {
+      "id": "5cd7b2d6eb38",
+      "importance": "Medium",
+      "summary": "Summary of the work carried out by the Expert Committee on Pesticide Residues in Food.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Expert Committee",
+        "Pesticide Residues",
+        "Food",
+        "PRiF"
+      ],
+      "locations": []
+    },
+    "344ead751d38": {
+      "id": "344ead751d38",
+      "importance": "Medium",
+      "summary": "Estimates of investment in digital infrastructure in the UK using an expanded definition of infrastructure that includes selected intellectual property products and permits for the use of radio spectrum alongside traditi",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Redefining",
+        "Estimates"
+      ],
+      "locations": []
+    },
+    "037366b21310": {
+      "id": "037366b21310",
+      "importance": "Medium",
+      "summary": "This article will describe how data centres impact the UKs National Accounts and where relevant data is seen. It is one of a series of articles to be released by ONS on the digital economy including digital infrastructur",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Data",
+        "UK National Accounts. This",
+        "UKs National Accounts"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 27,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
