@@ -1,0 +1,548 @@
+{
+  "collected_at": "2026-08-25T09:55:09+00:00",
+  "date_london": "2026-08-25",
+  "counts": {
+    "seen_in_feeds": 65,
+    "new": 28,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 7,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 7"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 7,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 7"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 5,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 5"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 4,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 4"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Councils to receive £46m skills, capacity and capability boost to help deliver new social housing",
+      "url": "https://insidehousing.co.uk/home/councils-to-receive-46m-skills-capacity-and-capability-boost-to-help-deliver-new-social-housing-98442",
+      "published": "2026-08-25T07:00:00+00:00",
+      "excerpt": "Councils will receive £46m over the next three years to strengthen their capacity to build and buy new social homes, the government has said",
+      "entities": [
+        "Councils"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:18+00:00",
+      "id": "2fe99c14ca2d"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "33 strategic partners chosen in first £10bn wave of SAHP cash",
+      "url": "https://insidehousing.co.uk/home/33-strategic-partners-chosen-in-first-10bn-wave-of-sahp-cash-98443",
+      "published": "2026-08-25T09:50:00+00:00",
+      "excerpt": "The government has allocated £9.58bn to 33 strategic partners outside of London, in the first wave of funding under the Social and Affordable Homes Programme",
+      "entities": [
+        "SAHP",
+        "London",
+        "Social and Affordable Homes Programme"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:18+00:00",
+      "id": "985d3df7787f"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Council approves affordable housing cut at stalled development in London",
+      "url": "https://insidehousing.co.uk/home/council-approves-affordable-housing-cut-at-stalled-development-in-london-98436",
+      "published": "2026-08-24T15:30:00+00:00",
+      "excerpt": "Camden Council has approved a cut to the affordable housing provision of a development in North London, stalled over increased costs and fire safety rules",
+      "entities": [
+        "London. Camden Council",
+        "North London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:18+00:00",
+      "id": "4ec76c45da91"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "First allocations revealed for £39bn social housing plan",
+      "url": "https://placenorthwest.co.uk/first-allocations-revealed-for-39bn-social-housing-scheme",
+      "published": "2026-08-25T08:55:10+00:00",
+      "excerpt": "Torus62, Great Places Housing Group, and Onward Homes are among the 33 partner organisations to get a share of £9bn earmarked to support delivery of 70,000 homes as part of the initial phase. The post First allocations revealed for £39bn social housing plan appeared first on Place North West .",
+      "entities": [
+        "First",
+        "Great Places Housing Group",
+        "Onward Homes",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:25+00:00",
+      "id": "f9c10bc678ed"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Revoe sports pitches tipped for Blackpool nod",
+      "url": "https://placenorthwest.co.uk/revoe-sports-pitches-tipped-for-blackpool-nod",
+      "published": "2026-08-25T08:34:28+00:00",
+      "excerpt": "Reworked this year, the community sports plan features on a docket that also includes a recommendation to refuse the expansion of a mental health facility. The post Revoe sports pitches tipped for Blackpool nod appeared first on Place North West .",
+      "entities": [
+        "Revoe",
+        "Blackpool",
+        "Reworked",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:25+00:00",
+      "id": "0a9e5ad880fa"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Wain Homes eyes Backford Cross go-ahead",
+      "url": "https://placenorthwest.co.uk/wain-homes-eyes-backford-cross-go-ahead",
+      "published": "2026-08-24T14:52:03+00:00",
+      "excerpt": "Cheshire West and Chester Council officers have recommended approval for the 240-home proposal to the south-west of Ellesmere Port. The post Wain Homes eyes Backford Cross go-ahead appeared first on Place North West .",
+      "entities": [
+        "Wain Homes",
+        "Backford Cross",
+        "Cheshire West and Chester Council",
+        "Ellesmere Port. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:25+00:00",
+      "id": "cf6e074d58b5"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Seddon, Torus table plans for St Helens affordable homes",
+      "url": "https://placenorthwest.co.uk/seddon-torus-table-plans-for-st-helens-affordable-homes",
+      "published": "2026-08-24T13:49:46+00:00",
+      "excerpt": "A mixture of 63 apartments and houses, including two bungalows, is proposed on a 4.5-acre site off Evelyn Avenue east of the town centre. The post Seddon, Torus table plans for St Helens affordable homes appeared first on Place North West .",
+      "entities": [
+        "Seddon",
+        "Torus",
+        "St Helens",
+        "Evelyn Avenue",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:25+00:00",
+      "id": "d3eb16e80940"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "EYE EXCLUSIVE – LRG acquires historic estate agency",
+      "url": "https://propertyindustryeye.com/eye-exclusive-lrg-buys-historic-estate-agency",
+      "published": "2026-08-25T05:56:29+00:00",
+      "excerpt": "LRG strikes deal for major regional estate agency",
+      "entities": [
+        "EYE EXCLUSIVE"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:26+00:00",
+      "id": "3a39c549817b"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "One month in, prime minister. Take the handbrake off, or watch Britain seize up",
+      "url": "https://propertyindustryeye.com/one-month-in-prime-minister-take-the-handbrake-off-or-watch-britain-seize-up",
+      "published": "2026-08-25T04:00:27+00:00",
+      "excerpt": "More must be done to get the housing market moving",
+      "entities": [
+        "Take",
+        "Britain",
+        "More"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:26+00:00",
+      "id": "ba10b07f27a8"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agents feel the heat as property market cools",
+      "url": "https://propertyindustryeye.com/estate-agents-feel-the-heat-as-property-market-cools",
+      "published": "2026-08-25T03:50:48+00:00",
+      "excerpt": "Heat is on as property market activity dips",
+      "entities": [
+        "Estate",
+        "Heat"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:26+00:00",
+      "id": "5452cae6e961"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "The property market: should we all go over Beachy Head or is the cavalry coming to our rescue?",
+      "url": "https://propertyindustryeye.com/the-property-market-should-we-all-go-over-beachy-head-or-is-the-cavalry-coming-to-our-rescue",
+      "published": "2026-08-25T03:20:58+00:00",
+      "excerpt": "Trevor Abrahmsohn, founder of north London estate agency Glentree International, offers his latest take on the property market and the issues facing agents",
+      "entities": [
+        "Beachy Head",
+        "Trevor Abrahmsohn",
+        "London",
+        "Glentree International"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:26+00:00",
+      "id": "d2ffbd7d0730"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Independent agency to open new office in same town following acquisition",
+      "url": "https://propertyindustryeye.com/independent-agency-to-open-new-office-following-acquisition",
+      "published": "2026-08-25T02:40:52+00:00",
+      "excerpt": "Independent agency doubles down with new office",
+      "entities": [
+        "Independent"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:26+00:00",
+      "id": "194a092abf56"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Property industry leaders join forces to tackle transaction delays",
+      "url": "https://propertyindustryeye.com/property-industry-leaders-join-forces-to-tackle-transaction-delays",
+      "published": "2026-08-25T01:48:04+00:00",
+      "excerpt": "Industry leaders unite in bid to slash property transaction times",
+      "entities": [
+        "Property",
+        "Industry"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:26+00:00",
+      "id": "fb154cd72448"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Property investment firm acquires estate agency network with 104 franchisees",
+      "url": "https://propertyindustryeye.com/property-investment-firm-acquires-estate-agency-network-with-104-franchisees",
+      "published": "2026-08-25T01:30:20+00:00",
+      "excerpt": "Deal expands company into estate agency and auctions while taking its combined franchise network beyond 330 operators",
+      "entities": [
+        "Property",
+        "Deal"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:26+00:00",
+      "id": "11f2ca73971e"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Thousands of estate agents handed new free revenue stream",
+      "url": "https://propertyindustryeye.com/thousands-of-estate-agents-handed-new-free-revenue-stream",
+      "published": "2026-08-25T01:00:17+00:00",
+      "excerpt": "Alto targets auction growth with free service for estate agents",
+      "entities": [
+        "Thousands",
+        "Alto"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:26+00:00",
+      "id": "da6d92ee097f"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Where are BTL landlords securing the strongest rental returns?",
+      "url": "https://propertyindustryeye.com/where-are-btl-landlords-securing-the-strongest-rental-returns",
+      "published": "2026-08-25T00:20:47+00:00",
+      "excerpt": "New figures highlight the continued variation in buy-to-let returns across England",
+      "entities": [
+        "Where"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:26+00:00",
+      "id": "23f22c3ca309"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "How much are lost leads and unused tech costing your agency?",
+      "url": "https://propertyindustryeye.com/how-much-are-lost-leads-and-unused-tech-costing-your-agency",
+      "published": "2026-08-24T23:40:06+00:00",
+      "excerpt": "Agency benchmark puts lost leads and wasted tech under scrutiny",
+      "entities": [
+        "Agency"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:26+00:00",
+      "id": "c19a64d53ab8"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "EA Masters: Vote now for your favourite property industry supplier",
+      "url": "https://propertyindustryeye.com/ea-masters-vote-now-for-your-favourite-property-industry-supplier-2",
+      "published": "2026-08-24T23:34:51+00:00",
+      "excerpt": "Agents can cast their votes and leave reviews for their suppliers",
+      "entities": [
+        "EA Masters",
+        "Vote",
+        "Agents"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:26+00:00",
+      "id": "64015f47778d"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "NIMBY Britain? New research suggests otherwise",
+      "url": "https://propertyindustryeye.com/nimby-britain-new-research-suggests-otherwise",
+      "published": "2026-08-24T23:30:49+00:00",
+      "excerpt": "Britain says ‘yes’ to more homes – but there’s a catch",
+      "entities": [
+        "NIMBY Britain",
+        "Britain"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:26+00:00",
+      "id": "437544e55c51"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Netflix star joins house buying reform board",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/netflix-star-and-ex-purplebricks-md-join-house-buying-reform-board",
+      "published": "2026-08-24T23:06:00+00:00",
+      "excerpt": "The model is claimed to benefit good estate agents as well as consumers",
+      "entities": [
+        "Netflix"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:26+00:00",
+      "id": "c0ebd5226df8"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Major CRM launches online auctions free for subscriber agents",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/crm-provider-launches-online-auction-service-free-for-thousands-of-agents",
+      "published": "2026-08-24T23:05:00+00:00",
+      "excerpt": "’s gone live to some 6,000 agencies and 35,000 daily users",
+      "entities": [
+        "Major CRM"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:26+00:00",
+      "id": "e8f63654ac1b"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agency acquisition service snaps up franchise brand",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/agency-acquisition-service-snaps-up-franchise-brand",
+      "published": "2026-08-24T23:04:00+00:00",
+      "excerpt": "Sourced was founded in 2017",
+      "entities": [
+        "Agency",
+        "Sourced"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:26+00:00",
+      "id": "6e2ee9a8fee2"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Benchmarking service launched to test agency efficacy",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/benchmarking-service-launched-to-test-agency-efficacy",
+      "published": "2026-08-24T23:02:00+00:00",
+      "excerpt": "Every agency is paying for at least one thing that isn't earning its place, founders claim",
+      "entities": [
+        "Benchmarking",
+        "Every"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:26+00:00",
+      "id": "ce59fa6afeb0"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Many potential purchasers “can’t navigate the buying process”",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/many-potential-purchasers-cant-navigate-the-buying-process",
+      "published": "2026-08-24T23:01:00+00:00",
+      "excerpt": "The stats comes from a Barclays Bank survey",
+      "entities": [
+        "Many",
+        "Barclays Bank"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:26+00:00",
+      "id": "ee6c81facf9d"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Reform UK to beef up Right To Buy through more building",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/08/reform-uk-to-beef-up-right-to-buy-through-more-building",
+      "published": "2026-08-24T23:00:00+00:00",
+      "excerpt": "Party deputy leader Richard Tice has made social housing a priority",
+      "entities": [
+        "Reform UK",
+        "Right To Buy",
+        "Party",
+        "Richard Tice"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:26+00:00",
+      "id": "f74f64760a40"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Meeting modern tenant expectations: how to future-proof your rental property",
+      "url": "https://landlordzone.co.uk/news/meeting-modern-tenant-expectations-how-to-future-proof-your-rental-property",
+      "published": "2026-08-25T08:00:01+00:00",
+      "excerpt": "Sponsored - Leaders - Future-proof your rental with energy upgrades, flexible spaces, parking, outdoor areas and HMO potential to attract tenants.",
+      "entities": [
+        "Meeting",
+        "Sponsored",
+        "Leaders",
+        "Future-proof"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:27+00:00",
+      "id": "b4de41e2ac8b"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Council vows to 'come after' neglectful landlords",
+      "url": "https://landlordzone.co.uk/news/council-vows-to-come-after-neglectful-landlords",
+      "published": "2026-08-24T17:39:15+00:00",
+      "excerpt": "News - Helen Gregory - A landlord firm that let a historic building fall into disrepair has been told to pay more than £8,000.",
+      "entities": [
+        "News",
+        "Helen Gregory"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:27+00:00",
+      "id": "942d78f139c2"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Holiday let profits rise despite FHL tax changes",
+      "url": "https://landlordzone.co.uk/news/holiday-let-profits-rise-despite-fhl-tax-changes",
+      "published": "2026-08-24T11:53:36+00:00",
+      "excerpt": "News - Helen Gregory - Almost half of holiday let owners say profits have risen despite the loss of Furnished Holiday Let tax breaks.",
+      "entities": [
+        "Holiday",
+        "News",
+        "Helen Gregory",
+        "Almost",
+        "Furnished Holiday Let"
+      ],
+      "kind": "news",
+      "collected_at": "2026-08-25T09:55:27+00:00",
+      "id": "2e6f50d2ac0c"
+    }
+  ]
+}

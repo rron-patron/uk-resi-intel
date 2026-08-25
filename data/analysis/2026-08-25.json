@@ -1,0 +1,548 @@
+{
+  "generated_at": "2026-08-25T09:55:34+00:00",
+  "date_label": "Tuesday 25 August 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n28 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 8,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Britain",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Agency",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Councils",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "SAHP",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Social and Affordable Homes Programme",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "London. Camden Council",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "North London",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "First",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Great Places Housing Group",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Onward Homes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Revoe",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Blackpool",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Reworked",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Wain Homes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Backford Cross",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "2fe99c14ca2d": {
+      "id": "2fe99c14ca2d",
+      "importance": "Medium",
+      "summary": "Councils will receive £46m over the next three years to strengthen their capacity to build and buy new social homes, the government has said",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Councils"
+      ],
+      "locations": []
+    },
+    "985d3df7787f": {
+      "id": "985d3df7787f",
+      "importance": "Medium",
+      "summary": "The government has allocated £9.58bn to 33 strategic partners outside of London, in the first wave of funding under the Social and Affordable Homes Programme",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "SAHP",
+        "London",
+        "Social and Affordable Homes Programme"
+      ],
+      "locations": []
+    },
+    "4ec76c45da91": {
+      "id": "4ec76c45da91",
+      "importance": "Medium",
+      "summary": "Camden Council has approved a cut to the affordable housing provision of a development in North London, stalled over increased costs and fire safety rules",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "London. Camden Council",
+        "North London"
+      ],
+      "locations": []
+    },
+    "f9c10bc678ed": {
+      "id": "f9c10bc678ed",
+      "importance": "Medium",
+      "summary": "Torus62, Great Places Housing Group, and Onward Homes are among the 33 partner organisations to get a share of £9bn earmarked to support delivery of 70,000 homes as part of the initial phase. The post First allocations r",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "First",
+        "Great Places Housing Group",
+        "Onward Homes",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "0a9e5ad880fa": {
+      "id": "0a9e5ad880fa",
+      "importance": "Medium",
+      "summary": "Reworked this year, the community sports plan features on a docket that also includes a recommendation to refuse the expansion of a mental health facility. The post Revoe sports pitches tipped for Blackpool nod appeared ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Revoe",
+        "Blackpool",
+        "Reworked",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "cf6e074d58b5": {
+      "id": "cf6e074d58b5",
+      "importance": "Medium",
+      "summary": "Cheshire West and Chester Council officers have recommended approval for the 240-home proposal to the south-west of Ellesmere Port. The post Wain Homes eyes Backford Cross go-ahead appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Wain Homes",
+        "Backford Cross",
+        "Cheshire West and Chester Council",
+        "Ellesmere Port. The"
+      ],
+      "locations": []
+    },
+    "d3eb16e80940": {
+      "id": "d3eb16e80940",
+      "importance": "Medium",
+      "summary": "A mixture of 63 apartments and houses, including two bungalows, is proposed on a 4.5-acre site off Evelyn Avenue east of the town centre. The post Seddon, Torus table plans for St Helens affordable homes appeared first o",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Seddon",
+        "Torus",
+        "St Helens",
+        "Evelyn Avenue"
+      ],
+      "locations": []
+    },
+    "3a39c549817b": {
+      "id": "3a39c549817b",
+      "importance": "Medium",
+      "summary": "LRG strikes deal for major regional estate agency",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "EYE EXCLUSIVE"
+      ],
+      "locations": []
+    },
+    "ba10b07f27a8": {
+      "id": "ba10b07f27a8",
+      "importance": "Medium",
+      "summary": "More must be done to get the housing market moving",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Take",
+        "Britain",
+        "More"
+      ],
+      "locations": []
+    },
+    "5452cae6e961": {
+      "id": "5452cae6e961",
+      "importance": "Medium",
+      "summary": "Heat is on as property market activity dips",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Heat"
+      ],
+      "locations": []
+    },
+    "d2ffbd7d0730": {
+      "id": "d2ffbd7d0730",
+      "importance": "Medium",
+      "summary": "Trevor Abrahmsohn, founder of north London estate agency Glentree International, offers his latest take on the property market and the issues facing agents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Beachy Head",
+        "Trevor Abrahmsohn",
+        "London",
+        "Glentree International"
+      ],
+      "locations": []
+    },
+    "194a092abf56": {
+      "id": "194a092abf56",
+      "importance": "Medium",
+      "summary": "Independent agency doubles down with new office",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Independent"
+      ],
+      "locations": []
+    },
+    "fb154cd72448": {
+      "id": "fb154cd72448",
+      "importance": "Medium",
+      "summary": "Industry leaders unite in bid to slash property transaction times",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Industry"
+      ],
+      "locations": []
+    },
+    "11f2ca73971e": {
+      "id": "11f2ca73971e",
+      "importance": "Medium",
+      "summary": "Deal expands company into estate agency and auctions while taking its combined franchise network beyond 330 operators",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Property",
+        "Deal"
+      ],
+      "locations": []
+    },
+    "da6d92ee097f": {
+      "id": "da6d92ee097f",
+      "importance": "Medium",
+      "summary": "Alto targets auction growth with free service for estate agents",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Thousands",
+        "Alto"
+      ],
+      "locations": []
+    },
+    "23f22c3ca309": {
+      "id": "23f22c3ca309",
+      "importance": "Medium",
+      "summary": "New figures highlight the continued variation in buy-to-let returns across England",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Where"
+      ],
+      "locations": []
+    },
+    "c19a64d53ab8": {
+      "id": "c19a64d53ab8",
+      "importance": "Medium",
+      "summary": "Agency benchmark puts lost leads and wasted tech under scrutiny",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency"
+      ],
+      "locations": []
+    },
+    "64015f47778d": {
+      "id": "64015f47778d",
+      "importance": "Medium",
+      "summary": "Agents can cast their votes and leave reviews for their suppliers",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "EA Masters",
+        "Vote",
+        "Agents"
+      ],
+      "locations": []
+    },
+    "437544e55c51": {
+      "id": "437544e55c51",
+      "importance": "Medium",
+      "summary": "Britain says ‘yes’ to more homes – but there’s a catch",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "NIMBY Britain",
+        "Britain"
+      ],
+      "locations": []
+    },
+    "c0ebd5226df8": {
+      "id": "c0ebd5226df8",
+      "importance": "Medium",
+      "summary": "The model is claimed to benefit good estate agents as well as consumers",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Netflix"
+      ],
+      "locations": []
+    },
+    "e8f63654ac1b": {
+      "id": "e8f63654ac1b",
+      "importance": "Medium",
+      "summary": "’s gone live to some 6,000 agencies and 35,000 daily users",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Major CRM"
+      ],
+      "locations": []
+    },
+    "6e2ee9a8fee2": {
+      "id": "6e2ee9a8fee2",
+      "importance": "Medium",
+      "summary": "Sourced was founded in 2017",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Agency",
+        "Sourced"
+      ],
+      "locations": []
+    },
+    "ce59fa6afeb0": {
+      "id": "ce59fa6afeb0",
+      "importance": "Medium",
+      "summary": "Every agency is paying for at least one thing that isn't earning its place, founders claim",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Benchmarking",
+        "Every"
+      ],
+      "locations": []
+    },
+    "ee6c81facf9d": {
+      "id": "ee6c81facf9d",
+      "importance": "Medium",
+      "summary": "The stats comes from a Barclays Bank survey",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Many",
+        "Barclays Bank"
+      ],
+      "locations": []
+    },
+    "f74f64760a40": {
+      "id": "f74f64760a40",
+      "importance": "Medium",
+      "summary": "Party deputy leader Richard Tice has made social housing a priority",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Reform UK",
+        "Right To Buy",
+        "Party",
+        "Richard Tice"
+      ],
+      "locations": []
+    },
+    "b4de41e2ac8b": {
+      "id": "b4de41e2ac8b",
+      "importance": "Medium",
+      "summary": "Sponsored - Leaders - Future-proof your rental with energy upgrades, flexible spaces, parking, outdoor areas and HMO potential to attract tenants.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Meeting",
+        "Sponsored",
+        "Leaders",
+        "Future-proof"
+      ],
+      "locations": []
+    },
+    "942d78f139c2": {
+      "id": "942d78f139c2",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - A landlord firm that let a historic building fall into disrepair has been told to pay more than £8,000.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "2e6f50d2ac0c": {
+      "id": "2e6f50d2ac0c",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Almost half of holiday let owners say profits have risen despite the loss of Furnished Holiday Let tax breaks.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Holiday",
+        "News",
+        "Helen Gregory",
+        "Almost"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 28,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
