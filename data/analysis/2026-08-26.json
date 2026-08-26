@@ -1,0 +1,769 @@
+{
+  "generated_at": "2026-08-26T10:05:23+00:00",
+  "date_label": "Wednesday 26 August 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n43 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 9,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 8,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Social and Affordable Homes Programme",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "SAHP",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Letting",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Tenants",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Renters’ Rights Act",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Burnham’s",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Second London",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "West Midlands",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Credit",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "S&P Global",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Housing Plus Group",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Delivering",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Caroline Mostowfi and Pauline",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Devonshires",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "c86afbd8a71a": {
+      "id": "c86afbd8a71a",
+      "importance": "Medium",
+      "summary": "A second London landlord in two months has completed a multi-million-pound sale of its private rented business",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Second London",
+        "London"
+      ],
+      "locations": []
+    },
+    "aa6fc3794e1c": {
+      "id": "aa6fc3794e1c",
+      "importance": "Medium",
+      "summary": "Credit rating agency S&P Global has revised its outlook on Housing Plus Group from negative to stable, reflecting “strong progress” on its merger as cost savings offset elevated demand for repairs",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "West Midlands",
+        "Credit",
+        "S&P Global",
+        "Housing Plus Group"
+      ],
+      "locations": []
+    },
+    "59aa3fed2d91": {
+      "id": "59aa3fed2d91",
+      "importance": "Medium",
+      "summary": "Delivering the promised housing commitments will require an adaptable approach to funding and delivery models, write Caroline Mostowfi and Pauline Lépissier, partners at Devonshires",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Delivering",
+        "Caroline Mostowfi and Pauline",
+        "Devonshires"
+      ],
+      "locations": []
+    },
+    "f01b252f3366": {
+      "id": "f01b252f3366",
+      "importance": "Medium",
+      "summary": "Housing minister Matthew Pennycook has said regional mayors need new powers to push through planning applications as the government launches its consultation on the proposals",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Pennycook",
+        "Housing",
+        "Matthew Pennycook"
+      ],
+      "locations": []
+    },
+    "2404e6bbeefd": {
+      "id": "2404e6bbeefd",
+      "importance": "Medium",
+      "summary": "Homes England revealed this morning that just three of the 33 strategic partners outside London in the first £10bn wave of the Social and Affordable Homes Programme are local authorities. Stephen Delahunty rounds up the ",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Strategic",
+        "SAHP. Homes England",
+        "London",
+        "Social and Affordable Homes Programme"
+      ],
+      "locations": []
+    },
+    "d863e55a3597": {
+      "id": "d863e55a3597",
+      "importance": "Medium",
+      "summary": "The government has launched a consultation on a new standard Section 106 template, while promising to “engage intensively” with councils on ways to expand their social housing stock",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "SAHP",
+        "Section"
+      ],
+      "locations": []
+    },
+    "b13f8cfebebb": {
+      "id": "b13f8cfebebb",
+      "importance": "Medium",
+      "summary": "A presumption is favour of development is a good thing, but the government should be more targeted in where it encourages growth, write Nikhil Datta and Amrita Kulka of the University of Warwick",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Nikhil Datta and Amrita Kulka",
+        "University of Warwick"
+      ],
+      "locations": []
+    },
+    "4155fd694a51": {
+      "id": "4155fd694a51",
+      "importance": "Medium",
+      "summary": "Just three of the 33 strategic partners outside London in the first £10bn wave of the Social and Affordable Homes Programme are local authorities",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Just",
+        "London",
+        "SAHP",
+        "Social and Affordable Homes Programme"
+      ],
+      "locations": []
+    },
+    "aaee7b0ea44a": {
+      "id": "aaee7b0ea44a",
+      "importance": "Medium",
+      "summary": "The site of the former St Matthew’s Church off Worsley Road in Winton is to be transformed into 40 affordable homes under plans from Lancet Homes. The post Green light for Winton church redevelopment appeared first on Pl",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Green",
+        "Winton",
+        "St Matthew’s Church",
+        "Worsley Road"
+      ],
+      "locations": []
+    },
+    "401ae507b5a6": {
+      "id": "401ae507b5a6",
+      "importance": "Medium",
+      "summary": "Housing association chief executives have welcomed £9bn of allocations from the government's Social and Affordable Homes Programme, saying the funding would help tackle housing waiting lists across England. The post ‘Can",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Can’t",
+        "Providers",
+        "Housing",
+        "Social and Affordable Homes Programme"
+      ],
+      "locations": []
+    },
+    "6c5963c9f0a4": {
+      "id": "6c5963c9f0a4",
+      "importance": "Medium",
+      "summary": "Partnering with MCI Developments, the investor’s affordable housing arm will acquire the £40m Trub Farm development in Rochdale. The post L&G on board for 158-home Castleton scheme appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Castleton",
+        "Partnering",
+        "MCI Developments",
+        "Trub Farm"
+      ],
+      "locations": []
+    },
+    "b51b0d0260a4": {
+      "id": "b51b0d0260a4",
+      "importance": "Medium",
+      "summary": "Estate agents to get more accurate property data from Friday",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "EYE NEWS UPDATE",
+        "Land Registry",
+        "Estate"
+      ],
+      "locations": []
+    },
+    "2632b199aa6e": {
+      "id": "2632b199aa6e",
+      "importance": "Medium",
+      "summary": "Tenants and landlords left out of pocket",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Letting",
+        "Tenants"
+      ],
+      "locations": []
+    },
+    "fcccea574e74": {
+      "id": "fcccea574e74",
+      "importance": "Medium",
+      "summary": "Is licensing for estate agents long overdue?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Should"
+      ],
+      "locations": []
+    },
+    "3f5e65056f7f": {
+      "id": "3f5e65056f7f",
+      "importance": "Medium",
+      "summary": "The figures suggest tenant selection and referencing could become increasingly important for landlords and letting agents as they adjust to the Renters' Rights Act",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents",
+        "Renters’ Rights Act",
+        "Renters' Rights Act"
+      ],
+      "locations": []
+    },
+    "ebd76d10c02d": {
+      "id": "ebd76d10c02d",
+      "importance": "Medium",
+      "summary": "Who made the cut? Personal Estate Agency Awards finalists revealed",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Personal Estate Agency Awards"
+      ],
+      "locations": []
+    },
+    "d50ace16e0ef": {
+      "id": "d50ace16e0ef",
+      "importance": "Medium",
+      "summary": "The UK government says it is committed to expanding the supply of social and affordable housing",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Affordable housing"
+      ],
+      "companies": [
+        "PM’s",
+        "The UK"
+      ],
+      "locations": []
+    },
+    "76ddf50f9cb9": {
+      "id": "76ddf50f9cb9",
+      "importance": "Medium",
+      "summary": "Alternative route for affordable homes",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Overlooked",
+        "Alternative"
+      ],
+      "locations": []
+    },
+    "765b67a71f24": {
+      "id": "765b67a71f24",
+      "importance": "Medium",
+      "summary": "Tax changes could also have the greatest influence on future investment, the study suggests",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Buy-to-let"
+      ],
+      "locations": []
+    },
+    "432d7b12f09e": {
+      "id": "432d7b12f09e",
+      "importance": "Medium",
+      "summary": "SafeDeposits Scotland has launched a CPD-accredited training programme aimed at letting agents and other property professionals operating in Scotland. The SDS Academy will offer Foundation and Adjudication Workshop cours",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "SafeDeposits Scotland",
+        "CPD-accredited",
+        "Scotland. The SDS Academy",
+        "Foundation and Adjudication Workshop"
+      ],
+      "locations": []
+    },
+    "596b6fbf9210": {
+      "id": "596b6fbf9210",
+      "importance": "Medium",
+      "summary": "One option is to lower the threshold for the Mansion Tax - even before it's implemented",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Burnham’s",
+        "Mansion Tax"
+      ],
+      "locations": []
+    },
+    "195f2d3d6460": {
+      "id": "195f2d3d6460",
+      "importance": "Medium",
+      "summary": "They are both described as possessing deep local knowledge",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "New Savills",
+        "They"
+      ],
+      "locations": []
+    },
+    "d3e6daf0dadf": {
+      "id": "d3e6daf0dadf",
+      "importance": "Medium",
+      "summary": "The NAC shapes the future of The Guild network",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Leading",
+        "The NAC",
+        "The Guild"
+      ],
+      "locations": []
+    },
+    "ff9b31c400e8": {
+      "id": "ff9b31c400e8",
+      "importance": "Medium",
+      "summary": "The traditional seasonal slowdown has been sharper and longer than usual",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Market"
+      ],
+      "locations": []
+    },
+    "fcf3bdc18a09": {
+      "id": "fcf3bdc18a09",
+      "importance": "Medium",
+      "summary": "Some of the funding may go to councils but most will head to housing associations",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "RICS",
+        "Burnham’s",
+        "Some"
+      ],
+      "locations": []
+    },
+    "3c6b97067146": {
+      "id": "3c6b97067146",
+      "importance": "Medium",
+      "summary": "Too little research and too low budgets risk the quality of renovation work",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Budget"
+      ],
+      "locations": []
+    },
+    "6e8f9acbd316": {
+      "id": "6e8f9acbd316",
+      "importance": "Medium",
+      "summary": "LRG will complete the acquisition of the sales, lettings and holiday cottages businesses one of the south of England’s longest-established property brands on September 1. The Henry Adams agency traces its origins to Wyat",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate",
+        "England’s",
+        "The Henry Adams",
+        "Wyatt"
+      ],
+      "locations": []
+    },
+    "65ab0401dd3a": {
+      "id": "65ab0401dd3a",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - A letting agent has been accused of failing to return the deposits of more than 100 tenants, according to a BBC investigation.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Letting",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "864eb0606150": {
+      "id": "864eb0606150",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Rent caps can reduce rental supply, discourage maintenance and leave some families in homes that don’t meet their needs, finds new research.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Rent",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "b465bf9f14fa": {
+      "id": "b465bf9f14fa",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Tenants’ groups have called on the government to include rent data and details about evictions in the new PRS Database.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Renters",
+        "PRS Database. News",
+        "Helen Gregory",
+        "Tenants"
+      ],
+      "locations": []
+    },
+    "628934e209b0": {
+      "id": "628934e209b0",
+      "importance": "Medium",
+      "summary": "News - Maria White - Landlords and agents are still getting new pet rules wrong, with campaigners warning of unlawful tenancy clauses and costly mistakes.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "Renters’ Rights Act",
+        "News",
+        "Maria White"
+      ],
+      "locations": []
+    },
+    "78339255a957": {
+      "id": "78339255a957",
+      "importance": "Medium",
+      "summary": "The 105th monthly data release regarding building safety remediation.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Building Safety Remediation"
+      ],
+      "locations": []
+    },
+    "3126db74477f": {
+      "id": "3126db74477f",
+      "importance": "Medium",
+      "summary": "…Research and development estimates of the UK's low carbon and renewable energy economy.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Low Carbon and Renewable Energy",
+        "Economy Survey",
+        "Research and Development",
+        "Research"
+      ],
+      "locations": []
+    },
+    "dcd18cce20ab": {
+      "id": "dcd18cce20ab",
+      "importance": "Medium",
+      "summary": "Annual data of reported Giardia infections in England since 2007.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Giardia",
+        "Annual"
+      ],
+      "locations": []
+    },
+    "7c84e7488a5f": {
+      "id": "7c84e7488a5f",
+      "importance": "Medium",
+      "summary": "Trends in butterflies: habitat specialists and species of the wider countryside in the UK and in England.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Butterfly",
+        "England. Trends"
+      ],
+      "locations": []
+    },
+    "2090c6be5826": {
+      "id": "2090c6be5826",
+      "importance": "Medium",
+      "summary": "Overview of our plans for the development of statistics collected by our environmental business surveys, including a timeline for this development.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Environmental",
+        "UK. Overview"
+      ],
+      "locations": []
+    },
+    "fed8aceb367d": {
+      "id": "fed8aceb367d",
+      "importance": "Medium",
+      "summary": "Results from a short set of questions about experiences of security screening from the CAA Departing Passenger Survey at selected UK airports in 2025.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Results",
+        "CAA Departing Passenger Survey"
+      ],
+      "locations": []
+    },
+    "e4a64fba5dc2": {
+      "id": "e4a64fba5dc2",
+      "importance": "Medium",
+      "summary": "These statistics provide information about families using Tax-Free Childcare",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tax-Free Childcare Statistics",
+        "These",
+        "Tax-Free Childcare"
+      ],
+      "locations": []
+    },
+    "63d92bea25f9": {
+      "id": "63d92bea25f9",
+      "importance": "Medium",
+      "summary": "…Data about UK and global air traffic, air accidents and incidents, and air passengers' experiences of security screening, produced by Department for Transport.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Aviation",
+        "Data",
+        "Department",
+        "Transport"
+      ],
+      "locations": []
+    },
+    "1fa3f053f4e5": {
+      "id": "1fa3f053f4e5",
+      "importance": "Medium",
+      "summary": "Geographical analysis of Child Benefit at country, region, local authority, Westminster/Scottish parliamentary constituency and small area level.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Child Benefit Statistics",
+        "Geographical",
+        "Child Benefit",
+        "Westminster"
+      ],
+      "locations": []
+    },
+    "640d4e42f9f8": {
+      "id": "640d4e42f9f8",
+      "importance": "Medium",
+      "summary": "Science advice notes considering how the UK can monitor ecosystem vulnerabilities and use innovation to maintain critical food, water and timber supplies.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Ecosystem",
+        "Science"
+      ],
+      "locations": []
+    },
+    "06db89c69e6d": {
+      "id": "06db89c69e6d",
+      "importance": "Medium",
+      "summary": "…Documents relating to the Ministry of Defence's research into whether there is an increased risk of cancer among current and veteran service personnel in the UK Armed Forces since 1990.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Epidemiology of Cancer",
+        "UK Armed Forces Study",
+        "Documents",
+        "Ministry of Defence's"
+      ],
+      "locations": []
+    },
+    "af4032012781": {
+      "id": "af4032012781",
+      "importance": "Medium",
+      "summary": "Reviews evidence and appraisal approaches for how road freight travel time values should grow over time.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Uprating",
+        "Reviews"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 43,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
