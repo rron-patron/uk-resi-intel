@@ -1,0 +1,1035 @@
+{
+  "generated_at": "2026-08-28T21:48:30+00:00",
+  "date_label": "Friday 28 August 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n60 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 14,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 6,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Build-to-rent",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Later living",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Student housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 10,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Renters’ Rights Act",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Section",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Burnham",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "More",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Manchester",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Landlord",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "HMRC",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Major",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "House",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Zoopla",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "The Week",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Strategic",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Sign",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "GreenSquareAccord",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Awaab’s Law",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The National Housing Federation",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "e817fe2448ca": {
+      "id": "e817fe2448ca",
+      "importance": "Medium",
+      "summary": "The Week in Housing is our weekly newsletter, rounding up the most important headlines for housing professionals. Sign up below to get it direct to your inbox every Friday",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Housing supply"
+      ],
+      "companies": [
+        "The Week",
+        "Housing",
+        "Strategic",
+        "Section"
+      ],
+      "locations": []
+    },
+    "ca85e34f128d": {
+      "id": "ca85e34f128d",
+      "importance": "Medium",
+      "summary": "GreenSquareAccord has announced a more than £13m boost in its operating surplus for 2025-26 after it disposed of nearly double the amount of homes it completed",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "GreenSquareAccord"
+      ],
+      "locations": []
+    },
+    "0ab45c236241": {
+      "id": "0ab45c236241",
+      "importance": "Medium",
+      "summary": "The National Housing Federation has given evidence to the spending watchdog, stressing the need for clearer guidance on the second phase of Awaab’s Law",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Awaab’s Law",
+        "The National Housing Federation"
+      ],
+      "locations": []
+    },
+    "9a2f44b2f95d": {
+      "id": "9a2f44b2f95d",
+      "importance": "Medium",
+      "summary": "Prime minister Andy Burnham has promised to close loopholes that allow rogue bailiffs to intimidate households struggling with debt and to “put cowboy builders out of business”",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Burnham",
+        "Prime",
+        "Andy Burnham"
+      ],
+      "locations": []
+    },
+    "59218d0b9145": {
+      "id": "59218d0b9145",
+      "importance": "Medium",
+      "summary": "Neil Garratt, chair of the London Assembly’s Budget and Performance Committee, has written to the mayor of London about the financial performance of its wholly owned land and property company",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "London Assembly’s Budget Committee",
+        "Neil Garratt",
+        "London Assembly’s Budget and Performance",
+        "Committee"
+      ],
+      "locations": []
+    },
+    "6200dd4e5ee3": {
+      "id": "6200dd4e5ee3",
+      "importance": "Medium",
+      "summary": "Just one council out of 11 in Northern Ireland handled all its planning bids within the legal time target last year",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Housing supply"
+      ],
+      "companies": [
+        "Most Northern Ireland",
+        "Just",
+        "Northern Ireland"
+      ],
+      "locations": []
+    },
+    "491a91135b96": {
+      "id": "491a91135b96",
+      "importance": "Medium",
+      "summary": "The Scottish government has confirmed plans to modernise compulsory purchase orders during this Parliament",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Scottish",
+        "The Scottish",
+        "Parliament"
+      ],
+      "locations": []
+    },
+    "eba40b8a0920": {
+      "id": "eba40b8a0920",
+      "importance": "Medium",
+      "summary": "More than half of funding from the first round of London’s Social and Affordable Homes Programme will go directly to councils for development, the deputy mayor has confirmed",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "London’s",
+        "SAHP",
+        "More",
+        "London’s Social and Affordable Homes"
+      ],
+      "locations": []
+    },
+    "9ab4536af457": {
+      "id": "9ab4536af457",
+      "importance": "Medium",
+      "summary": "Midlands landlord Platform Housing Group has hinted at potential future volatility for shared ownership in its latest trading update",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Unsold",
+        "Platform",
+        "Midlands",
+        "Platform Housing Group"
+      ],
+      "locations": []
+    },
+    "44305c5f7fb5": {
+      "id": "44305c5f7fb5",
+      "importance": "Medium",
+      "summary": "Since Andy Burnham arrived in 10 Downing Street, much has been written about ‘Manchesterism’ and what it could mean for national housing policy. Paul Seymour is in the ideal position to tell us. Stephen Delahunty reports",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Manchesterism",
+        "Manchester Housing Providers Partnership",
+        "Since Andy Burnham",
+        "Downing Street"
+      ],
+      "locations": []
+    },
+    "6e88ca108d05": {
+      "id": "6e88ca108d05",
+      "importance": "Medium",
+      "summary": "Bank of Ireland has provided loan facilities to the developer for Acer and Fernley, two co-living towers within the developer’s £400m Square Gardens development that provide 1,862 units. The post Downing completes £250m ",
+      "why_it_matters": "",
+      "themes": [
+        "Build-to-rent",
+        "Residential investment"
+      ],
+      "companies": [
+        "Downing",
+        "Manchester",
+        "Bank of Ireland",
+        "Acer and Fernley"
+      ],
+      "locations": []
+    },
+    "c8a4519ca0e1": {
+      "id": "c8a4519ca0e1",
+      "importance": "Medium",
+      "summary": "Once complete, the University of Manchester’s £530m new-look Owens Park campus in Fallowfield is to be maintained and managed by PfP Students. The post Places for People wins 3,300-home Manchester PBSA contract appeared ",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Student housing"
+      ],
+      "companies": [
+        "Places",
+        "People",
+        "Manchester PBSA",
+        "Once"
+      ],
+      "locations": []
+    },
+    "6c038276e9a4": {
+      "id": "6c038276e9a4",
+      "importance": "Medium",
+      "summary": "Both items on the city council’s planning docket yesterday – a school in Crumpsall and a 1,500-capacity church in Blackley - were given the go-ahead to proceed. The post Manchester approves Jewish school, church relocati",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Manchester",
+        "Jewish",
+        "Both",
+        "Crumpsall"
+      ],
+      "locations": []
+    },
+    "a007640b5411": {
+      "id": "a007640b5411",
+      "importance": "Medium",
+      "summary": "The 10,000 sq ft facility would sit beneath the car park serving the controversial Brick Veil Mosque scheme in Broughton. The post Subterranean community centre planned for Preston mosque appeared first on Place North We",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Subterranean",
+        "Preston",
+        "Brick Veil Mosque",
+        "Broughton. The"
+      ],
+      "locations": []
+    },
+    "f7b3aae1a5d4": {
+      "id": "f7b3aae1a5d4",
+      "importance": "Medium",
+      "summary": "The city council has formally approved plans for the transformation of the site of the former Grafton Rooms nightclub off West Derby Road into flats 18 months after the scheme was given the nod at committee. The post Ine",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Inertia",
+        "Liverpool",
+        "Grafton Rooms",
+        "West Derby Road"
+      ],
+      "locations": []
+    },
+    "f24416f7cf75": {
+      "id": "f24416f7cf75",
+      "importance": "Medium",
+      "summary": "Rejected last November on six grounds, the partners want to deliver 52 homes once a property off Fleet Lane is demolished. The post Date set as Breck and Northern Trust appeal St Helens refusal appeared first on Place No",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Date",
+        "Breck and Northern Trust",
+        "St Helens",
+        "Rejected"
+      ],
+      "locations": []
+    },
+    "1b07d236e73a": {
+      "id": "1b07d236e73a",
+      "importance": "Medium",
+      "summary": "The contractor will deliver the 171-space multi-storey facility on Waterloo Road. The post Galliford Try picked for £4.7m Stalybridge car park appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Galliford Try",
+        "Stalybridge",
+        "Waterloo Road. The",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "41ebc70d0e60": {
+      "id": "41ebc70d0e60",
+      "importance": "Medium",
+      "summary": "The developer’s team is seeking a screening opinion as it looks to establish planning permission for 103 homes off Northway. The post Prospect scopes out Maghull opportunity appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Prospect",
+        "Maghull",
+        "Northway. The",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "18549f60efe4": {
+      "id": "18549f60efe4",
+      "importance": "Medium",
+      "summary": "A review of Tawd Valley Developments, set up as a wholly owned subsidiary of the council in 2018, will inform a decision on whether to keep, bring in-house, or scrap the organisation. The post West Lancs to assess future",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "West Lancs",
+        "Tawd Valley Developments",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "33a018dcb5c2": {
+      "id": "33a018dcb5c2",
+      "importance": "Medium",
+      "summary": "Sixteen acres allocated for employment development on the outskirts of Oxenholme are the subject of plans for a housing scheme. The post Gleeson proposes 165 South Lakes homes appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Gleeson",
+        "South Lakes",
+        "Sixteen",
+        "Oxenholme"
+      ],
+      "locations": []
+    },
+    "4be78ccfd98a": {
+      "id": "4be78ccfd98a",
+      "importance": "Medium",
+      "summary": "Later living housing provider Anchor has selected the contractor to deliver 90 apartments in Waterloo, Sefton. The post Bridgestone Construction lands £18m Park House work appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Later living"
+      ],
+      "companies": [
+        "Bridgestone Construction",
+        "Park House",
+        "Later",
+        "Anchor"
+      ],
+      "locations": []
+    },
+    "efce6c24b39b": {
+      "id": "efce6c24b39b",
+      "importance": "Medium",
+      "summary": "The Renters’ Rights Act is having a major impact on the PRS",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Record",
+        "The Renters’ Rights Act"
+      ],
+      "locations": []
+    },
+    "39600b4a7bb6": {
+      "id": "39600b4a7bb6",
+      "importance": "Medium",
+      "summary": "The latest figures examine new listings, sales agreed, price reductions and fall-throughs",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "c76f57b37d0d": {
+      "id": "c76f57b37d0d",
+      "importance": "Medium",
+      "summary": "Second home surcharge risks missing the real housing problem, says agency boss",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency",
+        "Second"
+      ],
+      "locations": []
+    },
+    "56e7ee8564f3": {
+      "id": "56e7ee8564f3",
+      "importance": "Medium",
+      "summary": "The deal represents another established agency moving onto eXp UK's Team model",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Flying",
+        "Estate",
+        "UK's Team"
+      ],
+      "locations": []
+    },
+    "d65dbfd759d4": {
+      "id": "d65dbfd759d4",
+      "importance": "Medium",
+      "summary": "New report points to changing tenant and landlord behaviour as the Renters’ Rights Act beds in and periodic tenancies become standard",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Renters",
+        "Renters’ Rights Act"
+      ],
+      "locations": []
+    },
+    "a4318938936d": {
+      "id": "a4318938936d",
+      "importance": "Medium",
+      "summary": "The Renters Right Act is a seismic reset",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Opinion",
+        "The Renters Right Act"
+      ],
+      "locations": []
+    },
+    "ecbd050368ea": {
+      "id": "ecbd050368ea",
+      "importance": "Medium",
+      "summary": "Unlicensed HMO costs landlord almost £8,000 in tribunal ruling",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Landlord",
+        "Unlicensed HMO"
+      ],
+      "locations": []
+    },
+    "bb8331701ffb": {
+      "id": "bb8331701ffb",
+      "importance": "Medium",
+      "summary": "More than 750,000 removal quotes were analysed to produce the forecast",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Today",
+        "Britain’s",
+        "More"
+      ],
+      "locations": []
+    },
+    "823242085ad0": {
+      "id": "823242085ad0",
+      "importance": "Medium",
+      "summary": "HMRC also recorded a substantial rise in the number of people paying the tax",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Capital",
+        "HMRC"
+      ],
+      "locations": []
+    },
+    "5d8d5b185fd3": {
+      "id": "5d8d5b185fd3",
+      "importance": "Medium",
+      "summary": "HMO squeeze intensifies as councils reject more applications",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "2467aa6d3f63": {
+      "id": "2467aa6d3f63",
+      "importance": "Medium",
+      "summary": "Three days. Three courses. Two teams. One cup - and apparently no room for sisterly love",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Fine",
+        "Country and The Guild",
+        "Three"
+      ],
+      "locations": []
+    },
+    "18cec26faa29": {
+      "id": "18cec26faa29",
+      "importance": "Medium",
+      "summary": "Rent controls are often presented as a solution to affordability pressures",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Angela Rayner",
+        "U-turn",
+        "Rent"
+      ],
+      "locations": []
+    },
+    "075b39107cb9": {
+      "id": "075b39107cb9",
+      "importance": "Medium",
+      "summary": "Tax: Is it time to target those with rising property and asset wealth?",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Burnham"
+      ],
+      "locations": []
+    },
+    "e2a877dd6979": {
+      "id": "e2a877dd6979",
+      "importance": "Medium",
+      "summary": "Renters Right Act is having a major impact on the PRS",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Renters’ Rights Act",
+        "Renters Right Act"
+      ],
+      "locations": []
+    },
+    "467eaa34bf2c": {
+      "id": "467eaa34bf2c",
+      "importance": "Medium",
+      "summary": "Clear signs the autumn bounce is starting",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Zoopla House Price Index",
+        "Clear"
+      ],
+      "locations": []
+    },
+    "e06c52c4920a": {
+      "id": "e06c52c4920a",
+      "importance": "Medium",
+      "summary": "Major workforce challenge looms as surveyors head for retirement",
+      "why_it_matters": "",
+      "themes": [
+        "Later living"
+      ],
+      "companies": [
+        "Alarm",
+        "Major"
+      ],
+      "locations": []
+    },
+    "440d009e8f5c": {
+      "id": "440d009e8f5c",
+      "importance": "Medium",
+      "summary": "The launch comes as letting agents and landlords face greater compliance requirements, including changes introduced under the Renters’ Rights Act 2025",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Spicerhaart",
+        "Renters’ Rights Act"
+      ],
+      "locations": []
+    },
+    "d997b4cb343f": {
+      "id": "d997b4cb343f",
+      "importance": "Medium",
+      "summary": "Higher mortgage rates have put far greater pressure on buyer affordability in recent years",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "House",
+        "Higher"
+      ],
+      "locations": []
+    },
+    "1d833aaf3a9f": {
+      "id": "1d833aaf3a9f",
+      "importance": "Medium",
+      "summary": "Company ownership is no longer a niche structure",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Major",
+        "Company"
+      ],
+      "locations": []
+    },
+    "704674a986b6": {
+      "id": "704674a986b6",
+      "importance": "Medium",
+      "summary": "The value of lending has increased significantly",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "870f9c1b47ee": {
+      "id": "870f9c1b47ee",
+      "importance": "Medium",
+      "summary": "For some the annual charge would be over £15,000",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Proposed"
+      ],
+      "locations": []
+    },
+    "44fb8a0d4eea": {
+      "id": "44fb8a0d4eea",
+      "importance": "Medium",
+      "summary": "The agency says it sells some 300 homes a year",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Husband"
+      ],
+      "locations": []
+    },
+    "a1450a64ef16": {
+      "id": "a1450a64ef16",
+      "importance": "Medium",
+      "summary": "Which? has identified the 12 key reasons",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Mortgage",
+        "Which"
+      ],
+      "locations": []
+    },
+    "7a956598a10e": {
+      "id": "7a956598a10e",
+      "importance": "Medium",
+      "summary": "Auction business appears to be defying the normal summer slowdown",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Auction"
+      ],
+      "locations": []
+    },
+    "5144d46afe35": {
+      "id": "5144d46afe35",
+      "importance": "Medium",
+      "summary": "A survey of 500 recent buyers of new build properties has found widespread dissatisfaction with how much they could personalise their homes before moving in. Almost half (49%) have paid to make further changes at their o",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Almost",
+        "Buyers"
+      ],
+      "locations": []
+    },
+    "312bb596b103": {
+      "id": "312bb596b103",
+      "importance": "Medium",
+      "summary": "Data comes from a new Barclays Bank survey",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "NIMBYs",
+        "Data",
+        "Barclays Bank"
+      ],
+      "locations": []
+    },
+    "a81d9a5790b1": {
+      "id": "a81d9a5790b1",
+      "importance": "Medium",
+      "summary": "Zoopla has analysed the mortgage and housing markets right now",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Good",
+        "Zoopla"
+      ],
+      "locations": []
+    },
+    "1a3d5f880035": {
+      "id": "1a3d5f880035",
+      "importance": "Medium",
+      "summary": "Surveys appear to be a critical area for speeding up sales",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Crisis",
+        "Surveys"
+      ],
+      "locations": []
+    },
+    "aa0d1235a3c7": {
+      "id": "aa0d1235a3c7",
+      "importance": "Medium",
+      "summary": "This is the monthly market snapshot from Zoopla",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "House",
+        "Zoopla"
+      ],
+      "locations": []
+    },
+    "70d6ee217986": {
+      "id": "70d6ee217986",
+      "importance": "Medium",
+      "summary": "Iamproperty was set up 17 years ago",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Fast-growing",
+        "Iamproperty"
+      ],
+      "locations": []
+    },
+    "63cff1a01f67": {
+      "id": "63cff1a01f67",
+      "importance": "Medium",
+      "summary": "New figures show the trend gaining strength",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Agents"
+      ],
+      "locations": []
+    },
+    "a4b3ff118571": {
+      "id": "a4b3ff118571",
+      "importance": "Medium",
+      "summary": "The event takes place at the renowned Celtic Manor",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Fore",
+        "Sister",
+        "Celtic Manor"
+      ],
+      "locations": []
+    },
+    "0def452e368a": {
+      "id": "0def452e368a",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Leasing Scheme Wales, which allows landlords to rent out properties via their local authority, is to shut down in January.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Landlord",
+        "News",
+        "Helen Gregory",
+        "Leasing Scheme Wales"
+      ],
+      "locations": []
+    },
+    "14bd2668a700": {
+      "id": "14bd2668a700",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Landlords’ expenses have risen by more than twice as much as their rental income during the past five years, according to HMRC figures.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "News",
+        "Helen Gregory",
+        "HMRC"
+      ],
+      "locations": []
+    },
+    "3ede485fc799": {
+      "id": "3ede485fc799",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Private bailiffs in England and Wales will need to be accredited under new laws announced by the government.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "News",
+        "Helen Gregory",
+        "Private",
+        "England and Wales"
+      ],
+      "locations": []
+    },
+    "a038bf295ec7": {
+      "id": "a038bf295ec7",
+      "importance": "Medium",
+      "summary": "News - Tom Entwistle - The Renters' Rights Act means extra load on an already creaking service. Will the planned changes alleviate the problems landlords are facing?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Coming",
+        "Courts and Tribunals",
+        "News",
+        "Tom Entwistle"
+      ],
+      "locations": []
+    },
+    "54f82b4e5865": {
+      "id": "54f82b4e5865",
+      "importance": "Medium",
+      "summary": "Podcast - LandlordZONE - Section 21 ends: Paul Shamplina and Paul Sowerbutts reveal the rush, mistakes and challenges landlords now face under the new regime.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Section",
+        "Podcast",
+        "LandlordZONE",
+        "Paul Shamplina and Paul Sowerbutts"
+      ],
+      "locations": []
+    },
+    "4f67343dec4e": {
+      "id": "4f67343dec4e",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - The NRLA has called for a deferred annual investment allowance that would encourage landlords to provide long-term stable housing.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "NRLA",
+        "ISA-style",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "a4205cffd0c4": {
+      "id": "a4205cffd0c4",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Build-to-rent landlord Legal & General could face a whopping multi-million-pound rent repayment order.",
+      "why_it_matters": "",
+      "themes": [
+        "Build-to-rent"
+      ],
+      "companies": [
+        "News",
+        "Helen Gregory",
+        "Build-to-rent",
+        "Legal"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 60,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
