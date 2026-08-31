@@ -1,0 +1,482 @@
+{
+  "collected_at": "2026-08-31T08:02:24+00:00",
+  "date_london": "2026-08-31",
+  "counts": {
+    "seen_in_feeds": 41,
+    "new": 25,
+    "sources_live": 3,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "failed",
+      "url": "https://www.insidehousing.co.uk/news",
+      "found": 0,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 0",
+        "feed https://www.insidehousing.co.uk/rss -> 0",
+        "feed https://www.insidehousing.co.uk/news/rss -> 0",
+        "scrape https://www.insidehousing.co.uk/news -> 0"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "failed",
+      "url": "https://www.placenorthwest.co.uk/news/",
+      "found": 0,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 0",
+        "feed https://www.placenorthwest.co.uk/category/residential/feed/ -> 0",
+        "scrape https://www.placenorthwest.co.uk/news/ -> 0"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "failed",
+      "url": "https://propertyindustryeye.com/",
+      "found": 0,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 0",
+        "feed https://www.propertyindustryeye.com/feed/ -> 0",
+        "scrape https://propertyindustryeye.com/ -> 0"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "failed",
+      "url": "https://www.estateagenttoday.co.uk/breaking-news/",
+      "found": 0,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 0",
+        "feed https://www.estateagenttoday.co.uk/rss -> 0",
+        "feed https://www.estateagenttoday.co.uk/feed/ -> 0",
+        "scrape https://www.estateagenttoday.co.uk/breaking-news/ -> 0"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "scrape",
+      "url": "https://www.landlordzone.co.uk/news",
+      "found": 6,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/blog/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/rss.xml -> 0",
+        "scrape https://www.landlordzone.co.uk/news -> 6"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "scrape",
+      "url": "https://www.gov.uk/government/collections/uk-house-price-index-reports",
+      "found": 29,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 0",
+        "feed https://www.gov.uk/search/research-and-statistics.atom?organisations%5B%5D=land-registry&order=updated-newest -> 0",
+        "feed https://www.gov.uk/government/organisations/land-registry.atom -> 0",
+        "scrape https://www.gov.uk/government/collections/uk-house-price-index-reports -> 29"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Births, death, marriages and care",
+      "url": "https://gov.uk/browse/births-deaths-marriages",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "Births"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "e27124e5685f"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Business and self-employed",
+      "url": "https://gov.uk/browse/business",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "Business"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "31ecb2c360a6"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Childcare and parenting",
+      "url": "https://gov.uk/browse/childcare-parenting",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "Childcare"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "b15971736eb6"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Citizenship and living in the UK",
+      "url": "https://gov.uk/browse/citizenship",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "Citizenship"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "50bd87be1555"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Crime, justice and the law",
+      "url": "https://gov.uk/browse/justice",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "Crime"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "120ae2bcc22c"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Driving and transport",
+      "url": "https://gov.uk/browse/driving",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "Driving"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "b49afc3b88cc"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Education and learning",
+      "url": "https://gov.uk/browse/education",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "Education"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "a358c3c687de"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Environment and countryside",
+      "url": "https://gov.uk/browse/environment-countryside",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "Environment"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "a8ac040ad4a0"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Housing and local services",
+      "url": "https://gov.uk/browse/housing-local-services",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "Housing"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "2cb11916af8d"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Passports, travel and living abroad",
+      "url": "https://gov.uk/browse/abroad",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "Passports"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "75eb853fb6fb"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Visas and immigration",
+      "url": "https://gov.uk/browse/visas-immigration",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "Visas"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "2566f53286e8"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Working, jobs and pensions",
+      "url": "https://gov.uk/browse/working",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "Working"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "8ef0ae518670"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Guidance and regulation",
+      "url": "https://gov.uk/search/guidance-and-regulation",
+      "published": null,
+      "excerpt": "Detailed guidance, regulations and rules",
+      "entities": [
+        "Guidance",
+        "Detailed"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "57f5212e4a82"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Research and statistics",
+      "url": "https://gov.uk/search/research-and-statistics",
+      "published": null,
+      "excerpt": "Reports, analysis and official statistics",
+      "entities": [
+        "Research",
+        "Reports"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "a002788eab19"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Policy papers and consultations",
+      "url": "https://gov.uk/search/policy-papers-and-consultations",
+      "published": null,
+      "excerpt": "Consultations and strategy",
+      "entities": [
+        "Policy",
+        "Consultations"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "426ffb43af6e"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Housing, local and community",
+      "url": "https://gov.uk/housing-local-and-community",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "Housing"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "1c091aca8d4d"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Land Registration Data",
+      "url": "https://gov.uk/housing-local-and-community/land-registration-data",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "Land Registration Data"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "7b1ed113666a"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Northern Ireland sales volumes",
+      "url": "https://gov.uk/government/collections/uk-house-price-index-reports",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "Northern Ireland"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "bb07d2a4a663"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "calculating the UK HPI",
+      "url": "https://gov.uk/government/publications/about-the-uk-house-price-index/about-the-uk-house-price-index",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "UK HPI"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "643dbda087b0"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK House Price Index reports 2025",
+      "url": "https://gov.uk/government/collections/uk-house-price-index-reports-2025",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "UK House Price Index"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "10c2d10d73cb"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK House Price Index reports 2024",
+      "url": "https://gov.uk/government/collections/uk-house-price-index-reports-2024",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "UK House Price Index"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "cd4d02c49f63"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK House Price Index reports 2023",
+      "url": "https://gov.uk/government/collections/uk-house-price-index-reports-2023",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "UK House Price Index"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "e7bfe2baecf9"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK House Price Index reports 2022",
+      "url": "https://gov.uk/government/collections/uk-house-price-index-reports-2022",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "UK House Price Index"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "ef71e0d686d6"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK House Price Index reports 2021",
+      "url": "https://gov.uk/government/collections/uk-house-price-index-reports-2021",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "UK House Price Index"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "e2d18f656cc9"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK House Price Index reports 2020",
+      "url": "https://gov.uk/government/collections/uk-house-price-index-reports-2020",
+      "published": null,
+      "excerpt": "",
+      "entities": [
+        "UK House Price Index"
+      ],
+      "kind": "data",
+      "collected_at": "2026-08-31T08:03:31+00:00",
+      "id": "2a799cbf29eb"
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "generated_at": "2026-08-31T08:03:40+00:00",
+  "date_label": "Monday 31 August 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n25 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [],
+  "companies": [
+    {
+      "name": "UK House Price Index",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Births",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Business",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Childcare",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Citizenship",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Crime",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Driving",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Education",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Environment",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Passports",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Visas",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Working",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Guidance",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Detailed",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Research",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Reports",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Policy",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Consultations",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Land Registration Data",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "e27124e5685f": {
+      "id": "e27124e5685f",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Births"
+      ],
+      "locations": []
+    },
+    "31ecb2c360a6": {
+      "id": "31ecb2c360a6",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Business"
+      ],
+      "locations": []
+    },
+    "b15971736eb6": {
+      "id": "b15971736eb6",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Childcare"
+      ],
+      "locations": []
+    },
+    "50bd87be1555": {
+      "id": "50bd87be1555",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Citizenship"
+      ],
+      "locations": []
+    },
+    "120ae2bcc22c": {
+      "id": "120ae2bcc22c",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Crime"
+      ],
+      "locations": []
+    },
+    "b49afc3b88cc": {
+      "id": "b49afc3b88cc",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Driving"
+      ],
+      "locations": []
+    },
+    "a358c3c687de": {
+      "id": "a358c3c687de",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Education"
+      ],
+      "locations": []
+    },
+    "a8ac040ad4a0": {
+      "id": "a8ac040ad4a0",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Environment"
+      ],
+      "locations": []
+    },
+    "2cb11916af8d": {
+      "id": "2cb11916af8d",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Housing"
+      ],
+      "locations": []
+    },
+    "75eb853fb6fb": {
+      "id": "75eb853fb6fb",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Passports"
+      ],
+      "locations": []
+    },
+    "2566f53286e8": {
+      "id": "2566f53286e8",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Visas"
+      ],
+      "locations": []
+    },
+    "8ef0ae518670": {
+      "id": "8ef0ae518670",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Working"
+      ],
+      "locations": []
+    },
+    "57f5212e4a82": {
+      "id": "57f5212e4a82",
+      "importance": "Medium",
+      "summary": "Detailed guidance, regulations and rules",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Guidance",
+        "Detailed"
+      ],
+      "locations": []
+    },
+    "a002788eab19": {
+      "id": "a002788eab19",
+      "importance": "Medium",
+      "summary": "Reports, analysis and official statistics",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Research",
+        "Reports"
+      ],
+      "locations": []
+    },
+    "426ffb43af6e": {
+      "id": "426ffb43af6e",
+      "importance": "Medium",
+      "summary": "Consultations and strategy",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Policy",
+        "Consultations"
+      ],
+      "locations": []
+    },
+    "1c091aca8d4d": {
+      "id": "1c091aca8d4d",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Housing"
+      ],
+      "locations": []
+    },
+    "7b1ed113666a": {
+      "id": "7b1ed113666a",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Land Registration Data"
+      ],
+      "locations": []
+    },
+    "bb07d2a4a663": {
+      "id": "bb07d2a4a663",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Northern Ireland"
+      ],
+      "locations": []
+    },
+    "643dbda087b0": {
+      "id": "643dbda087b0",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK HPI"
+      ],
+      "locations": []
+    },
+    "10c2d10d73cb": {
+      "id": "10c2d10d73cb",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK House Price Index"
+      ],
+      "locations": []
+    },
+    "cd4d02c49f63": {
+      "id": "cd4d02c49f63",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK House Price Index"
+      ],
+      "locations": []
+    },
+    "e7bfe2baecf9": {
+      "id": "e7bfe2baecf9",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK House Price Index"
+      ],
+      "locations": []
+    },
+    "ef71e0d686d6": {
+      "id": "ef71e0d686d6",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK House Price Index"
+      ],
+      "locations": []
+    },
+    "e2d18f656cc9": {
+      "id": "e2d18f656cc9",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK House Price Index"
+      ],
+      "locations": []
+    },
+    "2a799cbf29eb": {
+      "id": "2a799cbf29eb",
+      "importance": "Medium",
+      "summary": "",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK House Price Index"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 25,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
