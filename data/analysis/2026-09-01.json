@@ -1,0 +1,424 @@
+{
+  "generated_at": "2026-09-01T08:04:24+00:00",
+  "date_label": "Tuesday 01 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n19 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Fast-growing",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Sector",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Section",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "North West London-based",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Nationwide",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Nationwide's August House Price",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Index",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "James Cleverly",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Frozen",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Call",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Longstanding",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "High",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Buy-to-let",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Proportion",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Planning",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Developer",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Rogue",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Trading Standards",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "16115c07f07b": {
+      "id": "16115c07f07b",
+      "importance": "Medium",
+      "summary": "Sector bodies have welcomed the government’s endorsement of a Section 106 guidance, which sets out a shared commitment to early engagement by developers, local authorities and housing associations",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Sector",
+        "Section"
+      ],
+      "locations": []
+    },
+    "8851a5e0d400": {
+      "id": "8851a5e0d400",
+      "importance": "Medium",
+      "summary": "North West London-based estate agency has operated since 1989",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Fast-growing",
+        "North West London-based"
+      ],
+      "locations": []
+    },
+    "3624846e6360": {
+      "id": "3624846e6360",
+      "importance": "Medium",
+      "summary": "Nationwide's August House Price Index has been published",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Nationwide",
+        "Nationwide's August House Price",
+        "Index"
+      ],
+      "locations": []
+    },
+    "861b3d4e812b": {
+      "id": "861b3d4e812b",
+      "importance": "Medium",
+      "summary": "MP replaces James Cleverly as shadow housing secretary",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "James Cleverly"
+      ],
+      "locations": []
+    },
+    "2109a9aebd82": {
+      "id": "2109a9aebd82",
+      "importance": "Medium",
+      "summary": "Estate agency now operates 15 branches",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "b7fcd38b9d84": {
+      "id": "b7fcd38b9d84",
+      "importance": "Medium",
+      "summary": "Call for urgent review of property taxes",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Frozen",
+        "Call"
+      ],
+      "locations": []
+    },
+    "db9ba1321573": {
+      "id": "db9ba1321573",
+      "importance": "Medium",
+      "summary": "Property transactions are taking longer than ever – is change finally coming?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property"
+      ],
+      "locations": []
+    },
+    "f5928aa71eca": {
+      "id": "f5928aa71eca",
+      "importance": "Medium",
+      "summary": "UK housing market remains vulnerable to uncertainty",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "439949f3fc9d": {
+      "id": "439949f3fc9d",
+      "importance": "Medium",
+      "summary": "High hopes as estate agency kicks off football partnership",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Longstanding",
+        "High"
+      ],
+      "locations": []
+    },
+    "42029c58dee5": {
+      "id": "42029c58dee5",
+      "importance": "Medium",
+      "summary": "Proportion of buy-to-let rental income consumed by expenses has climbed significantly",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Buy-to-let",
+        "Proportion"
+      ],
+      "locations": []
+    },
+    "98b0dcb75b26": {
+      "id": "98b0dcb75b26",
+      "importance": "Medium",
+      "summary": "Developer delays mount as planning departments struggle for staff",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Housing supply"
+      ],
+      "companies": [
+        "Planning",
+        "Developer"
+      ],
+      "locations": []
+    },
+    "8aad1228d92c": {
+      "id": "8aad1228d92c",
+      "importance": "Medium",
+      "summary": "The government is also reviewing the wider consumer protection and Trading Standards system",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Rogue",
+        "Trading Standards"
+      ],
+      "locations": []
+    },
+    "ba97fd3ccea5": {
+      "id": "ba97fd3ccea5",
+      "importance": "Medium",
+      "summary": "The acquired agency is 37 years old",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Fast-growing"
+      ],
+      "locations": []
+    },
+    "a47af39b5410": {
+      "id": "a47af39b5410",
+      "importance": "Medium",
+      "summary": "Migrants who legally move to Britain face major obstacles when buying",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Migrants",
+        "Britain"
+      ],
+      "locations": []
+    },
+    "bf05a596099c": {
+      "id": "bf05a596099c",
+      "importance": "Medium",
+      "summary": "A 35 year old MP elected for the first time in 2024 has been appointed as the shadow housing secretary – the Tories’ pick facing Angela Rayner. Katie Lam replaces Sir James Cleverly, the experienced former Cabinet minist",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Young",
+        "Tory",
+        "Tories",
+        "Angela Rayner. Katie Lam"
+      ],
+      "locations": []
+    },
+    "7fcb174bad85": {
+      "id": "7fcb174bad85",
+      "importance": "Medium",
+      "summary": "This is in response to government figures",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Price",
+        "Christmas"
+      ],
+      "locations": []
+    },
+    "c45f41af4344": {
+      "id": "c45f41af4344",
+      "importance": "Medium",
+      "summary": "The latest words of wisdom from Knight Frank's Tom Bill",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Budget Watch",
+        "Knight Frank's Tom Bill"
+      ],
+      "locations": []
+    },
+    "3e22f643e91d": {
+      "id": "3e22f643e91d",
+      "importance": "Medium",
+      "summary": "Homes nears schools traditionally attract a premium",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Check",
+        "Homes"
+      ],
+      "locations": []
+    },
+    "6e15b9487948": {
+      "id": "6e15b9487948",
+      "importance": "Medium",
+      "summary": "Reports for the amount of EEE placed on the market and WEEE collected in the UK under the WEEE Regulations.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Waste",
+        "WEEE",
+        "UK. Reports",
+        "WEEE Regulations"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 19,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "collected_at": "2026-09-01T08:03:47+00:00",
+  "date_london": "2026-09-01",
+  "counts": {
+    "seen_in_feeds": 36,
+    "new": 19,
+    "sources_live": 6,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 2,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 2"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "failed",
+      "url": "https://www.placenorthwest.co.uk/news/",
+      "found": 0,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 0",
+        "feed https://www.placenorthwest.co.uk/category/residential/feed/ -> 0",
+        "scrape https://www.placenorthwest.co.uk/news/ -> 0"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 11,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 11"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 6,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 6"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "scrape",
+      "url": "https://www.landlordzone.co.uk/news",
+      "found": 6,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/blog/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/rss.xml -> 0",
+        "scrape https://www.landlordzone.co.uk/news -> 6"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 1,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 1"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Sector welcomes government sign-off on joint Section 106 guidance",
+      "url": "https://insidehousing.co.uk/home/sector-welcomes-government-sign-off-on-joint-section-106-guidance-98535",
+      "published": "2026-09-01T07:59:30+00:00",
+      "excerpt": "Sector bodies have welcomed the government’s endorsement of a Section 106 guidance, which sets out a shared commitment to early engagement by developers, local authorities and housing associations",
+      "entities": [
+        "Sector",
+        "Section"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-01T08:03:56+00:00",
+      "id": "16115c07f07b"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Fast-growing estate agency completes tenth acquisition of 2026",
+      "url": "https://propertyindustryeye.com/fast-growing-estate-agency-completes-tenth-acquisition-of-2026",
+      "published": "2026-09-01T04:00:01+00:00",
+      "excerpt": "North West London-based estate agency has operated since 1989",
+      "entities": [
+        "Fast-growing",
+        "North West London-based"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-01T08:04:10+00:00",
+      "id": "8851a5e0d400"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Property industry reacts to latest Nationwide house price data",
+      "url": "https://propertyindustryeye.com/property-industry-reacts-to-latest-nationwide-house-price-data-8",
+      "published": "2026-09-01T03:54:23+00:00",
+      "excerpt": "Nationwide's August House Price Index has been published",
+      "entities": [
+        "Property",
+        "Nationwide",
+        "Nationwide's August House Price",
+        "Index"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-01T08:04:10+00:00",
+      "id": "3624846e6360"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "New shadow housing secretary appointed after James Cleverly steps down",
+      "url": "https://propertyindustryeye.com/new-shadow-housing-secretary-appointed-after-james-cleverly-steps-down",
+      "published": "2026-09-01T02:30:37+00:00",
+      "excerpt": "MP replaces James Cleverly as shadow housing secretary",
+      "entities": [
+        "James Cleverly"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-01T08:04:10+00:00",
+      "id": "861b3d4e812b"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency completes another acquisition as it expands footprint",
+      "url": "https://propertyindustryeye.com/estate-agency-completes-another-acquisition-as-it-expands-footprint",
+      "published": "2026-09-01T02:20:25+00:00",
+      "excerpt": "Estate agency now operates 15 branches",
+      "entities": [
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-01T08:04:10+00:00",
+      "id": "2109a9aebd82"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Frozen tax thresholds blamed for property market drag",
+      "url": "https://propertyindustryeye.com/frozen-tax-thresholds-blamed-for-property-market-drag",
+      "published": "2026-09-01T02:00:46+00:00",
+      "excerpt": "Call for urgent review of property taxes",
+      "entities": [
+        "Frozen",
+        "Call"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-01T08:04:10+00:00",
+      "id": "b7fcd38b9d84"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "New initiative ‘is going to help transform homebuying’",
+      "url": "https://propertyindustryeye.com/new-initiative-is-going-to-help-transform-homebuying",
+      "published": "2026-09-01T01:56:14+00:00",
+      "excerpt": "Property transactions are taking longer than ever – is change finally coming?",
+      "entities": [
+        "Property"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-01T08:04:10+00:00",
+      "id": "db9ba1321573"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "July figures offer fresh warning for the housing market",
+      "url": "https://propertyindustryeye.com/july-figures-offer-fresh-warning-for-the-housing-market",
+      "published": "2026-09-01T01:50:30+00:00",
+      "excerpt": "UK housing market remains vulnerable to uncertainty",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-09-01T08:04:10+00:00",
+      "id": "f5928aa71eca"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Longstanding estate agency scores partnership deal with football club",
+      "url": "https://propertyindustryeye.com/longstanding-estate-agency-scores-partnership-deal-with-football-club",
+      "published": "2026-09-01T01:00:42+00:00",
+      "excerpt": "High hopes as estate agency kicks off football partnership",
+      "entities": [
+        "Longstanding",
+        "High"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-01T08:04:10+00:00",
+      "id": "439949f3fc9d"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Buy-to-let costs soar twice as fast as rental income",
+      "url": "https://propertyindustryeye.com/buy-to-let-costs-soar-twice-as-fast-as-rental-income",
+      "published": "2026-09-01T00:50:03+00:00",
+      "excerpt": "Proportion of buy-to-let rental income consumed by expenses has climbed significantly",
+      "entities": [
+        "Buy-to-let",
+        "Proportion"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-01T08:04:10+00:00",
+      "id": "42029c58dee5"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Planning staff crisis threatens government’s 1.5m homes target",
+      "url": "https://propertyindustryeye.com/planning-staff-crisis-threatens-governments-1-5m-homes-target",
+      "published": "2026-09-01T00:40:42+00:00",
+      "excerpt": "Developer delays mount as planning departments struggle for staff",
+      "entities": [
+        "Planning",
+        "Developer"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-01T08:04:10+00:00",
+      "id": "98b0dcb75b26"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Rogue builders targeted in new government crackdown",
+      "url": "https://propertyindustryeye.com/rogue-builders-targeted-in-new-government-crackdown",
+      "published": "2026-09-01T00:30:56+00:00",
+      "excerpt": "The government is also reviewing the wider consumer protection and Trading Standards system",
+      "entities": [
+        "Rogue",
+        "Trading Standards"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-01T08:04:10+00:00",
+      "id": "8aad1228d92c"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Fast-growing agency snaps up well known independent firm",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/popular-long-standing-independent-agency-acquired-by-fast-growing-rival",
+      "published": "2026-08-31T23:07:00+00:00",
+      "excerpt": "The acquired agency is 37 years old",
+      "entities": [
+        "Fast-growing"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-01T08:04:11+00:00",
+      "id": "ba97fd3ccea5"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Is anti-money laundering red tape killing genuine house sales?",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/is-anti-money-laundering-red-tape-deterring-genuine-house-sales",
+      "published": "2026-08-31T23:06:00+00:00",
+      "excerpt": "Migrants who legally move to Britain face major obstacles when buying",
+      "entities": [
+        "Migrants",
+        "Britain"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-01T08:04:11+00:00",
+      "id": "a47af39b5410"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Young new MP becomes Tory shadow housing secretary",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/young-new-mp-becomes-tory-shadow-housing-secretary",
+      "published": "2026-08-31T23:05:00+00:00",
+      "excerpt": "A 35 year old MP elected for the first time in 2024 has been appointed as the shadow housing secretary – the Tories’ pick facing Angela Rayner. Katie Lam replaces Sir James Cleverly, the experienced former Cabinet minister who is now to contest the London Mayoral election in 2027. While studying at Cambridge University she […]",
+      "entities": [
+        "Young",
+        "Tory",
+        "Tories",
+        "Angela Rayner. Katie Lam",
+        "Sir James Cleverly",
+        "Cabinet",
+        "London Mayoral",
+        "While"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-01T08:04:11+00:00",
+      "id": "bf05a596099c"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Price growth to fall close to zero by Christmas – agency warning",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/price-growth-to-fall-close-to-zero-by-christmas-agency-warning",
+      "published": "2026-08-31T23:04:00+00:00",
+      "excerpt": "This is in response to government figures",
+      "entities": [
+        "Price",
+        "Christmas"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-01T08:04:11+00:00",
+      "id": "7fcb174bad85"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Budget Watch: gap between tax policy and economic reality (opinion)",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/budget-watch-gap-between-tax-policy-and-economic-reality-opinion",
+      "published": "2026-08-31T23:03:00+00:00",
+      "excerpt": "The latest words of wisdom from Knight Frank's Tom Bill",
+      "entities": [
+        "Budget Watch",
+        "Knight Frank's Tom Bill"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-01T08:04:11+00:00",
+      "id": "c45f41af4344"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Check the premium charged on homes near local schools",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/check-the-premium-charged-on-homes-near-local-schools",
+      "published": "2026-08-31T23:01:00+00:00",
+      "excerpt": "Homes nears schools traditionally attract a premium",
+      "entities": [
+        "Check",
+        "Homes"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-01T08:04:11+00:00",
+      "id": "3e22f643e91d"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Waste electrical and electronic equipment (WEEE) in the UK",
+      "url": "https://gov.uk/government/statistical-data-sets/waste-electrical-and-electronic-equipment-weee-in-the-uk",
+      "published": "2026-09-01T08:00:03+00:00",
+      "excerpt": "Reports for the amount of EEE placed on the market and WEEE collected in the UK under the WEEE Regulations.",
+      "entities": [
+        "Waste",
+        "WEEE",
+        "UK. Reports",
+        "WEEE Regulations"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-01T08:04:18+00:00",
+      "id": "6e15b9487948"
+    }
+  ]
+}
