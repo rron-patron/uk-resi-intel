@@ -1,0 +1,700 @@
+{
+  "generated_at": "2026-09-02T08:04:05+00:00",
+  "date_label": "Wednesday 02 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n36 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 10,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Later living",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 7,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Reapit",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Housing Moves",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Inside Housing’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Lewisham Council",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Hill Group",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Hackney Council",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Ardmore",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Britannia",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Wates",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Developer",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "House",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Durkan",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Think",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Network Rail",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Centre",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Cities",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "English",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "153633eb652f": {
+      "id": "153633eb652f",
+      "importance": "Medium",
+      "summary": "Inside Housing’s monthly round-up of top-level housing sector appointments details the main moves in August 2026",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Housing Moves",
+        "Inside Housing’s"
+      ],
+      "locations": []
+    },
+    "373e235a9ddb": {
+      "id": "373e235a9ddb",
+      "importance": "Medium",
+      "summary": "Lewisham Council has appointed The Hill Group as its long-term strategic partner as it seeks to “accelerate the delivery of much-needed affordable homes, regeneration projects and investment” across the borough",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Lewisham Council",
+        "The Hill Group"
+      ],
+      "locations": []
+    },
+    "28896cfa688b": {
+      "id": "28896cfa688b",
+      "importance": "Medium",
+      "summary": "Hackney Council brings in Wates to complete construction of the Britannia masterplan phase 2b after original developer Ardmore went into administration in June",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Hackney Council",
+        "Ardmore",
+        "Britannia",
+        "Wates"
+      ],
+      "locations": []
+    },
+    "e56b2c58179a": {
+      "id": "e56b2c58179a",
+      "importance": "Medium",
+      "summary": "House builder Durkan has published its latest financial accounts and revealed that it is withdrawing from its contracting business to concentrate on regeneration",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Developer",
+        "House",
+        "Durkan"
+      ],
+      "locations": []
+    },
+    "30552d4d4b77": {
+      "id": "30552d4d4b77",
+      "importance": "Medium",
+      "summary": "Centre for Cities has proposed a range of interventions aimed at bringing English cities in line with French and Japanese counterparts when it comes to residential density around train stations. The post Think tank calls",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Think",
+        "Network Rail",
+        "Centre",
+        "Cities"
+      ],
+      "locations": []
+    },
+    "97ce4b2610c9": {
+      "id": "97ce4b2610c9",
+      "importance": "Medium",
+      "summary": "The sector specialist wants to deliver a 66-bed care home off Ridge Avenue, on the north-eastern edge of the Lancashire town. The post LNT Care pursues Burnley opportunity appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Later living"
+      ],
+      "companies": [
+        "LNT Care",
+        "Burnley",
+        "Ridge Avenue",
+        "Lancashire"
+      ],
+      "locations": []
+    },
+    "88c1b7e684ca": {
+      "id": "88c1b7e684ca",
+      "importance": "Medium",
+      "summary": "The council has worked up a brief to advise developers on how it wants to see five acres in the town centre transformed, a scheme described by the authority as a short-term priority project. The post Halton ramps up plan",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Halton",
+        "Widnes",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "0f60d1a98d82": {
+      "id": "0f60d1a98d82",
+      "importance": "Medium",
+      "summary": "The 22 acres around Newbridge Lane will be the anchor of the borough’s 4,000-home Town Centre East masterplan, with the council aiming to create a family-friendly neighbourhood with biodiversity and flood resilience as a",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Stockport",
+        "CBRE",
+        "Goyt Riverside Neighbourhood",
+        "Newbridge Lane"
+      ],
+      "locations": []
+    },
+    "2a610d2853e9": {
+      "id": "2a610d2853e9",
+      "importance": "Medium",
+      "summary": "A hurdle standing in the way of Morris Homes and CEG’s proposed redevelopment of 52 acres in Cottam could be overcome this week, after the city council’s planning team accepted the developers’ argument that affordable ho",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Preston",
+        "Morris Homes and CEG’s",
+        "Cottam",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "31b9d36b2b43": {
+      "id": "31b9d36b2b43",
+      "importance": "Medium",
+      "summary": "With a £1.3bn redevelopment primed to start at Leighton Hospital, the latest large-scale residential application in the area has been set in motion, with 236 acres mapped out by the land promoter. The post Hallam Land re",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Hallam Land",
+        "Crewe",
+        "With",
+        "Leighton Hospital"
+      ],
+      "locations": []
+    },
+    "74bb3b20c1c2": {
+      "id": "74bb3b20c1c2",
+      "importance": "Medium",
+      "summary": "Landowner Arkangel Towers has applied to Manchester City Council for planning permission to build a two-storey facility capable of hosting a range of events including weddings. The post Exhibition centre coming to Cheeth",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Exhibition",
+        "Cheetham Hill. Landowner Arkangel",
+        "Towers",
+        "Manchester City Council"
+      ],
+      "locations": []
+    },
+    "4ae2e8a3ed6c": {
+      "id": "4ae2e8a3ed6c",
+      "importance": "Medium",
+      "summary": "Managing growth",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Managing"
+      ],
+      "locations": []
+    },
+    "e2da070b8bd9": {
+      "id": "e2da070b8bd9",
+      "importance": "Medium",
+      "summary": "Estate agency acquisition completed",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Four-branch",
+        "Estate"
+      ],
+      "locations": []
+    },
+    "065b90d8f06a": {
+      "id": "065b90d8f06a",
+      "importance": "Medium",
+      "summary": "Reapit secures £20m-plus investment as it steps up AI push",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Reapit"
+      ],
+      "locations": []
+    },
+    "54b70d76b7c6": {
+      "id": "54b70d76b7c6",
+      "importance": "Medium",
+      "summary": "New UK Auction House Performance Index assesses 12 auction houses",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK’s",
+        "New UK Auction House",
+        "Performance Index"
+      ],
+      "locations": []
+    },
+    "d32112bb674d": {
+      "id": "d32112bb674d",
+      "importance": "Medium",
+      "summary": "New AI tools for estate agents set to prove popular",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Alto",
+        "New AI"
+      ],
+      "locations": []
+    },
+    "4159bb462b75": {
+      "id": "4159bb462b75",
+      "importance": "Medium",
+      "summary": "Research identifies substantial untapped housing capacity around urban transport hubs with potential to develop 1.2m new homes",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Could Britain’s",
+        "Research"
+      ],
+      "locations": []
+    },
+    "decfe9d693bb": {
+      "id": "decfe9d693bb",
+      "importance": "Medium",
+      "summary": "Mortgage approvals dropped significantly in July",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Mortgage"
+      ],
+      "locations": []
+    },
+    "b17354c19024": {
+      "id": "b17354c19024",
+      "importance": "Medium",
+      "summary": "HM Land Registry (HMLR) has appointed Route 101 to deliver a new AI-enabled contact centre platform as part of an overhaul of its customer support services. The cloud-based system will serve around 660 users across five ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "HM Land Registry",
+        "HMLR",
+        "Route",
+        "AI-enabled"
+      ],
+      "locations": []
+    },
+    "27dda381b46b": {
+      "id": "27dda381b46b",
+      "importance": "Medium",
+      "summary": "Company adds 12 branches with latest estate agency acquisition",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Major",
+        "Company"
+      ],
+      "locations": []
+    },
+    "0de52b299112": {
+      "id": "0de52b299112",
+      "importance": "Medium",
+      "summary": "The new agency now has a foothold in four additional locations",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Multi-branch"
+      ],
+      "locations": []
+    },
+    "afda2b1252a5": {
+      "id": "afda2b1252a5",
+      "importance": "Medium",
+      "summary": "This ia Reapit's bid to help agents \"own customer engagement\" into the future",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Reapit",
+        "Reapit's"
+      ],
+      "locations": []
+    },
+    "880512549aba": {
+      "id": "880512549aba",
+      "importance": "Medium",
+      "summary": "There's a mood that the market is not as bad as many anticipated",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Interest",
+        "There's"
+      ],
+      "locations": []
+    },
+    "cc2436013cc6": {
+      "id": "cc2436013cc6",
+      "importance": "Medium",
+      "summary": "The firm's success is put down to referrals",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Firm"
+      ],
+      "locations": []
+    },
+    "ba9bc1845cd9": {
+      "id": "ba9bc1845cd9",
+      "importance": "Medium",
+      "summary": "The new leader has been at the agency for 23 years",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Stan’s The Man"
+      ],
+      "locations": []
+    },
+    "6da8e201c7de": {
+      "id": "6da8e201c7de",
+      "importance": "Medium",
+      "summary": "Flats already take longer to sell than houses",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "First",
+        "Flats"
+      ],
+      "locations": []
+    },
+    "9c9ccaca8a5d": {
+      "id": "9c9ccaca8a5d",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Political control does not neatly predict whether a council has an Article 4 Direction or refuses more HMO applications, according to research.",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "News",
+        "Helen Gregory",
+        "Political",
+        "Article"
+      ],
+      "locations": []
+    },
+    "58e5d99d9efc": {
+      "id": "58e5d99d9efc",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Croydon Council has postponed its additional and selective landlord licensing schemes just before they were due to launch.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Croydon",
+        "News",
+        "Helen Gregory",
+        "Croydon Council"
+      ],
+      "locations": []
+    },
+    "d3efdf1c028f": {
+      "id": "d3efdf1c028f",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Rising Conservative star Katie Lam has been appointed as the party’s new Housing, Communities and Local Government Secretary.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rental",
+        "News",
+        "Helen Gregory",
+        "Rising Conservative"
+      ],
+      "locations": []
+    },
+    "a9a01f4e6170": {
+      "id": "a9a01f4e6170",
+      "importance": "Medium",
+      "summary": "Invitation to tender for research to inform the Low Pay Commission's 2027 report and beyond.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Low Pay Commission Call",
+        "Research Summer",
+        "Invitation",
+        "Low Pay Commission's"
+      ],
+      "locations": []
+    },
+    "87a5dd750994": {
+      "id": "87a5dd750994",
+      "importance": "Medium",
+      "summary": "Data on Border Force, UK Visas and Immigration, Immigration Enforcement and Passports, Citizenship and Civil Registration performance.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Migration",
+        "Data",
+        "Border Force",
+        "UK Visas and Immigration"
+      ],
+      "locations": []
+    },
+    "d0c992c8113e": {
+      "id": "d0c992c8113e",
+      "importance": "Medium",
+      "summary": "Public statements relating to the activities of offshore installations in 2025",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Public Statements",
+        "Public"
+      ],
+      "locations": []
+    },
+    "2b18b700ec62": {
+      "id": "2b18b700ec62",
+      "importance": "Medium",
+      "summary": "The findings from a survey of parents on the breakfast clubs early adopters pilot.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Breakfast"
+      ],
+      "locations": []
+    },
+    "c0311c665568": {
+      "id": "c0311c665568",
+      "importance": "Medium",
+      "summary": "Quarterly data on the value and number of mergers, acquisitions and disposals involving UK companies with values of £1 million or more.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Mergers",
+        "Quarterly"
+      ],
+      "locations": []
+    },
+    "21cd4aabf7bc": {
+      "id": "21cd4aabf7bc",
+      "importance": "Medium",
+      "summary": "This publication reports information from the CSDS. This is a patient-level dataset providing information relating to NHS-funded community services. These services can include health centres, schools and mental health tr",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community Services Statistics",
+        "CSDS. This",
+        "NHS-funded",
+        "These"
+      ],
+      "locations": []
+    },
+    "a5d88d0a511a": {
+      "id": "a5d88d0a511a",
+      "importance": "Medium",
+      "summary": "Mergers and Acquisitions involving UK companies - April to June 2026",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Mergers and Acquisitions"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 36,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}

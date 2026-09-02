@@ -1,0 +1,694 @@
+{
+  "collected_at": "2026-09-02T08:03:41+00:00",
+  "date_london": "2026-09-02",
+  "counts": {
+    "seen_in_feeds": 71,
+    "new": 36,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 5,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 5"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 7,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 7"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 4,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 4"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 13,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 13"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Housing Moves: Our round-up of senior sector appointments in August 2026",
+      "url": "https://insidehousing.co.uk/home/housing-moves-our-round-up-of-senior-sector-appointments-in-august-2026-98552",
+      "published": "2026-09-01T14:11:02+00:00",
+      "excerpt": "Inside Housing’s monthly round-up of top-level housing sector appointments details the main moves in August 2026",
+      "entities": [
+        "Housing Moves",
+        "Inside Housing’s"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:49+00:00",
+      "id": "153633eb652f"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Lewisham Council appoints developer for £1.5bn partnership",
+      "url": "https://insidehousing.co.uk/home/lewisham-council-appoints-developer-for-15bn-partnership-98542",
+      "published": "2026-09-01T09:40:00+00:00",
+      "excerpt": "Lewisham Council has appointed The Hill Group as its long-term strategic partner as it seeks to “accelerate the delivery of much-needed affordable homes, regeneration projects and investment” across the borough",
+      "entities": [
+        "Lewisham Council",
+        "The Hill Group"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:49+00:00",
+      "id": "373e235a9ddb"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Hackney Council contracts house builder to replace collapsed Ardmore and complete Britannia masterplan",
+      "url": "https://insidehousing.co.uk/home/hackney-council-contracts-house-builder-to-replace-collapsed-ardmore-and-complete-britannia-masterplan-98543",
+      "published": "2026-09-01T09:20:00+00:00",
+      "excerpt": "Hackney Council brings in Wates to complete construction of the Britannia masterplan phase 2b after original developer Ardmore went into administration in June",
+      "entities": [
+        "Hackney Council",
+        "Ardmore",
+        "Britannia",
+        "Wates"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:49+00:00",
+      "id": "28896cfa688b"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Developer exits contracting to concentrate on regeneration business",
+      "url": "https://insidehousing.co.uk/home/developer-exits-contracting-to-concentrate-on-regeneration-business-98541",
+      "published": "2026-09-01T12:54:36+00:00",
+      "excerpt": "House builder Durkan has published its latest financial accounts and revealed that it is withdrawing from its contracting business to concentrate on regeneration",
+      "entities": [
+        "Developer",
+        "House",
+        "Durkan"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:49+00:00",
+      "id": "e56b2c58179a"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Think tank calls for mayors to be handed control of Network Rail land to deliver 1.2m homes",
+      "url": "https://placenorthwest.co.uk/think-tank-calls-for-mayors-to-be-handed-control-of-network-rail-land-to-deliver-1-2m-homes",
+      "published": "2026-09-01T23:01:48+00:00",
+      "excerpt": "Centre for Cities has proposed a range of interventions aimed at bringing English cities in line with French and Japanese counterparts when it comes to residential density around train stations. The post Think tank calls for mayors to be handed control of Network Rail land to deliver 1.2m homes appeared first on Place North West .",
+      "entities": [
+        "Think",
+        "Network Rail",
+        "Centre",
+        "Cities",
+        "English",
+        "French and Japanese",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:56+00:00",
+      "id": "30552d4d4b77"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "LNT Care pursues Burnley opportunity",
+      "url": "https://placenorthwest.co.uk/lnt-care-pursues-burnley-opportunity",
+      "published": "2026-09-01T15:53:07+00:00",
+      "excerpt": "The sector specialist wants to deliver a 66-bed care home off Ridge Avenue, on the north-eastern edge of the Lancashire town. The post LNT Care pursues Burnley opportunity appeared first on Place North West .",
+      "entities": [
+        "LNT Care",
+        "Burnley",
+        "Ridge Avenue",
+        "Lancashire",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:56+00:00",
+      "id": "97ce4b2610c9"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Halton ramps up plans for intergenerational Widnes neighbourhood",
+      "url": "https://placenorthwest.co.uk/halton-ramps-up-plans-for-intergenerational-widnes-scheme",
+      "published": "2026-09-01T10:44:16+00:00",
+      "excerpt": "The council has worked up a brief to advise developers on how it wants to see five acres in the town centre transformed, a scheme described by the authority as a short-term priority project. The post Halton ramps up plans for intergenerational Widnes neighbourhood appeared first on Place North West .",
+      "entities": [
+        "Halton",
+        "Widnes",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:56+00:00",
+      "id": "88c1b7e684ca"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Stockport appoints CBRE to lead Goyt Riverside Neighbourhood strategy",
+      "url": "https://placenorthwest.co.uk/stockport-appoints-cbre-to-lead-goyt-riverside-neighbourhood-strategy",
+      "published": "2026-09-01T10:32:07+00:00",
+      "excerpt": "The 22 acres around Newbridge Lane will be the anchor of the borough’s 4,000-home Town Centre East masterplan, with the council aiming to create a family-friendly neighbourhood with biodiversity and flood resilience as a focus. The post Stockport appoints CBRE to lead Goyt Riverside Neighbourhood strategy appeared first on Place North West .",
+      "entities": [
+        "Stockport",
+        "CBRE",
+        "Goyt Riverside Neighbourhood",
+        "Newbridge Lane",
+        "Town Centre East",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:56+00:00",
+      "id": "0f60d1a98d82"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Preston reaches accord over affordable element of 443-home scheme",
+      "url": "https://placenorthwest.co.uk/preston-reaches-accord-over-affordable-element-of-443-home-scheme",
+      "published": "2026-09-01T09:40:01+00:00",
+      "excerpt": "A hurdle standing in the way of Morris Homes and CEG’s proposed redevelopment of 52 acres in Cottam could be overcome this week, after the city council’s planning team accepted the developers’ argument that affordable homes within a neighbouring scheme should count towards their total. The post Preston reaches accord over affordable element of 443-home scheme appeared first on Place North West .",
+      "entities": [
+        "Preston",
+        "Morris Homes and CEG’s",
+        "Cottam",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:56+00:00",
+      "id": "2a610d2853e9"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Hallam Land reveals 1,700-home Crewe ambitions",
+      "url": "https://placenorthwest.co.uk/hallam-land-reveals-1700-home-crewe-ambitions",
+      "published": "2026-09-01T09:24:51+00:00",
+      "excerpt": "With a £1.3bn redevelopment primed to start at Leighton Hospital, the latest large-scale residential application in the area has been set in motion, with 236 acres mapped out by the land promoter. The post Hallam Land reveals 1,700-home Crewe ambitions appeared first on Place North West .",
+      "entities": [
+        "Hallam Land",
+        "Crewe",
+        "With",
+        "Leighton Hospital",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:56+00:00",
+      "id": "31b9d36b2b43"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Exhibition centre coming to Cheetham Hill",
+      "url": "https://placenorthwest.co.uk/exhibition-centre-coming-to-cheetham-hill",
+      "published": "2026-09-01T08:40:48+00:00",
+      "excerpt": "Landowner Arkangel Towers has applied to Manchester City Council for planning permission to build a two-storey facility capable of hosting a range of events including weddings. The post Exhibition centre coming to Cheetham Hill appeared first on Place North West .",
+      "entities": [
+        "Exhibition",
+        "Cheetham Hill. Landowner Arkangel",
+        "Towers",
+        "Manchester City Council",
+        "Cheetham Hill",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:56+00:00",
+      "id": "74bb3b20c1c2"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "The estate agency business that gets you to £100,000 won’t get you to £1m",
+      "url": "https://propertyindustryeye.com/the-estate-agency-business-that-gets-you-to-100000-wont-get-you-to-1m",
+      "published": "2026-09-02T04:20:57+00:00",
+      "excerpt": "Managing growth",
+      "entities": [
+        "Managing"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:58+00:00",
+      "id": "4ae2e8a3ed6c"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Four-branch estate agency acquired by ambitious franchisee",
+      "url": "https://propertyindustryeye.com/four-branch-estate-agency-acquired-by-ambitious-franchisee",
+      "published": "2026-09-02T03:50:35+00:00",
+      "excerpt": "Estate agency acquisition completed",
+      "entities": [
+        "Four-branch",
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:58+00:00",
+      "id": "e2da070b8bd9"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Reapit unveils £40m-plus investment as estate agency AI race gathers pace",
+      "url": "https://propertyindustryeye.com/reapit-unveils-20m-plus-investment-in-estate-agency-technology",
+      "published": "2026-09-02T02:50:04+00:00",
+      "excerpt": "Reapit secures £20m-plus investment as it steps up AI push",
+      "entities": [
+        "Reapit"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:58+00:00",
+      "id": "065b90d8f06a"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "UK’s best property auction houses revealed in new ranking",
+      "url": "https://propertyindustryeye.com/uks-best-property-auction-houses-revealed-in-new-ranking",
+      "published": "2026-09-02T01:40:54+00:00",
+      "excerpt": "New UK Auction House Performance Index assesses 12 auction houses",
+      "entities": [
+        "UK’s",
+        "New UK Auction House",
+        "Performance Index"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:58+00:00",
+      "id": "54b70d76b7c6"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Alto launches AI tools to take on estate agents’ everyday jobs",
+      "url": "https://propertyindustryeye.com/alto-launches-ai-tools-to-take-on-estate-agents-everyday-jobs",
+      "published": "2026-09-02T01:28:01+00:00",
+      "excerpt": "New AI tools for estate agents set to prove popular",
+      "entities": [
+        "Alto",
+        "New AI"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:58+00:00",
+      "id": "d32112bb674d"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Could Britain’s train stations unlock 1.2m new homes?",
+      "url": "https://propertyindustryeye.com/could-britains-train-stations-unlock-1-2m-new-homes",
+      "published": "2026-09-02T00:50:49+00:00",
+      "excerpt": "Research identifies substantial untapped housing capacity around urban transport hubs with potential to develop 1.2m new homes",
+      "entities": [
+        "Could Britain’s",
+        "Research"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:58+00:00",
+      "id": "4159bb462b75"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Mortgage approvals slump to lowest level in more than two years",
+      "url": "https://propertyindustryeye.com/mortgage-approvals-slump-to-lowest-level-in-more-than-two-years",
+      "published": "2026-09-02T00:30:29+00:00",
+      "excerpt": "Mortgage approvals dropped significantly in July",
+      "entities": [
+        "Mortgage"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:58+00:00",
+      "id": "decfe9d693bb"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "HM Land Registry turns to AI in contact centre overhaul",
+      "url": "https://propertyindustryeye.com/hm-land-registry-turns-to-ai-in-contact-centre-overhaul",
+      "published": "2026-09-01T23:50:43+00:00",
+      "excerpt": "HM Land Registry (HMLR) has appointed Route 101 to deliver a new AI-enabled contact centre platform as part of an overhaul of its customer support services. The cloud-based system will serve around 660 users across five sites and replace HMLR’s existing on-premises contact centre infrastructure. The platform will combine voice and digital communications with AI-assisted … Continued",
+      "entities": [
+        "HM Land Registry",
+        "HMLR",
+        "Route",
+        "AI-enabled",
+        "HMLR’s",
+        "AI-assisted",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:58+00:00",
+      "id": "b17354c19024"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Major estate agency acquisition confirmed",
+      "url": "https://propertyindustryeye.com/major-estate-agency-acquisition-confirmed",
+      "published": "2026-09-01T23:30:24+00:00",
+      "excerpt": "Company adds 12 branches with latest estate agency acquisition",
+      "entities": [
+        "Major",
+        "Company"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:58+00:00",
+      "id": "27dda381b46b"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Multi-branch agency acquired by industry newcomer",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/four-branch-agency-acquired-by-industry-newcomer",
+      "published": "2026-09-01T23:10:00+00:00",
+      "excerpt": "The new agency now has a foothold in four additional locations",
+      "entities": [
+        "Multi-branch"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:58+00:00",
+      "id": "0de52b299112"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Reapit reveals £40m annual investment to conquer CRM rivals",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/reapit-reveals-40m-annual-investment-to-conquer-crm-rivals",
+      "published": "2026-09-01T23:09:00+00:00",
+      "excerpt": "This ia Reapit's bid to help agents \"own customer engagement\" into the future",
+      "entities": [
+        "Reapit",
+        "Reapit's"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:58+00:00",
+      "id": "afda2b1252a5"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Interest rate hopes improve after “encouraging signs”",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/interest-rate-hopes-improve-after-encouraging-signs",
+      "published": "2026-09-01T23:05:00+00:00",
+      "excerpt": "There's a mood that the market is not as bad as many anticipated",
+      "entities": [
+        "Interest",
+        "There's"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:58+00:00",
+      "id": "880512549aba"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Firm gives agents £350,000 in referral fees with more likely this year",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/firm-gives-agents-350000-in-referral-fees-with-more-likely-this-year",
+      "published": "2026-09-01T23:03:00+00:00",
+      "excerpt": "The firm's success is put down to referrals",
+      "entities": [
+        "Firm"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:58+00:00",
+      "id": "cc2436013cc6"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Stan’s The Man! – he’s got a top job in major agency",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/knight-frank-makes-key-senior-appointment-stans-the-man",
+      "published": "2026-09-01T23:01:00+00:00",
+      "excerpt": "The new leader has been at the agency for 23 years",
+      "entities": [
+        "Stan’s The Man"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:58+00:00",
+      "id": "ba9bc1845cd9"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "First time buyers avoid flats when getting on property ladder",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/first-time-buyers-avoid-flats-when-getting-on-property-ladder",
+      "published": "2026-09-01T23:00:00+00:00",
+      "excerpt": "Flats already take longer to sell than houses",
+      "entities": [
+        "First",
+        "Flats"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:58+00:00",
+      "id": "6da8e201c7de"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "HMO planning battles can't be explained by politics, research suggests",
+      "url": "https://landlordzone.co.uk/news/hmo-planning-battles-cant-be-explained-by-politics-research-suggests",
+      "published": "2026-09-01T16:23:04+00:00",
+      "excerpt": "News - Helen Gregory - Political control does not neatly predict whether a council has an Article 4 Direction or refuses more HMO applications, according to research.",
+      "entities": [
+        "News",
+        "Helen Gregory",
+        "Political",
+        "Article",
+        "Direction"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:59+00:00",
+      "id": "9c9ccaca8a5d"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Croydon postpones licensing schemes at eleventh hour",
+      "url": "https://landlordzone.co.uk/news/croydon-postpones-licensing-schemes-at-eleventh-hour",
+      "published": "2026-09-01T16:14:18+00:00",
+      "excerpt": "News - Helen Gregory - Croydon Council has postponed its additional and selective landlord licensing schemes just before they were due to launch.",
+      "entities": [
+        "Croydon",
+        "News",
+        "Helen Gregory",
+        "Croydon Council"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:59+00:00",
+      "id": "58e5d99d9efc"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Rental reforms critic takes opposition housing job",
+      "url": "https://landlordzone.co.uk/news/rental-reforms-critic-takes-opposition-housing-job",
+      "published": "2026-09-01T09:37:40+00:00",
+      "excerpt": "News - Helen Gregory - Rising Conservative star Katie Lam has been appointed as the party’s new Housing, Communities and Local Government Secretary.",
+      "entities": [
+        "Rental",
+        "News",
+        "Helen Gregory",
+        "Rising Conservative",
+        "Katie Lam",
+        "Housing",
+        "Communities and Local Government Secretary"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-02T08:03:59+00:00",
+      "id": "d3efdf1c028f"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Low Pay Commission Call for Research Summer 2026",
+      "url": "https://gov.uk/government/publications/low-pay-commission-call-for-research-summer-2026",
+      "published": "2026-09-01T13:50:10+00:00",
+      "excerpt": "Invitation to tender for research to inform the Low Pay Commission's 2027 report and beyond.",
+      "entities": [
+        "Low Pay Commission Call",
+        "Research Summer",
+        "Invitation",
+        "Low Pay Commission's"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-02T08:03:59+00:00",
+      "id": "a9a01f4e6170"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Migration transparency data",
+      "url": "https://gov.uk/government/statistical-data-sets/migration-transparency-data",
+      "published": "2026-09-01T13:30:04+00:00",
+      "excerpt": "Data on Border Force, UK Visas and Immigration, Immigration Enforcement and Passports, Citizenship and Civil Registration performance.…",
+      "entities": [
+        "Migration",
+        "Data",
+        "Border Force",
+        "UK Visas and Immigration",
+        "Immigration Enforcement and Passports",
+        "Citizenship and Civil Registration"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-02T08:03:59+00:00",
+      "id": "87a5dd750994"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Oil and gas: Public Statements relating to 2025 operations",
+      "url": "https://gov.uk/government/publications/oil-and-gas-public-statements-relating-to-2025-operations",
+      "published": "2026-09-01T13:03:50+00:00",
+      "excerpt": "Public statements relating to the activities of offshore installations in 2025",
+      "entities": [
+        "Public Statements",
+        "Public"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-02T08:03:59+00:00",
+      "id": "d0c992c8113e"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Breakfast clubs early adopters: results from parents' survey",
+      "url": "https://gov.uk/government/publications/breakfast-clubs-early-adopters-results-from-parents-survey",
+      "published": "2026-09-01T09:49:32+00:00",
+      "excerpt": "The findings from a survey of parents on the breakfast clubs early adopters pilot.",
+      "entities": [
+        "Breakfast"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-02T08:03:59+00:00",
+      "id": "2b18b700ec62"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Mergers and acquisitions (M&A) involving UK companies: April to June 2026 time series",
+      "url": "https://gov.uk/government/statistics/mergers-and-acquisitions-ma-involving-uk-companies-april-to-june-2026-time-series",
+      "published": "2026-09-01T08:30:02+00:00",
+      "excerpt": "Quarterly data on the value and number of mergers, acquisitions and disposals involving UK companies with values of £1 million or more.",
+      "entities": [
+        "Mergers",
+        "Quarterly"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-02T08:03:59+00:00",
+      "id": "c0311c665568"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community Services Statistics, June 2026",
+      "url": "https://gov.uk/government/statistics/community-services-statistics-june-2026",
+      "published": "2026-09-01T08:30:02+00:00",
+      "excerpt": "This publication reports information from the CSDS. This is a patient-level dataset providing information relating to NHS-funded community services. These services can include health centres, schools and mental health trusts…",
+      "entities": [
+        "Community Services Statistics",
+        "CSDS. This",
+        "NHS-funded",
+        "These"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-02T08:03:59+00:00",
+      "id": "21cd4aabf7bc"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Mergers and Acquisitions involving UK companies - April to June 2026",
+      "url": "https://gov.uk/government/statistics/mergers-and-acquisitions-involving-uk-companies-april-to-june-2026",
+      "published": "2026-09-01T08:30:02+00:00",
+      "excerpt": "Mergers and Acquisitions involving UK companies - April to June 2026",
+      "entities": [
+        "Mergers and Acquisitions"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-02T08:03:59+00:00",
+      "id": "a5d88d0a511a"
+    }
+  ]
+}
