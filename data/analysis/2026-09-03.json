@@ -1,0 +1,633 @@
+{
+  "generated_at": "2026-09-03T08:04:01+00:00",
+  "date_label": "Thursday 03 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n34 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 6,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 7,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Working",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Purplebricks",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Brendan Wynne and Fraser Allen",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Renters’ Rights Act",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Labour Force Survey",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Scotland’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Scottish National Investment Bank",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Final",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Pennycook. Victoria North",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Manchester and Leeds South Bank",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Pennycook",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Cheshire East",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Greater Crewe",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Bridges",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Craig",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "0809172bbd14": {
+      "id": "0809172bbd14",
+      "importance": "Medium",
+      "summary": "Scotland’s new housing agency will form a strategic partnership with the Scottish National Investment Bank",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Scotland’s",
+        "Scottish National Investment Bank"
+      ],
+      "locations": []
+    },
+    "58684c01c731": {
+      "id": "58684c01c731",
+      "importance": "Medium",
+      "summary": "Victoria North in Manchester and Leeds South Bank will have to wait a few more months to find out if they have made the cut for the programme, which aims to deliver a series of new settlements and urban extensions, each ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Final",
+        "Pennycook. Victoria North",
+        "Manchester and Leeds South Bank",
+        "Pennycook"
+      ],
+      "locations": []
+    },
+    "d31757ae480e": {
+      "id": "d31757ae480e",
+      "importance": "Medium",
+      "summary": "The council is in talks with consultancies about the opportunity to draw up a masterplan setting out the town’s development and investment direction over the coming decades. The post Cheshire East to appoint partner to m",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Regional development"
+      ],
+      "companies": [
+        "Cheshire East",
+        "Greater Crewe",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "d4387a5bdf6c": {
+      "id": "d4387a5bdf6c",
+      "importance": "Medium",
+      "summary": "Cllr Garry Bridges has been elected as the new leader of the city’s Labour Group and will formally take up the city council’s top job tomorrow. The post Bridges to succeed Craig as Manchester Leader appeared first on Pla",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Bridges",
+        "Craig",
+        "Manchester Leader. Cllr Garry",
+        "Labour Group"
+      ],
+      "locations": []
+    },
+    "9fd006db6989": {
+      "id": "9fd006db6989",
+      "importance": "Medium",
+      "summary": "Lack of office offering in Liverpool city centre led Aslan Labs Group to pursue space across the Mersey, with the research and strategy firm looking to take the entire 6,200 sq ft ground floor of the council-owned buildi",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Wirral’s Hythe",
+        "Lack",
+        "Liverpool",
+        "Aslan Labs Group"
+      ],
+      "locations": []
+    },
+    "54f1e8d6e504": {
+      "id": "54f1e8d6e504",
+      "importance": "Medium",
+      "summary": "A contractor has been appointed to get started on delivering the 1,715-place Category C facility between HMP Garth and HMP Wymott in Leyland, a scheme that was approved by the government after being marked for refusal th",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Chorley",
+        "Category",
+        "HMP Garth and HMP Wymott",
+        "Leyland"
+      ],
+      "locations": []
+    },
+    "321d9b3064fb": {
+      "id": "321d9b3064fb",
+      "importance": "Medium",
+      "summary": "Working with housing providers Anwyl and Magenta, Hampstead Regeneration wants to build on 10 acres off Ferry Road in Eastham. The post Affordable homes planned for former Wirral fuel storage site appeared first on Place",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing",
+        "Regional development"
+      ],
+      "companies": [
+        "Affordable",
+        "Wirral",
+        "Working",
+        "Anwyl and Magenta"
+      ],
+      "locations": []
+    },
+    "f0edfea8ab85": {
+      "id": "f0edfea8ab85",
+      "importance": "Medium",
+      "summary": "Concerns about highway safety led to Cheshire West and Chester Council’s planning committee deferring the developer’s plans for 240 homes off Dunkirk Way in Backford Cross. The post Wain Homes made to wait in Ellesmere P",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Wain Homes",
+        "Ellesmere Port. Concerns",
+        "Cheshire West and Chester Council’s",
+        "Dunkirk Way"
+      ],
+      "locations": []
+    },
+    "ef753bf60ff3": {
+      "id": "ef753bf60ff3",
+      "importance": "Medium",
+      "summary": "Purplebricks was ordered to pay the estate agent £27,626.73, together with £18,647 for injury to feelings and a £1,050 basic award",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Purplebricks"
+      ],
+      "locations": []
+    },
+    "49323a9bee3b": {
+      "id": "49323a9bee3b",
+      "importance": "Medium",
+      "summary": "Property transactions stall as professionals disagree over what needs fixing",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Property"
+      ],
+      "locations": []
+    },
+    "281ff7587859": {
+      "id": "281ff7587859",
+      "importance": "Medium",
+      "summary": "Brendan Wynne and Fraser Allen have acquired the estate agency after almost 20 years with the firm",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Long-serving",
+        "Brendan Wynne and Fraser Allen"
+      ],
+      "locations": []
+    },
+    "ff583884c07c": {
+      "id": "ff583884c07c",
+      "importance": "Medium",
+      "summary": "Property viewings tipped to slow",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Property"
+      ],
+      "locations": []
+    },
+    "5b9734be3e5a": {
+      "id": "5b9734be3e5a",
+      "importance": "Medium",
+      "summary": "Renters’ Rights Act increases workload for majority of letting agents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Renters’ Rights Act"
+      ],
+      "locations": []
+    },
+    "618f49315108": {
+      "id": "618f49315108",
+      "importance": "Medium",
+      "summary": "The Renters’ Rights Act is prompting more landlords to seek guarantors from prospective tenants",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Renters’ Rights Act",
+        "The Renters’ Rights Act"
+      ],
+      "locations": []
+    },
+    "e53d1d637e51": {
+      "id": "e53d1d637e51",
+      "importance": "Medium",
+      "summary": "Latest property auction figures reveal shift in market",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Latest"
+      ],
+      "locations": []
+    },
+    "d37670140b4b": {
+      "id": "d37670140b4b",
+      "importance": "Medium",
+      "summary": "Tenancy deposit reform risks overlooking £750m in unclaimed funds",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "What",
+        "Tenancy"
+      ],
+      "locations": []
+    },
+    "0654ecdd6e0a": {
+      "id": "0654ecdd6e0a",
+      "importance": "Medium",
+      "summary": "PropTech development to support agents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "TDS and Alto",
+        "PropTech"
+      ],
+      "locations": []
+    },
+    "8bc8f2abd1d0": {
+      "id": "8bc8f2abd1d0",
+      "importance": "Medium",
+      "summary": "While on maternity leave, a restructuring took place",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Purplebricks",
+        "While"
+      ],
+      "locations": []
+    },
+    "92d880ade7bb": {
+      "id": "92d880ade7bb",
+      "importance": "Medium",
+      "summary": "Two of the longest-serving directors of a London agency have become its new owners. Featherstone Leigh – an independent operating in South West London – is now owned by Brendan Wynne and Fraser Allen, who joined the busi",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Directors",
+        "London",
+        "Featherstone Leigh",
+        "South West London"
+      ],
+      "locations": []
+    },
+    "500780ce452c": {
+      "id": "500780ce452c",
+      "importance": "Medium",
+      "summary": "It should have taken six months but it was all done in four",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Anti-Money Laundering"
+      ],
+      "locations": []
+    },
+    "a0df21fe16ef": {
+      "id": "a0df21fe16ef",
+      "importance": "Medium",
+      "summary": "Joined-up working between agents, conveyancers, brokers and surveyors could prove vital to improving the moving process.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property SigNATure",
+        "Homebuying",
+        "Joined-up"
+      ],
+      "locations": []
+    },
+    "5644eec60bbf": {
+      "id": "5644eec60bbf",
+      "importance": "Medium",
+      "summary": "Early in the school year, parents want to concentrate on their children",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Anxious",
+        "Early"
+      ],
+      "locations": []
+    },
+    "e08ad8fd6d9c": {
+      "id": "e08ad8fd6d9c",
+      "importance": "Medium",
+      "summary": "The data has been compiled by Nationwide",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Revealed",
+        "Nationwide"
+      ],
+      "locations": []
+    },
+    "507b5f37c6a1": {
+      "id": "507b5f37c6a1",
+      "importance": "Medium",
+      "summary": "News - Tom Entwistle - A new report from Paragon Bank reveals that experienced HMO landlords are continuing to invest in these types of rentals",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "HMOs",
+        "News",
+        "Tom Entwistle"
+      ],
+      "locations": []
+    },
+    "a8a198619acc": {
+      "id": "a8a198619acc",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Shadow Housing Secretary Katie Lam has laid into MHCLG for making life harder for landlords.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tory",
+        "News",
+        "Helen Gregory",
+        "Shadow Housing Secretary Katie"
+      ],
+      "locations": []
+    },
+    "2e698f9b99e8": {
+      "id": "2e698f9b99e8",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - A landlord has been told to repay £17,244 after a metal staircase collapsed beneath one tenant in her unlicensed flat.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Landlord",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "e1f7e0968695": {
+      "id": "e1f7e0968695",
+      "importance": "Medium",
+      "summary": "Opinion - Guest Post - HMO expert Vann Vogstad says landlords need effective tools to police behaviour in order to raise standards in the HMO sector.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "BLOG",
+        "It's",
+        "Opinion",
+        "Guest Post"
+      ],
+      "locations": []
+    },
+    "9814bdb3e2b2": {
+      "id": "9814bdb3e2b2",
+      "importance": "Medium",
+      "summary": "Research into the scale and economic contribution of the UK semiconductor sector.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Semiconductor Sector Study",
+        "Research"
+      ],
+      "locations": []
+    },
+    "7b5c0ac5b3e7": {
+      "id": "7b5c0ac5b3e7",
+      "importance": "Medium",
+      "summary": "Data on the amount of Housing Benefit that is overpaid to claimants, the overpayments recovered and amounts written off.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Housing Benefit Debt Recoveries",
+        "Data",
+        "Housing Benefit"
+      ],
+      "locations": []
+    },
+    "487458c651fe": {
+      "id": "487458c651fe",
+      "importance": "Medium",
+      "summary": "…These estimates are derived from Census 2021 data and are not comparable with our headline UK estimates of young people who were NEET using Labour Force Survey data.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Geographical",
+        "NEET",
+        "These",
+        "Census"
+      ],
+      "locations": []
+    },
+    "5404c644aebd": {
+      "id": "5404c644aebd",
+      "importance": "Medium",
+      "summary": "The economic status of households in the UK and the people living in them, where at least one person is aged 16 to 64 years. Taken from the Labour Force Survey.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Working",
+        "Taken",
+        "Labour Force Survey"
+      ],
+      "locations": []
+    },
+    "c417aa38ddc1": {
+      "id": "c417aa38ddc1",
+      "importance": "Medium",
+      "summary": "Update of data on the individual, social and environmental factors which influence the health of the population and effect inequalities in health.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Wider Determinants of Health",
+        "Update"
+      ],
+      "locations": []
+    },
+    "07c580f4c562": {
+      "id": "07c580f4c562",
+      "importance": "Medium",
+      "summary": "Suicide in people aged 18 to 74 referred to secondary mental health services, with or without contact or inpatient stay, in the 5 years before their death.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Suicide"
+      ],
+      "locations": []
+    },
+    "2a7f2ba7dd7e": {
+      "id": "2a7f2ba7dd7e",
+      "importance": "Medium",
+      "summary": "This publication focuses on trends fire prevention and protection activities and smoke alarm ownership, by fire and rescue services in England",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Fire"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 34,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
