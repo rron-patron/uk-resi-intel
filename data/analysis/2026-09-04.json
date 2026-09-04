@@ -1,0 +1,803 @@
+{
+  "generated_at": "2026-09-04T08:04:10+00:00",
+  "date_label": "Friday 04 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n46 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 11,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "More",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Opinion",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Lomond",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Statistics",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Agriculture",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "United Kingdom",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "From",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Burnham’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Sarah Whitty and Shazia Bashir",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Winckworth Sherwood",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Clarion",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Co-operative Bank",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Co-operative Bank",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Buckinghamshire-based",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "We’ve",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "595a5841fdb7": {
+      "id": "595a5841fdb7",
+      "importance": "Medium",
+      "summary": "The government’s ambition to deliver new council homes can only be realised in partnership with social housing providers, private sector developers and external capital, write Sarah Whitty and Shazia Bashir, partners at ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "From",
+        "Burnham’s",
+        "Sarah Whitty and Shazia Bashir",
+        "Winckworth Sherwood"
+      ],
+      "locations": []
+    },
+    "7fd497284713": {
+      "id": "7fd497284713",
+      "importance": "Medium",
+      "summary": "Housing association Clarion has issued a £250m bond to raise money for sustainability-linked projects",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Clarion",
+        "Housing"
+      ],
+      "locations": []
+    },
+    "2dab6a5df2a2": {
+      "id": "2dab6a5df2a2",
+      "importance": "Medium",
+      "summary": "The Co-operative Bank has agreed to lend £50m to a Buckinghamshire-based housing association to accelerate the delivery of new affordable homes",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Co-operative Bank",
+        "The Co-operative Bank",
+        "Buckinghamshire-based"
+      ],
+      "locations": []
+    },
+    "b3db32530b8d": {
+      "id": "b3db32530b8d",
+      "importance": "Medium",
+      "summary": "Housing associations are more than developers and landlords, we are long-term investors in communities, says Joe Reeves, deputy chief executive of Midland Heart",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "We’ve",
+        "SAHP",
+        "Housing",
+        "Joe Reeves"
+      ],
+      "locations": []
+    },
+    "d91e1febb582": {
+      "id": "d91e1febb582",
+      "importance": "Medium",
+      "summary": "One in six housing association homes are now being built to EPC A, Inside Housing research reveals. But who is driving this growth, and who is being left behind? Zainab Hussain reports",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Inside Housing",
+        "Zainab Hussain"
+      ],
+      "locations": []
+    },
+    "05c9dd4521ec": {
+      "id": "05c9dd4521ec",
+      "importance": "Medium",
+      "summary": "Scotland’s housing sector has welcomed parts of the SNP’s Programme for Government, but said more detail is needed on key policy areas. Ellie Brown rounds up the sector’s reaction",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Lack",
+        "Scottish",
+        "SNP’s",
+        "Programme"
+      ],
+      "locations": []
+    },
+    "b02cbe8e6bbc": {
+      "id": "b02cbe8e6bbc",
+      "importance": "Medium",
+      "summary": "The Crescent Partnership – made up of ECF and the city’s council and university – has secured approval to revamp Faraday House into a hub for uni staff. The post Refresh of tired University of Salford asset moves ahead a",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Refresh",
+        "University of Salford",
+        "The Crescent Partnership",
+        "Faraday House"
+      ],
+      "locations": []
+    },
+    "3dd1e3f188e9": {
+      "id": "3dd1e3f188e9",
+      "importance": "Medium",
+      "summary": "Having failed get its proposed 14,000-home Cheshire scheme onto the government’s shortlist of new settlements, the developer is working up plans to bring forward the first chunk of that masterplan. The post Belport press",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Belport",
+        "Adlington",
+        "New Town",
+        "Having"
+      ],
+      "locations": []
+    },
+    "220485fec303": {
+      "id": "220485fec303",
+      "importance": "Medium",
+      "summary": "Flintshire County Council will have to defend its decision to reject the application, which had been denied last year against officer recommendation and after nearly two hours of debate. The post Castle Green looks to ov",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Castle Green",
+        "Ewloe",
+        "Flintshire County Council",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "a7275d301870": {
+      "id": "a7275d301870",
+      "importance": "Medium",
+      "summary": "A request from the controversial pipeline scheme’s promoters to carry out surveys will be discussed at a council committee next week. The post Peak Cluster asks Wirral for land access appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Peak Cluster",
+        "Wirral",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "92b1748d5795": {
+      "id": "92b1748d5795",
+      "importance": "Medium",
+      "summary": "Not so lucky: Cygnet Healthcare’s proposals to expand its existing mental health facility by the Shrine of our Land of Lourdes. The post Blackpool approves £4m Revoe Community Sports Village appeared first on Place North",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Blackpool",
+        "Revoe Community Sports Village",
+        "Cygnet Healthcare’s",
+        "Shrine"
+      ],
+      "locations": []
+    },
+    "408bf98649c2": {
+      "id": "408bf98649c2",
+      "importance": "Medium",
+      "summary": "The Building Safety Regulator has granted approval for the first 1,000-bedspace phase of construction at the £286m Cambridge Halls project. The post Unite, MMU clear Gateway 2 hurdle appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Unite",
+        "Gateway",
+        "The Building Safety Regulator",
+        "Cambridge Halls"
+      ],
+      "locations": []
+    },
+    "bbd264b036cc": {
+      "id": "bbd264b036cc",
+      "importance": "Medium",
+      "summary": "For estate agents, the concern is what another increase in borrowing costs could mean for buyer affordability and confidence",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Mortgage"
+      ],
+      "locations": []
+    },
+    "d9950e4a4ef9": {
+      "id": "d9950e4a4ef9",
+      "importance": "Medium",
+      "summary": "What’s really happening in the UK property market?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The UK",
+        "What’s"
+      ],
+      "locations": []
+    },
+    "91b281509479": {
+      "id": "91b281509479",
+      "importance": "Medium",
+      "summary": "Bank of England chief economist calls for interest rate increase",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Time",
+        "Bank of England"
+      ],
+      "locations": []
+    },
+    "663a3826cc45": {
+      "id": "663a3826cc45",
+      "importance": "Medium",
+      "summary": "More than 600 employers were ordered to repay money owed to staff",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "More"
+      ],
+      "locations": []
+    },
+    "296c0908e76d": {
+      "id": "296c0908e76d",
+      "importance": "Medium",
+      "summary": "Rightmove rolls out new Renters’ Rights Act tool",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rightmove",
+        "Renters’ Rights Act. Rightmove",
+        "Renters’ Rights Act"
+      ],
+      "locations": []
+    },
+    "fe8235053a56": {
+      "id": "fe8235053a56",
+      "importance": "Medium",
+      "summary": "Could earlier legal work cut transaction times for estate agents?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Could"
+      ],
+      "locations": []
+    },
+    "10299f5176ad": {
+      "id": "10299f5176ad",
+      "importance": "Medium",
+      "summary": "Opinion - The Mansion Tax may could prove to be less a tax on mansions and more a mansion-sized exercise in mindless and needless bureaucracy",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Is Mansion Tax",
+        "Opinion",
+        "The Mansion Tax"
+      ],
+      "locations": []
+    },
+    "b95b71bbea30": {
+      "id": "b95b71bbea30",
+      "importance": "Medium",
+      "summary": "Kirsty Allsopp has become one of the UK’s best-known property television presenters through Channel 4’s long-running Location, Location, Location",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property TV",
+        "Kirstie Allsopp",
+        "Kirsty Allsopp",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    "2f02e3f63ce0": {
+      "id": "2f02e3f63ce0",
+      "importance": "Medium",
+      "summary": "AI-powered property search platform launches new product aimed at letting agents",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Renters’ Rights Act. AI-powered"
+      ],
+      "locations": []
+    },
+    "4fae5c49b52d": {
+      "id": "4fae5c49b52d",
+      "importance": "Medium",
+      "summary": "One Utility Bill has moved into the residential sales market",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "One Utility Bill"
+      ],
+      "locations": []
+    },
+    "607511fe4fc4": {
+      "id": "607511fe4fc4",
+      "importance": "Medium",
+      "summary": "HMRC tax investigations into large property companies rise 40%, with £645m in potential additional liabilities under review",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Property",
+        "HMRC"
+      ],
+      "locations": []
+    },
+    "4141ffd27848": {
+      "id": "4141ffd27848",
+      "importance": "Medium",
+      "summary": "The acquisition strengthens Lomond’s presence in the South West",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "EYE NEWS UPDATE",
+        "Lomond",
+        "Lomond’s",
+        "South West"
+      ],
+      "locations": []
+    },
+    "b5cc40be2f9d": {
+      "id": "b5cc40be2f9d",
+      "importance": "Medium",
+      "summary": "The government's list contains over 600 companies",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property"
+      ],
+      "locations": []
+    },
+    "e071ce8ed48a": {
+      "id": "e071ce8ed48a",
+      "importance": "Medium",
+      "summary": "One survey claims it takes seven months from first listing to completion",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "4ed9fd35c2e9": {
+      "id": "4ed9fd35c2e9",
+      "importance": "Medium",
+      "summary": "The commission would be £30 per referral",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Extra"
+      ],
+      "locations": []
+    },
+    "5ec7c7e1afc7": {
+      "id": "5ec7c7e1afc7",
+      "importance": "Medium",
+      "summary": "Auctions are increasingly a first choice option for sellers",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "LRG’s",
+        "Auctions"
+      ],
+      "locations": []
+    },
+    "527ce20cae3f": {
+      "id": "527ce20cae3f",
+      "importance": "Medium",
+      "summary": "The A-Z for members has expanded significantly",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Guild",
+        "The A-Z"
+      ],
+      "locations": []
+    },
+    "38016332e2b3": {
+      "id": "38016332e2b3",
+      "importance": "Medium",
+      "summary": "The issue is less of a dealbreaker for older buyers",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "More",
+        "Damp"
+      ],
+      "locations": []
+    },
+    "714a7bd06a8a": {
+      "id": "714a7bd06a8a",
+      "importance": "Medium",
+      "summary": "The acquisition also gives Lomond a major new regional hub",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Lomond"
+      ],
+      "locations": []
+    },
+    "2cd4cfc4fd64": {
+      "id": "2cd4cfc4fd64",
+      "importance": "Medium",
+      "summary": "Opinion - Guest Post - With new valuation rates still undecided, leaseholders need to weigh potential future savings against today’s certainty, says Vanessa Griffiths.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "BLOG",
+        "Opinion",
+        "Guest Post",
+        "With"
+      ],
+      "locations": []
+    },
+    "d38d1bb66017": {
+      "id": "d38d1bb66017",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Surprising new figures show that about £750 million could be sitting in the tenancy deposit system as dormant or otherwise unclaimed.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Calls",
+        "News",
+        "Helen Gregory",
+        "Surprising"
+      ],
+      "locations": []
+    },
+    "233db5f044de": {
+      "id": "233db5f044de",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Reform UK has promised to look into making homes built on brownfield sites free of stamp duty, CGT and tax on rental income for 10 years.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Reform",
+        "News",
+        "Helen Gregory",
+        "Reform UK"
+      ],
+      "locations": []
+    },
+    "a328e0f8601a": {
+      "id": "a328e0f8601a",
+      "importance": "Medium",
+      "summary": "We publish Official Statistics relating to the environment, rural communities, food, and farming.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Statistics",
+        "Defra. We",
+        "Official Statistics"
+      ],
+      "locations": []
+    },
+    "85e448e2ee0a": {
+      "id": "85e448e2ee0a",
+      "importance": "Medium",
+      "summary": "The findings of this report will produce a baseline of semiconductor-related economic activity in the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Semiconductor"
+      ],
+      "locations": []
+    },
+    "100c574315ad": {
+      "id": "100c574315ad",
+      "importance": "Medium",
+      "summary": "Reports and surveys reviewing the performance of the seasonal workers pilot from 2019 to 2025.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Seasonal",
+        "Reports"
+      ],
+      "locations": []
+    },
+    "11f7566499fc": {
+      "id": "11f7566499fc",
+      "importance": "Medium",
+      "summary": "Data sets to accompany the Agriculture in the United Kingdom publication.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agriculture",
+        "United Kingdom",
+        "Data"
+      ],
+      "locations": []
+    },
+    "c64202d68d34": {
+      "id": "c64202d68d34",
+      "importance": "Medium",
+      "summary": "Annual statistics about agriculture in the United Kingdom.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agriculture",
+        "United Kingdom",
+        "Annual"
+      ],
+      "locations": []
+    },
+    "7478c28685bc": {
+      "id": "7478c28685bc",
+      "importance": "Medium",
+      "summary": "The conference, organised by the Insolvency Service, provides a link between academia, the insolvency sector and policymakers with a platform for insolvency research and technical discussion.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Forward Thinking",
+        "Insolvency Service"
+      ],
+      "locations": []
+    },
+    "154433eb6e47": {
+      "id": "154433eb6e47",
+      "importance": "Medium",
+      "summary": "Information about statistics releases produced by the Foreign, Commonwealth & Development Office.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Statistics",
+        "FCDO. Information",
+        "Foreign",
+        "Commonwealth"
+      ],
+      "locations": []
+    },
+    "072e0c44748d": {
+      "id": "072e0c44748d",
+      "importance": "Medium",
+      "summary": "This release details movements in the international reserves of gold and assets held by the UK government.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "8d371fb6c7f3": {
+      "id": "8d371fb6c7f3",
+      "importance": "Medium",
+      "summary": "Official statistics in development on annual fuel use, renewable energy sources, and carbon audits in farms in England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Energy",
+        "England. Official"
+      ],
+      "locations": []
+    },
+    "66ce4f67a62a": {
+      "id": "66ce4f67a62a",
+      "importance": "Medium",
+      "summary": "Monthly provisional statistics on the number of visits to the DCMS-sponsored museums and galleries are published here every quarter.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Museums",
+        "Monthly",
+        "DCMS-sponsored"
+      ],
+      "locations": []
+    },
+    "72b6acfcb636": {
+      "id": "72b6acfcb636",
+      "importance": "Medium",
+      "summary": "Official statistics on the number of people receiving adult social care services, and information on adult social care settings.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Adult",
+        "Official"
+      ],
+      "locations": []
+    },
+    "c7dbca8e9090": {
+      "id": "c7dbca8e9090",
+      "importance": "Medium",
+      "summary": "Statistical release in response to cases of Salmonella in England connected to the outbreak likely associated with imported eggs.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Salmonella",
+        "Statistical"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 46,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
