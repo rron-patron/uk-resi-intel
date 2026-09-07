@@ -1,0 +1,714 @@
+{
+  "generated_at": "2026-09-07T13:47:42+00:00",
+  "date_label": "Monday 07 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n38 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 8,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "House",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "With",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Scottish",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "An Edinburgh-based",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Home Group",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Wolverhampton Council",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Wolverhampton",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Large",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Vistry",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "New Manchester",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Garry Bridges",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Manchester City Council",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Former Homes England",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Burnham",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "8dd8052c784f": {
+      "id": "8dd8052c784f",
+      "importance": "Medium",
+      "summary": "An Edinburgh-based house builder reported a loss of £16.3m after being hit with £25.7m of exceptional items",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Scottish",
+        "An Edinburgh-based"
+      ],
+      "locations": []
+    },
+    "1b0582643dfa": {
+      "id": "1b0582643dfa",
+      "importance": "Medium",
+      "summary": "Housing associations in England have sold 25,000 social and affordable homes to private buyers who do not live in them since 2018-19, new research has found",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Housing"
+      ],
+      "locations": []
+    },
+    "b596df4147f7": {
+      "id": "b596df4147f7",
+      "importance": "Medium",
+      "summary": "Home Group has reported a surplus increase, but there were significant declines in incomes from properties for outright sale and first-trance shared ownership",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Home Group"
+      ],
+      "locations": []
+    },
+    "71404dcfc76c": {
+      "id": "71404dcfc76c",
+      "importance": "Medium",
+      "summary": "A new regeneration plan for Wolverhampton city centre has been approved, with plans to deliver 6,750 homes",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Wolverhampton Council",
+        "Wolverhampton"
+      ],
+      "locations": []
+    },
+    "ba5cd4dc40da": {
+      "id": "ba5cd4dc40da",
+      "importance": "Medium",
+      "summary": "Large house builder Vistry has set out proposals for a new “choice-based” shared ownership model which could deliver 30,000 new homes a year",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders",
+        "Affordable housing"
+      ],
+      "companies": [
+        "House",
+        "Large",
+        "Vistry"
+      ],
+      "locations": []
+    },
+    "24373c0922b8": {
+      "id": "24373c0922b8",
+      "importance": "Medium",
+      "summary": "Garry Bridges, the new leader of Manchester City Council, has stressed the need for the city to build more social housing",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "New Manchester",
+        "Garry Bridges",
+        "Manchester City Council"
+      ],
+      "locations": []
+    },
+    "e5cd70548f93": {
+      "id": "e5cd70548f93",
+      "importance": "Medium",
+      "summary": "The drive for a place-first approach will mean a shift in how social housing funding is designed and managed, says Mike Palin, chief executive of St Helens Council",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Former Homes England",
+        "Burnham",
+        "SAHP",
+        "Mike Palin"
+      ],
+      "locations": []
+    },
+    "b53bedff37b5": {
+      "id": "b53bedff37b5",
+      "importance": "Medium",
+      "summary": "In an Inside Housing exclusive, housing secretary Angela Rayner says she wants the plan to end rough sleeping to be a national mission and offers to work with the sector",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Angela Rayner",
+        "Britain",
+        "Inside Housing"
+      ],
+      "locations": []
+    },
+    "ec96e4d44f20": {
+      "id": "ec96e4d44f20",
+      "importance": "Medium",
+      "summary": "The council has signed an option agreement with the owner of the long-vacant former cotton mill in an effort to set a positive tone for the regeneration of the town. Developer Capital&Centric is in pole position to redev",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Rochdale",
+        "Middleton",
+        "Warwick Mill. The",
+        "Developer Capital&Centric"
+      ],
+      "locations": []
+    },
+    "712ec1709f90": {
+      "id": "712ec1709f90",
+      "importance": "Medium",
+      "summary": "A long-term Arup stalwart who became head of the Manchester office in 2024, Jane Healey Brown has moved to the rival consultancy, immediately taking up a secondment with Homes England. The post Healey Brown makes move to",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Healey Brown",
+        "AtkinsRealis",
+        "Arup",
+        "Manchester"
+      ],
+      "locations": []
+    },
+    "50ceec498f14": {
+      "id": "50ceec498f14",
+      "importance": "Medium",
+      "summary": "Billed as a primary element in the council’s £2bn regeneration programme, the local authority is targeting a 2031 works start date for the education facility. The post Sheppard Robson to design Stockport town centre scho",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment",
+        "Regional development"
+      ],
+      "companies": [
+        "Sheppard Robson",
+        "Stockport",
+        "Billed",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "e50fbdf5f8c4": {
+      "id": "e50fbdf5f8c4",
+      "importance": "Medium",
+      "summary": "Rochdale Boroughwide Housing has set the ball rolling on plans for 270 homes across two parcels of land on the estate, north of the town centre. The post RBH prepares next Lower Falinge phase appeared first on Place Nort",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Lower Falinge",
+        "Rochdale Boroughwide Housing",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "68585a027e11": {
+      "id": "68585a027e11",
+      "importance": "Medium",
+      "summary": "With current leaseholder Prospect Estates unable to redevelop Dominick House, the local authority is lining up a deal to acquire the ‘70s office block and sell it to the owners of the nearby Cherry Tree Shopping Centre. ",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Wirral",
+        "Liscard",
+        "With",
+        "Prospect Estates"
+      ],
+      "locations": []
+    },
+    "261d47174715": {
+      "id": "261d47174715",
+      "importance": "Medium",
+      "summary": "The council’s executive board will be asked to rubber-stamp the disposal of the R&D-led development’s flagship building and reinvestment in a second building at the park, a joint venture with Barnfield. The post Blackbur",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Blackburn",
+        "Darwen Chapels. The",
+        "R&D-led",
+        "Barnfield. The"
+      ],
+      "locations": []
+    },
+    "5d8ff59e4ec1": {
+      "id": "5d8ff59e4ec1",
+      "importance": "Medium",
+      "summary": "AI is rapidly becoming part of everyday estate agency, from automating routine tasks to improving marketing, communication and customer service. With significant investment now going into AI-powered property technology, ",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "POLL",
+        "Could",
+        "With",
+        "AI-powered"
+      ],
+      "locations": []
+    },
+    "9bc74c1abd1d": {
+      "id": "9bc74c1abd1d",
+      "importance": "Medium",
+      "summary": "Zoopla returned to statutory profitability",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "EYE NEWSFLASH",
+        "Zoopla"
+      ],
+      "locations": []
+    },
+    "bcf66a3d2e11": {
+      "id": "bcf66a3d2e11",
+      "importance": "Medium",
+      "summary": "Lloyds House Price Index has been released",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "House",
+        "Lloyds House Price Index"
+      ],
+      "locations": []
+    },
+    "788b67840d27": {
+      "id": "788b67840d27",
+      "importance": "Medium",
+      "summary": "Joel Osbourne brings more than 25 years of property industry experience",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Former Spicerhaart",
+        "Joel Osbourne"
+      ],
+      "locations": []
+    },
+    "36c5b7963983": {
+      "id": "36c5b7963983",
+      "importance": "Medium",
+      "summary": "New mandatory property register gets launch date",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "507f0f60bd82": {
+      "id": "507f0f60bd82",
+      "importance": "Medium",
+      "summary": "Property firm announces the death of its former chief executive and chairman",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tributes",
+        "Property"
+      ],
+      "locations": []
+    },
+    "5abf6c6bb0a0": {
+      "id": "5abf6c6bb0a0",
+      "importance": "Medium",
+      "summary": "Two estate agencies appointed to sell £36m London properties linked to Iran’s supreme leader",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Two London",
+        "Iran’s",
+        "London"
+      ],
+      "locations": []
+    },
+    "3caefc6edecc": {
+      "id": "3caefc6edecc",
+      "importance": "Medium",
+      "summary": "Prime London property sales defy mortgage and market uncertainty",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Property",
+        "Prime London"
+      ],
+      "locations": []
+    },
+    "6f27b95328f6": {
+      "id": "6f27b95328f6",
+      "importance": "Medium",
+      "summary": "The Green Party adopted a policy last year aimed at reducing private landlordism",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Abolish",
+        "The Green Party"
+      ],
+      "locations": []
+    },
+    "12a614d36031": {
+      "id": "12a614d36031",
+      "importance": "Medium",
+      "summary": "The number of new housebuilding businesses entering the market is falling",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Housebuilder",
+        "Help"
+      ],
+      "locations": []
+    },
+    "4d1d53bfac1d": {
+      "id": "4d1d53bfac1d",
+      "importance": "Medium",
+      "summary": "Majority of new homes are now covered by the Ombudsman",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Complaints",
+        "Majority",
+        "Ombudsman"
+      ],
+      "locations": []
+    },
+    "bbaa53ca59fa": {
+      "id": "bbaa53ca59fa",
+      "importance": "Medium",
+      "summary": "London rental supply squeeze intensifies as tenant competition rises",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Letting",
+        "London"
+      ],
+      "locations": []
+    },
+    "c48e38fe3085": {
+      "id": "c48e38fe3085",
+      "importance": "Medium",
+      "summary": "The weakness in residential development contributed to another difficult month for the wider construction sector",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Housebuilding"
+      ],
+      "locations": []
+    },
+    "652fa442a37e": {
+      "id": "652fa442a37e",
+      "importance": "Medium",
+      "summary": "An agent with sales experience at three of the industry’s best known firms is the latest to defect from the traditional agency model. Former John D Wood & Co Head of Sales George Henty-Dodd has joined Moveli, a fast-grow",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "High",
+        "Former John",
+        "Wood",
+        "Co Head of Sales George"
+      ],
+      "locations": []
+    },
+    "77088c2a50a2": {
+      "id": "77088c2a50a2",
+      "importance": "Medium",
+      "summary": "Mansion tax valuations may trigger a series of disputes",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Mansion"
+      ],
+      "locations": []
+    },
+    "548b2600f46f": {
+      "id": "548b2600f46f",
+      "importance": "Medium",
+      "summary": "The current owner has re-purchased the agency after originally selling up",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "135a1cc4637b": {
+      "id": "135a1cc4637b",
+      "importance": "Medium",
+      "summary": "Number of new housebuilders set up has fallen in every year since 2022",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Connells Group",
+        "Number"
+      ],
+      "locations": []
+    },
+    "1e181ace1cda": {
+      "id": "1e181ace1cda",
+      "importance": "Medium",
+      "summary": "Tom Bill is head of UK residential research at Knight Frank",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tom Bill",
+        "Knight Frank"
+      ],
+      "locations": []
+    },
+    "02504be13b0c": {
+      "id": "02504be13b0c",
+      "importance": "Medium",
+      "summary": "Ofgem has confirmed that the energy price cap will rise by 4% from 1 October",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Many",
+        "Ofgem"
+      ],
+      "locations": []
+    },
+    "0368973c28db": {
+      "id": "0368973c28db",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Landlord Action founder Paul Shamplina will share practical advice on being a professional landlord at a free event later this month.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlord Action's Paul Shamplina",
+        "News",
+        "Helen Gregory",
+        "Landlord Action"
+      ],
+      "locations": []
+    },
+    "434954793505": {
+      "id": "434954793505",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Landlords will have to sign up to a mandatory short-lets registration scheme in England from next March.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Short-lets",
+        "March. News",
+        "Helen Gregory",
+        "Landlords"
+      ],
+      "locations": []
+    },
+    "7164bfec04f1": {
+      "id": "7164bfec04f1",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Green Party deputy leader Mothin Ali has been revealed as a landlord – despite his party voting to abolish private landlords last year.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Deputy",
+        "Greens",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "16a4c846020f": {
+      "id": "16a4c846020f",
+      "importance": "Medium",
+      "summary": "Findings from the Smart Data Challenge Prize finalists, showing how Smart Data can create value across energy, property, transport, retail and finance.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Smart Data Challenge Prize",
+        "Findings",
+        "Smart Data"
+      ],
+      "locations": []
+    },
+    "eed8ed80b025": {
+      "id": "eed8ed80b025",
+      "importance": "Medium",
+      "summary": "Regulatory Policy Committee opinion of the options assessment for DESNZ's Non-Domestic Smart Metering Policy Framework Post-2025",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "RPC Opinion",
+        "Non-Domestic Smart Metering Policy",
+        "Framework Post",
+        "Regulatory Policy Committee"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 38,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}

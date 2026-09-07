@@ -1,0 +1,726 @@
+{
+  "collected_at": "2026-09-07T13:47:09+00:00",
+  "date_london": "2026-09-07",
+  "counts": {
+    "seen_in_feeds": 49,
+    "new": 38,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 8,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 8"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 6,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 6"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 14,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 14"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 6,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 6"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 3,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 3"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 2,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 2"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Scottish house builder reports pre-tax loss after £25.7m in exceptional charges",
+      "url": "https://insidehousing.co.uk/home/scottish-house-builder-reports-pre-tax-loss-after-257m-in-exceptional-charges-98633",
+      "published": "2026-09-07T13:00:00+00:00",
+      "excerpt": "An Edinburgh-based house builder reported a loss of £16.3m after being hit with £25.7m of exceptional items",
+      "entities": [
+        "Scottish",
+        "An Edinburgh-based"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:27+00:00",
+      "id": "8dd8052c784f"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Housing associations sell record number of social homes to private buyers, new analysis shows",
+      "url": "https://insidehousing.co.uk/home/housing-associations-sell-record-number-of-social-homes-to-private-buyers-new-analysis-shows-98630",
+      "published": "2026-09-07T11:30:07+00:00",
+      "excerpt": "Housing associations in England have sold 25,000 social and affordable homes to private buyers who do not live in them since 2018-19, new research has found",
+      "entities": [
+        "Housing"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:27+00:00",
+      "id": "1b0582643dfa"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Home Group reports surplus increase despite drop in shared owner and outright sales",
+      "url": "https://insidehousing.co.uk/home/home-group-reports-surplus-increase-despite-drop-in-shared-owner-and-outright-sales-98628",
+      "published": "2026-09-07T10:00:00+00:00",
+      "excerpt": "Home Group has reported a surplus increase, but there were significant declines in incomes from properties for outright sale and first-trance shared ownership",
+      "entities": [
+        "Home Group"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:27+00:00",
+      "id": "b596df4147f7"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Wolverhampton Council gives green light for 6,750-home regeneration plan",
+      "url": "https://insidehousing.co.uk/home/wolverhampton-council-gives-green-light-for-6750-home-regeneration-plan-98625",
+      "published": "2026-09-07T11:18:57+00:00",
+      "excerpt": "A new regeneration plan for Wolverhampton city centre has been approved, with plans to deliver 6,750 homes",
+      "entities": [
+        "Wolverhampton Council",
+        "Wolverhampton"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:27+00:00",
+      "id": "71404dcfc76c"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "House builder calls for new shared ownership model to unlock extra 30,000 homes per year",
+      "url": "https://insidehousing.co.uk/home/house-builder-calls-for-new-shared-ownership-model-to-unlock-extra-30000-homes-per-year-98622",
+      "published": "2026-09-07T12:39:26+00:00",
+      "excerpt": "Large house builder Vistry has set out proposals for a new “choice-based” shared ownership model which could deliver 30,000 new homes a year",
+      "entities": [
+        "House",
+        "Large",
+        "Vistry"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:27+00:00",
+      "id": "ba5cd4dc40da"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "New Manchester council leader says city must build more social homes",
+      "url": "https://insidehousing.co.uk/home/new-manchester-council-leader-says-city-must-build-more-social-homes-98605",
+      "published": "2026-09-07T07:00:00+00:00",
+      "excerpt": "Garry Bridges, the new leader of Manchester City Council, has stressed the need for the city to build more social housing",
+      "entities": [
+        "New Manchester",
+        "Garry Bridges",
+        "Manchester City Council"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:27+00:00",
+      "id": "24373c0922b8"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Former Homes England director – we should be prepared for Burnham to change SAHP funding",
+      "url": "https://insidehousing.co.uk/home/former-homes-england-director-we-should-be-prepared-for-burnham-to-change-sahp-funding-98608",
+      "published": "2026-09-07T12:50:00+00:00",
+      "excerpt": "The drive for a place-first approach will mean a shift in how social housing funding is designed and managed, says Mike Palin, chief executive of St Helens Council",
+      "entities": [
+        "Former Homes England",
+        "Burnham",
+        "SAHP",
+        "Mike Palin",
+        "St Helens Council"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:27+00:00",
+      "id": "e5cd70548f93"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Angela Rayner exclusive: ‘I’m not wasting any time in getting Britain building, but I can’t do this on my own’",
+      "url": "https://insidehousing.co.uk/home/angela-rayner-exclusive-im-not-wasting-any-time-in-getting-britain-building-but-i-cant-do-this-on-my-own-98611",
+      "published": "2026-09-07T09:58:13+00:00",
+      "excerpt": "In an Inside Housing exclusive, housing secretary Angela Rayner says she wants the plan to end rough sleeping to be a national mission and offers to work with the sector",
+      "entities": [
+        "Angela Rayner",
+        "Britain",
+        "Inside Housing"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:27+00:00",
+      "id": "b53bedff37b5"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Rochdale signals Middleton intent with plan to buy Warwick Mill",
+      "url": "https://placenorthwest.co.uk/rochdale-signals-middleton-intent-with-plan-to-buy-warwick-mill",
+      "published": "2026-09-07T10:53:36+00:00",
+      "excerpt": "The council has signed an option agreement with the owner of the long-vacant former cotton mill in an effort to set a positive tone for the regeneration of the town. Developer Capital&Centric is in pole position to redevelop the grade two-listed asset into apartments. The post Rochdale signals Middleton intent with plan to buy Warwick Mill appeared first on Place North West .",
+      "entities": [
+        "Rochdale",
+        "Middleton",
+        "Warwick Mill. The",
+        "Developer Capital&Centric",
+        "Warwick Mill",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:34+00:00",
+      "id": "ec96e4d44f20"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Healey Brown makes move to AtkinsRealis",
+      "url": "https://placenorthwest.co.uk/healey-brown-makes-move-to-atkinsrealis",
+      "published": "2026-09-07T10:41:50+00:00",
+      "excerpt": "A long-term Arup stalwart who became head of the Manchester office in 2024, Jane Healey Brown has moved to the rival consultancy, immediately taking up a secondment with Homes England. The post Healey Brown makes move to AtkinsRealis appeared first on Place North West .",
+      "entities": [
+        "Healey Brown",
+        "AtkinsRealis",
+        "Arup",
+        "Manchester",
+        "Jane Healey Brown",
+        "Homes England. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:34+00:00",
+      "id": "712ec1709f90"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Sheppard Robson to design Stockport town centre school",
+      "url": "https://placenorthwest.co.uk/sheppard-robson-to-design-stockport-town-centre-school",
+      "published": "2026-09-07T10:41:15+00:00",
+      "excerpt": "Billed as a primary element in the council’s £2bn regeneration programme, the local authority is targeting a 2031 works start date for the education facility. The post Sheppard Robson to design Stockport town centre school appeared first on Place North West .",
+      "entities": [
+        "Sheppard Robson",
+        "Stockport",
+        "Billed",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:34+00:00",
+      "id": "50ceec498f14"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "RBH prepares next Lower Falinge phase",
+      "url": "https://placenorthwest.co.uk/rbh-prepares-next-lower-falinge-phase",
+      "published": "2026-09-07T10:25:53+00:00",
+      "excerpt": "Rochdale Boroughwide Housing has set the ball rolling on plans for 270 homes across two parcels of land on the estate, north of the town centre. The post RBH prepares next Lower Falinge phase appeared first on Place North West .",
+      "entities": [
+        "Lower Falinge",
+        "Rochdale Boroughwide Housing",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:34+00:00",
+      "id": "e50fbdf5f8c4"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Wirral steps in to tackle Liscard eyesore",
+      "url": "https://placenorthwest.co.uk/wirral-steps-in-to-tackle-liscard-eyesore",
+      "published": "2026-09-07T09:59:01+00:00",
+      "excerpt": "With current leaseholder Prospect Estates unable to redevelop Dominick House, the local authority is lining up a deal to acquire the ‘70s office block and sell it to the owners of the nearby Cherry Tree Shopping Centre. The post Wirral steps in to tackle Liscard eyesore appeared first on Place North West .",
+      "entities": [
+        "Wirral",
+        "Liscard",
+        "With",
+        "Prospect Estates",
+        "Dominick House",
+        "Cherry Tree Shopping Centre",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:34+00:00",
+      "id": "68585a027e11"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Blackburn to shuffle the deck at Darwen Chapels",
+      "url": "https://placenorthwest.co.uk/blackburn-to-shuffle-the-deck-at-darwen-chapels",
+      "published": "2026-09-07T09:11:33+00:00",
+      "excerpt": "The council’s executive board will be asked to rubber-stamp the disposal of the R&D-led development’s flagship building and reinvestment in a second building at the park, a joint venture with Barnfield. The post Blackburn to shuffle the deck at Darwen Chapels appeared first on Place North West .",
+      "entities": [
+        "Blackburn",
+        "Darwen Chapels. The",
+        "R&D-led",
+        "Barnfield. The",
+        "Darwen Chapels",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:34+00:00",
+      "id": "261d47174715"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "📊 POLL : Could estate agencies that fail to embrace AI be left behind?",
+      "url": "https://propertyindustryeye.com/could-estate-agencies-that-fail-to-embrace-ai-be-left-behind",
+      "published": "2026-09-07T13:16:26+00:00",
+      "excerpt": "AI is rapidly becoming part of everyday estate agency, from automating routine tasks to improving marketing, communication and customer service. With significant investment now going into AI-powered property technology, could agencies that are slow to adopt it risk falling behind their competitors? Have your say in our latest PIE poll below. Read more below : … Continued",
+      "entities": [
+        "POLL",
+        "Could",
+        "With",
+        "AI-powered",
+        "Have",
+        "Read",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:35+00:00",
+      "id": "5d8ff59e4ec1"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "EYE NEWSFLASH: Zoopla returns to profit as estate agent valuation leads jump",
+      "url": "https://propertyindustryeye.com/eye-newsflash-zoopla-returns-to-profit-as-estate-agent-valuation-leads-jump",
+      "published": "2026-09-07T06:08:23+00:00",
+      "excerpt": "Zoopla returned to statutory profitability",
+      "entities": [
+        "EYE NEWSFLASH",
+        "Zoopla"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:35+00:00",
+      "id": "9bc74c1abd1d"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "House prices record first annual fall since 2023",
+      "url": "https://propertyindustryeye.com/house-prices-latest-data-reveals-direction-of-uk-market",
+      "published": "2026-09-07T05:56:27+00:00",
+      "excerpt": "Lloyds House Price Index has been released",
+      "entities": [
+        "House",
+        "Lloyds House Price Index"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:35+00:00",
+      "id": "bcf66a3d2e11"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Former Spicerhaart acquisitions director joins new M&A venture",
+      "url": "https://propertyindustryeye.com/former-spicerhaart-acquisitions-director-joins-new-ma-venture",
+      "published": "2026-09-07T03:30:38+00:00",
+      "excerpt": "Joel Osbourne brings more than 25 years of property industry experience",
+      "entities": [
+        "Former Spicerhaart",
+        "Joel Osbourne"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:35+00:00",
+      "id": "788b67840d27"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Government announces timetable for new property register",
+      "url": "https://propertyindustryeye.com/government-announces-date-for-new-property-register",
+      "published": "2026-09-07T03:00:03+00:00",
+      "excerpt": "New mandatory property register gets launch date",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:35+00:00",
+      "id": "36c5b7963983"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Tributes paid to ‘titan of the property industry’",
+      "url": "https://propertyindustryeye.com/tributes-paid-to-titan-of-the-property-industry",
+      "published": "2026-09-07T02:36:23+00:00",
+      "excerpt": "Property firm announces the death of its former chief executive and chairman",
+      "entities": [
+        "Tributes",
+        "Property"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:35+00:00",
+      "id": "507f0f60bd82"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Two London estate agencies handed £12m instruction linked to Iran’s supreme leader",
+      "url": "https://propertyindustryeye.com/two-london-estate-agencies-handed-12m-instruction-linked-to-irans-supreme-leader",
+      "published": "2026-09-07T02:34:03+00:00",
+      "excerpt": "Two estate agencies appointed to sell £36m London properties linked to Iran’s supreme leader",
+      "entities": [
+        "Two London",
+        "Iran’s",
+        "London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:35+00:00",
+      "id": "5abf6c6bb0a0"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Property buyers press ahead despite mortgage rate fears",
+      "url": "https://propertyindustryeye.com/property-buyers-press-ahead-despite-mortgage-rate-fears",
+      "published": "2026-09-07T01:50:53+00:00",
+      "excerpt": "Prime London property sales defy mortgage and market uncertainty",
+      "entities": [
+        "Property",
+        "Prime London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:35+00:00",
+      "id": "3caefc6edecc"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "‘Abolish landlords’ party deputy leader revealed as landlord",
+      "url": "https://propertyindustryeye.com/abolish-landlords-party-deputy-leader-revealed-as-landlord",
+      "published": "2026-09-07T01:20:47+00:00",
+      "excerpt": "The Green Party adopted a policy last year aimed at reducing private landlordism",
+      "entities": [
+        "Abolish",
+        "The Green Party"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:35+00:00",
+      "id": "6f27b95328f6"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Housebuilder start-ups hit post-Help to Buy low",
+      "url": "https://propertyindustryeye.com/housebuilder-start-ups-hit-post-help-to-buy-low",
+      "published": "2026-09-07T01:20:14+00:00",
+      "excerpt": "The number of new housebuilding businesses entering the market is falling",
+      "entities": [
+        "Housebuilder",
+        "Help"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:35+00:00",
+      "id": "12a614d36031"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Complaints against housebuilders triple in just one year",
+      "url": "https://propertyindustryeye.com/complaints-against-housebuilders-triple-in-just-one-year",
+      "published": "2026-09-07T00:40:11+00:00",
+      "excerpt": "Majority of new homes are now covered by the Ombudsman",
+      "entities": [
+        "Complaints",
+        "Majority",
+        "Ombudsman"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:35+00:00",
+      "id": "4d1d53bfac1d"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Letting agents in London face five-year high in tenant competition",
+      "url": "https://propertyindustryeye.com/london-letting-agents-face-five-year-high-in-tenant-competition",
+      "published": "2026-09-07T00:20:35+00:00",
+      "excerpt": "London rental supply squeeze intensifies as tenant competition rises",
+      "entities": [
+        "Letting",
+        "London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:35+00:00",
+      "id": "bbaa53ca59fa"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Housebuilding slump deepens as new projects dry up",
+      "url": "https://propertyindustryeye.com/housebuilding-slump-deepens-as-new-projects-dry-up",
+      "published": "2026-09-06T23:50:29+00:00",
+      "excerpt": "The weakness in residential development contributed to another difficult month for the wider construction sector",
+      "entities": [
+        "Housebuilding"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:35+00:00",
+      "id": "c48e38fe3085"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "High profile agent defects to self-employed brokerage",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/highly-experienced-sales-chief-defects-to-self-employed-brokerage",
+      "published": "2026-09-06T23:07:00+00:00",
+      "excerpt": "An agent with sales experience at three of the industry’s best known firms is the latest to defect from the traditional agency model. Former John D Wood & Co Head of Sales George Henty-Dodd has joined Moveli, a fast-growing broker network. Henty-Dodd brings almost a decade of property experience across both sales and lettings, having […]",
+      "entities": [
+        "High",
+        "Former John",
+        "Wood",
+        "Co Head of Sales George",
+        "Henty-Dodd",
+        "Moveli"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:35+00:00",
+      "id": "652fa442a37e"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Property tax valuation rows may jam up housing market",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/property-valuation-rows-risk-jamming-up-market-warning",
+      "published": "2026-09-06T23:06:00+00:00",
+      "excerpt": "Mansion tax valuations may trigger a series of disputes",
+      "entities": [
+        "Property",
+        "Mansion"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:35+00:00",
+      "id": "77088c2a50a2"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "New branch for relaunched family-run agency",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/new-branch-opening-for-relaunched-family-run-agency",
+      "published": "2026-09-06T23:05:00+00:00",
+      "excerpt": "The current owner has re-purchased the agency after originally selling up",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:35+00:00",
+      "id": "548b2600f46f"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Connells Group rings alarm bell about new homes",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/connells-group-rings-alarm-bell-about-new-homes",
+      "published": "2026-09-06T23:04:00+00:00",
+      "excerpt": "Number of new housebuilders set up has fallen in every year since 2022",
+      "entities": [
+        "Connells Group",
+        "Number"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:35+00:00",
+      "id": "135a1cc4637b"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Why bond markets and house prices are linked – explainer/opinion",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/why-bond-markets-and-house-prices-are-linked-explainer-opinion",
+      "published": "2026-09-06T23:01:00+00:00",
+      "excerpt": "Tom Bill is head of UK residential research at Knight Frank",
+      "entities": [
+        "Tom Bill",
+        "Knight Frank"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:35+00:00",
+      "id": "1e181ace1cda"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Many more UK homes now have solar panels",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/many-more-uk-homes-now-have-solar-panels",
+      "published": "2026-09-06T23:00:00+00:00",
+      "excerpt": "Ofgem has confirmed that the energy price cap will rise by 4% from 1 October",
+      "entities": [
+        "Many",
+        "Ofgem"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:35+00:00",
+      "id": "02504be13b0c"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Landlord Action's Paul Shamplina to headline free landlord event",
+      "url": "https://landlordzone.co.uk/news/landlord-actions-paul-shamplina-to-headline-free-landlord-event",
+      "published": "2026-09-07T12:26:51+00:00",
+      "excerpt": "News - Helen Gregory - Landlord Action founder Paul Shamplina will share practical advice on being a professional landlord at a free event later this month.",
+      "entities": [
+        "Landlord Action's Paul Shamplina",
+        "News",
+        "Helen Gregory",
+        "Landlord Action",
+        "Paul Shamplina"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:36+00:00",
+      "id": "0368973c28db"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Short-lets register in England to launch next March",
+      "url": "https://landlordzone.co.uk/news/short-lets-register-to-launch-next-march",
+      "published": "2026-09-07T10:04:51+00:00",
+      "excerpt": "News - Helen Gregory - Landlords will have to sign up to a mandatory short-lets registration scheme in England from next March.",
+      "entities": [
+        "Short-lets",
+        "March. News",
+        "Helen Gregory",
+        "Landlords"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:36+00:00",
+      "id": "434954793505"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Deputy leader of landlord-critic Greens is a landlord",
+      "url": "https://landlordzone.co.uk/news/deputy-leader-of-landlord-critic-greens-is-a-landlord",
+      "published": "2026-09-07T09:00:17+00:00",
+      "excerpt": "News - Helen Gregory - Green Party deputy leader Mothin Ali has been revealed as a landlord – despite his party voting to abolish private landlords last year.",
+      "entities": [
+        "Deputy",
+        "Greens",
+        "News",
+        "Helen Gregory",
+        "Green Party",
+        "Mothin Ali"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-07T13:47:36+00:00",
+      "id": "7164bfec04f1"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Smart Data Challenge Prize: significant insights and outcomes",
+      "url": "https://gov.uk/government/publications/smart-data-challenge-prize-significant-insights-and-outcomes",
+      "published": "2026-09-07T12:45:36+00:00",
+      "excerpt": "Findings from the Smart Data Challenge Prize finalists, showing how Smart Data can create value across energy, property, transport, retail and finance.",
+      "entities": [
+        "Smart Data Challenge Prize",
+        "Findings",
+        "Smart Data"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-07T13:47:36+00:00",
+      "id": "16a4c846020f"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "RPC Opinion: Non-Domestic Smart Metering Policy Framework Post-2025",
+      "url": "https://gov.uk/government/publications/rpc-opinion-non-domestic-smart-metering-policy-framework-post-2025",
+      "published": "2026-09-07T10:49:30+00:00",
+      "excerpt": "Regulatory Policy Committee opinion of the options assessment for DESNZ's Non-Domestic Smart Metering Policy Framework Post-2025",
+      "entities": [
+        "RPC Opinion",
+        "Non-Domestic Smart Metering Policy",
+        "Framework Post",
+        "Regulatory Policy Committee",
+        "DESNZ's Non-Domestic Smart Metering",
+        "Policy Framework Post"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-07T13:47:36+00:00",
+      "id": "eed8ed80b025"
+    }
+  ]
+}
