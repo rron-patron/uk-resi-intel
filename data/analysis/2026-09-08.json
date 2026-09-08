@@ -1,0 +1,606 @@
+{
+  "generated_at": "2026-09-08T12:23:06+00:00",
+  "date_label": "Tuesday 08 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n31 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 7,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Mortgage",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Inside Housing",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Nearly",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Section",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Roughly",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Homes England’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Local",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Local Government Reorganisation",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Sheffield",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Katharine Swindells",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "LABC Warranty",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Consultation",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Welsh",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Central",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Grants",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Cityside",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Wilmslow",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Following",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "145d9221fb6e": {
+      "id": "145d9221fb6e",
+      "importance": "Medium",
+      "summary": "Roughly 5,700 uncontracted Section 106 homes are currently listed on Homes England’s clearing service, Inside Housing can reveal",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Nearly",
+        "Section",
+        "Roughly",
+        "Homes England’s"
+      ],
+      "locations": []
+    },
+    "2e0d3b742322": {
+      "id": "2e0d3b742322",
+      "importance": "Medium",
+      "summary": "The representative body for councils in England criticised the government’s “mishandling” of the Local Government Reorganisation process after it halted the plans",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Local",
+        "Local Government Reorganisation"
+      ],
+      "locations": []
+    },
+    "653ff432fd34": {
+      "id": "653ff432fd34",
+      "importance": "Medium",
+      "summary": "In one of the most deprived parts of the country, a once-lauded council housing development needs more than £500m to regenerate. Katharine Swindells reports",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Regional development"
+      ],
+      "companies": [
+        "The Sheffield",
+        "Katharine Swindells"
+      ],
+      "locations": []
+    },
+    "6d26309093e7": {
+      "id": "6d26309093e7",
+      "importance": "Medium",
+      "summary": "Inside Housing hosted a roundtable, in association with structural warranty provider LABC Warranty, to understand how partnerships can alleviate pressures impacting the sector",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Inside Housing",
+        "LABC Warranty"
+      ],
+      "locations": []
+    },
+    "0849d21fd801": {
+      "id": "0849d21fd801",
+      "importance": "Medium",
+      "summary": "The Welsh government has launched a 12-week consultation on plans for a single public energy company and whether homes and buildings could act as power stations",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Consultation",
+        "The Welsh"
+      ],
+      "locations": []
+    },
+    "48a6a6bf2463": {
+      "id": "48a6a6bf2463",
+      "importance": "Medium",
+      "summary": "Grants from central government will be replaced by a share of local income tax for every mayoral strategic authority from 2028, the chancellor has said",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Central",
+        "Grants"
+      ],
+      "locations": []
+    },
+    "1ac8b8dbea2e": {
+      "id": "1ac8b8dbea2e",
+      "importance": "Medium",
+      "summary": "Following a consultation on the proposals this summer, the developer has now formalised its intention to develop 10 acres of Cheshire East's Green Belt into a residential community featuring a shared meadow and an orchar",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Cityside",
+        "Wilmslow",
+        "Following",
+        "Cheshire East's Green Belt"
+      ],
+      "locations": []
+    },
+    "34e6d984b069": {
+      "id": "34e6d984b069",
+      "importance": "Medium",
+      "summary": "Council sign-off is expected next week for the firm to deliver 144 affordable homes at Robert Hall Street in Ordsall. The post Seddon primed for £40m Salford contract appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Seddon",
+        "Salford",
+        "Robert Hall Street",
+        "Ordsall. The"
+      ],
+      "locations": []
+    },
+    "5ae56f1cc996": {
+      "id": "5ae56f1cc996",
+      "importance": "Medium",
+      "summary": "Bolton Council, the NHS, and Peel Land are among the signatories of an accord that could see 700 acres west of Bolton Hospital transformed into a mixed-use scheme geared towards improving health outcomes. The post Partne",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Partners",
+        "Health Innovation Bolton. Bolton",
+        "Peel Land",
+        "Bolton Hospital"
+      ],
+      "locations": []
+    },
+    "e33a837b9708": {
+      "id": "e33a837b9708",
+      "importance": "Medium",
+      "summary": "May 2027 elections will use existing council boundaries, with secretary of state Angela Rayner putting the local authority overhaul on ice pending a legal review. The post Lancashire government reorganisation paused appe",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Lancashire",
+        "Angela Rayner",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "814d244433d9": {
+      "id": "814d244433d9",
+      "importance": "Medium",
+      "summary": "The developer behind plans for 290 flats in Vauxhall has been left “scratching his head” following the city council’s decision to refuse the proposal and has asked the secretary of state to intervene. The post Brack ‘stu",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Brack",
+        "Liverpool",
+        "Vauxhall",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "d580167bf159": {
+      "id": "d580167bf159",
+      "importance": "Medium",
+      "summary": "Mortgage rates on the rise as major lenders reprice",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Fresh",
+        "Mortgage"
+      ],
+      "locations": []
+    },
+    "e7d0ab024fa1": {
+      "id": "e7d0ab024fa1",
+      "importance": "Medium",
+      "summary": "Estate agency acquisition agreed",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Agency",
+        "Estate"
+      ],
+      "locations": []
+    },
+    "e7e47e3a2d27": {
+      "id": "e7e47e3a2d27",
+      "importance": "Medium",
+      "summary": "Lomond target further estate agency acquisitions as new CEO officially starts",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Lomond",
+        "CEO. Lomond"
+      ],
+      "locations": []
+    },
+    "1fb0b4bfc7d8": {
+      "id": "1fb0b4bfc7d8",
+      "importance": "Medium",
+      "summary": "Government figures show accelerated landlord possession claims rose 16% year-on-year between April and June 2026",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlord",
+        "Renters’ Rights",
+        "April and June"
+      ],
+      "locations": []
+    },
+    "3b7502d2a3c8": {
+      "id": "3b7502d2a3c8",
+      "importance": "Medium",
+      "summary": "New estate agency branch marks the latest milestone in the firm's continued expansion",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Fast-growing"
+      ],
+      "locations": []
+    },
+    "97ce6877d5d1": {
+      "id": "97ce6877d5d1",
+      "importance": "Medium",
+      "summary": "Estate agency branch remain occupied",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "a166c6aa9221": {
+      "id": "a166c6aa9221",
+      "importance": "Medium",
+      "summary": "Mortgage rates are prompting some borrowers to switch banks as buyers continue to look for ways to reduce the cost of moving home. New research found that 41% of mortgage holders who changed banks did so to access a bett",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages",
+        "Residential investment"
+      ],
+      "companies": [
+        "Better",
+        "Mortgage",
+        "Meanwhile",
+        "Continued"
+      ],
+      "locations": []
+    },
+    "fe21f9f6a52a": {
+      "id": "fe21f9f6a52a",
+      "importance": "Medium",
+      "summary": "Conveyancing firm to work closely with estate agents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Conveyancing"
+      ],
+      "locations": []
+    },
+    "b883249ec745": {
+      "id": "b883249ec745",
+      "importance": "Medium",
+      "summary": "Global tensions and economic uncertainty have pushed swap rates higher",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Mortgage",
+        "Global"
+      ],
+      "locations": []
+    },
+    "be5649eedb68": {
+      "id": "be5649eedb68",
+      "importance": "Medium",
+      "summary": "A long-standing operations director at Foxtons has left the agency after 17 years.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Foxtons"
+      ],
+      "locations": []
+    },
+    "70f7acd80836": {
+      "id": "70f7acd80836",
+      "importance": "Medium",
+      "summary": "A legal firm has access to HMRC data",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Warning of HMRC",
+        "HMRC"
+      ],
+      "locations": []
+    },
+    "9bf1315dd02c": {
+      "id": "9bf1315dd02c",
+      "importance": "Medium",
+      "summary": "The portal simply says numbers \"have remained broadly stable\"",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Mystery",
+        "Zoopla. The"
+      ],
+      "locations": []
+    },
+    "5220e4c370ee": {
+      "id": "5220e4c370ee",
+      "importance": "Medium",
+      "summary": "Technology should give agents more time to be good agents, it's claimed",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Vendors",
+        "SSTC",
+        "PropTech",
+        "Technology"
+      ],
+      "locations": []
+    },
+    "3594ba634d60": {
+      "id": "3594ba634d60",
+      "importance": "Medium",
+      "summary": "The emissions have been independently assessed",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Multi-branch"
+      ],
+      "locations": []
+    },
+    "9fedd656d74f": {
+      "id": "9fedd656d74f",
+      "importance": "Medium",
+      "summary": "Is this the start of an autumn slide?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "House"
+      ],
+      "locations": []
+    },
+    "65cd4b4c0aa8": {
+      "id": "65cd4b4c0aa8",
+      "importance": "Medium",
+      "summary": "News - Tom Entwistle - What surprises will the budget deliver for landlords, especially for those who are retirees?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rich",
+        "NICs. News",
+        "Tom Entwistle",
+        "What"
+      ],
+      "locations": []
+    },
+    "b6c1f714690e": {
+      "id": "b6c1f714690e",
+      "importance": "Medium",
+      "summary": "The Department for Education (DfE) publishes official statistics on education and children.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Statistics",
+        "DfE. The Department",
+        "Education"
+      ],
+      "locations": []
+    },
+    "97927df6641d": {
+      "id": "97927df6641d",
+      "importance": "Medium",
+      "summary": "Independent review by Lucy Yu looking at artificial intelligence deployment in electricity networks.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Independent",
+        "Lucy Yu"
+      ],
+      "locations": []
+    },
+    "674474b6ae05": {
+      "id": "674474b6ae05",
+      "importance": "Medium",
+      "summary": "Practical guidance on improving internal data for climate scenario analysis, risk management, decision-making and TCFD reporting.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Climate",
+        "Practical",
+        "TCFD"
+      ],
+      "locations": []
+    },
+    "929bea941548": {
+      "id": "929bea941548",
+      "importance": "Medium",
+      "summary": "A combined evidence report and systematic review of peer-reviewed academic literature and grey literature.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 31,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
