@@ -1,0 +1,880 @@
+{
+  "generated_at": "2026-09-09T12:34:17+00:00",
+  "date_label": "Wednesday 09 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n51 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 9,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Later living",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 8,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Agents",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Pennycook",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "SAHP",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Stockport",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Rightmove. Rightmove",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Letting",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Includes",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Monthly",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Retail Dynasty Pushes Button",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "On Pair Of London",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Coliving Schemes. Blue Coast Capital",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Steve Rotheram",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Liverpool MDC",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Liverpool City Region",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "2a274f14124d": {
+      "id": "2a274f14124d",
+      "importance": "Medium",
+      "summary": "Blue Coast Capital and HUB are teaming up to build central London coliving spaces.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Retail Dynasty Pushes Button",
+        "On Pair Of London",
+        "Coliving Schemes. Blue Coast Capital",
+        "London"
+      ],
+      "locations": []
+    },
+    "9f2d5d7056ac": {
+      "id": "9f2d5d7056ac",
+      "importance": "Medium",
+      "summary": "The mayor of the Liverpool City Region has hinted that a mayoral development corporation will be set up by the end of the month, after residents backed the plan",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Steve Rotheram",
+        "Liverpool MDC",
+        "Pennycook",
+        "SAHP"
+      ],
+      "locations": []
+    },
+    "0755d3a5c068": {
+      "id": "0755d3a5c068",
+      "importance": "Medium",
+      "summary": "Housing minister Matthew Pennycook has said the rebalancing of funding in favour of council delivery did not “necessarily need to come at the expense of housing associations”, but cast doubt on the possibility of a secon",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Pennycook",
+        "Housing",
+        "Matthew Pennycook"
+      ],
+      "locations": []
+    },
+    "f827e1ed477e": {
+      "id": "f827e1ed477e",
+      "importance": "Medium",
+      "summary": "Riverside has reported a £24m increase in social housing lettings income, but this was offset by a drop in open market and shared owner sales",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Increase",
+        "Riverside"
+      ],
+      "locations": []
+    },
+    "c0539c13a6f8": {
+      "id": "c0539c13a6f8",
+      "importance": "Medium",
+      "summary": "The English regulator has confirmed that a small Luton-based landlord’s gradings are under review after it failed to meet the Governance and Financial Viability Standard",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The English",
+        "Luton-based",
+        "Governance and Financial Viability Standard"
+      ],
+      "locations": []
+    },
+    "ca6825ba5a5f": {
+      "id": "ca6825ba5a5f",
+      "importance": "Medium",
+      "summary": "The government’s Warm Homes Plan must provide funding in a way that avoids a “postcode lottery” and makes retrofit delivery more equitable, a report has found",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Warm Homes Plan"
+      ],
+      "locations": []
+    },
+    "d3edd48c7642": {
+      "id": "d3edd48c7642",
+      "importance": "Medium",
+      "summary": "Homes England’s chief executive has suggested that the policy around low-interest loans, which have been widely welcomed by the sector, may be re-examined “in light of a new government”",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Homes England",
+        "SAHP",
+        "Homes England’s"
+      ],
+      "locations": []
+    },
+    "b524fc9ba6a4": {
+      "id": "b524fc9ba6a4",
+      "importance": "Medium",
+      "summary": "Michael Gove has blamed volume house builders for the construction skills gap, suggesting they are “land price manipulators”, rather than companies invested in a sustainable workforce",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Gove",
+        "Michael Gove"
+      ],
+      "locations": []
+    },
+    "e1444166db21": {
+      "id": "e1444166db21",
+      "importance": "Medium",
+      "summary": "The deputy leader of Reform has told senior housing staff there is “absolutely” space for the sector to influence the party’s controversial allocations policy",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Deputy Reform",
+        "Reform"
+      ],
+      "locations": []
+    },
+    "dc19c5c80175": {
+      "id": "dc19c5c80175",
+      "importance": "Medium",
+      "summary": "Unable to avoid Green Belt release, the latest version of the spatial development framework for the borough looks to enable the delivery of 24, 253 homes – well short of the 32,317 identified as its overall housing need.",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Housing supply"
+      ],
+      "companies": [
+        "Stockport",
+        "Unable",
+        "Green Belt",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "14194f14d117": {
+      "id": "14194f14d117",
+      "importance": "Medium",
+      "summary": "The financial ratings firm has more than doubled its presence at Seneca Property’s 55 Princess Street to 9,000 sq ft, as the landlord completes a refurbishment programme. The post Moody’s upsizes at upgraded Manchester o",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Moody’s",
+        "Manchester",
+        "Seneca Property’s",
+        "Princess Street"
+      ],
+      "locations": []
+    },
+    "fc9a3b86fb26": {
+      "id": "fc9a3b86fb26",
+      "importance": "Medium",
+      "summary": "Prime Minister Andy Burnham once described Stockport as “a genuine trailblazer for the mayoral development corporation model.” Now, the man who established and led the MDC is turning his attention to the Midlands, with a",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Richards",
+        "Stockport",
+        "Birmingham East MDC. Prime",
+        "Minister Andy Burnham"
+      ],
+      "locations": []
+    },
+    "9455e42428e5": {
+      "id": "9455e42428e5",
+      "importance": "Medium",
+      "summary": "Watson Construction is set to be confirmed as the council’s preferred bidder to take forward development at Pyramid Park and the space above the underground Q-Park facility, delivering around 200 homes in total. The post",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Bury",
+        "Watson Construction",
+        "Pyramid Park",
+        "Q-Park"
+      ],
+      "locations": []
+    },
+    "3e8962adf363": {
+      "id": "3e8962adf363",
+      "importance": "Medium",
+      "summary": "Tom Riordan has been appointed permanent secretary at the Ministry of Housing, Communities, and Local Government and will take up the role on 21 September. The post Northern Growth Envoy named chief civil servant at MHCL",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Northern Growth Envoy",
+        "MHCLG. Tom Riordan",
+        "Ministry of Housing",
+        "Communities"
+      ],
+      "locations": []
+    },
+    "293764d0059c": {
+      "id": "293764d0059c",
+      "importance": "Medium",
+      "summary": "An indicative uses and phasing plan is included in fresh materials as the council looks to procure an investor-developer to take forward its flagship regeneration project. The post Next steps set out for £300m Blackpool ",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Regional development"
+      ],
+      "companies": [
+        "Next",
+        "Blackpool Central. An",
+        "Blackpool Central",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "e771b634a281": {
+      "id": "e771b634a281",
+      "importance": "Medium",
+      "summary": "Edward Mellor is pushing ahead with plans to redevelop its head office on St Petersgate in the town centre into 190 flats across three blocks. The post Redevelopment of Stockport estate agent advances appeared first on P",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Redevelopment of Stockport",
+        "Edward Mellor",
+        "St Petersgate",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "2fc9deec6707": {
+      "id": "2fc9deec6707",
+      "importance": "Medium",
+      "summary": "Salford City Council voted to green-light the Angela Swift Developments residential facility, which will sit on the site of the demolished St Joseph’s Convent. The post Approval for 81-bed care home in Worsley appeared f",
+      "why_it_matters": "",
+      "themes": [
+        "Later living"
+      ],
+      "companies": [
+        "Approval",
+        "Worsley. Salford City Council",
+        "Angela Swift Developments",
+        "St Joseph’s Convent. The"
+      ],
+      "locations": []
+    },
+    "37770dfd3fdc": {
+      "id": "37770dfd3fdc",
+      "importance": "Medium",
+      "summary": "The changes form part of the next phase of the Renters' Rights Act reforms",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "EYE NEWS UPDATE",
+        "Renters' Rights Act"
+      ],
+      "locations": []
+    },
+    "589890d1af58": {
+      "id": "589890d1af58",
+      "importance": "Medium",
+      "summary": "Group revenue increased 7% to £43.3m",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "EYE NEWSFLASH",
+        "Major",
+        "Group"
+      ],
+      "locations": []
+    },
+    "ccd3be874743": {
+      "id": "ccd3be874743",
+      "importance": "Medium",
+      "summary": "Estate agents overvaluing properties to win instructions is becoming increasingly common",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "ae26eafef805": {
+      "id": "ae26eafef805",
+      "importance": "Medium",
+      "summary": "Private equity fuels race for estate agency lettings books",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Lettings",
+        "Private"
+      ],
+      "locations": []
+    },
+    "92af442a8c1a": {
+      "id": "92af442a8c1a",
+      "importance": "Medium",
+      "summary": "Rightmove calls on agents to challenge industry misconceptions",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Rightmove. Rightmove"
+      ],
+      "locations": []
+    },
+    "81ac43993774": {
+      "id": "81ac43993774",
+      "importance": "Medium",
+      "summary": "Leasehold problems leave agents struggling to sell properties",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Leasehold"
+      ],
+      "locations": []
+    },
+    "42f383bc2a7f": {
+      "id": "42f383bc2a7f",
+      "importance": "Medium",
+      "summary": "Estate agents sceptical over reservation agreements, government research reveals",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Reservation",
+        "Estate"
+      ],
+      "locations": []
+    },
+    "35e7070dfe0a": {
+      "id": "35e7070dfe0a",
+      "importance": "Medium",
+      "summary": "Property licensing burden grows as penalties hit £40,000",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Letting",
+        "Property"
+      ],
+      "locations": []
+    },
+    "8e80146d9eaa": {
+      "id": "8e80146d9eaa",
+      "importance": "Medium",
+      "summary": "Buyers increasingly turn to low-deposit mortgages",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Low-deposit",
+        "Buyers"
+      ],
+      "locations": []
+    },
+    "23b6702b24ed": {
+      "id": "23b6702b24ed",
+      "importance": "Medium",
+      "summary": "Independent estate agency opens new Fulham branch",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Independent",
+        "Fulham"
+      ],
+      "locations": []
+    },
+    "184db5b15755": {
+      "id": "184db5b15755",
+      "importance": "Medium",
+      "summary": "Renters’ Rights Act: Agents demand for clarity over rent tribunals",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Letting",
+        "Renters’ Rights Act",
+        "Agents"
+      ],
+      "locations": []
+    },
+    "0328db66057a": {
+      "id": "0328db66057a",
+      "importance": "Medium",
+      "summary": "SpareRoom research highlights growing rental affordability pressure",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Renters",
+        "SpareRoom"
+      ],
+      "locations": []
+    },
+    "671e2f6c551d": {
+      "id": "671e2f6c551d",
+      "importance": "Medium",
+      "summary": "AML changes put property compliance under spotlight",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents"
+      ],
+      "locations": []
+    },
+    "adabc110a352": {
+      "id": "adabc110a352",
+      "importance": "Medium",
+      "summary": "Some 95% accuse rivals of issuing what they believe to be unrealistic valuations",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents",
+        "Some"
+      ],
+      "locations": []
+    },
+    "cce9e8243cd2": {
+      "id": "cce9e8243cd2",
+      "importance": "Medium",
+      "summary": "He had been a director for 21 years at Savills",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Another",
+        "Savills"
+      ],
+      "locations": []
+    },
+    "e01413815b9d": {
+      "id": "e01413815b9d",
+      "importance": "Medium",
+      "summary": "The agency handles sales, lettings and property management",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Boutique"
+      ],
+      "locations": []
+    },
+    "26609e4982e9": {
+      "id": "26609e4982e9",
+      "importance": "Medium",
+      "summary": "Rightmove claims to have found the most common causes of delays during a property transaction. And the portal – which relies on agents for much of its income – says the causes “are largely outside an agent’s direct contr",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Everyone",
+        "Rightmove. Rightmove",
+        "More"
+      ],
+      "locations": []
+    },
+    "585b88381763": {
+      "id": "585b88381763",
+      "importance": "Medium",
+      "summary": "There’s some respite for the troubled high end central London market according to Knight Frank. The agency says the number of transactions in prime central (PCL) and prime outer London (POL) in the three months to August",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Short",
+        "Prime London",
+        "There’s",
+        "London"
+      ],
+      "locations": []
+    },
+    "f95c36b0986c": {
+      "id": "f95c36b0986c",
+      "importance": "Medium",
+      "summary": "The shadow housing secretary was appointed just last week",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Labour",
+        "Tory"
+      ],
+      "locations": []
+    },
+    "98ace34f1419": {
+      "id": "98ace34f1419",
+      "importance": "Medium",
+      "summary": "Agreements get a cool welcome from estate agents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Reservation Agreements",
+        "Agreements"
+      ],
+      "locations": []
+    },
+    "9550fbde31de": {
+      "id": "9550fbde31de",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Landlords in the West Midlands will need to start registering themselves and their properties on the new PRS database from 15 December.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Landlord",
+        "News",
+        "Helen Gregory",
+        "Landlords"
+      ],
+      "locations": []
+    },
+    "7543e97cdfe9": {
+      "id": "7543e97cdfe9",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Direct payments should be triggered by life events rather than arrears to prevent unnecessary evictions, suggests a leading landlord.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Leading",
+        "News",
+        "Helen Gregory",
+        "Direct"
+      ],
+      "locations": []
+    },
+    "40f7a5e7bfa6": {
+      "id": "40f7a5e7bfa6",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Millennials and Gen Z will represent 62% of landlords within a decade, according to new research.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Future",
+        "News",
+        "Helen Gregory",
+        "Millennials and Gen"
+      ],
+      "locations": []
+    },
+    "cf28ae92121c": {
+      "id": "cf28ae92121c",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - This year is on course to become the biggest on record for new additional and selective licensing scheme launches.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rental",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "0dbdc88ecc45": {
+      "id": "0dbdc88ecc45",
+      "importance": "Medium",
+      "summary": "…Includes a breakdown by age, gender, nationality, licensing sector and UK region.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Includes"
+      ],
+      "locations": []
+    },
+    "22e04835f4c5": {
+      "id": "22e04835f4c5",
+      "importance": "Medium",
+      "summary": "…Includes the total number of approved contractors and a breakdown by licensing sector and UK region.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Includes"
+      ],
+      "locations": []
+    },
+    "2911d8f7ee8d": {
+      "id": "2911d8f7ee8d",
+      "importance": "Medium",
+      "summary": "Publication plan for HMRC National and Official Statistics. Any changes to the schedule will be detailed in the announcements.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Schedule",
+        "HMRC's",
+        "Publication",
+        "HMRC National and Official Statistics"
+      ],
+      "locations": []
+    },
+    "b5f5a6322115": {
+      "id": "b5f5a6322115",
+      "importance": "Medium",
+      "summary": "HMRC statistics relating to VAT gap estimates.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "HMRC"
+      ],
+      "locations": []
+    },
+    "405cc30b6129": {
+      "id": "405cc30b6129",
+      "importance": "Medium",
+      "summary": "Number of SFI agreements at 1st September 2026, following closure of first application window for SFI 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Number of SFI"
+      ],
+      "locations": []
+    },
+    "03a4e9300d20": {
+      "id": "03a4e9300d20",
+      "importance": "Medium",
+      "summary": "Data, and supporting documents, from the People and Nature Survey covering the period 1 April 2025 - 31 March 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The People and Nature Surveys",
+        "Data",
+        "Adults",
+        "People and Nature Survey"
+      ],
+      "locations": []
+    },
+    "22e4adf1c71a": {
+      "id": "22e4adf1c71a",
+      "importance": "Medium",
+      "summary": "Monthly update to the UK Ship Register statistics on ships joining and leaving the UK Ship Register. The monthly statistics cover January 2015 to July 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK Ship Register Statistics",
+        "Monthly",
+        "UK Ship Register",
+        "UK Ship Register. The"
+      ],
+      "locations": []
+    },
+    "137cce68c267": {
+      "id": "137cce68c267",
+      "importance": "Medium",
+      "summary": "Monthly statistics on UK international and domestic sea passengers.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Monthly"
+      ],
+      "locations": []
+    },
+    "46b6dba5688c": {
+      "id": "46b6dba5688c",
+      "importance": "Medium",
+      "summary": "Annual statistics on farm business income in England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Farm",
+        "Annual"
+      ],
+      "locations": []
+    },
+    "0127583fe7fd": {
+      "id": "0127583fe7fd",
+      "importance": "Medium",
+      "summary": "The final product from Professor Dave O’Brien’s Department for Digital Culture, Media and Sport (DCMS) Skills and Diverse Workforce Fellowship.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Knowledge",
+        "DCMS Skills and Diverse Workforce",
+        "Policy Fellowship Report. The",
+        "Professor Dave O’Brien’s Department"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 51,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
