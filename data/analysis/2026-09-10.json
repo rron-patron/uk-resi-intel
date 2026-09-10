@@ -1,0 +1,835 @@
+{
+  "generated_at": "2026-09-10T12:28:41+00:00",
+  "date_label": "Thursday 10 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n49 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 7,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Latest",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Buyer",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Rental",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Landlord",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Local Full Fibre Networks",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Evaluation",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "BDUK Hubs",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "BDUK's Hub",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Quarterly",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Great Britain",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Statistics",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Landlords",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Bromford Flagship LiveWest’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Non-compliant",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Hyde",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "1389662e9943": {
+      "id": "1389662e9943",
+      "importance": "Medium",
+      "summary": "Housing associations will need to take a much more regionalised approach to generating funding as devolution progresses, Bromford Flagship LiveWest’s chief finance officer has said",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing",
+        "Regional development"
+      ],
+      "companies": [
+        "Landlords",
+        "Housing",
+        "Bromford Flagship LiveWest’s"
+      ],
+      "locations": []
+    },
+    "63f9507fd636": {
+      "id": "63f9507fd636",
+      "importance": "Medium",
+      "summary": "A senior director at the Hyde Group has revealed the landlord is in talks with non-compliant councils to help them build out their development programmes",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Non-compliant",
+        "Hyde",
+        "Hyde Group"
+      ],
+      "locations": []
+    },
+    "153aebf901ee": {
+      "id": "153aebf901ee",
+      "importance": "Medium",
+      "summary": "Two reports examine the feasibility of quick wins and cost-free solutions to speed up delivery while longer-term investment takes hold, writes Francesca Albanese of Crisis and the Thinkhouse Editorial Panel",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Latest",
+        "Quick",
+        "Francesca Albanese of Crisis",
+        "Thinkhouse Editorial Panel"
+      ],
+      "locations": []
+    },
+    "fb3eedcb05c6": {
+      "id": "fb3eedcb05c6",
+      "importance": "Medium",
+      "summary": "For over a year, thousands of homes in west Wales have been stalled by environmental planning advice. Hayley Eastment, policy and external affairs manager at Community Housing Cymru explains the context and what needs to",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Wales. For",
+        "Hayley Eastment",
+        "Community Housing Cymru"
+      ],
+      "locations": []
+    },
+    "7be7febe3317": {
+      "id": "7be7febe3317",
+      "importance": "Medium",
+      "summary": "Local authority finances may need to be subject to economic regulation by the Regulator of Social Housing in future, a council leader and housing association boss have suggested",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Local",
+        "Regulator of Social Housing"
+      ],
+      "locations": []
+    },
+    "c2c164c327fa": {
+      "id": "c2c164c327fa",
+      "importance": "Medium",
+      "summary": "The Regulator of Social Housing wants to \"hold boards accountable for how they make decisions rather than control what they do\", its chief executive has said",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "We’re",
+        "The Regulator of Social Housing"
+      ],
+      "locations": []
+    },
+    "974b8d5849a2": {
+      "id": "974b8d5849a2",
+      "importance": "Medium",
+      "summary": "A small Luton-based landlord is seeking a merger partner after the English regulator found \"significant liquidity issues\" that meant it failed to meet the Governance and Financial Viability Standard",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Merger",
+        "Luton-based",
+        "English",
+        "Governance and Financial Viability Standard"
+      ],
+      "locations": []
+    },
+    "fb78545954ea": {
+      "id": "fb78545954ea",
+      "importance": "Medium",
+      "summary": "Contractor Holmpatrick received the go-ahead for its plans to tear down Britannia New Mill, replacing it with 32 social rent flats and 17 shared ownership houses – due to be managed by Onward Homes. The post Tameside mil",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Tameside",
+        "Contractor Holmpatrick",
+        "Britannia New Mill",
+        "Onward Homes. The"
+      ],
+      "locations": []
+    },
+    "14d286e44d15": {
+      "id": "14d286e44d15",
+      "importance": "Medium",
+      "summary": "Accelerating the delivery of the 1,350-home Marina Village and bolstering Westmorland and Furness Council’s planning team will be two prime uses of the cash, which comes from the government’s £200m Barrow Transformation ",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Barrow",
+        "Accelerating",
+        "Marina Village",
+        "Westmorland and Furness Council’s"
+      ],
+      "locations": []
+    },
+    "28cd6ec481a7": {
+      "id": "28cd6ec481a7",
+      "importance": "Medium",
+      "summary": "A 2027 start on site is the aim after a £28.2m contribution from Lancashire Combined County Authority was confirmed for the new railway station, serving communities in one of Preston’s main housing growth areas. The post",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "LCCA",
+        "Cottam Parkway",
+        "Lancashire Combined County Authority",
+        "Preston’s"
+      ],
+      "locations": []
+    },
+    "ab3f52949d96": {
+      "id": "ab3f52949d96",
+      "importance": "Medium",
+      "summary": "Your Housing Group’s contractor Casey has begun work on a 54-home project off Heysham Road, supported by Homes England. The post Starting gun fired on £15m Aintree development appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Starting",
+        "Aintree",
+        "Your Housing Group’s",
+        "Casey"
+      ],
+      "locations": []
+    },
+    "db082a1b2d5f": {
+      "id": "db082a1b2d5f",
+      "importance": "Medium",
+      "summary": "The city council’s executive will be asked to sign off the compulsory purchase of a single derelict residential property, opening up the development of 212 homes by Mosscare St Vincent's. The post Manchester preps CPO to",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Manchester",
+        "Reno",
+        "Mosscare St Vincent's. The",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "6cc51e6c3262": {
+      "id": "6cc51e6c3262",
+      "importance": "Medium",
+      "summary": "Unanimous committee approval has been given for a primary school in Basford East, the strategic site that also includes 850 homes and industrial development. The post Full marks for Crewe school proposal appeared first o",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Full",
+        "Crewe",
+        "Unanimous",
+        "Basford East"
+      ],
+      "locations": []
+    },
+    "2b90f22d3bbe": {
+      "id": "2b90f22d3bbe",
+      "importance": "Medium",
+      "summary": "Industry divided as new landlord database takes shape",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents",
+        "Industry"
+      ],
+      "locations": []
+    },
+    "7d9ce5826314": {
+      "id": "7d9ce5826314",
+      "importance": "Medium",
+      "summary": "Buyer demand rebounds but rising rents pile on pressure",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Housing",
+        "Buyer"
+      ],
+      "locations": []
+    },
+    "3c17544b47e7": {
+      "id": "3c17544b47e7",
+      "importance": "Medium",
+      "summary": "Government unveils regional timetable for landlord registration",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Regional"
+      ],
+      "locations": []
+    },
+    "2e29dc9ff1bb": {
+      "id": "2e29dc9ff1bb",
+      "importance": "Medium",
+      "summary": "Double acquisition leads to new estate agency branch",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate",
+        "Double"
+      ],
+      "locations": []
+    },
+    "a759fe6e4e4e": {
+      "id": "a759fe6e4e4e",
+      "importance": "Medium",
+      "summary": "New AI tool changes how buyers search for homes",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "AI-powered",
+        "New AI"
+      ],
+      "locations": []
+    },
+    "b6d60fa85987": {
+      "id": "b6d60fa85987",
+      "importance": "Medium",
+      "summary": "Housing market sees sharp post-summer buyer bounce",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Buyer",
+        "Housing"
+      ],
+      "locations": []
+    },
+    "56061e050d29": {
+      "id": "56061e050d29",
+      "importance": "Medium",
+      "summary": "It remains unclear how many estate agencies currently list with Zoopla",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Zoopla"
+      ],
+      "locations": []
+    },
+    "d04683e3f4a6": {
+      "id": "d04683e3f4a6",
+      "importance": "Medium",
+      "summary": "More than 8,500 tenanted homes currently on the market",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Thousands",
+        "More"
+      ],
+      "locations": []
+    },
+    "7a15f481fac9": {
+      "id": "7a15f481fac9",
+      "importance": "Medium",
+      "summary": "Landlord arrears hit record low after six-year decline",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rental",
+        "Landlord"
+      ],
+      "locations": []
+    },
+    "356062f52a89": {
+      "id": "356062f52a89",
+      "importance": "Medium",
+      "summary": "Rental market splits as rents fall in London and South East",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rental",
+        "London and South East"
+      ],
+      "locations": []
+    },
+    "8c2f5f1aa821": {
+      "id": "8c2f5f1aa821",
+      "importance": "Medium",
+      "summary": "Property industry raises £4,375 in 24-hour broadcast",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Property"
+      ],
+      "locations": []
+    },
+    "09e4cdc157c0": {
+      "id": "09e4cdc157c0",
+      "importance": "Medium",
+      "summary": "The listed property franchising group confirmed that the change took effect yesterday",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Major"
+      ],
+      "locations": []
+    },
+    "eb1ee1b250a1": {
+      "id": "eb1ee1b250a1",
+      "importance": "Medium",
+      "summary": "New builds are not simple, terraced houses less so",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Conveyancers"
+      ],
+      "locations": []
+    },
+    "326df1568f4e": {
+      "id": "326df1568f4e",
+      "importance": "Medium",
+      "summary": "The data comes from Rightmove",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Stronger-than-usual",
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    "ef504a8c86c2": {
+      "id": "ef504a8c86c2",
+      "importance": "Medium",
+      "summary": "The RICS survey is a sentiment measure, based on opinions from agents in the organisation.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "RICS",
+        "The RICS"
+      ],
+      "locations": []
+    },
+    "1f27df7730ba": {
+      "id": "1f27df7730ba",
+      "importance": "Medium",
+      "summary": "Parkers is a brand under The Property Franchise Group umbrella",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Parkers",
+        "The Property Franchise Group"
+      ],
+      "locations": []
+    },
+    "b789c96182e5": {
+      "id": "b789c96182e5",
+      "importance": "Medium",
+      "summary": "Agency group LRG has discovered the single biggest incentive",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Revealed",
+        "Agency"
+      ],
+      "locations": []
+    },
+    "700958ed5ec4": {
+      "id": "700958ed5ec4",
+      "importance": "Medium",
+      "summary": "It's happening next month in Bristol",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Digital",
+        "It's",
+        "Bristol"
+      ],
+      "locations": []
+    },
+    "44d1be33435c": {
+      "id": "44d1be33435c",
+      "importance": "Medium",
+      "summary": "It starts in December",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "f61c8b7cd819": {
+      "id": "f61c8b7cd819",
+      "importance": "Medium",
+      "summary": "Column - Akiva Goldfinch - In the Renters’ Rights Act era, live-in landlords must avoid ambiguous DIY contracts to prevent lodger disputes in court.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Column",
+        "Akiva Goldfinch",
+        "Renters’ Rights Act"
+      ],
+      "locations": []
+    },
+    "ef79b235c83c": {
+      "id": "ef79b235c83c",
+      "importance": "Medium",
+      "summary": "News - Tom Entwistle - The Renters’ Rights Act means landlords operating as a company face different rules than landlord owners",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Limited Companies",
+        "News",
+        "Tom Entwistle",
+        "The Renters’ Rights Act"
+      ],
+      "locations": []
+    },
+    "ff3517f9583a": {
+      "id": "ff3517f9583a",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Nottingham landlord Mick Roberts has hit out at the “stone age” court system after a possession order blunder.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlord",
+        "News",
+        "Helen Gregory",
+        "Nottingham"
+      ],
+      "locations": []
+    },
+    "3093bcd2dfd5": {
+      "id": "3093bcd2dfd5",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Tenants’ groups, MPs, and housing activists held a demonstration in Parliament Square calling for rent controls and new council houses.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "News",
+        "Helen Gregory",
+        "Tenants",
+        "Parliament Square"
+      ],
+      "locations": []
+    },
+    "49fc836c5845": {
+      "id": "49fc836c5845",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - HMRC’s Valuation Office is to take responsibility for determining challenges to rent increases in England to help free up tribunals.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "HMRC",
+        "England. News",
+        "Helen Gregory",
+        "HMRC’s Valuation Office"
+      ],
+      "locations": []
+    },
+    "7d7701310696": {
+      "id": "7d7701310696",
+      "importance": "Medium",
+      "summary": "National Travel Survey (NTS) covering personal travel in 2025 by residents of England. Statistics on how and why people travel, their vehicles and licences.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "National Travel Survey",
+        "England. Statistics"
+      ],
+      "locations": []
+    },
+    "e1f68930fb5e": {
+      "id": "e1f68930fb5e",
+      "importance": "Medium",
+      "summary": "This report examines the benefits of improved connectivity for public sector organisations.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Local Full Fibre Networks",
+        "Evaluation"
+      ],
+      "locations": []
+    },
+    "d9e30f30df99": {
+      "id": "d9e30f30df99",
+      "importance": "Medium",
+      "summary": "This report examines how the Local Full Fibre Networks programme has influenced local and national broadband markets.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Local Full Fibre Networks",
+        "Evaluation"
+      ],
+      "locations": []
+    },
+    "f0e91bd52385": {
+      "id": "f0e91bd52385",
+      "importance": "Medium",
+      "summary": "An evaluation of BDUK's Hub intervention, examining its impact on connecting GP surgeries and healthcare sites to gigabit broadband.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "BDUK Hubs",
+        "BDUK's Hub"
+      ],
+      "locations": []
+    },
+    "cf5a80e54f8f": {
+      "id": "cf5a80e54f8f",
+      "importance": "Medium",
+      "summary": "An evaluation of BDUK's Hub intervention, examining its impact on connecting libraries to gigabit broadband.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "BDUK Hubs",
+        "BDUK's Hub"
+      ],
+      "locations": []
+    },
+    "3502c1511749": {
+      "id": "3502c1511749",
+      "importance": "Medium",
+      "summary": "ACMD has written an updated harms assessment describing the use and harms of synthetic cathinones following a government commission.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Synthetic",
+        "ACMD"
+      ],
+      "locations": []
+    },
+    "f4709eb40f67": {
+      "id": "f4709eb40f67",
+      "importance": "Medium",
+      "summary": "Type and volume of tribunal cases received, disposed of or outstanding. This also includes statistics on the Gender Recognition Certificate applied for and granted by HMCTS Gender Recognition Panel.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tribunals",
+        "Type",
+        "Gender Recognition Certificate",
+        "HMCTS Gender Recognition Panel"
+      ],
+      "locations": []
+    },
+    "db647d138c9c": {
+      "id": "db647d138c9c",
+      "importance": "Medium",
+      "summary": "Quarterly statistical release on the number of heat pumps installed in the United Kingdom.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Heat",
+        "Quarterly",
+        "United Kingdom"
+      ],
+      "locations": []
+    },
+    "ca57fb71ab95": {
+      "id": "ca57fb71ab95",
+      "importance": "Medium",
+      "summary": "Previously published quarterly statistic notices on the movement testing for tuberculosis (TB) in cattle in Great Britain.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Historical",
+        "Cattle",
+        "Great Britain. Previously",
+        "Great Britain"
+      ],
+      "locations": []
+    },
+    "a2cd98a6bba2": {
+      "id": "a2cd98a6bba2",
+      "importance": "Medium",
+      "summary": "Statistics on visa applications for people coming to the UK for work, study and family reasons.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Monthly",
+        "Statistics"
+      ],
+      "locations": []
+    },
+    "36c5a8d9a9f7": {
+      "id": "36c5a8d9a9f7",
+      "importance": "Medium",
+      "summary": "Quarterly statistics on tuberculosis (TB) movement tests on cattle in Great Britain.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Latest",
+        "Great Britain",
+        "Quarterly"
+      ],
+      "locations": []
+    },
+    "af6377fe4b0f": {
+      "id": "af6377fe4b0f",
+      "importance": "Medium",
+      "summary": "Statistics on the number of cases referred to the National Referral Mechanism (NRM) awaiting a conclusive grounds decision, August 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Modern Slavery",
+        "Statistics",
+        "National Referral Mechanism"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 49,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
