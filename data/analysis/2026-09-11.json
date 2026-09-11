@@ -1,0 +1,805 @@
+{
+  "generated_at": "2026-09-11T12:26:20+00:00",
+  "date_label": "Friday 11 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n46 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Build-to-rent",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 7,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Renters’ Rights",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Landlord",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "UK Trade",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Total",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Index of Services",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Monthly",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "UK Gross Domestic Product",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Movements",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Figures",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Canadian Firm Raises",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Home UK BTR Push",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Starlight",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "UK BTR",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Bromford Flagship LiveWest",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "2067ef759fec": {
+      "id": "2067ef759fec",
+      "importance": "Medium",
+      "summary": "Starlight completes £680M fund to build 6,000 UK BTR homes, boosting a lagging sector.",
+      "why_it_matters": "",
+      "themes": [
+        "Build-to-rent",
+        "Residential investment"
+      ],
+      "companies": [
+        "Canadian Firm Raises",
+        "Home UK BTR Push",
+        "Starlight",
+        "UK BTR"
+      ],
+      "locations": []
+    },
+    "ddeb42dcf374": {
+      "id": "ddeb42dcf374",
+      "importance": "Medium",
+      "summary": "Housing association Bromford Flagship LiveWest is seeking to raise £2bn through a new programme of guaranteed secured notes",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Housing",
+        "Bromford Flagship LiveWest"
+      ],
+      "locations": []
+    },
+    "d47847598c95": {
+      "id": "d47847598c95",
+      "importance": "Medium",
+      "summary": "Greater London Authority will write to London providers with the outcome of their bid for the Social and Affordable Homes Programme “within days”, deputy mayor says",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "London",
+        "SAHP",
+        "Greater London Authority",
+        "Social and Affordable Homes Programme"
+      ],
+      "locations": []
+    },
+    "1c2b2f8cf0a9": {
+      "id": "1c2b2f8cf0a9",
+      "importance": "Medium",
+      "summary": "A planned government agency that aims to build 100,000 homes on surplus defence land has “no intention” of competing with private developers, MPs have heard",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Defence Housing Service"
+      ],
+      "locations": []
+    },
+    "2ea1e4b04785": {
+      "id": "2ea1e4b04785",
+      "importance": "Medium",
+      "summary": "Contractor Ardmore, whose construction business went into administration in June, has revealed several group companies will be wound down.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Collapsed",
+        "Contractor Ardmore"
+      ],
+      "locations": []
+    },
+    "febad1f9111b": {
+      "id": "febad1f9111b",
+      "importance": "Medium",
+      "summary": "Lady Godiva, Green Belt heckles, and unskilled games. The post THING OF THE WEEK appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "THING OF THE WEEK",
+        "Lady Godiva",
+        "Green Belt",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "30fe712df2f0": {
+      "id": "30fe712df2f0",
+      "importance": "Medium",
+      "summary": "While the decision to refuse the pipeline permission to conduct surveys on council-owned land was unanimous, it will likely only serve to delay the delivery of Progressive Energy’s carbon capture scheme. The post Wirral ",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Wirral",
+        "Peak Cluster",
+        "While",
+        "Progressive Energy’s"
+      ],
+      "locations": []
+    },
+    "05065a9beea4": {
+      "id": "05065a9beea4",
+      "importance": "Medium",
+      "summary": "Fiera Real Estate has sold the long leasehold of the 52,700 sq ft office building to its tenant. The post Radius acquires UK Fuels’ Crewe HQ appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Radius",
+        "UK Fuels’ Crewe HQ",
+        "Fiera Real Estate",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "1aa9fe92f751": {
+      "id": "1aa9fe92f751",
+      "importance": "Medium",
+      "summary": "Planning committee members voted unanimously to remove a barrier standing in the way of Morris Homes delivering hundreds of properties in Cottam. The post Preston clears path for 443 homes appeared first on Place North W",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Preston",
+        "Planning",
+        "Morris Homes",
+        "Cottam. The"
+      ],
+      "locations": []
+    },
+    "02d1d41047c6": {
+      "id": "02d1d41047c6",
+      "importance": "Medium",
+      "summary": "A little over two years since the city council's planning committee backed the creation of 2,388 flats in a quintet of glass towers rising to 71 storeys - and with the threat of a legal challenge by a rival developer loo",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Manchester",
+        "Renaker",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "000cc8e4dfbd": {
+      "id": "000cc8e4dfbd",
+      "importance": "Medium",
+      "summary": "The residential developer has acquired a plot off Worrall Street in Ordsall that the company is earmarking for redevelopment into 188 flats. The post TrueNorth Partnerships buys land for Salford affordable homes appeared",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "TrueNorth Partnerships",
+        "Salford",
+        "Worrall Street",
+        "Ordsall"
+      ],
+      "locations": []
+    },
+    "b0cd1984cf91": {
+      "id": "b0cd1984cf91",
+      "importance": "Medium",
+      "summary": "Virtue Developments, working with Sovini, wants to deliver a 123 affordable flats on the former Liverpool nightclub and cinema site at the junction of West Derby Road and Green Lane. The post Plans in for Tuebrook’s Coco",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Plans",
+        "Tuebrook’s Coconut Grove",
+        "Virtue Developments",
+        "Sovini"
+      ],
+      "locations": []
+    },
+    "ba1a083a354d": {
+      "id": "ba1a083a354d",
+      "importance": "Medium",
+      "summary": "Letting agents accused of introducing ‘underhand’ charges after rental reforms",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Letting"
+      ],
+      "locations": []
+    },
+    "097c0b958feb": {
+      "id": "097c0b958feb",
+      "importance": "Medium",
+      "summary": "Property disputes climb sharply as tribunal pressures mount",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Renters’ Rights"
+      ],
+      "locations": []
+    },
+    "4aa567d96f15": {
+      "id": "4aa567d96f15",
+      "importance": "Medium",
+      "summary": "Estate and letting agents missing out on potential commission from £89bn of empty homes",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "f77954eabd15": {
+      "id": "f77954eabd15",
+      "importance": "Medium",
+      "summary": "Former Labour leader’s home finds buyer after price reductions",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Jeremy Corbyn’s",
+        "Former Labour"
+      ],
+      "locations": []
+    },
+    "b652df431075": {
+      "id": "b652df431075",
+      "importance": "Medium",
+      "summary": "Saturday 11am revealed as the busiest hour for property viewings",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Saturday"
+      ],
+      "locations": []
+    },
+    "24a07764cc20": {
+      "id": "24a07764cc20",
+      "importance": "Medium",
+      "summary": "Leaseholders take control as Right to Manage activity hits record high",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Managing",
+        "Right",
+        "Manage",
+        "Leaseholders"
+      ],
+      "locations": []
+    },
+    "57a65e649a08": {
+      "id": "57a65e649a08",
+      "importance": "Medium",
+      "summary": "The Treasury has rejected calls for a new stamp duty break aimed at encouraging older homeowners and other owner-occupiers to move into smaller properties. HM Treasury confirmed it has no plans to introduce further Stamp",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Treasury",
+        "The Treasury",
+        "HM Treasury",
+        "Stamp Duty Land Tax"
+      ],
+      "locations": []
+    },
+    "b0506d6eb7c3": {
+      "id": "b0506d6eb7c3",
+      "importance": "Medium",
+      "summary": "Landlord pays the price as tougher licensing regime kicks in",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Renters’ Rights",
+        "Landlord"
+      ],
+      "locations": []
+    },
+    "924723542bb5": {
+      "id": "924723542bb5",
+      "importance": "Medium",
+      "summary": "House prices rise but flats fall as property market divide widens",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Flat",
+        "House"
+      ],
+      "locations": []
+    },
+    "c67620c23b46": {
+      "id": "c67620c23b46",
+      "importance": "Medium",
+      "summary": "Growing divide between property laws in England and Wales",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "England and Wales",
+        "Growing"
+      ],
+      "locations": []
+    },
+    "80724ca324ed": {
+      "id": "80724ca324ed",
+      "importance": "Medium",
+      "summary": "Housing secretary Angela Rayner said the scheme would become “one of the biggest regeneration projects in the country”",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Regional development"
+      ],
+      "companies": [
+        "Angela Rayner",
+        "Housing"
+      ],
+      "locations": []
+    },
+    "10007504bb29": {
+      "id": "10007504bb29",
+      "importance": "Medium",
+      "summary": "Lomond continues to grow its network through mergers and acquisitions",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Lomond"
+      ],
+      "locations": []
+    },
+    "0b9f0164b808": {
+      "id": "0b9f0164b808",
+      "importance": "Medium",
+      "summary": "SAM Conveyancing which has analysed HM Land Registry data",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "SAM Conveyancing",
+        "HM Land Registry"
+      ],
+      "locations": []
+    },
+    "c11cfd2d4775": {
+      "id": "c11cfd2d4775",
+      "importance": "Medium",
+      "summary": "It's thought 20% of agents are fearful of AI or its impact",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Reapit",
+        "AI. It's"
+      ],
+      "locations": []
+    },
+    "7ee4bc99f689": {
+      "id": "7ee4bc99f689",
+      "importance": "Medium",
+      "summary": "Most agents must know the answer already!",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Britain’s",
+        "Most"
+      ],
+      "locations": []
+    },
+    "4fffed3cc548": {
+      "id": "4fffed3cc548",
+      "importance": "Medium",
+      "summary": "It's the third year in a row that the agency has won the accolade",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency",
+        "It's"
+      ],
+      "locations": []
+    },
+    "dcff5903dc60": {
+      "id": "dcff5903dc60",
+      "importance": "Medium",
+      "summary": "He's moved from assistant manager to managing director",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Industry",
+        "He's"
+      ],
+      "locations": []
+    },
+    "db9587338e8c": {
+      "id": "db9587338e8c",
+      "importance": "Medium",
+      "summary": "Propertymark has responded to the Ministry of Housing, Communities and Local Government",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Qualified",
+        "Propertymark",
+        "Ministry of Housing",
+        "Communities and Local Government"
+      ],
+      "locations": []
+    },
+    "ff97b78c111d": {
+      "id": "ff97b78c111d",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - A landlord has challenged Thurrock Council over selective licensing rules which he says could",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlord",
+        "News",
+        "Helen Gregory",
+        "Thurrock Council"
+      ],
+      "locations": []
+    },
+    "b7290ebc4aff": {
+      "id": "b7290ebc4aff",
+      "importance": "Medium",
+      "summary": "News - Barry Soraff - Complex and outdated: as fiscal pressures mount, is the UK private rented sector heading for major property tax reform?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "News",
+        "Barry Soraff",
+        "Complex"
+      ],
+      "locations": []
+    },
+    "14b34c880ce1": {
+      "id": "14b34c880ce1",
+      "importance": "Medium",
+      "summary": "News - Maria White - Over 1 in 3 pensioner households could be renting by 2044, creating a major demographic shift for landlords and the PRS.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Older",
+        "News",
+        "Maria White",
+        "Over"
+      ],
+      "locations": []
+    },
+    "18507e2afa14": {
+      "id": "18507e2afa14",
+      "importance": "Medium",
+      "summary": "EU and non-EU import and export data for July 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "34c910033d3b": {
+      "id": "34c910033d3b",
+      "importance": "Medium",
+      "summary": "…This publication provides details of the overseas trade in goods statistics (OTS) of the UK. They are a comprehensive dataset covering the UK's trade in goods at country and product level.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK. They",
+        "UK's"
+      ],
+      "locations": []
+    },
+    "21612a6785e4": {
+      "id": "21612a6785e4",
+      "importance": "Medium",
+      "summary": "Total value of UK exports and imports of goods and services in current prices, chained volume measures and implied deflators.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK Trade",
+        "Total"
+      ],
+      "locations": []
+    },
+    "aee2e8bfed29": {
+      "id": "aee2e8bfed29",
+      "importance": "Medium",
+      "summary": "Monthly movements in gross value added for the service industries which overall account for around 79% of UK Gross Domestic Product (GDP).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Index of Services",
+        "Monthly",
+        "UK Gross Domestic Product"
+      ],
+      "locations": []
+    },
+    "5f43ee470f4a": {
+      "id": "5f43ee470f4a",
+      "importance": "Medium",
+      "summary": "Total value of UK exports and imports of goods and services in current prices, chained volume measures and implied deflators.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK Trade",
+        "Total"
+      ],
+      "locations": []
+    },
+    "b8c8b04ffa6e": {
+      "id": "b8c8b04ffa6e",
+      "importance": "Medium",
+      "summary": "Time series data as part of the monthly GDP publication.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Time"
+      ],
+      "locations": []
+    },
+    "f8f1c8b4575b": {
+      "id": "f8f1c8b4575b",
+      "importance": "Medium",
+      "summary": "Movements in the volume of production for the UK production industries: manufacturing, mining and quarrying, energy supply, and water and waste management. Figures are seasonally adjusted.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Index of Poduction",
+        "Movements",
+        "Figures"
+      ],
+      "locations": []
+    },
+    "9b0faec97835": {
+      "id": "9b0faec97835",
+      "importance": "Medium",
+      "summary": "Gross domestic product (GDP) measures the value of goods and services produced in the UK. It estimates the size of and growth in the economy.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Gross",
+        "UK. It"
+      ],
+      "locations": []
+    },
+    "ba3fbcee2355": {
+      "id": "ba3fbcee2355",
+      "importance": "Medium",
+      "summary": "Monthly movements in gross value added for the service industries which overall account for around 79% of UK Gross Domestic Product (GDP).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Index of Services",
+        "Monthly",
+        "UK Gross Domestic Product"
+      ],
+      "locations": []
+    },
+    "96b93b7236e9": {
+      "id": "96b93b7236e9",
+      "importance": "Medium",
+      "summary": "Movements in the volume of production for the UK production industries: manufacturing, mining and quarrying, energy supply, and water and waste management. Figures are seasonally adjusted.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Index of Production",
+        "Movements",
+        "Figures"
+      ],
+      "locations": []
+    },
+    "50f4c4c316a7": {
+      "id": "50f4c4c316a7",
+      "importance": "Medium",
+      "summary": "Annual TB monitoring data for each badger control area licensed from 2013 up to and including 2024.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Bovine TB",
+        "Annual TB"
+      ],
+      "locations": []
+    },
+    "b9a304dd7898": {
+      "id": "b9a304dd7898",
+      "importance": "Medium",
+      "summary": "​​Final report from the interim Chief Construction Adviser, summarising the work she has conducted.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Final",
+        "Chief Construction Adviser"
+      ],
+      "locations": []
+    },
+    "c2ae792884b1": {
+      "id": "c2ae792884b1",
+      "importance": "Medium",
+      "summary": "National influenza (flu) and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "National",
+        "COVID"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 46,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
