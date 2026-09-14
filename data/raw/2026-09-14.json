@@ -1,0 +1,681 @@
+{
+  "collected_at": "2026-09-14T14:33:14+00:00",
+  "date_london": "2026-09-14",
+  "counts": {
+    "seen_in_feeds": 51,
+    "new": 36,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 6,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 6"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 5,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 5"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 12,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 12"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 7,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 7"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 6,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 6"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 5,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 5"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Nearly 100 post-Grenfell building safety cases ongoing in High Court worth £1.2bn",
+      "url": "https://insidehousing.co.uk/home/nearly-100-post-grenfell-building-safety-cases-ongoing-in-high-court-worth-12bn-98706",
+      "published": "2026-09-14T11:05:33+00:00",
+      "excerpt": "There are 98 claims in the High Court continuing since 2018 over who will pay for unsafe cladding after the Grenfell Tower fire killed 72 people",
+      "entities": [
+        "Nearly",
+        "Grenfell",
+        "High Court",
+        "Grenfell Tower"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:23+00:00",
+      "id": "a60fbf52a65e"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Third consultation opens on revised Birmingham scheme with more social housing after High Court quashed earlier approval",
+      "url": "https://insidehousing.co.uk/home/third-consultation-opens-on-revised-birmingham-scheme-with-more-social-housing-after-high-court-quashed-earlier-approval-98699",
+      "published": "2026-09-14T14:16:42+00:00",
+      "excerpt": "Birmingham City Council has opened a third consultation on a controversial scheme after its previous approval was quashed by the High Court",
+      "entities": [
+        "Third",
+        "Birmingham",
+        "High Court",
+        "Birmingham City Council"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:23+00:00",
+      "id": "4017e395acf6"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Southampton consults on new local plan after government reforms",
+      "url": "https://insidehousing.co.uk/home/southampton-consults-on-new-local-plan-after-government-reforms-98700",
+      "published": "2026-09-14T09:45:00+00:00",
+      "excerpt": "Southampton City Council has launched a new consultation on a revised local plan",
+      "entities": [
+        "Southampton",
+        "Southampton City Council"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:23+00:00",
+      "id": "00087d19c83c"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Platform downgraded by S&P due to ‘debt-funded development programme resulting in weaker credit metrics’",
+      "url": "https://insidehousing.co.uk/home/platform-downgraded-by-sp-due-to-debt-funded-development-programme-resulting-in-weaker-credit-metrics-98702",
+      "published": "2026-09-14T14:17:12+00:00",
+      "excerpt": "Midlands landlord Platform has been downgraded by a rating agency partly because its “debt-funded development programme could result in even weaker credit metrics”",
+      "entities": [
+        "Platform",
+        "Midlands"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:23+00:00",
+      "id": "53a20ffc18f2"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "How a small regeneration turned into Acis’ most difficult development project to date",
+      "url": "https://insidehousing.co.uk/home/how-a-small-regeneration-turned-into-acis-most-difficult-development-project-to-date-98376",
+      "published": "2026-09-14T14:19:30+00:00",
+      "excerpt": "Acis Group went all in on its first regeneration scheme by turning a listed property into supported housing and community spaces. Eliza Parr visits to find out how the housing association made it work",
+      "entities": [
+        "Acis",
+        "Acis Group",
+        "Eliza Parr"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:23+00:00",
+      "id": "b65c5fe5b1a8"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Section 106 – the issue isn’t appetite, it’s engagement",
+      "url": "https://insidehousing.co.uk/home/section-106-the-issue-isnt-appetite-its-engagement-98653",
+      "published": "2026-09-14T06:00:00+00:00",
+      "excerpt": "Section 106 depends on building homes housing associations want to own, not just ones that meet a planning requirement, says Sian Webster at Yorkshire Housing",
+      "entities": [
+        "Section",
+        "Sian Webster",
+        "Yorkshire Housing"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:23+00:00",
+      "id": "12f27fae490b"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Connell Brothers awarded another Eccles demo job",
+      "url": "https://placenorthwest.co.uk/connell-brothers-awarded-another-eccles-demo-job",
+      "published": "2026-09-14T13:31:45+00:00",
+      "excerpt": "Salford City Council’s 35,000 sq ft Charles House is to be pulled down as work to clear a chunk of the town centre for regeneration continues. The post Connell Brothers awarded another Eccles demo job appeared first on Place North West .",
+      "entities": [
+        "Connell Brothers",
+        "Eccles",
+        "Salford City Council’s",
+        "Charles House",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:30+00:00",
+      "id": "802601c3f068"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Simtor’s 70 Cumbrian homes approved after four-year wait",
+      "url": "https://placenorthwest.co.uk/simtors-70-cumbrian-homes-approved-after-four-year-wait",
+      "published": "2026-09-14T10:26:36+00:00",
+      "excerpt": "The lifting of nutrient neutrality restrictions around Carlisle, and a positive verdict for the area’s planning committee, has meant the developer can finally progress its plans to build a neighbourhood on land west of Steeles Bank in Wetheral. The post Simtor’s 70 Cumbrian homes approved after four-year wait appeared first on Place North West .",
+      "entities": [
+        "Simtor’s",
+        "Cumbrian",
+        "Carlisle",
+        "Steeles Bank",
+        "Wetheral. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:30+00:00",
+      "id": "94eda43a7b8e"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Salford readies Eccles resi for consent",
+      "url": "https://placenorthwest.co.uk/salford-readies-eccles-resi-for-consent",
+      "published": "2026-09-14T10:24:51+00:00",
+      "excerpt": "Once earmarked for a 25-storey tower, the site of the former Vauxhall dealership on Albert Street is now the subject of plans for a six-storey scheme featuring a mix of one- and two-bedroom affordable apartments and townhouses. The post Salford readies Eccles resi for consent appeared first on Place North West .",
+      "entities": [
+        "Salford",
+        "Eccles",
+        "Once",
+        "Vauxhall",
+        "Albert Street",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:30+00:00",
+      "id": "afecf1e6037c"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Muller unveils 130-home ambition for Tattenhall",
+      "url": "https://placenorthwest.co.uk/muller-unveils-130-home-ambition-for-tattenhall",
+      "published": "2026-09-14T10:05:21+00:00",
+      "excerpt": "Consultation has begun for the property developer’s plans to build a neighbourhood with 39 affordable houses on 17.7 acres within the Cheshire village. The post Muller unveils 130-home ambition for Tattenhall appeared first on Place North West .",
+      "entities": [
+        "Muller",
+        "Tattenhall. Consultation",
+        "Cheshire",
+        "Tattenhall",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:30+00:00",
+      "id": "924ba42120d5"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Valad in pole position to acquire SimpsonHaugh’s former Manchester base",
+      "url": "https://placenorthwest.co.uk/valad-in-pole-position-to-acquire-simpsonhaughs-former-manchester-base",
+      "published": "2026-09-14T08:49:39+00:00",
+      "excerpt": "The investor has exchanged contracts with the architecture practice for the Commercial Street site and is working up plans for a co-living scheme. The post Valad in pole position to acquire SimpsonHaugh’s former Manchester base appeared first on Place North West .",
+      "entities": [
+        "Valad",
+        "SimpsonHaugh’s",
+        "Manchester",
+        "Commercial Street",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:30+00:00",
+      "id": "cc1faa80b719"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Interest rate stability could be coming to an end as markets price in hikes",
+      "url": "https://propertyindustryeye.com/interest-rate-stability-could-be-coming-to-an-end-as-markets-price-in-hikes",
+      "published": "2026-09-14T03:20:37+00:00",
+      "excerpt": "Interest rate increases back on the agenda as inflation concerns mount",
+      "entities": [
+        "Interest"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:30+00:00",
+      "id": "9ce661456808"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "It’s no joke! Comedian Michael McIntyre joins eXp UK",
+      "url": "https://propertyindustryeye.com/its-no-joke-comedian-michael-mcintyre-joins-exp-uk",
+      "published": "2026-09-14T03:00:18+00:00",
+      "excerpt": "Michael McIntyre is joining eXp UK",
+      "entities": [
+        "It’s",
+        "Comedian Michael McIntyre",
+        "UK. Michael McIntyre"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:30+00:00",
+      "id": "d67d9f556014"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency boss jailed over 19 cannabis factories",
+      "url": "https://propertyindustryeye.com/lettings-agency-boss-jailed-over-19-cannabis-factories",
+      "published": "2026-09-14T02:56:44+00:00",
+      "excerpt": "Estate agency director jailed over £2m cannabis operation",
+      "entities": [
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:30+00:00",
+      "id": "9f58a9c02ca3"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Buy-to-let company boom goes into reverse after 18 years",
+      "url": "https://propertyindustryeye.com/buy-to-let-company-boom-goes-into-reverse-after-18-years",
+      "published": "2026-09-14T02:54:53+00:00",
+      "excerpt": "Buy-to-let company formations slump as landlord transfers dry up",
+      "entities": [
+        "Buy-to-let"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:30+00:00",
+      "id": "d3013995b474"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency advances plans to turn HQ into 190 homes",
+      "url": "https://propertyindustryeye.com/estate-agency-advances-plans-to-turn-hq-into-190-homes",
+      "published": "2026-09-14T02:52:56+00:00",
+      "excerpt": "Estate agency pushes ahead with major redevelopment of HQ",
+      "entities": [
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:30+00:00",
+      "id": "baf0b4807796"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency gender pay gap widens as progress goes into reverse",
+      "url": "https://propertyindustryeye.com/estate-agency-gender-pay-gap-widens-as-progress-goes-into-reverse",
+      "published": "2026-09-14T02:50:16+00:00",
+      "excerpt": "Pay gap widens again across Britain’s largest estate agencies",
+      "entities": [
+        "Estate",
+        "Britain’s"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:30+00:00",
+      "id": "828e557a46bd"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agents under attack as cyber incidents jump 17%",
+      "url": "https://propertyindustryeye.com/estate-agents-under-attack-as-cyber-incidents-jump-17",
+      "published": "2026-09-14T02:40:13+00:00",
+      "excerpt": "Hackers turn their sights on estate agents as attacks surge",
+      "entities": [
+        "Estate",
+        "Hackers"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:30+00:00",
+      "id": "f49ce6924cbd"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "UK rents hit record high as affordability squeeze intensifies",
+      "url": "https://propertyindustryeye.com/uk-rents-hit-record-high-as-affordability-squeeze-intensifies",
+      "published": "2026-09-14T02:30:48+00:00",
+      "excerpt": "UK rents climb to record £1,382 as London hits £2,238",
+      "entities": [
+        "London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:30+00:00",
+      "id": "ce13f4e6a5c3"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Rental supply falls for first time in three years as rents accelerate",
+      "url": "https://propertyindustryeye.com/rental-supply-falls-for-first-time-in-three-years-as-rents-accelerate",
+      "published": "2026-09-14T01:50:06+00:00",
+      "excerpt": "Rental market tightens as supply falls and tenant competition rises",
+      "entities": [
+        "Rental"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:30+00:00",
+      "id": "efa045404320"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Government all but admits defeat on flagship 1.5m homes pledge",
+      "url": "https://propertyindustryeye.com/government-all-but-admits-defeat-on-flagship-1-5m-homes-pledge",
+      "published": "2026-09-14T00:50:43+00:00",
+      "excerpt": "Rayner concedes 1.5m homes target is now a ‘slim chance",
+      "entities": [
+        "Rayner"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:30+00:00",
+      "id": "cbf1787fd488"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Countdown begins as EA Masters prepares to crown UK’s top estate agencies",
+      "url": "https://propertyindustryeye.com/countdown-begins-as-ea-masters-prepares-to-crown-uks-top-estate-agencies",
+      "published": "2026-09-13T23:50:36+00:00",
+      "excerpt": "UK’s top estate agencies set to be crowned at EA Masters",
+      "entities": [
+        "Countdown",
+        "EA Masters",
+        "UK’s"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:30+00:00",
+      "id": "9ddd05865d31"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Fresh twist for major 3,500-home development",
+      "url": "https://propertyindustryeye.com/fresh-twist-for-major-3500-home-development",
+      "published": "2026-09-13T23:30:32+00:00",
+      "excerpt": "Major 3,500-home development faces fresh planning decision",
+      "entities": [
+        "Fresh",
+        "Major"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:30+00:00",
+      "id": "9605ca17629f"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Cyber attacks on property businesses show big rise",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/cyber-attacks-on-property-businesses-show-big-rise",
+      "published": "2026-09-13T23:06:00+00:00",
+      "excerpt": "Data comes from the Information Commissioner's Office",
+      "entities": [
+        "Cyber",
+        "Data",
+        "Information Commissioner's Office"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:31+00:00",
+      "id": "2db7e58678a1"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Connells Group backs plan to reform house buying",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/connells-group-backs-eight-point-plan-to-reform-house-buying",
+      "published": "2026-09-13T23:05:00+00:00",
+      "excerpt": "One reform campaign is marking its first anniversary",
+      "entities": [
+        "Connells Group"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:31+00:00",
+      "id": "6d3454d69385"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Mansion Tax to trigger valuation disputes and deter sales, say agents",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/mansion-tax-to-trigger-valuation-disputes-and-deter-sales-say-agents",
+      "published": "2026-09-13T23:04:00+00:00",
+      "excerpt": "The tax is annual and levelled against high value properties",
+      "entities": [
+        "Mansion Tax"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:31+00:00",
+      "id": "8d7e0e99042d"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Burnham bounce confirmed by agency",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/burnham-bounce-confirmed-by-agency",
+      "published": "2026-09-13T23:02:00+00:00",
+      "excerpt": "Budget tax speculation has been less-than-expected according to an agency",
+      "entities": [
+        "Burnham",
+        "Budget"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:31+00:00",
+      "id": "db8032177901"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "High mortgage rates hit London hard – Zoopla",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/high-mortgage-rates-hit-london-particularly-hard-zoopla",
+      "published": "2026-09-13T23:01:00+00:00",
+      "excerpt": "The impact is greatest where house prices are highest",
+      "entities": [
+        "High",
+        "London",
+        "Zoopla. The"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:31+00:00",
+      "id": "f8897be367e1"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agency talks up London market",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/agency-talks-up-london-sales-market",
+      "published": "2026-09-13T23:00:00+00:00",
+      "excerpt": "The claim comes from Chestertons",
+      "entities": [
+        "Agency",
+        "London",
+        "Chestertons"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:31+00:00",
+      "id": "613e5a0106d3"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Labour admits likely failure on 1.5m new homes target",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/labour-admits-likely-failure-on-1-5m-new-homes-target",
+      "published": "2026-09-12T23:50:00+00:00",
+      "excerpt": "Housing Secretary Angela Rayner says there’s only a “slim chance” it will meet its target of building 1.5m homes in England by the next election. Speaking on the BBC, Rayner says she’s not giving up but she blamed “headwinds” – inflation in the construction industry and the Iran War in particular. She says the government […]",
+      "entities": [
+        "Labour",
+        "Housing Secretary Angela Rayner",
+        "Speaking",
+        "Rayner",
+        "Iran War"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:31+00:00",
+      "id": "2e95a27fbc25"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "UK house prices drop as standoff continues",
+      "url": "https://landlordzone.co.uk/news/uk-house-prices-drop-as-standoff-continues",
+      "published": "2026-09-14T13:14:14+00:00",
+      "excerpt": "News - Maria White - UK house prices fell 0.4% annually to £298,468, driven by a standoff between stubborn sellers and cautious buyers.",
+      "entities": [
+        "News",
+        "Maria White"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:31+00:00",
+      "id": "8197fa0fb749"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Rents tipped to rise 5% as landlord investment slows",
+      "url": "https://landlordzone.co.uk/news/rents-tipped-to-rise-5-as-landlord-investment-slows",
+      "published": "2026-09-14T13:07:04+00:00",
+      "excerpt": "News - Helen Gregory - Higher mortgage rates locking renters in for longer and continued low investment by landlords is set to drive rents up 4-5% by the end of the year.",
+      "entities": [
+        "Rents",
+        "News",
+        "Helen Gregory",
+        "Higher"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:31+00:00",
+      "id": "23e1498c399f"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Letting agent jailed for using landlords' homes as cannabis factories",
+      "url": "https://landlordzone.co.uk/news/letting-agent-jailed-for-using-landlords-homes-as-cannabis-factories",
+      "published": "2026-09-14T10:59:04+00:00",
+      "excerpt": "News - Helen Gregory - The director of a letting agency who used his business to run 19 cannabis factories has been jailed for more than eight years.",
+      "entities": [
+        "Letting",
+        "News",
+        "Helen Gregory"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:31+00:00",
+      "id": "8b2f453c3c21"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Government warned over landlord Ombudsman data-sharing powers",
+      "url": "https://landlordzone.co.uk/news/government-warned-over-landlord-ombudsman-data-sharing-powers",
+      "published": "2026-09-14T10:00:54+00:00",
+      "excerpt": "News - Helen Gregory - The government should tread carefully when deciding what data can be shared from the new PRS Landlord Ombudsman, a property expert has warned.",
+      "entities": [
+        "Ombudsman",
+        "News",
+        "Helen Gregory",
+        "PRS Landlord Ombudsman"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-14T14:33:31+00:00",
+      "id": "8d86bc3e251f"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community Services Data Set and healthy child programme: data quality review, 2015 to 2025",
+      "url": "https://gov.uk/government/statistics/community-services-data-set-and-healthy-child-programme-data-quality-review-2015-to-2025",
+      "published": "2026-09-14T11:46:58+00:00",
+      "excerpt": "This review is a summary of analysis of the completeness of the CSDS for children aged 0 to 4 years.",
+      "entities": [
+        "Community Services Data Set",
+        "CSDS"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-14T14:33:32+00:00",
+      "id": "b67792097784"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Salmonid and freshwater fisheries statistics for England and Wales 2025",
+      "url": "https://gov.uk/government/publications/salmonid-and-freshwater-fisheries-statistics-for-england-and-wales-2025",
+      "published": "2026-09-14T06:00:00+00:00",
+      "excerpt": "Fisheries statistics report and data tables for commercial and recreational fisheries in England and Wales.",
+      "entities": [
+        "Salmonid",
+        "England and Wales",
+        "Fisheries"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-14T14:33:32+00:00",
+      "id": "0e1dd38d7001"
+    }
+  ]
+}

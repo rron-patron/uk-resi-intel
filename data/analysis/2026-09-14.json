@@ -1,0 +1,699 @@
+{
+  "generated_at": "2026-09-14T14:33:38+00:00",
+  "date_label": "Monday 14 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n36 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 6,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Build-to-rent",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "High Court",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Eccles",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Rayner",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Nearly",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Grenfell",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Grenfell Tower",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Third",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Birmingham",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Birmingham City Council",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Southampton",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Southampton City Council",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Platform",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Midlands",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Acis",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Acis Group",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "a60fbf52a65e": {
+      "id": "a60fbf52a65e",
+      "importance": "Medium",
+      "summary": "There are 98 claims in the High Court continuing since 2018 over who will pay for unsafe cladding after the Grenfell Tower fire killed 72 people",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Nearly",
+        "Grenfell",
+        "High Court",
+        "Grenfell Tower"
+      ],
+      "locations": []
+    },
+    "4017e395acf6": {
+      "id": "4017e395acf6",
+      "importance": "Medium",
+      "summary": "Birmingham City Council has opened a third consultation on a controversial scheme after its previous approval was quashed by the High Court",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Third",
+        "Birmingham",
+        "High Court",
+        "Birmingham City Council"
+      ],
+      "locations": []
+    },
+    "00087d19c83c": {
+      "id": "00087d19c83c",
+      "importance": "Medium",
+      "summary": "Southampton City Council has launched a new consultation on a revised local plan",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Southampton",
+        "Southampton City Council"
+      ],
+      "locations": []
+    },
+    "53a20ffc18f2": {
+      "id": "53a20ffc18f2",
+      "importance": "Medium",
+      "summary": "Midlands landlord Platform has been downgraded by a rating agency partly because its “debt-funded development programme could result in even weaker credit metrics”",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Platform",
+        "Midlands"
+      ],
+      "locations": []
+    },
+    "b65c5fe5b1a8": {
+      "id": "b65c5fe5b1a8",
+      "importance": "Medium",
+      "summary": "Acis Group went all in on its first regeneration scheme by turning a listed property into supported housing and community spaces. Eliza Parr visits to find out how the housing association made it work",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing",
+        "Regional development"
+      ],
+      "companies": [
+        "Acis",
+        "Acis Group",
+        "Eliza Parr"
+      ],
+      "locations": []
+    },
+    "12f27fae490b": {
+      "id": "12f27fae490b",
+      "importance": "Medium",
+      "summary": "Section 106 depends on building homes housing associations want to own, not just ones that meet a planning requirement, says Sian Webster at Yorkshire Housing",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Section",
+        "Sian Webster",
+        "Yorkshire Housing"
+      ],
+      "locations": []
+    },
+    "802601c3f068": {
+      "id": "802601c3f068",
+      "importance": "Medium",
+      "summary": "Salford City Council’s 35,000 sq ft Charles House is to be pulled down as work to clear a chunk of the town centre for regeneration continues. The post Connell Brothers awarded another Eccles demo job appeared first on P",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Connell Brothers",
+        "Eccles",
+        "Salford City Council’s",
+        "Charles House"
+      ],
+      "locations": []
+    },
+    "94eda43a7b8e": {
+      "id": "94eda43a7b8e",
+      "importance": "Medium",
+      "summary": "The lifting of nutrient neutrality restrictions around Carlisle, and a positive verdict for the area’s planning committee, has meant the developer can finally progress its plans to build a neighbourhood on land west of S",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Simtor’s",
+        "Cumbrian",
+        "Carlisle",
+        "Steeles Bank"
+      ],
+      "locations": []
+    },
+    "afecf1e6037c": {
+      "id": "afecf1e6037c",
+      "importance": "Medium",
+      "summary": "Once earmarked for a 25-storey tower, the site of the former Vauxhall dealership on Albert Street is now the subject of plans for a six-storey scheme featuring a mix of one- and two-bedroom affordable apartments and town",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Salford",
+        "Eccles",
+        "Once",
+        "Vauxhall"
+      ],
+      "locations": []
+    },
+    "924ba42120d5": {
+      "id": "924ba42120d5",
+      "importance": "Medium",
+      "summary": "Consultation has begun for the property developer’s plans to build a neighbourhood with 39 affordable houses on 17.7 acres within the Cheshire village. The post Muller unveils 130-home ambition for Tattenhall appeared fi",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Muller",
+        "Tattenhall. Consultation",
+        "Cheshire",
+        "Tattenhall"
+      ],
+      "locations": []
+    },
+    "cc1faa80b719": {
+      "id": "cc1faa80b719",
+      "importance": "Medium",
+      "summary": "The investor has exchanged contracts with the architecture practice for the Commercial Street site and is working up plans for a co-living scheme. The post Valad in pole position to acquire SimpsonHaugh’s former Manchest",
+      "why_it_matters": "",
+      "themes": [
+        "Build-to-rent"
+      ],
+      "companies": [
+        "Valad",
+        "SimpsonHaugh’s",
+        "Manchester",
+        "Commercial Street"
+      ],
+      "locations": []
+    },
+    "9ce661456808": {
+      "id": "9ce661456808",
+      "importance": "Medium",
+      "summary": "Interest rate increases back on the agenda as inflation concerns mount",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Interest"
+      ],
+      "locations": []
+    },
+    "d67d9f556014": {
+      "id": "d67d9f556014",
+      "importance": "Medium",
+      "summary": "Michael McIntyre is joining eXp UK",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "It’s",
+        "Comedian Michael McIntyre",
+        "UK. Michael McIntyre"
+      ],
+      "locations": []
+    },
+    "9f58a9c02ca3": {
+      "id": "9f58a9c02ca3",
+      "importance": "Medium",
+      "summary": "Estate agency director jailed over £2m cannabis operation",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "d3013995b474": {
+      "id": "d3013995b474",
+      "importance": "Medium",
+      "summary": "Buy-to-let company formations slump as landlord transfers dry up",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Buy-to-let"
+      ],
+      "locations": []
+    },
+    "baf0b4807796": {
+      "id": "baf0b4807796",
+      "importance": "Medium",
+      "summary": "Estate agency pushes ahead with major redevelopment of HQ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "828e557a46bd": {
+      "id": "828e557a46bd",
+      "importance": "Medium",
+      "summary": "Pay gap widens again across Britain’s largest estate agencies",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Britain’s"
+      ],
+      "locations": []
+    },
+    "f49ce6924cbd": {
+      "id": "f49ce6924cbd",
+      "importance": "Medium",
+      "summary": "Hackers turn their sights on estate agents as attacks surge",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Hackers"
+      ],
+      "locations": []
+    },
+    "ce13f4e6a5c3": {
+      "id": "ce13f4e6a5c3",
+      "importance": "Medium",
+      "summary": "UK rents climb to record £1,382 as London hits £2,238",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "London"
+      ],
+      "locations": []
+    },
+    "efa045404320": {
+      "id": "efa045404320",
+      "importance": "Medium",
+      "summary": "Rental market tightens as supply falls and tenant competition rises",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Rental"
+      ],
+      "locations": []
+    },
+    "cbf1787fd488": {
+      "id": "cbf1787fd488",
+      "importance": "Medium",
+      "summary": "Rayner concedes 1.5m homes target is now a ‘slim chance",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Rayner"
+      ],
+      "locations": []
+    },
+    "9ddd05865d31": {
+      "id": "9ddd05865d31",
+      "importance": "Medium",
+      "summary": "UK’s top estate agencies set to be crowned at EA Masters",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Countdown",
+        "EA Masters",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    "9605ca17629f": {
+      "id": "9605ca17629f",
+      "importance": "Medium",
+      "summary": "Major 3,500-home development faces fresh planning decision",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Fresh",
+        "Major"
+      ],
+      "locations": []
+    },
+    "2db7e58678a1": {
+      "id": "2db7e58678a1",
+      "importance": "Medium",
+      "summary": "Data comes from the Information Commissioner's Office",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Cyber",
+        "Data",
+        "Information Commissioner's Office"
+      ],
+      "locations": []
+    },
+    "6d3454d69385": {
+      "id": "6d3454d69385",
+      "importance": "Medium",
+      "summary": "One reform campaign is marking its first anniversary",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Connells Group"
+      ],
+      "locations": []
+    },
+    "8d7e0e99042d": {
+      "id": "8d7e0e99042d",
+      "importance": "Medium",
+      "summary": "The tax is annual and levelled against high value properties",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Mansion Tax"
+      ],
+      "locations": []
+    },
+    "db8032177901": {
+      "id": "db8032177901",
+      "importance": "Medium",
+      "summary": "Budget tax speculation has been less-than-expected according to an agency",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Burnham",
+        "Budget"
+      ],
+      "locations": []
+    },
+    "f8897be367e1": {
+      "id": "f8897be367e1",
+      "importance": "Medium",
+      "summary": "The impact is greatest where house prices are highest",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "High",
+        "London",
+        "Zoopla. The"
+      ],
+      "locations": []
+    },
+    "613e5a0106d3": {
+      "id": "613e5a0106d3",
+      "importance": "Medium",
+      "summary": "The claim comes from Chestertons",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency",
+        "London",
+        "Chestertons"
+      ],
+      "locations": []
+    },
+    "2e95a27fbc25": {
+      "id": "2e95a27fbc25",
+      "importance": "Medium",
+      "summary": "Housing Secretary Angela Rayner says there’s only a “slim chance” it will meet its target of building 1.5m homes in England by the next election. Speaking on the BBC, Rayner says she’s not giving up but she blamed “headw",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Labour",
+        "Housing Secretary Angela Rayner",
+        "Speaking",
+        "Rayner"
+      ],
+      "locations": []
+    },
+    "8197fa0fb749": {
+      "id": "8197fa0fb749",
+      "importance": "Medium",
+      "summary": "News - Maria White - UK house prices fell 0.4% annually to £298,468, driven by a standoff between stubborn sellers and cautious buyers.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "News",
+        "Maria White"
+      ],
+      "locations": []
+    },
+    "23e1498c399f": {
+      "id": "23e1498c399f",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Higher mortgage rates locking renters in for longer and continued low investment by landlords is set to drive rents up 4-5% by the end of the year.",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages",
+        "Residential investment"
+      ],
+      "companies": [
+        "Rents",
+        "News",
+        "Helen Gregory",
+        "Higher"
+      ],
+      "locations": []
+    },
+    "8b2f453c3c21": {
+      "id": "8b2f453c3c21",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - The director of a letting agency who used his business to run 19 cannabis factories has been jailed for more than eight years.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Letting",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "8d86bc3e251f": {
+      "id": "8d86bc3e251f",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - The government should tread carefully when deciding what data can be shared from the new PRS Landlord Ombudsman, a property expert has warned.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Ombudsman",
+        "News",
+        "Helen Gregory",
+        "PRS Landlord Ombudsman"
+      ],
+      "locations": []
+    },
+    "b67792097784": {
+      "id": "b67792097784",
+      "importance": "Medium",
+      "summary": "This review is a summary of analysis of the completeness of the CSDS for children aged 0 to 4 years.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community Services Data Set",
+        "CSDS"
+      ],
+      "locations": []
+    },
+    "0e1dd38d7001": {
+      "id": "0e1dd38d7001",
+      "importance": "Medium",
+      "summary": "Fisheries statistics report and data tables for commercial and recreational fisheries in England and Wales.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Salmonid",
+        "England and Wales",
+        "Fisheries"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 36,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
