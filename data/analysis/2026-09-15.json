@@ -1,0 +1,792 @@
+{
+  "generated_at": "2026-09-15T12:59:03+00:00",
+  "date_label": "Tuesday 15 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n48 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Build-to-rent",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "HMRC",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Personal Independence Payment",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Northern Ireland",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "With",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "HM Revenue and Customs",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Statistics",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "These",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Public",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Battersea Power Station Reveals",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Plans To Double Development",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Again. Battersea Power Station",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Co-ownership",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Northern Ireland’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Treasury-backed",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Scottish",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "9d3d5a0d4363": {
+      "id": "9d3d5a0d4363",
+      "importance": "Medium",
+      "summary": "Battersea Power Station aims to double its development with new residential, commercial and leisure space.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Battersea Power Station Reveals",
+        "Plans To Double Development",
+        "Again. Battersea Power Station"
+      ],
+      "locations": []
+    },
+    "960e40256677": {
+      "id": "960e40256677",
+      "importance": "Medium",
+      "summary": "A major trade body in Northern Ireland has warned that the government needs to inject at least £20m extra into development to meet its delivery goals",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Northern Ireland"
+      ],
+      "locations": []
+    },
+    "53acb5495427": {
+      "id": "53acb5495427",
+      "importance": "Medium",
+      "summary": "Northern Ireland’s co-ownership property value limit will be increased for the second time in the space of a year",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Co-ownership",
+        "Northern Ireland",
+        "Northern Ireland’s"
+      ],
+      "locations": []
+    },
+    "6ae1d7918c6e": {
+      "id": "6ae1d7918c6e",
+      "importance": "Medium",
+      "summary": "The City of Edinburgh Council can progress the Granton Waterfront regeneration thanks to a loan from the National Wealth Fund",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Regional development"
+      ],
+      "companies": [
+        "Treasury-backed",
+        "Scottish",
+        "The City of Edinburgh Council",
+        "Granton Waterfront"
+      ],
+      "locations": []
+    },
+    "d531e335e6f4": {
+      "id": "d531e335e6f4",
+      "importance": "Medium",
+      "summary": "The council has been without a primary political figure since May 2026. With no end in sight to the current stalemate, the local authority has outlined how best to move forward. The post How Oldham will function without ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "How Oldham",
+        "Leader. The",
+        "With",
+        "Leader"
+      ],
+      "locations": []
+    },
+    "4114404f9ae9": {
+      "id": "4114404f9ae9",
+      "importance": "Medium",
+      "summary": "The contractor-developer showed Place around its 19-home gated community in Tyldesley, walking us through the potential small- and medium-sized businesses have to address the housing crisis. The post VIDEO | Chambers Cap",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "VIDEO",
+        "Chambers Capital’s Rosalyn Heights",
+        "SMEs. The",
+        "Place"
+      ],
+      "locations": []
+    },
+    "70307547ce36": {
+      "id": "70307547ce36",
+      "importance": "Medium",
+      "summary": "The Department for Net Zero and Energy Security has granted development consent orders for onshore infrastructure in Fylde for the Morgan and Morecambe offshore wind farms, which are due to be built in the East Irish Sea",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Wind",
+        "The Department",
+        "Net Zero and Energy Security",
+        "Fylde"
+      ],
+      "locations": []
+    },
+    "6e2abf690ec5": {
+      "id": "6e2abf690ec5",
+      "importance": "Medium",
+      "summary": "Ignite Padel has submitted proposals for a 34,000 sq ft indoor facility in Hunt’s Cross. The post Plans in for padel courts in Liverpool shed appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Plans",
+        "Liverpool",
+        "Ignite Padel",
+        "Hunt’s Cross. The"
+      ],
+      "locations": []
+    },
+    "7d543a4a8fcb": {
+      "id": "7d543a4a8fcb",
+      "importance": "Medium",
+      "summary": "Paragon Property is awaiting the green light from the local authority for an apartment scheme off Chester Road. The post Council to approve 286-flat Old Trafford BTR appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Build-to-rent"
+      ],
+      "companies": [
+        "Old Trafford BTR. Paragon Property",
+        "Chester Road. The",
+        "Old Trafford BTR",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "178c744f959c": {
+      "id": "178c744f959c",
+      "importance": "Medium",
+      "summary": "Estate agency profits jump 24%",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "EYE NEWSFLASH",
+        "Estate"
+      ],
+      "locations": []
+    },
+    "d39e79b63c59": {
+      "id": "d39e79b63c59",
+      "importance": "Medium",
+      "summary": "The purchase extends the independent estate agency's presence across the county",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Family-run"
+      ],
+      "locations": []
+    },
+    "fb6afd90a15b": {
+      "id": "fb6afd90a15b",
+      "importance": "Medium",
+      "summary": "With home buying reform accelerating, AI reshaping what agencies can do, and the adoption curve separating the confident from the complacent, this is not a moment to wait for perfect",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "With"
+      ],
+      "locations": []
+    },
+    "2067a80092fe": {
+      "id": "2067a80092fe",
+      "importance": "Medium",
+      "summary": "New upfront property surveys aim to speed up home sales",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Could"
+      ],
+      "locations": []
+    },
+    "f0cccacc8c19": {
+      "id": "f0cccacc8c19",
+      "importance": "Medium",
+      "summary": "Property sales slide for fourth month as supply hits decade high",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Housing",
+        "Property"
+      ],
+      "locations": []
+    },
+    "c2d231329da1": {
+      "id": "c2d231329da1",
+      "importance": "Medium",
+      "summary": "Estate agency enters new market with 13th UK office",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "c46feff00de6": {
+      "id": "c46feff00de6",
+      "importance": "Medium",
+      "summary": "The number of property sales agreed last month proved more resilient",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property"
+      ],
+      "locations": []
+    },
+    "aada856380d9": {
+      "id": "aada856380d9",
+      "importance": "Medium",
+      "summary": "New data reveals growing out-of-hours headache for letting agents and property managers",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "ab40a64ec664": {
+      "id": "ab40a64ec664",
+      "importance": "Medium",
+      "summary": "Landlords turn to home turf as regional investment rises",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Landlords"
+      ],
+      "locations": []
+    },
+    "6189f145142d": {
+      "id": "6189f145142d",
+      "importance": "Medium",
+      "summary": "Bills-included rentals surge in some regions - but barely feature in others",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Bills-included"
+      ],
+      "locations": []
+    },
+    "12ffdacd8d67": {
+      "id": "12ffdacd8d67",
+      "importance": "Medium",
+      "summary": "Noel Gallagher gets go-ahead for major renovation",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "The Masterplan",
+        "Oasis",
+        "Noel Gallagher"
+      ],
+      "locations": []
+    },
+    "e8812e08d117": {
+      "id": "e8812e08d117",
+      "importance": "Medium",
+      "summary": "Knight Frank opens new office",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Knight Frank"
+      ],
+      "locations": []
+    },
+    "e87faa122f50": {
+      "id": "e87faa122f50",
+      "importance": "Medium",
+      "summary": "This feeds into the government's house buying reform programme",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "e400734bcbe6": {
+      "id": "e400734bcbe6",
+      "importance": "Medium",
+      "summary": "She brings over 15 years of experience to an office that is the eighth in the region",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "National"
+      ],
+      "locations": []
+    },
+    "59449abad378": {
+      "id": "59449abad378",
+      "importance": "Medium",
+      "summary": "He has over 30 years experience, including running his own agency",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "High"
+      ],
+      "locations": []
+    },
+    "7766ebd42427": {
+      "id": "7766ebd42427",
+      "importance": "Medium",
+      "summary": "Property consultancy Bradley Hall has launched its 13th UK office, with a new base in Edinburgh. The new office is the firm’s first in Scotland, and will support clients across Edinburgh and Central locations across the ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "UK. Property",
+        "Bradley Hall",
+        "Edinburgh. The"
+      ],
+      "locations": []
+    },
+    "34acb369dc78": {
+      "id": "34acb369dc78",
+      "importance": "Medium",
+      "summary": "The data comes from property consultancy TwentyCi",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Sales",
+        "TwentyCi"
+      ],
+      "locations": []
+    },
+    "4e59622f2046": {
+      "id": "4e59622f2046",
+      "importance": "Medium",
+      "summary": "Prospective buyers have an 'excitement curve' it is claimed",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Viewing",
+        "Prospective"
+      ],
+      "locations": []
+    },
+    "941d13a5e64d": {
+      "id": "941d13a5e64d",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Tribunals are generally giving landlords most of what they asked for in rent increase cases since the Renters’ Rights Act.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Most",
+        "News",
+        "Helen Gregory",
+        "Tribunals"
+      ],
+      "locations": []
+    },
+    "ef662e44cc9a": {
+      "id": "ef662e44cc9a",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Houses are dominating rental demand across England, accounting for almost two-thirds of properties attracting high levels of tenant interest.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Houses",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "dd1b88a24dae": {
+      "id": "dd1b88a24dae",
+      "importance": "Medium",
+      "summary": "HM Revenue and Customs' record of those who have pre-release access to Official Statistics.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "HMRC",
+        "HM Revenue and Customs",
+        "Official Statistics"
+      ],
+      "locations": []
+    },
+    "9fa8ecc27484": {
+      "id": "9fa8ecc27484",
+      "importance": "Medium",
+      "summary": "Six year data snapshot of asset recovery for England, Wales and Northern Ireland and data on the Asset Recovery Incentivisation Scheme.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Asset",
+        "Wales and Northern Ireland",
+        "Asset Recovery Incentivisation Scheme"
+      ],
+      "locations": []
+    },
+    "a9d2bb2de665": {
+      "id": "a9d2bb2de665",
+      "importance": "Medium",
+      "summary": "Accredited Official Statistics and Official Statistics release of the main DWP-administered benefits.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Annual DWP Benefits Statistics",
+        "Compendium",
+        "Accredited Official Statistics and Official",
+        "Statistics"
+      ],
+      "locations": []
+    },
+    "29101629bbc1": {
+      "id": "29101629bbc1",
+      "importance": "Medium",
+      "summary": "Quarterly statistics including numbers of claims with entitlement, new claim registrations, decisions and awards made.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Personal Independence Payment",
+        "Quarterly"
+      ],
+      "locations": []
+    },
+    "015516f9c73f": {
+      "id": "015516f9c73f",
+      "importance": "Medium",
+      "summary": "HMRC statistics on taxes and benefits administered by HMRC.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Statistics",
+        "HMRC. HMRC",
+        "HMRC"
+      ],
+      "locations": []
+    },
+    "484a70bf7c2f": {
+      "id": "484a70bf7c2f",
+      "importance": "Medium",
+      "summary": "Management Information relating to the Health Transformation Programme.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Health Transformation Programme Management",
+        "Information",
+        "Management Information",
+        "Health Transformation Programme"
+      ],
+      "locations": []
+    },
+    "f19c946dcb5c": {
+      "id": "f19c946dcb5c",
+      "importance": "Medium",
+      "summary": "This ad hoc publication provides information on the mode of Personal Independence Payment (PIP) health assessments, decisions following assessments, and claimants’ age, gender and primary medical condition.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Personal Independence Payment"
+      ],
+      "locations": []
+    },
+    "0f1d530e8bd1": {
+      "id": "0f1d530e8bd1",
+      "importance": "Medium",
+      "summary": "From 2001 to 2025, 255 people were notified with leprosy in the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Leprosy",
+        "From"
+      ],
+      "locations": []
+    },
+    "f3d3e4b27492": {
+      "id": "f3d3e4b27492",
+      "importance": "Medium",
+      "summary": "Personal Independence Payment (PIP) and Work Capability Assessments (WCA) assessment volumes and channels in Great Britain from January 2021 to July 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Health Assessment Statistics",
+        "PIP and WCA",
+        "Personal Independence Payment",
+        "Work Capability Assessments"
+      ],
+      "locations": []
+    },
+    "e9ec148e4281": {
+      "id": "e9ec148e4281",
+      "importance": "Medium",
+      "summary": "These statistics cover the number of people on Universal Credit with a health condition or disability restricting their ability to work.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Universal Credit Health",
+        "These",
+        "Universal Credit"
+      ],
+      "locations": []
+    },
+    "c34230fd050c": {
+      "id": "c34230fd050c",
+      "importance": "Medium",
+      "summary": "This annual publication provides an overview of funding levels and recovery plans in occupational defined benefit (DB) and hybrid pension schemes in the UK.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Occupational"
+      ],
+      "locations": []
+    },
+    "2e42e094cee4": {
+      "id": "2e42e094cee4",
+      "importance": "Medium",
+      "summary": "A report presenting the findings from research conducted by Ipsos UK in 2023, commissioned by the Criminal Finances and Asset Recovery team in the Home Office.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Best",
+        "POCA",
+        "Environment",
+        "Ipsos UK"
+      ],
+      "locations": []
+    },
+    "f957815f34db": {
+      "id": "f957815f34db",
+      "importance": "Medium",
+      "summary": "Findings from a nationally representative survey, providing insight into public awareness and concern about money laundering.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Public",
+        "UK. Findings"
+      ],
+      "locations": []
+    },
+    "4f24a223e280": {
+      "id": "4f24a223e280",
+      "importance": "Medium",
+      "summary": "Annual statistics on the number of Winter Fuel Payments made in winter 2025 to 2026 to recipients and beneficiaries.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Winter Fuel Payment",
+        "Annual",
+        "Winter Fuel Payments"
+      ],
+      "locations": []
+    },
+    "711f39a3f782": {
+      "id": "711f39a3f782",
+      "importance": "Medium",
+      "summary": "To examine whether remote assessment channels drive different award outcomes.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Health Assessment Channels Trial"
+      ],
+      "locations": []
+    },
+    "fa89c074fcc7": {
+      "id": "fa89c074fcc7",
+      "importance": "Medium",
+      "summary": "This report estimates the proceeds of certain profit-driven crime in England and Wales in 2023 to 2024.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "England and Wales"
+      ],
+      "locations": []
+    },
+    "a299c573ea63": {
+      "id": "a299c573ea63",
+      "importance": "Medium",
+      "summary": "Seasonally adjusted and non-seasonally adjusted quarterly time series of UK public sector employment, containing the latest estimates.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Public",
+        "Seasonally"
+      ],
+      "locations": []
+    },
+    "bd0ee73b81fc": {
+      "id": "bd0ee73b81fc",
+      "importance": "Medium",
+      "summary": "Monthly estimates of payrolled employees and their pay from HM Revenue and Customs’ (HMRC’s) Pay As You Earn (PAYE) Real Time Information (RTI) data. This is a joint release between HMRC and the Office for National Stati",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Earnings",
+        "Pay As You Earn",
+        "Real Time Information",
+        "Monthly"
+      ],
+      "locations": []
+    },
+    "0d9525d17f84": {
+      "id": "0d9525d17f84",
+      "importance": "Medium",
+      "summary": "Regional, local authority, and parliamentary constituency breakdowns of changes in UK employment, unemployment, and economic inactivity, and other related statistics. These are official statistics in development.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Labour",
+        "Regional",
+        "These"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 48,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}

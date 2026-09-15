@@ -1,0 +1,866 @@
+{
+  "collected_at": "2026-09-15T12:58:43+00:00",
+  "date_london": "2026-09-15",
+  "counts": {
+    "seen_in_feeds": 89,
+    "new": 48,
+    "sources_live": 8,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "feed",
+      "url": "https://www.bisnow.com/london/rss",
+      "found": 1,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 1"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 8,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 8"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 10,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 10"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 8,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 8"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "bisnow_uk",
+      "source_name": "Bisnow UK",
+      "title": "Battersea Power Station Reveals Plans To Double Development Again",
+      "url": "https://bisnow.com/news/london/master-planned-communities/battersea-power-station-reveals-plans-to-double-development-again",
+      "published": "2026-09-14T16:51:30+00:00",
+      "excerpt": "Battersea Power Station aims to double its development with new residential, commercial and leisure space.",
+      "entities": [
+        "Battersea Power Station Reveals",
+        "Plans To Double Development",
+        "Again. Battersea Power Station"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:44+00:00",
+      "id": "9d3d5a0d4363"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "At least £20m cash uplift needed to meet development target in Northern Ireland",
+      "url": "https://insidehousing.co.uk/home/at-least-20m-cash-uplift-needed-to-meet-development-target-in-northern-ireland-98694",
+      "published": "2026-09-15T10:45:00+00:00",
+      "excerpt": "A major trade body in Northern Ireland has warned that the government needs to inject at least £20m extra into development to meet its delivery goals",
+      "entities": [
+        "Northern Ireland"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:45+00:00",
+      "id": "960e40256677"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Co-ownership property value limit raised in Northern Ireland for second time in space of year",
+      "url": "https://insidehousing.co.uk/home/co-ownership-property-value-limit-raised-in-northern-ireland-for-second-time-in-space-of-year-98695",
+      "published": "2026-09-15T07:00:00+00:00",
+      "excerpt": "Northern Ireland’s co-ownership property value limit will be increased for the second time in the space of a year",
+      "entities": [
+        "Co-ownership",
+        "Northern Ireland",
+        "Northern Ireland’s"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:45+00:00",
+      "id": "53acb5495427"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Treasury-backed scheme loans £38.4m to Scottish council",
+      "url": "https://insidehousing.co.uk/home/treasury-backed-scheme-loans-384m-to-scottish-council-98697",
+      "published": "2026-09-14T15:00:00+00:00",
+      "excerpt": "The City of Edinburgh Council can progress the Granton Waterfront regeneration thanks to a loan from the National Wealth Fund",
+      "entities": [
+        "Treasury-backed",
+        "Scottish",
+        "The City of Edinburgh Council",
+        "Granton Waterfront",
+        "National Wealth Fund"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:45+00:00",
+      "id": "6ae1d7918c6e"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "How Oldham will function without a Leader",
+      "url": "https://placenorthwest.co.uk/how-oldham-will-function-without-a-leader",
+      "published": "2026-09-15T11:08:20+00:00",
+      "excerpt": "The council has been without a primary political figure since May 2026. With no end in sight to the current stalemate, the local authority has outlined how best to move forward. The post How Oldham will function without a Leader appeared first on Place North West .",
+      "entities": [
+        "How Oldham",
+        "Leader. The",
+        "With",
+        "Leader",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:52+00:00",
+      "id": "d531e335e6f4"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "VIDEO | Chambers Capital’s Rosalyn Heights showcases the power of SMEs",
+      "url": "https://placenorthwest.co.uk/video-chambers-capitals-rosalyn-heights-showcases-the-power-of-smes",
+      "published": "2026-09-15T10:45:18+00:00",
+      "excerpt": "The contractor-developer showed Place around its 19-home gated community in Tyldesley, walking us through the potential small- and medium-sized businesses have to address the housing crisis. The post VIDEO | Chambers Capital’s Rosalyn Heights showcases the power of SMEs appeared first on Place North West .",
+      "entities": [
+        "VIDEO",
+        "Chambers Capital’s Rosalyn Heights",
+        "SMEs. The",
+        "Place",
+        "Tyldesley",
+        "SMEs",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:52+00:00",
+      "id": "4114404f9ae9"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Wind farms with potential to power 2m homes approved",
+      "url": "https://placenorthwest.co.uk/windfarms-with-potential-to-power-2m-homes-approved",
+      "published": "2026-09-15T10:33:51+00:00",
+      "excerpt": "The Department for Net Zero and Energy Security has granted development consent orders for onshore infrastructure in Fylde for the Morgan and Morecambe offshore wind farms, which are due to be built in the East Irish Sea. The post Wind farms with potential to power 2m homes approved appeared first on Place North West .",
+      "entities": [
+        "Wind",
+        "The Department",
+        "Net Zero and Energy Security",
+        "Fylde",
+        "Morgan and Morecambe",
+        "East Irish Sea. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:52+00:00",
+      "id": "70307547ce36"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Plans in for padel courts in Liverpool shed",
+      "url": "https://placenorthwest.co.uk/plans-in-for-padel-courts-in-liverpool-shed",
+      "published": "2026-09-15T10:18:07+00:00",
+      "excerpt": "Ignite Padel has submitted proposals for a 34,000 sq ft indoor facility in Hunt’s Cross. The post Plans in for padel courts in Liverpool shed appeared first on Place North West .",
+      "entities": [
+        "Plans",
+        "Liverpool",
+        "Ignite Padel",
+        "Hunt’s Cross. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:52+00:00",
+      "id": "6e2abf690ec5"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Council to approve 286-flat Old Trafford BTR",
+      "url": "https://placenorthwest.co.uk/trafford-to-approve-286-flat-stretford-btr",
+      "published": "2026-09-15T09:16:40+00:00",
+      "excerpt": "Paragon Property is awaiting the green light from the local authority for an apartment scheme off Chester Road. The post Council to approve 286-flat Old Trafford BTR appeared first on Place North West .",
+      "entities": [
+        "Old Trafford BTR. Paragon Property",
+        "Chester Road. The",
+        "Old Trafford BTR",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:52+00:00",
+      "id": "7d543a4a8fcb"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "EYE NEWSFLASH: LSL profits jump as estate agency franchising hits record margin",
+      "url": "https://propertyindustryeye.com/eye-newsflash-lsl-profits-jump-as-estate-agency-franchising-hits-record-margin",
+      "published": "2026-09-15T06:31:50+00:00",
+      "excerpt": "Estate agency profits jump 24%",
+      "entities": [
+        "EYE NEWSFLASH",
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "178c744f959c"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Family-run estate agency expands with acquisition of rival firm",
+      "url": "https://propertyindustryeye.com/family-run-estate-agency-expands-with-acquisition-of-rival-firm",
+      "published": "2026-09-15T03:30:14+00:00",
+      "excerpt": "The purchase extends the independent estate agency's presence across the county",
+      "entities": [
+        "Family-run"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "d39e79b63c59"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "The estate agency that won’t change is the one that won’t last",
+      "url": "https://propertyindustryeye.com/the-estate-agency-that-wont-change-is-the-one-that-wont-last",
+      "published": "2026-09-15T02:50:22+00:00",
+      "excerpt": "With home buying reform accelerating, AI reshaping what agencies can do, and the adoption curve separating the confident from the complacent, this is not a moment to wait for perfect",
+      "entities": [
+        "With"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "fb6afd90a15b"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Could upfront surveys in sales packs finally speed up property transactions?",
+      "url": "https://propertyindustryeye.com/could-upfront-surveys-in-sales-packs-finally-speed-up-property-transactions",
+      "published": "2026-09-15T02:30:58+00:00",
+      "excerpt": "New upfront property surveys aim to speed up home sales",
+      "entities": [
+        "Could"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "2067a80092fe"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Housing market warning as sales fall for fourth consecutive month",
+      "url": "https://propertyindustryeye.com/housing-market-warning-as-sales-fall-for-fourth-consecutive-month",
+      "published": "2026-09-15T02:26:04+00:00",
+      "excerpt": "Property sales slide for fourth month as supply hits decade high",
+      "entities": [
+        "Housing",
+        "Property"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "f0cccacc8c19"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency breaks new ground with 13th UK office",
+      "url": "https://propertyindustryeye.com/estate-agency-breaks-new-ground-with-13th-uk-office",
+      "published": "2026-09-15T01:50:52+00:00",
+      "excerpt": "Estate agency enters new market with 13th UK office",
+      "entities": [
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "c2d231329da1"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Property sales conversion hits six-month high as new listings plunge",
+      "url": "https://propertyindustryeye.com/property-sales-conversion-hits-six-month-high-as-new-listings-plunge",
+      "published": "2026-09-15T01:00:52+00:00",
+      "excerpt": "The number of property sales agreed last month proved more resilient",
+      "entities": [
+        "Property"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "c46feff00de6"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Why 5pm rarely means the end of the working day for agents",
+      "url": "https://propertyindustryeye.com/why-5pm-no-longer-means-the-end-of-the-working-day-for-agents",
+      "published": "2026-09-15T00:50:35+00:00",
+      "excerpt": "New data reveals growing out-of-hours headache for letting agents and property managers",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "aada856380d9"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Landlords favour familiar territory as investment strategies shift",
+      "url": "https://propertyindustryeye.com/landlords-favour-familiar-territory-as-investment-strategies-shift",
+      "published": "2026-09-15T00:40:14+00:00",
+      "excerpt": "Landlords turn to home turf as regional investment rises",
+      "entities": [
+        "Landlords"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "ab40a64ec664"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "One in three rentals include bills in this region – but where is it?",
+      "url": "https://propertyindustryeye.com/one-in-three-rentals-include-bills-in-this-region-but-where-is-it",
+      "published": "2026-09-15T00:30:05+00:00",
+      "excerpt": "Bills-included rentals surge in some regions - but barely feature in others",
+      "entities": [
+        "Bills-included"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "6189f145142d"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "The Masterplan: Oasis star Noel Gallagher gets green light for property overhaul",
+      "url": "https://propertyindustryeye.com/the-masterplan-oasis-star-noel-gallagher-gets-green-light-for-property-overhaul",
+      "published": "2026-09-15T00:30:00+00:00",
+      "excerpt": "Noel Gallagher gets go-ahead for major renovation",
+      "entities": [
+        "The Masterplan",
+        "Oasis",
+        "Noel Gallagher"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "12ffdacd8d67"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Knight Frank opens new office as estate agency expands regional network",
+      "url": "https://propertyindustryeye.com/knight-frank-opens-new-office-as-estate-agency-expands-regional-network",
+      "published": "2026-09-14T23:50:17+00:00",
+      "excerpt": "Knight Frank opens new office",
+      "entities": [
+        "Knight Frank"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "e8812e08d117"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "New survey can go into sales packs ahead of listing – claim",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/new-survey-can-go-into-sales-packs-ahead-of-listing-claim",
+      "published": "2026-09-14T23:06:00+00:00",
+      "excerpt": "This feeds into the government's house buying reform programme",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "e87faa122f50"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "National agency’s latest office led by new sales director",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/national-agencys-latest-office-to-be-led-by-new-sales-director",
+      "published": "2026-09-14T23:04:00+00:00",
+      "excerpt": "She brings over 15 years of experience to an office that is the eighth in the region",
+      "entities": [
+        "National"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "e400734bcbe6"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "High profile regional agent joins self-employed partner scheme",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/high-profile-regional-agent-joins-self-employed-partner-scheme",
+      "published": "2026-09-14T23:03:00+00:00",
+      "excerpt": "He has over 30 years experience, including running his own agency",
+      "entities": [
+        "High"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "59449abad378"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Property consultancy opens 13th office across UK",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/property-consultancy-opens-13th-office-across-uk",
+      "published": "2026-09-14T23:02:00+00:00",
+      "excerpt": "Property consultancy Bradley Hall has launched its 13th UK office, with a new base in Edinburgh. The new office is the firm’s first in Scotland, and will support clients across Edinburgh and Central locations across the country with RICS Valuations and Commercial Agency. The Edinburgh office will be led by Duncan Fraser, Director and Head […]",
+      "entities": [
+        "Property",
+        "UK. Property",
+        "Bradley Hall",
+        "Edinburgh. The",
+        "Edinburgh and Central",
+        "RICS Valuations and Commercial Agency",
+        "The Edinburgh",
+        "Duncan Fraser"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "7766ebd42427"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Sales plummet over summer, with annual transaction forecast falling too",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/sales-plummet-over-summer-with-annual-transaction-forecast-falling-too",
+      "published": "2026-09-14T23:01:00+00:00",
+      "excerpt": "The data comes from property consultancy TwentyCi",
+      "entities": [
+        "Sales",
+        "TwentyCi"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "34acb369dc78"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Viewing too many homes reduces buyer interest – claim",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/viewing-too-many-homes-reduces-buyer-interest-claim",
+      "published": "2026-09-14T23:00:00+00:00",
+      "excerpt": "Prospective buyers have an 'excitement curve' it is claimed",
+      "entities": [
+        "Viewing",
+        "Prospective"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "4e59622f2046"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Most landlords win increases under new rent tribunal regime",
+      "url": "https://landlordzone.co.uk/news/most-landlords-win-increases-under-new-rent-tribunal-regime",
+      "published": "2026-09-15T12:51:57+00:00",
+      "excerpt": "News - Helen Gregory - Tribunals are generally giving landlords most of what they asked for in rent increase cases since the Renters’ Rights Act.",
+      "entities": [
+        "Most",
+        "News",
+        "Helen Gregory",
+        "Tribunals",
+        "Renters’ Rights Act"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "941d13a5e64d"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Houses prove hottest rental property type as flat values fall",
+      "url": "https://landlordzone.co.uk/news/houses-prove-hottest-rental-property-type-as-flat-values-fall",
+      "published": "2026-09-15T12:44:42+00:00",
+      "excerpt": "News - Helen Gregory - Houses are dominating rental demand across England, accounting for almost two-thirds of properties attracting high levels of tenant interest.",
+      "entities": [
+        "Houses",
+        "News",
+        "Helen Gregory"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-15T12:58:54+00:00",
+      "id": "ef662e44cc9a"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "HMRC statistics: pre-release access list",
+      "url": "https://gov.uk/government/statistics/hmrc-statistics-pre-release-access-list",
+      "published": "2026-09-15T10:39:46+00:00",
+      "excerpt": "HM Revenue and Customs' record of those who have pre-release access to Official Statistics.",
+      "entities": [
+        "HMRC",
+        "HM Revenue and Customs",
+        "Official Statistics"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-15T12:58:56+00:00",
+      "id": "dd1b88a24dae"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Asset recovery statistics: financial years ending 2021 to 2026",
+      "url": "https://gov.uk/government/statistics/asset-recovery-statistics-financial-years-ending-2021-to-2026",
+      "published": "2026-09-15T08:30:09+00:00",
+      "excerpt": "Six year data snapshot of asset recovery for England, Wales and Northern Ireland and data on the Asset Recovery Incentivisation Scheme.",
+      "entities": [
+        "Asset",
+        "Wales and Northern Ireland",
+        "Asset Recovery Incentivisation Scheme"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-15T12:58:56+00:00",
+      "id": "9fa8ecc27484"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Annual DWP Benefits Statistics Compendium: 2026",
+      "url": "https://gov.uk/government/statistics/annual-dwp-benefits-statistics-compendium-2026",
+      "published": "2026-09-15T08:30:08+00:00",
+      "excerpt": "Accredited Official Statistics and Official Statistics release of the main DWP-administered benefits.",
+      "entities": [
+        "Annual DWP Benefits Statistics",
+        "Compendium",
+        "Accredited Official Statistics and Official",
+        "Statistics",
+        "DWP-administered"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-15T12:58:56+00:00",
+      "id": "a9d2bb2de665"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Personal Independence Payment statistics to July 2026",
+      "url": "https://gov.uk/government/statistics/personal-independence-payment-statistics-to-july-2026",
+      "published": "2026-09-15T08:30:08+00:00",
+      "excerpt": "Quarterly statistics including numbers of claims with entitlement, new claim registrations, decisions and awards made.",
+      "entities": [
+        "Personal Independence Payment",
+        "Quarterly"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-15T12:58:56+00:00",
+      "id": "29101629bbc1"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Statistics at HMRC",
+      "url": "https://gov.uk/government/organisations/hm-revenue-customs/about/statistics",
+      "published": "2026-09-15T08:30:08+00:00",
+      "excerpt": "HMRC statistics on taxes and benefits administered by HMRC.",
+      "entities": [
+        "Statistics",
+        "HMRC. HMRC",
+        "HMRC"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-15T12:58:56+00:00",
+      "id": "015516f9c73f"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Health Transformation Programme Management Information to July 2026",
+      "url": "https://gov.uk/government/publications/health-transformation-programme-management-information-to-july-2026",
+      "published": "2026-09-15T08:30:08+00:00",
+      "excerpt": "Management Information relating to the Health Transformation Programme.",
+      "entities": [
+        "Health Transformation Programme Management",
+        "Information",
+        "Management Information",
+        "Health Transformation Programme"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-15T12:58:56+00:00",
+      "id": "484a70bf7c2f"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Personal Independence Payment decision-based mode of assessment statistics: April 2019 to March 2026",
+      "url": "https://gov.uk/government/statistics/personal-independence-payment-decision-based-mode-of-assessment-statistics-april-2019-to-march-2026",
+      "published": "2026-09-15T08:30:08+00:00",
+      "excerpt": "This ad hoc publication provides information on the mode of Personal Independence Payment (PIP) health assessments, decisions following assessments, and claimants’ age, gender and primary medical condition.",
+      "entities": [
+        "Personal Independence Payment"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-15T12:58:56+00:00",
+      "id": "f19c946dcb5c"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Leprosy notifications to UK national surveillance: 2001 to 2025",
+      "url": "https://gov.uk/government/publications/leprosy-notifications-to-uk-national-surveillance-2001-to-2025",
+      "published": "2026-09-15T08:30:08+00:00",
+      "excerpt": "From 2001 to 2025, 255 people were notified with leprosy in the UK.",
+      "entities": [
+        "Leprosy",
+        "From"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-15T12:58:56+00:00",
+      "id": "0f1d530e8bd1"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Health Assessment Statistics: PIP and WCA to July 2026",
+      "url": "https://gov.uk/government/statistics/health-assessment-statistics-pip-and-wca-to-july-2026",
+      "published": "2026-09-15T08:30:07+00:00",
+      "excerpt": "Personal Independence Payment (PIP) and Work Capability Assessments (WCA) assessment volumes and channels in Great Britain from January 2021 to July 2026.",
+      "entities": [
+        "Health Assessment Statistics",
+        "PIP and WCA",
+        "Personal Independence Payment",
+        "Work Capability Assessments",
+        "Great Britain"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-15T12:58:56+00:00",
+      "id": "f3d3e4b27492"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Universal Credit Health statistics, April 2019 to June 2026",
+      "url": "https://gov.uk/government/statistics/universal-credit-health-statistics-april-2019-to-june-2026",
+      "published": "2026-09-15T08:30:06+00:00",
+      "excerpt": "These statistics cover the number of people on Universal Credit with a health condition or disability restricting their ability to work.",
+      "entities": [
+        "Universal Credit Health",
+        "These",
+        "Universal Credit"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-15T12:58:56+00:00",
+      "id": "e9ec148e4281"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Occupational defined benefit scheme funding analysis 2026",
+      "url": "https://gov.uk/government/statistics/occupational-defined-benefit-scheme-funding-analysis-2026",
+      "published": "2026-09-15T08:30:06+00:00",
+      "excerpt": "This annual publication provides an overview of funding levels and recovery plans in occupational defined benefit (DB) and hybrid pension schemes in the UK.",
+      "entities": [
+        "Occupational"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-15T12:58:56+00:00",
+      "id": "c34230fd050c"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Best practice in POCA agencies: Environment mapping",
+      "url": "https://gov.uk/government/publications/best-practice-in-poca-agencies-environment-mapping",
+      "published": "2026-09-15T08:30:06+00:00",
+      "excerpt": "A report presenting the findings from research conducted by Ipsos UK in 2023, commissioned by the Criminal Finances and Asset Recovery team in the Home Office.…",
+      "entities": [
+        "Best",
+        "POCA",
+        "Environment",
+        "Ipsos UK",
+        "Criminal Finances and Asset Recovery",
+        "Home Office"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-15T12:58:56+00:00",
+      "id": "2e42e094cee4"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Ad hoc report: Public awareness of money laundering in the UK",
+      "url": "https://gov.uk/government/publications/ad-hoc-report-public-awareness-of-money-laundering-in-the-uk",
+      "published": "2026-09-15T08:30:06+00:00",
+      "excerpt": "Findings from a nationally representative survey, providing insight into public awareness and concern about money laundering.",
+      "entities": [
+        "Public",
+        "UK. Findings"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-15T12:58:56+00:00",
+      "id": "f957815f34db"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Winter Fuel Payment statistics for winter 2025 to 2026",
+      "url": "https://gov.uk/government/statistics/winter-fuel-payment-statistics-for-winter-2025-to-2026",
+      "published": "2026-09-15T08:30:06+00:00",
+      "excerpt": "Annual statistics on the number of Winter Fuel Payments made in winter 2025 to 2026 to recipients and beneficiaries.",
+      "entities": [
+        "Winter Fuel Payment",
+        "Annual",
+        "Winter Fuel Payments"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-15T12:58:56+00:00",
+      "id": "4f24a223e280"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Health Assessment Channels Trial: 2022 to 2023",
+      "url": "https://gov.uk/government/publications/health-assessment-channels-trial-2022-to-2023",
+      "published": "2026-09-15T08:30:06+00:00",
+      "excerpt": "To examine whether remote assessment channels drive different award outcomes.",
+      "entities": [
+        "Health Assessment Channels Trial"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-15T12:58:56+00:00",
+      "id": "711f39a3f782"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "The proceeds of crime in England and Wales 2023 to 2024",
+      "url": "https://gov.uk/government/publications/the-proceeds-of-crime-in-england-and-wales-2023-to-2024",
+      "published": "2026-09-15T08:30:00+00:00",
+      "excerpt": "This report estimates the proceeds of certain profit-driven crime in England and Wales in 2023 to 2024.",
+      "entities": [
+        "England and Wales"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-15T12:58:56+00:00",
+      "id": "fa89c074fcc7"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Public sector employment, UK: June 2026 time series",
+      "url": "https://gov.uk/government/statistics/public-sector-employment-uk-june-2026-time-series",
+      "published": "2026-09-15T06:00:00+00:00",
+      "excerpt": "Seasonally adjusted and non-seasonally adjusted quarterly time series of UK public sector employment, containing the latest estimates.",
+      "entities": [
+        "Public",
+        "Seasonally"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-15T12:58:56+00:00",
+      "id": "a299c573ea63"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Earnings and employment from Pay As You Earn Real Time Information, UK: September 2026",
+      "url": "https://gov.uk/government/statistics/earnings-and-employment-from-pay-as-you-earn-real-time-information-uk-september-2026",
+      "published": "2026-09-15T06:00:00+00:00",
+      "excerpt": "Monthly estimates of payrolled employees and their pay from HM Revenue and Customs’ (HMRC’s) Pay As You Earn (PAYE) Real Time Information (RTI) data. This is a joint release between HMRC and the Office for National Statistic…",
+      "entities": [
+        "Earnings",
+        "Pay As You Earn",
+        "Real Time Information",
+        "Monthly",
+        "HM Revenue and Customs",
+        "HMRC’s",
+        "PAYE",
+        "HMRC"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-15T12:58:56+00:00",
+      "id": "bd0ee73b81fc"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Labour market in the regions of the UK: September 2026",
+      "url": "https://gov.uk/government/statistics/labour-market-in-the-regions-of-the-uk-september-2026",
+      "published": "2026-09-15T06:00:00+00:00",
+      "excerpt": "Regional, local authority, and parliamentary constituency breakdowns of changes in UK employment, unemployment, and economic inactivity, and other related statistics. These are official statistics in development.…",
+      "entities": [
+        "Labour",
+        "Regional",
+        "These"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-15T12:58:56+00:00",
+      "id": "0d9525d17f84"
+    }
+  ]
+}
