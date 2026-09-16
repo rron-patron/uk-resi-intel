@@ -1,0 +1,884 @@
+{
+  "collected_at": "2026-09-16T12:55:48+00:00",
+  "date_london": "2026-09-16",
+  "counts": {
+    "seen_in_feeds": 94,
+    "new": 50,
+    "sources_live": 8,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "feed",
+      "url": "https://www.bisnow.com/london/rss",
+      "found": 1,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 1"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 12,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 12"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 9,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 9"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 10,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 10"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "RSH entered moratorium with providers over potential insolvency five times since 2022, FOI reveals",
+      "url": "https://insidehousing.co.uk/home/rsh-entered-moratorium-with-providers-over-potential-insolvency-five-times-since-2022-foi-reveals-98726",
+      "published": "2026-09-16T10:30:00+00:00",
+      "excerpt": "Housing associations have entered a moratorium with the Regulator of Social Housing due to potential insolvency five times since 2022, Inside Housing can reveal",
+      "entities": [
+        "Housing",
+        "Regulator of Social Housing",
+        "Inside Housing"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:49+00:00",
+      "id": "ca7e7ee0c4b8"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Help to Buy scheme pushed up prices but boosted housing supply and was ‘very high value for money’, review finds",
+      "url": "https://insidehousing.co.uk/home/help-to-buy-scheme-pushed-up-prices-but-boosted-housing-supply-and-was-very-high-value-for-money-review-finds-98731",
+      "published": "2026-09-16T10:00:00+00:00",
+      "excerpt": "The Help to Buy scheme represented “very high value for money” and increased housing supply by around 15% in England, a government-commissioned evaluation found",
+      "entities": [
+        "Help",
+        "The Help"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:49+00:00",
+      "id": "9cfbc88edad1"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Major developer to pull out of housebuilding",
+      "url": "https://insidehousing.co.uk/home/major-developer-to-pull-out-of-housebuilding-98729",
+      "published": "2026-09-16T09:15:00+00:00",
+      "excerpt": "Kier Group is pulling out of housebuilding to de-risk its portfolio and focus on areas that are less likely to be impacted by macro-economic turbulence",
+      "entities": [
+        "Major",
+        "Kier Group"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:49+00:00",
+      "id": "13419ab80b62"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Government urging lenders to move away from EWS1 forms, minister says",
+      "url": "https://insidehousing.co.uk/home/government-urging-lenders-to-move-away-from-ews1-forms-minister-says-98725",
+      "published": "2026-09-16T08:30:00+00:00",
+      "excerpt": "A minister has said the government will lobby the mortgage industry to stop requiring EWS1 forms",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:49+00:00",
+      "id": "8c8c585bfaa8"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "No new starts at A2Dominion as surplus falls sharply after large sale in previous year and non-core asset sell-off continues",
+      "url": "https://insidehousing.co.uk/home/no-new-starts-at-a2dominion-as-surplus-falls-sharply-after-large-sale-in-previous-year-and-non-core-asset-sell-off-continues-98719",
+      "published": "2026-09-16T08:20:15+00:00",
+      "excerpt": "A2Dominion’s surplus before tax fell significantly to £3.3m in 2025-26, following a large one-off sale, while the landlord streamlined its focus on core social housing customers",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:49+00:00",
+      "id": "9671492d5585"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Uni of Salford builds momentum with 80,000 sq ft business school plan",
+      "url": "https://placenorthwest.co.uk/uni-of-salford-builds-momentum-with-80000-sq-ft-business-school-plan",
+      "published": "2026-09-16T08:51:33+00:00",
+      "excerpt": "Crescent House on the A6 is to be demolished and replaced with a modern teaching facility as part of the university and ECF's ongoing efforts to expand and improve the campus. The post Uni of Salford builds momentum with 80,000 sq ft business school plan appeared first on Place North West .",
+      "entities": [
+        "Uni of Salford",
+        "Crescent House",
+        "ECF's",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:57+00:00",
+      "id": "978597826bd6"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Xenia acquired by London real estate group",
+      "url": "https://placenorthwest.co.uk/xenia-acquired-by-london-real-estate-group",
+      "published": "2026-09-16T08:21:11+00:00",
+      "excerpt": "Hawthorn Capital has bought the Sale-based residential agency for an undisclosed sum. The post Xenia acquired by London real estate group appeared first on Place North West .",
+      "entities": [
+        "Xenia",
+        "London",
+        "Hawthorn Capital",
+        "Sale-based",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:57+00:00",
+      "id": "162754d10638"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Anwyl to appeal Rhyl refusal",
+      "url": "https://placenorthwest.co.uk/anwyl-to-appeal-rhyl-refusal",
+      "published": "2026-09-15T13:19:12+00:00",
+      "excerpt": "Denbighshire County Council can expect to be called on to defend its rejection of plans for 59 affordable homes at Maes Farrelly, a decision that went in the face of officer advice. The post Anwyl to appeal Rhyl refusal appeared first on Place North West .",
+      "entities": [
+        "Anwyl",
+        "Rhyl",
+        "Denbighshire County Council",
+        "Maes Farrelly",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:57+00:00",
+      "id": "7799aa368f0c"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Wrexham outlines local plan next steps",
+      "url": "https://placenorthwest.co.uk/wrexham-outlines-local-plan-next-steps",
+      "published": "2026-09-15T13:17:20+00:00",
+      "excerpt": "After years of legal battles fighting the adoption of an unpopular strategic planning framework, the local authority said it was determined to learn lessons from the past to create a document that the community and county councillors can support. The post Wrexham outlines local plan next steps appeared first on Place North West .",
+      "entities": [
+        "Wrexham",
+        "After",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:57+00:00",
+      "id": "d3a9b9b062f5"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "EYE NEWSFLASH: Major estate agency group warns profits will fall materially below expectations",
+      "url": "https://propertyindustryeye.com/major-estate-agency-group-warns-profits-will-fall-materially-below-expectations",
+      "published": "2026-09-16T06:14:09+00:00",
+      "excerpt": "Winkworth lettings income rises as sales revenue slips",
+      "entities": [
+        "EYE NEWSFLASH",
+        "Major",
+        "Winkworth"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:58+00:00",
+      "id": "bfb4dd98e7ef"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Fast-growing agency group completes another acquisition",
+      "url": "https://propertyindustryeye.com/fast-growing-agency-group-completes-another-acquisition",
+      "published": "2026-09-16T04:30:40+00:00",
+      "excerpt": "Major agency group snaps up another lettings business",
+      "entities": [
+        "Fast-growing",
+        "Major"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:58+00:00",
+      "id": "e08639d4917f"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Mortgage rates surge again as major lenders reprice",
+      "url": "https://propertyindustryeye.com/mortgage-rates-surge-again-as-major-lenders-reprice",
+      "published": "2026-09-16T04:10:22+00:00",
+      "excerpt": "Major banks unleash second wave of mortgage rate hikes",
+      "entities": [
+        "Mortgage",
+        "Major"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:58+00:00",
+      "id": "ce2cb18b54a5"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Well-established letting agency acquired by private investment firm",
+      "url": "https://propertyindustryeye.com/major-letting-agency-acquired-by-private-investment-firm",
+      "published": "2026-09-16T03:50:54+00:00",
+      "excerpt": "Investment firm swoops for letting agency",
+      "entities": [
+        "Well-established",
+        "Investment"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:58+00:00",
+      "id": "54ee401d0a7e"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency changes hands as property investor takes control",
+      "url": "https://propertyindustryeye.com/estate-agency-changes-hands-as-property-investor-takes-control",
+      "published": "2026-09-16T03:00:04+00:00",
+      "excerpt": "Property investor acquires established estate agency",
+      "entities": [
+        "Estate",
+        "Property"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:58+00:00",
+      "id": "d125e0d13c66"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "AI in lettings needs to solve the operational problems that actually matter",
+      "url": "https://propertyindustryeye.com/ai-in-lettings-needs-to-solve-the-operational-problems-that-actually-matter",
+      "published": "2026-09-16T02:40:24+00:00",
+      "excerpt": "The property industry is increasingly asking what AI means for the way businesses operate, compete and grow",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:58+00:00",
+      "id": "4beecab9b4d6"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agents face buyer slowdown as Autumn Statement uncertainty bites",
+      "url": "https://propertyindustryeye.com/estate-agents-face-buyer-slowdown-as-autumn-statement-uncertainty-bites",
+      "published": "2026-09-16T01:20:35+00:00",
+      "excerpt": "Autumn Statement uncertainty sees buyers put property searches on hold",
+      "entities": [
+        "Estate",
+        "Autumn Statement"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:58+00:00",
+      "id": "7013fcc838ec"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Major investor raises £680m for UK Build to Rent expansion",
+      "url": "https://propertyindustryeye.com/major-investor-raises-680m-for-uk-build-to-rent-expansion",
+      "published": "2026-09-16T00:50:40+00:00",
+      "excerpt": "Build to Rent investor secures £680m for major UK expansion",
+      "entities": [
+        "Major",
+        "UK Build",
+        "Rent",
+        "Build"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:58+00:00",
+      "id": "0010abdf40ed"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Revealed: Where property sales reach exchange fastest – and slowest",
+      "url": "https://propertyindustryeye.com/revealed-where-property-sales-reach-exchange-fastest-and-slowest",
+      "published": "2026-09-16T00:50:31+00:00",
+      "excerpt": "New data exposes major divide in property transaction times",
+      "entities": [
+        "Revealed",
+        "Where"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:58+00:00",
+      "id": "5c4f77018edf"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Rightmove to help estate agents prepare for home-moving shake-up",
+      "url": "https://propertyindustryeye.com/rightmove-to-help-estate-agents-prepare-for-home-moving-shake-up",
+      "published": "2026-09-16T00:30:49+00:00",
+      "excerpt": "Rightmove targets transaction delays ahead of major reforms",
+      "entities": [
+        "Rightmove"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:58+00:00",
+      "id": "3145cde6a515"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency network more than triples UK agent numbers in 12 months",
+      "url": "https://propertyindustryeye.com/estate-agency-network-more-than-triples-uk-agent-numbers-in-12-month",
+      "published": "2026-09-15T23:50:44+00:00",
+      "excerpt": "Estate agency network surges from 58 to more than 185 agents",
+      "entities": [
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:58+00:00",
+      "id": "bb3d5dc99dbe"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "New wave of mortgage rate hikes ahead of Bank of England decision",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/new-wave-of-mortgage-rate-hikes-ahead-of-bank-of-england-decision",
+      "published": "2026-09-15T23:06:00+00:00",
+      "excerpt": "Expert analysis has come from Moneyfactscompare",
+      "entities": [
+        "Bank of England",
+        "Expert",
+        "Moneyfactscompare"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:59+00:00",
+      "id": "57c3504601c0"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Lomond acquisition leaves long-standing sales brand untouched",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/lomond-acquisition-leaves-long-standing-sales-brand-untouched",
+      "published": "2026-09-15T23:05:00+00:00",
+      "excerpt": "The lettings and property management arms have been acquired by Lomond",
+      "entities": [
+        "Lomond"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:59+00:00",
+      "id": "546771fc0905"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Mansion Tax fightback underway as councils slam government",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/mansion-tax-fightback-underway-as-councils-slam-government",
+      "published": "2026-09-15T23:04:00+00:00",
+      "excerpt": "The four councils will contribute around 50% of the national take for this tax",
+      "entities": [
+        "Mansion Tax"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:59+00:00",
+      "id": "c67b039d162e"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Investment firm wants to buy agencies and property management arms",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/investment-company-wants-to-acquire-agencies-and-property-management-firms",
+      "published": "2026-09-15T23:03:00+00:00",
+      "excerpt": "This week's acquisition is the launch pad for more, the investment firm says",
+      "entities": [
+        "Investment"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:59+00:00",
+      "id": "e086f50d4251"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Rapid growth of UK brokerage celebrated this week",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/rapid-growth-of-uk-brokerage-celebrated-this-week",
+      "published": "2026-09-15T23:01:00+00:00",
+      "excerpt": "The UK network has grown from 58 to over 185 in just a year",
+      "entities": [
+        "Rapid",
+        "The UK"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:59+00:00",
+      "id": "42e3c682260f"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Leasehold speed to exchange lags well behind freehold",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/leasehold-speed-to-exchange-lags-well-behind-freehold",
+      "published": "2026-09-15T23:01:00+00:00",
+      "excerpt": "An analysis has compared leasehold with freehold performance",
+      "entities": [
+        "Leasehold"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:59+00:00",
+      "id": "b21dc2933735"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Half of tenant maintenance reports arrive outside office hours, data reveals",
+      "url": "https://landlordzone.co.uk/news/half-of-tenant-maintenance-reports-arrive-outside-office-hours-data-reveals",
+      "published": "2026-09-16T10:13:36+00:00",
+      "excerpt": "News - Maria White - New data reveals half of tenant maintenance reports arrive out of hours, with essential services seeing heavy spikes.",
+      "entities": [
+        "Half",
+        "News",
+        "Maria White"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:59+00:00",
+      "id": "7203531092ec"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "What does the OpenRent deal mean for letting agents?",
+      "url": "https://landlordzone.co.uk/news/what-does-the-openrent-deal-mean-for-letting-agents",
+      "published": "2026-09-15T18:32:10+00:00",
+      "excerpt": "News - Tom Entwistle - Some commentators have argued that the takeover of OpenRent by private equity group CVC reflects a step change in the landscape for letting agents in",
+      "entities": [
+        "What",
+        "OpenRent",
+        "News",
+        "Tom Entwistle",
+        "Some"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:59+00:00",
+      "id": "6513f68c20cd"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "North East landlords face new HMO planning hurdle",
+      "url": "https://landlordzone.co.uk/news/north-east-landlords-face-new-hmo-planning-hurdle",
+      "published": "2026-09-15T16:21:23+00:00",
+      "excerpt": "News - Helen Gregory - Landlords wanting to convert homes into small HMOs in North Tyneside could soon need to apply for planning permission.",
+      "entities": [
+        "North East",
+        "News",
+        "Helen Gregory",
+        "Landlords",
+        "HMOs",
+        "North Tyneside"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:59+00:00",
+      "id": "2fca08831437"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Independent agency Durden & Hunt expands South Essex footprint with Diggins & Co acquisition",
+      "url": "https://landlordzone.co.uk/news/independent-agency-durden-hunt-expands-south-essex-footprint-with-diggins-co-acquisition",
+      "published": "2026-09-15T15:42:34+00:00",
+      "excerpt": "News - Maria White - Durden & Hunt expands its South Essex footprint with the acquisition of established local agency Diggins & Co.",
+      "entities": [
+        "Independent",
+        "Durden",
+        "Hunt",
+        "South Essex",
+        "Diggins",
+        "News",
+        "Maria White"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-16T12:55:59+00:00",
+      "id": "5c508124e5b2"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Active disease surveillance: TSE statistics",
+      "url": "https://gov.uk/government/publications/active-tse-surveillance-statistics",
+      "published": "2026-09-16T11:02:56+00:00",
+      "excerpt": "Statistics on the active disease surveillance of transmissible spongiform encephalopathies (TSEs) and the Compulsory Scrapie Flock Scheme.",
+      "entities": [
+        "Active",
+        "Statistics",
+        "TSEs",
+        "Compulsory Scrapie Flock Scheme"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "caa546ecfd15"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Cattle: TSE surveillance statistics",
+      "url": "https://gov.uk/government/publications/cattle-tse-surveillance-statistics",
+      "published": "2026-09-16T10:39:00+00:00",
+      "excerpt": "Statistics on the surveillance of transmissible spongiform encephalopathies (TSEs) in cattle in the United Kingdom.",
+      "entities": [
+        "Cattle",
+        "Statistics",
+        "TSEs",
+        "United Kingdom"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "5db235d19653"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Forecasts for the UK economy: September 2026",
+      "url": "https://gov.uk/government/statistics/forecasts-for-the-uk-economy-september-2026",
+      "published": "2026-09-16T09:00:04+00:00",
+      "excerpt": "A comparison of independent forecasts for the UK economy in September 2026.",
+      "entities": [
+        "Forecasts"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "f18c82ebc849"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Cyber Essentials management information",
+      "url": "https://gov.uk/government/statistical-data-sets/cyber-essentials-management-information",
+      "published": "2026-09-16T08:41:48+00:00",
+      "excerpt": "Figures showing the number of Cyber Essentials certificates awarded, by quarter.",
+      "entities": [
+        "Cyber Essentials",
+        "Figures"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "4c341f7d3ad8"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Key findings, Statistical Digest of Rural England",
+      "url": "https://gov.uk/government/statistics/key-findings-statistical-digest-of-rural-england",
+      "published": "2026-09-16T08:30:04+00:00",
+      "excerpt": "Summary of key findings from the Statistical Digest of Rural England.",
+      "entities": [
+        "Statistical Digest of Rural England",
+        "Summary"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "c5c660dc2f58"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Latest accredited official statistics on tuberculosis (TB) in cattle in Great Britain - quarterly",
+      "url": "https://gov.uk/government/statistics/incidence-of-tuberculosis-tb-in-cattle-in-great-britain",
+      "published": "2026-09-16T08:30:04+00:00",
+      "excerpt": "Quarterly statistics on tuberculosis (TB) in cattle in Great Britain.",
+      "entities": [
+        "Latest",
+        "Great Britain",
+        "Quarterly"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "c7237dc73e2e"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Cabinet Office statistics: standards and policies",
+      "url": "https://gov.uk/government/statistics/cabinet-office-statistics-standards-and-policies",
+      "published": "2026-09-16T08:30:04+00:00",
+      "excerpt": "Cabinet Office official statistics are governed by the standards set out by the UK Statistics Authority in their code of practice.",
+      "entities": [
+        "Cabinet Office",
+        "UK Statistics Authority"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "5a82029f8615"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Sex ratios at birth in the UK: 2019 to 2023",
+      "url": "https://gov.uk/government/statistics/sex-ratios-at-birth-in-the-uk-2019-to-2023",
+      "published": "2026-09-16T08:30:04+00:00",
+      "excerpt": "Analysis of male to female birth ratios in the UK for the period 1 January 2019 to 31 December 2023.",
+      "entities": [
+        "Analysis"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "6e241d7eeec2"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "A to Z Index, Statistical Digest of Rural England",
+      "url": "https://gov.uk/government/statistics/a-to-z-index-statistical-digest-of-rural-england",
+      "published": "2026-09-16T08:30:03+00:00",
+      "excerpt": "A to Z index for the eight thematic reports that make up the Statistical Digest of Rural England.",
+      "entities": [
+        "Index",
+        "Statistical Digest of Rural England"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "d7ec9023e48e"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "STI quarterly surveillance reports: provisional data",
+      "url": "https://gov.uk/government/publications/sti-quarterly-surveillance-reports-provisional-data",
+      "published": "2026-09-16T08:30:03+00:00",
+      "excerpt": "The latest quarterly reports of provisional data for syphilis and gonorrhoea diagnoses in England.",
+      "entities": [],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "a2d14b0c0727"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Sex ratios at birth in the UK: 2018 to 2022",
+      "url": "https://gov.uk/government/statistics/sex-ratios-at-birth-in-the-uk-2018-to-2022",
+      "published": "2026-09-16T08:30:03+00:00",
+      "excerpt": "Analysis of male to female birth ratios in the UK for the period 1 January 2018 to 31 December 2022.",
+      "entities": [
+        "Analysis"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "20d3b5409d23"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK House Price Index: data downloads July 2026",
+      "url": "https://gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-july-2026",
+      "published": "2026-09-16T08:30:02+00:00",
+      "excerpt": "Download aggregated data behind the UK House Price Index (UK HPI), in CSV format.",
+      "entities": [
+        "UK House Price Index",
+        "Download",
+        "UK HPI"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "74559ffeb8d5"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK Clinical Research Delivery key performance indicators: data to August 2026",
+      "url": "https://gov.uk/government/statistics/uk-clinical-research-delivery-key-performance-indicators-data-to-august-2026",
+      "published": "2026-09-16T08:30:02+00:00",
+      "excerpt": "Report bringing together data on the delivery of globally competitive clinical research through the UK Clinical Research Delivery programme.",
+      "entities": [
+        "UK Clinical Research Delivery",
+        "Report"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "3df9e429a4e4"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Freedom of Information statistics: annual 2025",
+      "url": "https://gov.uk/government/statistics/freedom-of-information-statistics-annual-2025",
+      "published": "2026-09-16T08:30:02+00:00",
+      "excerpt": "Annual statistics on Freedom of Information requests for central government bodies for 2025.",
+      "entities": [
+        "Freedom of Information",
+        "Annual"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "5b118becddf4"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Freedom of Information statistics: April to June 2026",
+      "url": "https://gov.uk/government/statistics/freedom-of-information-statistics-april-to-june-2026",
+      "published": "2026-09-16T08:30:02+00:00",
+      "excerpt": "This page gives Freedom of Information statistics for central government bodies from April to June 2026.",
+      "entities": [
+        "Freedom of Information"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "604d77444a02"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Background quality report: Annual savings statistics",
+      "url": "https://gov.uk/government/statistics/quality-report-annual-savings-statistics",
+      "published": "2026-09-16T08:30:02+00:00",
+      "excerpt": "Quality report for HMRC statistics on Individual Savings Accounts, Child Trust Funds and Help to Save accounts.",
+      "entities": [
+        "Background",
+        "Annual",
+        "Quality",
+        "HMRC",
+        "Individual Savings Accounts",
+        "Child Trust Funds and Help",
+        "Save"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "96ed8771b5d8"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK House Price Index for July 2026",
+      "url": "https://gov.uk/government/statistics/uk-house-price-index-for-july-2026",
+      "published": "2026-09-16T08:30:02+00:00",
+      "excerpt": "Monthly report showing the data for the average house prices for England, Northern Ireland, Scotland and Wales, including in CSV format.",
+      "entities": [
+        "UK House Price Index",
+        "Monthly",
+        "Northern Ireland",
+        "Scotland and Wales"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "69b0c9bc3061"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Annual savings statistics 2026",
+      "url": "https://gov.uk/government/statistics/annual-savings-statistics-2026",
+      "published": "2026-09-16T08:30:02+00:00",
+      "excerpt": "HMRC statistics on Individual Savings Accounts, Child Trust Funds and Help to Save accounts.",
+      "entities": [
+        "Annual",
+        "HMRC",
+        "Individual Savings Accounts",
+        "Child Trust Funds and Help",
+        "Save"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "a96e27ad9322"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Contributions to the 12-month rate of CPI(H) by import intensity: August 2026",
+      "url": "https://gov.uk/government/statistics/contributions-to-the-12-month-rate-of-cpih-by-import-intensity-august-2026",
+      "published": "2026-09-16T08:30:01+00:00",
+      "excerpt": "A longer time series of contributions to the Consumer Prices Index including owner occupiers’ housing costs (CPIH) and Consumer Prices Index (CPI), UK, monthly.…",
+      "entities": [
+        "Contributions",
+        "Consumer Prices Index",
+        "CPIH"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "aea091fb08e9"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Survey into the Radiological Impact of the Routine Transport of Radiopharmaceuticals in the UK",
+      "url": "https://gov.uk/government/publications/survey-into-the-radiological-impact-of-the-routine-transport-of-radiopharmaceuticals-in-the-uk",
+      "published": "2026-09-16T08:30:01+00:00",
+      "excerpt": "This report builds on 3 decades of UKHSA research into the radiological impact of transporting radioactive materials, focusing on the medical sector.",
+      "entities": [
+        "Survey",
+        "Radiological Impact",
+        "Routine Transport of Radiopharmaceuticals",
+        "UK. This",
+        "UKHSA"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-16T12:56:01+00:00",
+      "id": "d65a687c7fe9"
+    }
+  ]
+}

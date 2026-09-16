@@ -1,0 +1,850 @@
+{
+  "generated_at": "2026-09-16T12:56:11+00:00",
+  "date_label": "Wednesday 16 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n50 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 9,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Build-to-rent",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Major",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Annual",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Investment",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Maria White",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Statistics",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "TSEs",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Statistical Digest of Rural England",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Analysis",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "UK House Price Index",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Freedom of Information",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "HMRC",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Individual Savings Accounts",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Child Trust Funds and Help",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Save",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Regulator of Social Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Inside Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "ca7e7ee0c4b8": {
+      "id": "ca7e7ee0c4b8",
+      "importance": "Medium",
+      "summary": "Housing associations have entered a moratorium with the Regulator of Social Housing due to potential insolvency five times since 2022, Inside Housing can reveal",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Housing",
+        "Regulator of Social Housing",
+        "Inside Housing"
+      ],
+      "locations": []
+    },
+    "9cfbc88edad1": {
+      "id": "9cfbc88edad1",
+      "importance": "Medium",
+      "summary": "The Help to Buy scheme represented “very high value for money” and increased housing supply by around 15% in England, a government-commissioned evaluation found",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Help",
+        "The Help"
+      ],
+      "locations": []
+    },
+    "13419ab80b62": {
+      "id": "13419ab80b62",
+      "importance": "Medium",
+      "summary": "Kier Group is pulling out of housebuilding to de-risk its portfolio and focus on areas that are less likely to be impacted by macro-economic turbulence",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Major",
+        "Kier Group"
+      ],
+      "locations": []
+    },
+    "8c8c585bfaa8": {
+      "id": "8c8c585bfaa8",
+      "importance": "Medium",
+      "summary": "A minister has said the government will lobby the mortgage industry to stop requiring EWS1 forms",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "9671492d5585": {
+      "id": "9671492d5585",
+      "importance": "Medium",
+      "summary": "A2Dominion’s surplus before tax fell significantly to £3.3m in 2025-26, following a large one-off sale, while the landlord streamlined its focus on core social housing customers",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "978597826bd6": {
+      "id": "978597826bd6",
+      "importance": "Medium",
+      "summary": "Crescent House on the A6 is to be demolished and replaced with a modern teaching facility as part of the university and ECF's ongoing efforts to expand and improve the campus. The post Uni of Salford builds momentum with",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Uni of Salford",
+        "Crescent House",
+        "ECF's",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "162754d10638": {
+      "id": "162754d10638",
+      "importance": "Medium",
+      "summary": "Hawthorn Capital has bought the Sale-based residential agency for an undisclosed sum. The post Xenia acquired by London real estate group appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Xenia",
+        "London",
+        "Hawthorn Capital",
+        "Sale-based"
+      ],
+      "locations": []
+    },
+    "7799aa368f0c": {
+      "id": "7799aa368f0c",
+      "importance": "Medium",
+      "summary": "Denbighshire County Council can expect to be called on to defend its rejection of plans for 59 affordable homes at Maes Farrelly, a decision that went in the face of officer advice. The post Anwyl to appeal Rhyl refusal ",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Anwyl",
+        "Rhyl",
+        "Denbighshire County Council",
+        "Maes Farrelly"
+      ],
+      "locations": []
+    },
+    "d3a9b9b062f5": {
+      "id": "d3a9b9b062f5",
+      "importance": "Medium",
+      "summary": "After years of legal battles fighting the adoption of an unpopular strategic planning framework, the local authority said it was determined to learn lessons from the past to create a document that the community and count",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Wrexham",
+        "After",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "bfb4dd98e7ef": {
+      "id": "bfb4dd98e7ef",
+      "importance": "Medium",
+      "summary": "Winkworth lettings income rises as sales revenue slips",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "EYE NEWSFLASH",
+        "Major",
+        "Winkworth"
+      ],
+      "locations": []
+    },
+    "e08639d4917f": {
+      "id": "e08639d4917f",
+      "importance": "Medium",
+      "summary": "Major agency group snaps up another lettings business",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Fast-growing",
+        "Major"
+      ],
+      "locations": []
+    },
+    "ce2cb18b54a5": {
+      "id": "ce2cb18b54a5",
+      "importance": "Medium",
+      "summary": "Major banks unleash second wave of mortgage rate hikes",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Mortgage",
+        "Major"
+      ],
+      "locations": []
+    },
+    "54ee401d0a7e": {
+      "id": "54ee401d0a7e",
+      "importance": "Medium",
+      "summary": "Investment firm swoops for letting agency",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Well-established",
+        "Investment"
+      ],
+      "locations": []
+    },
+    "d125e0d13c66": {
+      "id": "d125e0d13c66",
+      "importance": "Medium",
+      "summary": "Property investor acquires established estate agency",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Property"
+      ],
+      "locations": []
+    },
+    "4beecab9b4d6": {
+      "id": "4beecab9b4d6",
+      "importance": "Medium",
+      "summary": "The property industry is increasingly asking what AI means for the way businesses operate, compete and grow",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "7013fcc838ec": {
+      "id": "7013fcc838ec",
+      "importance": "Medium",
+      "summary": "Autumn Statement uncertainty sees buyers put property searches on hold",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Autumn Statement"
+      ],
+      "locations": []
+    },
+    "0010abdf40ed": {
+      "id": "0010abdf40ed",
+      "importance": "Medium",
+      "summary": "Build to Rent investor secures £680m for major UK expansion",
+      "why_it_matters": "",
+      "themes": [
+        "Build-to-rent",
+        "Residential investment"
+      ],
+      "companies": [
+        "Major",
+        "UK Build",
+        "Rent",
+        "Build"
+      ],
+      "locations": []
+    },
+    "5c4f77018edf": {
+      "id": "5c4f77018edf",
+      "importance": "Medium",
+      "summary": "New data exposes major divide in property transaction times",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Revealed",
+        "Where"
+      ],
+      "locations": []
+    },
+    "3145cde6a515": {
+      "id": "3145cde6a515",
+      "importance": "Medium",
+      "summary": "Rightmove targets transaction delays ahead of major reforms",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    "bb3d5dc99dbe": {
+      "id": "bb3d5dc99dbe",
+      "importance": "Medium",
+      "summary": "Estate agency network surges from 58 to more than 185 agents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "57c3504601c0": {
+      "id": "57c3504601c0",
+      "importance": "Medium",
+      "summary": "Expert analysis has come from Moneyfactscompare",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Bank of England",
+        "Expert",
+        "Moneyfactscompare"
+      ],
+      "locations": []
+    },
+    "546771fc0905": {
+      "id": "546771fc0905",
+      "importance": "Medium",
+      "summary": "The lettings and property management arms have been acquired by Lomond",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Lomond"
+      ],
+      "locations": []
+    },
+    "c67b039d162e": {
+      "id": "c67b039d162e",
+      "importance": "Medium",
+      "summary": "The four councils will contribute around 50% of the national take for this tax",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Mansion Tax"
+      ],
+      "locations": []
+    },
+    "e086f50d4251": {
+      "id": "e086f50d4251",
+      "importance": "Medium",
+      "summary": "This week's acquisition is the launch pad for more, the investment firm says",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Investment"
+      ],
+      "locations": []
+    },
+    "42e3c682260f": {
+      "id": "42e3c682260f",
+      "importance": "Medium",
+      "summary": "The UK network has grown from 58 to over 185 in just a year",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rapid",
+        "The UK"
+      ],
+      "locations": []
+    },
+    "b21dc2933735": {
+      "id": "b21dc2933735",
+      "importance": "Medium",
+      "summary": "An analysis has compared leasehold with freehold performance",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Leasehold"
+      ],
+      "locations": []
+    },
+    "7203531092ec": {
+      "id": "7203531092ec",
+      "importance": "Medium",
+      "summary": "News - Maria White - New data reveals half of tenant maintenance reports arrive out of hours, with essential services seeing heavy spikes.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Half",
+        "News",
+        "Maria White"
+      ],
+      "locations": []
+    },
+    "6513f68c20cd": {
+      "id": "6513f68c20cd",
+      "importance": "Medium",
+      "summary": "News - Tom Entwistle - Some commentators have argued that the takeover of OpenRent by private equity group CVC reflects a step change in the landscape for letting agents in",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "What",
+        "OpenRent",
+        "News",
+        "Tom Entwistle"
+      ],
+      "locations": []
+    },
+    "2fca08831437": {
+      "id": "2fca08831437",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Landlords wanting to convert homes into small HMOs in North Tyneside could soon need to apply for planning permission.",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "North East",
+        "News",
+        "Helen Gregory",
+        "Landlords"
+      ],
+      "locations": []
+    },
+    "5c508124e5b2": {
+      "id": "5c508124e5b2",
+      "importance": "Medium",
+      "summary": "News - Maria White - Durden & Hunt expands its South Essex footprint with the acquisition of established local agency Diggins & Co.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Independent",
+        "Durden",
+        "Hunt",
+        "South Essex"
+      ],
+      "locations": []
+    },
+    "caa546ecfd15": {
+      "id": "caa546ecfd15",
+      "importance": "Medium",
+      "summary": "Statistics on the active disease surveillance of transmissible spongiform encephalopathies (TSEs) and the Compulsory Scrapie Flock Scheme.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Active",
+        "Statistics",
+        "TSEs",
+        "Compulsory Scrapie Flock Scheme"
+      ],
+      "locations": []
+    },
+    "5db235d19653": {
+      "id": "5db235d19653",
+      "importance": "Medium",
+      "summary": "Statistics on the surveillance of transmissible spongiform encephalopathies (TSEs) in cattle in the United Kingdom.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Cattle",
+        "Statistics",
+        "TSEs",
+        "United Kingdom"
+      ],
+      "locations": []
+    },
+    "f18c82ebc849": {
+      "id": "f18c82ebc849",
+      "importance": "Medium",
+      "summary": "A comparison of independent forecasts for the UK economy in September 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Forecasts"
+      ],
+      "locations": []
+    },
+    "4c341f7d3ad8": {
+      "id": "4c341f7d3ad8",
+      "importance": "Medium",
+      "summary": "Figures showing the number of Cyber Essentials certificates awarded, by quarter.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Cyber Essentials",
+        "Figures"
+      ],
+      "locations": []
+    },
+    "c5c660dc2f58": {
+      "id": "c5c660dc2f58",
+      "importance": "Medium",
+      "summary": "Summary of key findings from the Statistical Digest of Rural England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Statistical Digest of Rural England",
+        "Summary"
+      ],
+      "locations": []
+    },
+    "c7237dc73e2e": {
+      "id": "c7237dc73e2e",
+      "importance": "Medium",
+      "summary": "Quarterly statistics on tuberculosis (TB) in cattle in Great Britain.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Latest",
+        "Great Britain",
+        "Quarterly"
+      ],
+      "locations": []
+    },
+    "5a82029f8615": {
+      "id": "5a82029f8615",
+      "importance": "Medium",
+      "summary": "Cabinet Office official statistics are governed by the standards set out by the UK Statistics Authority in their code of practice.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Cabinet Office",
+        "UK Statistics Authority"
+      ],
+      "locations": []
+    },
+    "6e241d7eeec2": {
+      "id": "6e241d7eeec2",
+      "importance": "Medium",
+      "summary": "Analysis of male to female birth ratios in the UK for the period 1 January 2019 to 31 December 2023.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Analysis"
+      ],
+      "locations": []
+    },
+    "d7ec9023e48e": {
+      "id": "d7ec9023e48e",
+      "importance": "Medium",
+      "summary": "A to Z index for the eight thematic reports that make up the Statistical Digest of Rural England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Index",
+        "Statistical Digest of Rural England"
+      ],
+      "locations": []
+    },
+    "a2d14b0c0727": {
+      "id": "a2d14b0c0727",
+      "importance": "Medium",
+      "summary": "The latest quarterly reports of provisional data for syphilis and gonorrhoea diagnoses in England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "20d3b5409d23": {
+      "id": "20d3b5409d23",
+      "importance": "Medium",
+      "summary": "Analysis of male to female birth ratios in the UK for the period 1 January 2018 to 31 December 2022.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Analysis"
+      ],
+      "locations": []
+    },
+    "74559ffeb8d5": {
+      "id": "74559ffeb8d5",
+      "importance": "Medium",
+      "summary": "Download aggregated data behind the UK House Price Index (UK HPI), in CSV format.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK House Price Index",
+        "Download",
+        "UK HPI"
+      ],
+      "locations": []
+    },
+    "3df9e429a4e4": {
+      "id": "3df9e429a4e4",
+      "importance": "Medium",
+      "summary": "Report bringing together data on the delivery of globally competitive clinical research through the UK Clinical Research Delivery programme.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "UK Clinical Research Delivery",
+        "Report"
+      ],
+      "locations": []
+    },
+    "5b118becddf4": {
+      "id": "5b118becddf4",
+      "importance": "Medium",
+      "summary": "Annual statistics on Freedom of Information requests for central government bodies for 2025.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Freedom of Information",
+        "Annual"
+      ],
+      "locations": []
+    },
+    "604d77444a02": {
+      "id": "604d77444a02",
+      "importance": "Medium",
+      "summary": "This page gives Freedom of Information statistics for central government bodies from April to June 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Freedom of Information"
+      ],
+      "locations": []
+    },
+    "96ed8771b5d8": {
+      "id": "96ed8771b5d8",
+      "importance": "Medium",
+      "summary": "Quality report for HMRC statistics on Individual Savings Accounts, Child Trust Funds and Help to Save accounts.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Background",
+        "Annual",
+        "Quality",
+        "HMRC"
+      ],
+      "locations": []
+    },
+    "69b0c9bc3061": {
+      "id": "69b0c9bc3061",
+      "importance": "Medium",
+      "summary": "Monthly report showing the data for the average house prices for England, Northern Ireland, Scotland and Wales, including in CSV format.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK House Price Index",
+        "Monthly",
+        "Northern Ireland",
+        "Scotland and Wales"
+      ],
+      "locations": []
+    },
+    "a96e27ad9322": {
+      "id": "a96e27ad9322",
+      "importance": "Medium",
+      "summary": "HMRC statistics on Individual Savings Accounts, Child Trust Funds and Help to Save accounts.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Annual",
+        "HMRC",
+        "Individual Savings Accounts",
+        "Child Trust Funds and Help"
+      ],
+      "locations": []
+    },
+    "aea091fb08e9": {
+      "id": "aea091fb08e9",
+      "importance": "Medium",
+      "summary": "A longer time series of contributions to the Consumer Prices Index including owner occupiers’ housing costs (CPIH) and Consumer Prices Index (CPI), UK, monthly.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Contributions",
+        "Consumer Prices Index",
+        "CPIH"
+      ],
+      "locations": []
+    },
+    "d65a687c7fe9": {
+      "id": "d65a687c7fe9",
+      "importance": "Medium",
+      "summary": "This report builds on 3 decades of UKHSA research into the radiological impact of transporting radioactive materials, focusing on the medical sector.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Survey",
+        "Radiological Impact",
+        "Routine Transport of Radiopharmaceuticals",
+        "UK. This"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 50,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
