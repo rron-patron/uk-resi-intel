@@ -1,0 +1,824 @@
+{
+  "generated_at": "2026-09-17T12:52:26+00:00",
+  "date_label": "Thursday 17 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n46 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Build-to-rent",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Student housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 7,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "More",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Landlords",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Bank of England",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Lone Star Seeks",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Uplift In Under",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Years With",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "UK Mall Sale. Lone",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Star",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Aberdeen's Union Square",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Offsite",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Group",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Grey",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "An MP",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "McGoff",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Manchester BTR. The",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Marble Arch",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "6a15c786f68d": {
+      "id": "6a15c786f68d",
+      "importance": "Medium",
+      "summary": "Lone Star seeks £64M profit from Aberdeen's Union Square sale, enhancing leasing and tenant investment for a 58% price premium.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Lone Star Seeks",
+        "Uplift In Under",
+        "Years With",
+        "UK Mall Sale. Lone"
+      ],
+      "locations": []
+    },
+    "ee4815867ea1": {
+      "id": "ee4815867ea1",
+      "importance": "Medium",
+      "summary": "Reds10 Group has launched a new developer to target social and affordable home delivery",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Offsite",
+        "Group"
+      ],
+      "locations": []
+    },
+    "eabb666cabcc": {
+      "id": "eabb666cabcc",
+      "importance": "Medium",
+      "summary": "An MP has claimed that grey belt rules will spell the end of an alternative route to building social housing in villages",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Grey",
+        "An MP"
+      ],
+      "locations": []
+    },
+    "1b262ec8ac8e": {
+      "id": "1b262ec8ac8e",
+      "importance": "Medium",
+      "summary": "The developer’s plans for a 17-storey tower next to the popular Marble Arch pub have already secured a £27.4m loan from the GMCA. The post McGoff awaits permission for 153-flat Manchester BTR appeared first on Place Nort",
+      "why_it_matters": "",
+      "themes": [
+        "Build-to-rent",
+        "Residential investment"
+      ],
+      "companies": [
+        "McGoff",
+        "Manchester BTR. The",
+        "Marble Arch",
+        "GMCA. The"
+      ],
+      "locations": []
+    },
+    "01d966dcc518": {
+      "id": "01d966dcc518",
+      "importance": "Medium",
+      "summary": "Onward Homes and Starship Build want to deliver 88 affordable homes at the garden village, while the council plans to revamp the Halewood green space with two artificial pitches and a clubhouse. The post Grace Park overh",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Grace Park",
+        "Halsnead",
+        "Knowsley",
+        "Onward Homes and Starship Build"
+      ],
+      "locations": []
+    },
+    "a3d0c408a3a3": {
+      "id": "a3d0c408a3a3",
+      "importance": "Medium",
+      "summary": "The active developer and housing association have joined forces to work up plans for the redevelopment of a site last occupied by toy manufacturer RMS into affordable homes. The post Kellen, ForHousing table plans for 21",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Kellen",
+        "ForHousing",
+        "Swinton",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "7218ce969c7b": {
+      "id": "7218ce969c7b",
+      "importance": "Medium",
+      "summary": "Landowner Chester Race Company is working with UK Land & Property and the listed residential platform on proposals for a 300-apartment build-to-rent scheme on the site of the former Linenhall stables in the city centre. ",
+      "why_it_matters": "",
+      "themes": [
+        "Build-to-rent",
+        "Residential investment"
+      ],
+      "companies": [
+        "Grainger",
+        "Chester",
+        "Landowner Chester Race Company",
+        "UK Land"
+      ],
+      "locations": []
+    },
+    "5c5c63d42c3d": {
+      "id": "5c5c63d42c3d",
+      "importance": "Medium",
+      "summary": "Bellway’s proposal off Cumber Lane and a Dean Row Road project put forward by Jones Homes and Taylor Wimpey can advance, adding 300 homes to a supply that remains short of target. The post Cheshire East grants double Wil",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders",
+        "Housing supply"
+      ],
+      "companies": [
+        "Cheshire East",
+        "Wilmslow",
+        "Bellway’s",
+        "Cumber Lane"
+      ],
+      "locations": []
+    },
+    "1ed3f93d7820": {
+      "id": "1ed3f93d7820",
+      "importance": "Medium",
+      "summary": "Pendle Council is recommending plans for 84 homes on the former Fernbank Mill site for approval after the developer reduced the number of homes by 14 to mitigate flood risk. The post Muller primed for Barnoldswick consen",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Muller",
+        "Barnoldswick",
+        "Pendle Council",
+        "Fernbank Mill"
+      ],
+      "locations": []
+    },
+    "35092d6dd12c": {
+      "id": "35092d6dd12c",
+      "importance": "Medium",
+      "summary": "Officers recommend that the council’s executive approve the hand-back of the office-led Sale Waterside complex, delivered under a private finance initiative contract agreed in 2002. The post Trafford prepares to exit off",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Trafford",
+        "PFI. Officers",
+        "Sale Waterside",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "a6942d23c532": {
+      "id": "a6942d23c532",
+      "importance": "Medium",
+      "summary": "Bank of England holds rates at 3.75% as prospect of hikes grows",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "BREAKING",
+        "Property",
+        "Bank of England’s",
+        "Bank of England"
+      ],
+      "locations": []
+    },
+    "e8e764cebf13": {
+      "id": "e8e764cebf13",
+      "importance": "Medium",
+      "summary": "Expanding estate agency completes latest purchase",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Fast-growing",
+        "Expanding"
+      ],
+      "locations": []
+    },
+    "fc09e50b4e91": {
+      "id": "fc09e50b4e91",
+      "importance": "Medium",
+      "summary": "It’s 1966, and an actor has just spilled coffee all over his suit. He is part of a famous experiment run by the social psychologist Elliot Aronson, in which 48 students listened to what they were told was an audition for",
+      "why_it_matters": "",
+      "themes": [
+        "Student housing"
+      ],
+      "companies": [
+        "Nobody",
+        "It’s",
+        "Elliot Aronson",
+        "Half"
+      ],
+      "locations": []
+    },
+    "14f2561f7e7a": {
+      "id": "14f2561f7e7a",
+      "importance": "Medium",
+      "summary": "House price growth cools as agents warn sellers over asking prices",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "House"
+      ],
+      "locations": []
+    },
+    "336c40c11148": {
+      "id": "336c40c11148",
+      "importance": "Medium",
+      "summary": "Why estate agents are being urged to look outside the property industry",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "c97e016e103d": {
+      "id": "c97e016e103d",
+      "importance": "Medium",
+      "summary": "One in three prospective movers still off estate agents’ radar",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "0726a52ca1a2": {
+      "id": "0726a52ca1a2",
+      "importance": "Medium",
+      "summary": "More than 54,000 homes flood market in September selling surge",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Sellers",
+        "More"
+      ],
+      "locations": []
+    },
+    "bc493e0e2f78": {
+      "id": "bc493e0e2f78",
+      "importance": "Medium",
+      "summary": "Prime London agents suffer quietest August since financial crisis",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Prime London"
+      ],
+      "locations": []
+    },
+    "db84ef718092": {
+      "id": "db84ef718092",
+      "importance": "Medium",
+      "summary": "Fresh setback for government’s 1.5m homes ambition",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Government’s",
+        "Fresh"
+      ],
+      "locations": []
+    },
+    "962b36fc355f": {
+      "id": "962b36fc355f",
+      "importance": "Medium",
+      "summary": "Property platform steps up consumer push with national TV campaign",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property"
+      ],
+      "locations": []
+    },
+    "14479fe8f322": {
+      "id": "14479fe8f322",
+      "importance": "Medium",
+      "summary": "Cannabis farms cost landlords millions in property damage",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Cannabis"
+      ],
+      "locations": []
+    },
+    "138f00b9fd34": {
+      "id": "138f00b9fd34",
+      "importance": "Medium",
+      "summary": "Moveli has made a raft of high profile signings in recent weeks",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Another",
+        "Moveli"
+      ],
+      "locations": []
+    },
+    "87aae08ddf63": {
+      "id": "87aae08ddf63",
+      "importance": "Medium",
+      "summary": "A large independent agency has revealed that it’s a family affair with a daughter taking over the reins from her mother. Cope&Co in Derby handles sales and lettings. And now Annie Cope, who has worked for the business si",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Mother",
+        "Cope&Co",
+        "Derby",
+        "Annie Cope"
+      ],
+      "locations": []
+    },
+    "249a9a2eef0f": {
+      "id": "249a9a2eef0f",
+      "importance": "Medium",
+      "summary": "Do we all measure market activity wrongly?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Have"
+      ],
+      "locations": []
+    },
+    "03ccbc82c509": {
+      "id": "03ccbc82c509",
+      "importance": "Medium",
+      "summary": "The campaign begins this week and goes on until the end of October",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "aa68bb443239": {
+      "id": "aa68bb443239",
+      "importance": "Medium",
+      "summary": "The data comes from LonRes, a property consultancy",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "More",
+        "London",
+        "LonRes"
+      ],
+      "locations": []
+    },
+    "12310e3e8281": {
+      "id": "12310e3e8281",
+      "importance": "Medium",
+      "summary": "For a committee whose job is to set one number, the Bank of England's Monetary Policy Committee has a remarkable ability to complicate the property market.",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Property SigNATure",
+        "More",
+        "Bank of England's Monetary Policy",
+        "Committee"
+      ],
+      "locations": []
+    },
+    "274225d5b220": {
+      "id": "274225d5b220",
+      "importance": "Medium",
+      "summary": "Shareholders have been told today",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency",
+        "Shareholders"
+      ],
+      "locations": []
+    },
+    "4b1b1dbaf567": {
+      "id": "4b1b1dbaf567",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Claims that landlords are fleeing England’s PRS aren’t supported by the latest evidence, according to new analysis.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Shrinking PRS",
+        "News",
+        "Helen Gregory",
+        "Claims"
+      ],
+      "locations": []
+    },
+    "bc510fc60964": {
+      "id": "bc510fc60964",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - The Bank of England has left interest rates unchanged for the sixth consecutive time despite price rises accelerating.",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "LATEST",
+        "Bank of England",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "e509993ac8aa": {
+      "id": "e509993ac8aa",
+      "importance": "Medium",
+      "summary": "Column - Tim Frome - Landlords must brace for the December rollout of mandatory state registration, reshaping the compliance landscape under sweeping Renters' Rights refor",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "Renters' Rights",
+        "Column",
+        "Tim Frome"
+      ],
+      "locations": []
+    },
+    "a1a0caf41471": {
+      "id": "a1a0caf41471",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Landlords have been given a new checklist of housing standards to help them identify defects that could lead to fines.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "8825a9c9fbe5": {
+      "id": "8825a9c9fbe5",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Landlords who own some of the most expensive rental properties could be exempt from signing up to the new national PRS database.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "High-value",
+        "News",
+        "Helen Gregory",
+        "Landlords"
+      ],
+      "locations": []
+    },
+    "97fa8736f5aa": {
+      "id": "97fa8736f5aa",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Some tenants are delaying their first month’s rent payment until weeks after they have moved in, warns a letting agent.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rental",
+        "News",
+        "Helen Gregory",
+        "Some"
+      ],
+      "locations": []
+    },
+    "5eb0ba367690": {
+      "id": "5eb0ba367690",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Telford and Wrekin Council has put its planned additional licensing scheme on hold after landlords launched a legal challenge.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Legal",
+        "News",
+        "Helen Gregory",
+        "Telford and Wrekin Council"
+      ],
+      "locations": []
+    },
+    "09731cb7b9e6": {
+      "id": "09731cb7b9e6",
+      "importance": "Medium",
+      "summary": "Science advice note considering what models say about the likely impacts of El Niño on the UK from 2026 to 2027.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Impacts of El",
+        "UK. Science"
+      ],
+      "locations": []
+    },
+    "26e7ec18bbc6": {
+      "id": "26e7ec18bbc6",
+      "importance": "Medium",
+      "summary": "Statistical data sets about vehicle enforcement checks, including prohibitions issued, top offences for prosecution and top defects.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Vehicle",
+        "Great Britain. Statistical"
+      ],
+      "locations": []
+    },
+    "321fe0838d2f": {
+      "id": "321fe0838d2f",
+      "importance": "Medium",
+      "summary": "This report provides insights for local government on what works to support employers to recruit disabled people and people with health conditions.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Supporting"
+      ],
+      "locations": []
+    },
+    "44002a029dde": {
+      "id": "44002a029dde",
+      "importance": "Medium",
+      "summary": "The fifth wave of a large scale consumer study into the purchasing of counterfeit goods among people aged 18+ in the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Wave"
+      ],
+      "locations": []
+    },
+    "f377614a2b05": {
+      "id": "f377614a2b05",
+      "importance": "Medium",
+      "summary": "Independent research and practical guidance on using horizon scanning to support strategic planning and decision making.",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Independent"
+      ],
+      "locations": []
+    },
+    "17bd7a29e446": {
+      "id": "17bd7a29e446",
+      "importance": "Medium",
+      "summary": "Breakdowns of how many premises in the UK have received gigabit-capable broadband coverage as a result of Building Digital UK (BDUK) subsidy.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "BDUK",
+        "Breakdowns",
+        "Building Digital UK"
+      ],
+      "locations": []
+    },
+    "bc89b3ed09f8": {
+      "id": "bc89b3ed09f8",
+      "importance": "Medium",
+      "summary": "This publication outlines UK Official Development Assistance (ODA) spend for January to December 2025.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Statistics",
+        "International Development",
+        "UK ODA",
+        "UK Official Development Assistance"
+      ],
+      "locations": []
+    },
+    "3d2ea5c981ea": {
+      "id": "3d2ea5c981ea",
+      "importance": "Medium",
+      "summary": "This report describes the main findings from the department's 2025 Individuals Customer Experience and Perceptions Survey.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Individuals Customer Experience and Perceptions",
+        "Survey"
+      ],
+      "locations": []
+    },
+    "44d391e08380": {
+      "id": "44d391e08380",
+      "importance": "Medium",
+      "summary": "Provisional outturn estimates of local authority revenue expenditure for April 2025 to March 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Local",
+        "Provisional"
+      ],
+      "locations": []
+    },
+    "32bf0ca1044f": {
+      "id": "32bf0ca1044f",
+      "importance": "Medium",
+      "summary": "Information on the creative industries’ tax reliefs for film, high-end television, animation, children’s television, video games, theatre, orchestra, and museums and galleries exhibitions.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Creative",
+        "Information"
+      ],
+      "locations": []
+    },
+    "ddc87c1c12ef": {
+      "id": "ddc87c1c12ef",
+      "importance": "Medium",
+      "summary": "This spreadsheet provides supplementary data to that in the release of the UK regional trade in goods statistics from HM Revenue & Customs.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "HM Revenue",
+        "Customs"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 46,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
