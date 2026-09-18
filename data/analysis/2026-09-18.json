@@ -1,0 +1,635 @@
+{
+  "generated_at": "2026-09-18T12:28:14+00:00",
+  "date_label": "Friday 18 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n33 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 8,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Operation",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "TACT",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Contains",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Terrorism Act",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Monthly",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Public",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Places",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "People",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Large",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "RBKC",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Fair Funding Review",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Royal Borough of Kensington",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Chelsea",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "East End Homes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Employment Rights Act",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Barratt Redrow",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Codi",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "77263d88ac20": {
+      "id": "77263d88ac20",
+      "importance": "Medium",
+      "summary": "Large national landlord Places for People has reported a 17% rise in annual turnover, helped by two mergers, but its surplus fell",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Places",
+        "People",
+        "Large"
+      ],
+      "locations": []
+    },
+    "51a5f9840c5e": {
+      "id": "51a5f9840c5e",
+      "importance": "Medium",
+      "summary": "The Royal Borough of Kensington and Chelsea will face an “unprecedented funding gap” as a result of the government’s Fair Funding Review",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "RBKC",
+        "Fair Funding Review",
+        "The Royal Borough of Kensington",
+        "Chelsea"
+      ],
+      "locations": []
+    },
+    "5d30f5a42064": {
+      "id": "5d30f5a42064",
+      "importance": "Medium",
+      "summary": "East End Homes employees have been on strike to defend pension changes and against what they believe are moves to avoid new laws under the Employment Rights Act",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "London",
+        "East End Homes",
+        "Employment Rights Act"
+      ],
+      "locations": []
+    },
+    "cfd47e064fa9": {
+      "id": "cfd47e064fa9",
+      "importance": "Medium",
+      "summary": "Barratt Redrow recovered £38.4m from third parties through legal action related to “fire safety and reinforced concrete frames”, its annual accounts for 2025-26 have revealed",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders",
+        "Residential investment"
+      ],
+      "companies": [
+        "Barratt Redrow"
+      ],
+      "locations": []
+    },
+    "25469ae3153d": {
+      "id": "25469ae3153d",
+      "importance": "Medium",
+      "summary": "Wales’ largest housing association has launched a new contractor framework worth up to £750m to support the delivery of mixed-tenure homes over the next four years",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Codi"
+      ],
+      "locations": []
+    },
+    "bcfe0f591b94": {
+      "id": "bcfe0f591b94",
+      "importance": "Medium",
+      "summary": "Wigan Council has an ambitious vision for its borough and is actively working to turn these plans into reality. Director of place Aidan Thatcher walked Place North West through the local authority's approach. The post VI",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "VIDEO",
+        "Wigan",
+        "Wigan Council",
+        "Director"
+      ],
+      "locations": []
+    },
+    "d48a6a4b8151": {
+      "id": "d48a6a4b8151",
+      "importance": "Medium",
+      "summary": "The former USDAW headquarters off Wilmslow Road is the subject of plans for 53 one- to four-bed homes. The post Views tables Fallowfield homes proposal appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Views",
+        "Fallowfield",
+        "USDAW",
+        "Wilmslow Road"
+      ],
+      "locations": []
+    },
+    "70f710f152a4": {
+      "id": "70f710f152a4",
+      "importance": "Medium",
+      "summary": "Some £53m of grant funding will go towards transport projects across the city region, with another £25m supporting innovation initiatives and £70m of grants and loans helping to deliver 789 homes in Manchester. The post ",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "GMCA",
+        "Good Growth Fund. Some",
+        "Manchester. The",
+        "Good Growth Fund"
+      ],
+      "locations": []
+    },
+    "7d34ef0b4964": {
+      "id": "7d34ef0b4964",
+      "importance": "Medium",
+      "summary": "Christopher Dee has been appointed to sell the 58,000 sq ft The Alex, which is let to M&S and the Ministry for Homes, Communities, and Local Government. The post Peel puts £9m price tag on Salford Quays office appeared f",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Peel",
+        "Salford Quays",
+        "Christopher Dee",
+        "The Alex"
+      ],
+      "locations": []
+    },
+    "21c969bb32d9": {
+      "id": "21c969bb32d9",
+      "importance": "Medium",
+      "summary": "Labour’s Dan Price and Conservative’s Ben Fletcher agree on one thing: building homes must be a priority for the future leader of the sub-region. How they approach the issue, however, is different. The post How Cheshire ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "How Cheshire and Warrington",
+        "Labour’s Dan Price and Conservative’s",
+        "Ben Fletcher",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "a1d687c50eb8": {
+      "id": "a1d687c50eb8",
+      "importance": "Medium",
+      "summary": "What’s really happening in the UK property market?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "What’s"
+      ],
+      "locations": []
+    },
+    "75da4be664e0": {
+      "id": "75da4be664e0",
+      "importance": "Medium",
+      "summary": "Independent agency relocates after outgrowing its long-standing city centre base",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate",
+        "Independent"
+      ],
+      "locations": []
+    },
+    "a2cec8519ffc": {
+      "id": "a2cec8519ffc",
+      "importance": "Medium",
+      "summary": "Why your agency’s next instruction could already be in your CRM",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "f3aede1d72a8": {
+      "id": "f3aede1d72a8",
+      "importance": "Medium",
+      "summary": "Left Behind: The Cost of Unwanted Belongings",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Should",
+        "Left Behind",
+        "The Cost of Unwanted Belongings"
+      ],
+      "locations": []
+    },
+    "e516e6a1ed07": {
+      "id": "e516e6a1ed07",
+      "importance": "Medium",
+      "summary": "Strong career prospects in estate agency as almost 1,300 roles advertised",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Strong"
+      ],
+      "locations": []
+    },
+    "6eae5a1bae29": {
+      "id": "6eae5a1bae29",
+      "importance": "Medium",
+      "summary": "Motivated movers return as estate agency sales jump 32%",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Motivated"
+      ],
+      "locations": []
+    },
+    "fbd985c16d4c": {
+      "id": "fbd985c16d4c",
+      "importance": "Medium",
+      "summary": "House sales tumble amid affordability squeeze",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "House"
+      ],
+      "locations": []
+    },
+    "cb75568dcae2": {
+      "id": "cb75568dcae2",
+      "importance": "Medium",
+      "summary": "Rent guarantor applications jump 50%",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rent",
+        "Renters’ Rights Act. Rent"
+      ],
+      "locations": []
+    },
+    "b85454a691bc": {
+      "id": "b85454a691bc",
+      "importance": "Medium",
+      "summary": "An agency has announced a £1m investment programme to mark 20 years in business, involving an office relocation and the acquisition of a rival lettings firm. Norfolk independent Pymm & Co has snapped up Starkings & Watso",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Agency’s",
+        "Norfolk",
+        "Pymm",
+        "Starkings"
+      ],
+      "locations": []
+    },
+    "d98a5bf5c0e4": {
+      "id": "d98a5bf5c0e4",
+      "importance": "Medium",
+      "summary": "An agency has analysed listings in England",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Supply"
+      ],
+      "locations": []
+    },
+    "3d37604ad6b9": {
+      "id": "3d37604ad6b9",
+      "importance": "Medium",
+      "summary": "New analysis by a property consultancy shows long delays in England",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Scottish"
+      ],
+      "locations": []
+    },
+    "a651070c5870": {
+      "id": "a651070c5870",
+      "importance": "Medium",
+      "summary": "Savills has appointed Jamie Adam as head of residential development sales for Scotland – in addition to his existing similar role across the North of England. Adam will now oversee the firm’s development sales teams acro",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Expanded",
+        "Savills",
+        "Jamie Adam",
+        "North of England. Adam"
+      ],
+      "locations": []
+    },
+    "0a460041e685": {
+      "id": "0a460041e685",
+      "importance": "Medium",
+      "summary": "But you have to list your property straight away to stand any chance...",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Conveyancers",
+        "Christmas. But"
+      ],
+      "locations": []
+    },
+    "7ef91425f1ae": {
+      "id": "7ef91425f1ae",
+      "importance": "Medium",
+      "summary": "The overwhelming majority are located in England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Foreign",
+        "UK. The"
+      ],
+      "locations": []
+    },
+    "e9ff71a8a793": {
+      "id": "e9ff71a8a793",
+      "importance": "Medium",
+      "summary": "The Bank of England’s Monetary Policy Committee (MPC) has announced its latest interest rate decision – and our industry has reacted to the news. The Bank held the base rate once again at 3.75%. It’s the sixth MPC meetin",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Agents",
+        "The Bank of England’s Monetary",
+        "Policy Committee",
+        "The Bank"
+      ],
+      "locations": []
+    },
+    "a6a96037609b": {
+      "id": "a6a96037609b",
+      "importance": "Medium",
+      "summary": "Contains statistical material relating to the Terrorism Act 2000, including arrests and outcomes, and stops and searches.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Operation",
+        "TACT",
+        "Contains",
+        "Terrorism Act"
+      ],
+      "locations": []
+    },
+    "64aba979565d": {
+      "id": "64aba979565d",
+      "importance": "Medium",
+      "summary": "Monthly tables and commentary on the numbers, rates and sectors of companies that have entered formal insolvency procedures in England and Wales, Scotland and Northern Ireland.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Company",
+        "Monthly",
+        "England and Wales",
+        "Scotland and Northern Ireland"
+      ],
+      "locations": []
+    },
+    "bef9df43525d": {
+      "id": "bef9df43525d",
+      "importance": "Medium",
+      "summary": "Contains statistical material relating to the Terrorism Act 2000, including arrests and outcomes, and stops and searches.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Operation",
+        "TACT",
+        "Contains",
+        "Terrorism Act"
+      ],
+      "locations": []
+    },
+    "597768e3b68a": {
+      "id": "597768e3b68a",
+      "importance": "Medium",
+      "summary": "Monthly tables and commentary on the numbers and rates of individual insolvencies, including bankruptcies, debt relief orders and individual voluntary arrangements in England and Wales and Northern Ireland, and quarterly",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Individual",
+        "Monthly",
+        "England and Wales and Northern Ireland"
+      ],
+      "locations": []
+    },
+    "d9b77a6aeb76": {
+      "id": "d9b77a6aeb76",
+      "importance": "Medium",
+      "summary": "Exploring quality of life and progress beyond GDP in the UK, drawing on the new quarterly headline national well-being measures.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Beyond GDP",
+        "National Well-being",
+        "Exploring"
+      ],
+      "locations": []
+    },
+    "19517c8f143c": {
+      "id": "19517c8f143c",
+      "importance": "Medium",
+      "summary": "Presents a review of social scientific research on public perceptions and social acceptance of carbon capture and storage.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Public",
+        "Presents"
+      ],
+      "locations": []
+    },
+    "b3422e7770e7": {
+      "id": "b3422e7770e7",
+      "importance": "Medium",
+      "summary": "The number of mortgage sales and other mortgage statistics by UK local authority, from 2006 to 2025.",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Mortgage"
+      ],
+      "locations": []
+    },
+    "3a5a221a07bb": {
+      "id": "3a5a221a07bb",
+      "importance": "Medium",
+      "summary": "Social insights on daily life and events, including important issues facing the UK, from the Opinions and Lifestyle Survey (OPN).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Public",
+        "Great Britain",
+        "Social",
+        "Opinions and Lifestyle Survey"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 33,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
