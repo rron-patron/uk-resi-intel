@@ -1,0 +1,676 @@
+{
+  "collected_at": "2026-09-21T14:40:38+00:00",
+  "date_london": "2026-09-21",
+  "counts": {
+    "seen_in_feeds": 45,
+    "new": 35,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 4,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 4"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 6,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 6"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 11,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 11"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 6,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 6"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 3,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 3"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 5,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 5"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Home Group announces new chief financial officer",
+      "url": "https://insidehousing.co.uk/home/home-group-announces-new-chief-financial-officer-98780",
+      "published": "2026-09-21T14:33:31+00:00",
+      "excerpt": "Housing association Home Group has promoted Chris Hopkins to the role of chief financial officer",
+      "entities": [
+        "Home Group",
+        "Housing",
+        "Chris Hopkins"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:47+00:00",
+      "id": "c078027fdaa6"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "London landlord agrees £70m funding package with Barclays",
+      "url": "https://insidehousing.co.uk/home/london-landlord-agrees-70m-funding-package-with-barclays-98770",
+      "published": "2026-09-21T14:26:59+00:00",
+      "excerpt": "London-based provider RHP Group has secured a £70m funding package from lender Barclays",
+      "entities": [
+        "London",
+        "Barclays. London-based",
+        "RHP Group",
+        "Barclays"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:47+00:00",
+      "id": "a9a8c6745162"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "The Week in Housing: Fatal fire in London, development woes and Grenfell reforms progress update",
+      "url": "https://insidehousing.co.uk/home/the-week-in-housing-fatal-fire-in-london-development-woes-and-grenfell-reforms-progress-update-98763",
+      "published": "2026-09-21T11:31:32+00:00",
+      "excerpt": "The Week in Housing is our weekly newsletter, rounding up the most important headlines for housing professionals",
+      "entities": [
+        "The Week",
+        "Housing",
+        "Fatal",
+        "London",
+        "Grenfell"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:47+00:00",
+      "id": "4ad8335a8fdb"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Housing association Places for People boosts turnover to £1.2bn after mergers, but surplus drops",
+      "url": "https://insidehousing.co.uk/home/housing-association-places-for-people-boosts-turnover-to-12bn-after-mergers-but-surplus-drops-98766",
+      "published": "2026-09-21T10:54:42+00:00",
+      "excerpt": "Large national housing association Places for People has reported a 17% rise in annual turnover, helped by two mergers, but its surplus fell",
+      "entities": [
+        "Housing",
+        "Places",
+        "People",
+        "Large"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:47+00:00",
+      "id": "10690bb57657"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Thatcher leaves Wigan as council’s development stance shifts",
+      "url": "https://placenorthwest.co.uk/thatcher-leaves-wigan-as-councils-development-stance-shifts",
+      "published": "2026-09-21T14:30:25+00:00",
+      "excerpt": "Aidan Thatcher, the council’s director of place for the last five and a half years, has departed in pursuit of a new challenge. The post Thatcher leaves Wigan as council’s development stance shifts appeared first on Place North West .",
+      "entities": [
+        "Thatcher",
+        "Wigan",
+        "Aidan Thatcher",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:54+00:00",
+      "id": "0347709b2db8"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "ECF resi clears Gateway 2 hurdle",
+      "url": "https://placenorthwest.co.uk/ecf-resi-clears-gateway-2-hurdle",
+      "published": "2026-09-21T11:04:08+00:00",
+      "excerpt": "To be delivered by Domis Construction, Plot A1 at New Bailey in Salford will be the final residential part of the Salford Central masterplan, bringing 189 affordable apartments across 21 storeys. The post ECF resi clears Gateway 2 hurdle appeared first on Place North West .",
+      "entities": [
+        "Gateway",
+        "Domis Construction",
+        "Plot",
+        "New Bailey",
+        "Salford",
+        "Salford Central",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:54+00:00",
+      "id": "29e2cbe0229b"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Westmorland grants Kendal go-ahead",
+      "url": "https://placenorthwest.co.uk/westmorland-grants-kendal-go-ahead",
+      "published": "2026-09-21T10:49:31+00:00",
+      "excerpt": "Four years on from submission, outline plans for 160 homes off Hayclose Road have approval. The post Westmorland grants Kendal go-ahead appeared first on Place North West .",
+      "entities": [
+        "Westmorland",
+        "Kendal",
+        "Four",
+        "Hayclose Road",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:54+00:00",
+      "id": "6d5bf5ba4356"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Thumbs-up for 126 Eccles social rent homes",
+      "url": "https://placenorthwest.co.uk/eccles-social-rent-homes-given-go-ahead",
+      "published": "2026-09-21T10:19:42+00:00",
+      "excerpt": "Salford City Council has approved plans by CERT Property and ForHousing for affordable flats and townhouses off Albert Street on the site of a former garage. The post Thumbs-up for 126 Eccles social rent homes appeared first on Place North West .",
+      "entities": [
+        "Thumbs-up",
+        "Eccles",
+        "Salford City Council",
+        "CERT Property and ForHousing",
+        "Albert Street",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:54+00:00",
+      "id": "cc788356c321"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "ALB picks up Preston Wilko",
+      "url": "https://placenorthwest.co.uk/alb-picks-up-preston-wilko",
+      "published": "2026-09-21T10:04:47+00:00",
+      "excerpt": "A new tenant by Christmas: that’s the goal for the 50,600 sq ft store’s latest owner, a Nottingham-based developer who has been slowly branching out into Lancashire. The post ALB picks up Preston Wilko appeared first on Place North West .",
+      "entities": [
+        "Preston Wilko",
+        "Christmas",
+        "Nottingham-based",
+        "Lancashire. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:54+00:00",
+      "id": "000950a42607"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Peel pushes for 450 more Warrington homes with EIA submission",
+      "url": "https://placenorthwest.co.uk/peel-pushes-for-450-more-warrington-homes-with-eia-submission",
+      "published": "2026-09-21T09:25:50+00:00",
+      "excerpt": "With three applications adding up to 460 homes already in the works across the borough, the firm is looking to nearly replicate that number with a single application for a site next to Culcheth High School. The post Peel pushes for 450 more Warrington homes with EIA submission appeared first on Place North West .",
+      "entities": [
+        "Peel",
+        "Warrington",
+        "With",
+        "Culcheth High School. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:54+00:00",
+      "id": "ac2dc60f0baf"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency collapse leaves £650,000 creditor claims",
+      "url": "https://propertyindustryeye.com/estate-agency-collapse-leaves-650000-creditor-claims",
+      "published": "2026-09-21T04:20:10+00:00",
+      "excerpt": "Creditors face heavy losses after estate agency went bust",
+      "entities": [
+        "Estate",
+        "Creditors"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "0e205b48d11b"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Property industry reacts to latest Rightmove House Price Index",
+      "url": "https://propertyindustryeye.com/property-industry-reacts-to-latest-rightmove-house-price-index-5",
+      "published": "2026-09-21T04:00:39+00:00",
+      "excerpt": "UK asking prices rise as autumn housing market picks up",
+      "entities": [
+        "Property",
+        "Rightmove House Price Index"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "20f20c692730"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Two-thirds of agents lack qualifications amid push for mandatory regulation",
+      "url": "https://propertyindustryeye.com/two-thirds-of-agents-lack-qualifications-amid-push-for-mandatory-regulation",
+      "published": "2026-09-21T03:50:41+00:00",
+      "excerpt": "Calls for mandatory regulation as 65% of agents lack qualifications",
+      "entities": [
+        "Two-thirds",
+        "Calls"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "2e6aecbe527b"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Opinion: Forget the landlord exodus – this is service failure",
+      "url": "https://propertyindustryeye.com/opinion-forget-the-landlord-exodus-this-is-service-failure",
+      "published": "2026-09-21T03:00:15+00:00",
+      "excerpt": "Some agents have seen a sharp drop in letting instructions",
+      "entities": [
+        "Opinion",
+        "Forget",
+        "Some"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "83cdb8ccc459"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency specialists launch training day for agency bosses",
+      "url": "https://propertyindustryeye.com/estate-agency-specialists-launch-99-training-day-for-agency-bosses",
+      "published": "2026-09-21T02:54:33+00:00",
+      "excerpt": "Four industry specialists team up for estate agency masterclass",
+      "entities": [
+        "Estate",
+        "Four"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "c422c7080a47"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Buy-to-let returns soar more than 2,000% in 30 years – but tables are turning",
+      "url": "https://propertyindustryeye.com/buy-to-let-returns-soar-more-than-2000-in-30-years-but-tables-are-turning",
+      "published": "2026-09-21T02:40:32+00:00",
+      "excerpt": "Buy-to-let delivers 2,130% return over 30 years – but recent performance lags shares",
+      "entities": [
+        "Buy-to-let"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "41683e7ea583"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Landlord exodus hits record high – but rental stock rises",
+      "url": "https://propertyindustryeye.com/landlord-exodus-hits-record-high-but-rental-stock-rises",
+      "published": "2026-09-21T02:36:16+00:00",
+      "excerpt": "Landlords flee PRS at record rate",
+      "entities": [
+        "Landlord",
+        "Landlords"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "57a46dd8bb42"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Asking prices bounce back as estate agents battle 12-year supply high",
+      "url": "https://propertyindustryeye.com/asking-prices-bounce-back-as-estate-agents-battle-12-year-supply-high",
+      "published": "2026-09-21T02:30:07+00:00",
+      "excerpt": "Asking prices rise for first time since May as buyer activity picks up",
+      "entities": [
+        "Asking"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "d905ba36da8a"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Conveyancer numbers plunge as sales take 123 days to exchange",
+      "url": "https://propertyindustryeye.com/conveyancer-numbers-plunge-as-sales-take-123-days-to-exchange",
+      "published": "2026-09-21T02:22:17+00:00",
+      "excerpt": "Conveyancer shortage threatens to slow property sales further",
+      "entities": [
+        "Conveyancer"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "28adf6880abe"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Rolling contracts now dominate the private rented sector",
+      "url": "https://propertyindustryeye.com/rolling-contracts-now-dominate-the-private-rented-sector",
+      "published": "2026-09-21T02:20:29+00:00",
+      "excerpt": "Fixed-term tenancies fade as rolling contracts take over",
+      "entities": [
+        "Rolling",
+        "Fixed-term"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "c638c4537b74"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Luxury London rents surge as supply dries up",
+      "url": "https://propertyindustryeye.com/luxury-london-rents-surge-as-supply-dries-up",
+      "published": "2026-09-20T23:50:39+00:00",
+      "excerpt": "Prime London house rents soar 67% as supply shrinks",
+      "entities": [
+        "Luxury London",
+        "Prime London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "f02b3c50e9ac"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agency collapses – unpaid debts may top £600,000",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/agency-collapses-unpaid-debts-may-top-600000",
+      "published": "2026-09-20T23:07:00+00:00",
+      "excerpt": "It now appears that an estate agency that went into voluntary liquidation two years ago over unpaid taxes may ultimately leave over £600,000 in unpaid debts. A new liquidator’s report says Pilkington Estates Ltd had two branches in Plymouth, 12 staff and a portfolio of nearly 300 properties when it was liquidated in 2024. The […]",
+      "entities": [
+        "Agency",
+        "Pilkington Estates Ltd",
+        "Plymouth"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "d42bab88cf22"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Rightmove warns agents: There may be trouble ahead",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/rightmove-warns-agents-there-may-be-trouble-ahead",
+      "published": "2026-09-20T23:06:00+00:00",
+      "excerpt": "The autumn is going to be challenging, warns the portal",
+      "entities": [
+        "Rightmove"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "5ccb99cb4898"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Conveyancer numbers slump as transaction delays worsen",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/conveyancer-numbers-slump-as-transaction-delays-worsen",
+      "published": "2026-09-20T23:05:00+00:00",
+      "excerpt": "There's been approaching a 20% drop in conveyancers in five years",
+      "entities": [
+        "Conveyancer",
+        "There's"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "e63c149e19c4"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Third of leads are generated outside office hours",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/third-of-leads-are-generated-outside-office-hours",
+      "published": "2026-09-20T23:04:00+00:00",
+      "excerpt": "The analysis has come from The ValPal Network",
+      "entities": [
+        "Third",
+        "The ValPal Network"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "5eff0f6cf4be"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Sales packs, digital logbooks, upfront into – special briefing for agents",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/sales-packs-digital-logbooks-upfront-into-special-briefing-for-agents",
+      "published": "2026-09-20T23:03:00+00:00",
+      "excerpt": "The briefing is on Wednesday of this week",
+      "entities": [
+        "Sales"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "08775cb57bbb"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Legendary agent to head digital property marketplace",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/legendary-agent-to-head-digital-property-marketplace",
+      "published": "2026-09-20T23:00:00+00:00",
+      "excerpt": "He's worked at Foxtons, Chancellors, Countrywide and DAMAC",
+      "entities": [
+        "Legendary",
+        "He's",
+        "Foxtons",
+        "Chancellors",
+        "Countrywide and DAMAC"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "5b1ca149bb01"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Landlords selling up at the fastest rate in a decade",
+      "url": "https://landlordzone.co.uk/news/landlords-selling-up-at-the-fastest-rate-in-a-decade",
+      "published": "2026-09-21T13:18:36+00:00",
+      "excerpt": "News - Helen Gregory - About 562 properties are being lost from the market every day in the third quarter of 2026, the highest rate since 2016.",
+      "entities": [
+        "Landlords",
+        "News",
+        "Helen Gregory",
+        "About"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "d4398d8d8753"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Buy-to-let turns £1 into £22 over three decades",
+      "url": "https://landlordzone.co.uk/news/buy-to-let-turns-ps1-into-ps22-over-three-decades",
+      "published": "2026-09-21T13:13:42+00:00",
+      "excerpt": "News - Helen Gregory - Landlords have earned £22 for every £1 invested in the 30 years since the UK’s first buy-to-let mortgage launched.",
+      "entities": [
+        "Buy-to-let",
+        "News",
+        "Helen Gregory",
+        "Landlords",
+        "UK’s"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "e595bb64cfa7"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Landlords captured just 10p in every £1 of 2024 LHA increase",
+      "url": "https://landlordzone.co.uk/news/landlords-captured-just-10p-in-every-ps1-of-2024-lha-increase",
+      "published": "2026-09-21T13:10:45+00:00",
+      "excerpt": "News - Helen Gregory - Only about 10p of every £1 increase in Local Housing Allowance appears to have fed through into higher rents, according to a think-tank.",
+      "entities": [
+        "Landlords",
+        "News",
+        "Helen Gregory",
+        "Only",
+        "Local Housing Allowance"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-21T14:40:55+00:00",
+      "id": "118c264403c4"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Research at DfE",
+      "url": "https://gov.uk/government/organisations/department-for-education/about/research",
+      "published": "2026-09-21T11:13:09+00:00",
+      "excerpt": "The Department for Education’s research interests, studies and available data.",
+      "entities": [
+        "Research",
+        "DfE. The Department",
+        "Education’s"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-21T14:40:57+00:00",
+      "id": "5024b68046e9"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Farming evidence pack: A high-level overview of the UK agricultural industry",
+      "url": "https://gov.uk/government/publications/farming-evidence-pack-a-high-level-overview-of-the-uk-agricultural-industry",
+      "published": "2026-09-21T09:56:25+00:00",
+      "excerpt": "Presents key agricultural statistics on the current state of the agriculture industry.",
+      "entities": [
+        "Farming",
+        "Presents"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-21T14:40:57+00:00",
+      "id": "5aff52dd29fb"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Mycoplasma genitalium antimicrobial resistance surveillance (MARS)",
+      "url": "https://gov.uk/government/publications/mycoplasma-genitalium-antimicrobial-resistance-surveillance-mars",
+      "published": "2026-09-21T09:14:36+00:00",
+      "excerpt": "Data on the latest findings relating to antimicrobial resistance in Mycoplasma genitalium from specimens collected in sexual health clinics across England.",
+      "entities": [
+        "Mycoplasma",
+        "MARS",
+        "Data"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-21T14:40:57+00:00",
+      "id": "bd4bdde61314"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Measuring Artificial Intelligence in the UK Economy using a thematic account",
+      "url": "https://gov.uk/government/statistics/measuring-artificial-intelligence-in-the-uk-economy-using-a-thematic-account",
+      "published": "2026-09-21T08:30:03+00:00",
+      "excerpt": "Measuring Artificial Intelligence in the UK Economy using a thematic account setting out what a thematic account is, the approach ONS is taking to compile an AI thematic account and how it helps in the measurement of the impact of artificial intelligence on the UK economy.…",
+      "entities": [
+        "Measuring Artificial Intelligence",
+        "UK Economy"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-21T14:40:57+00:00",
+      "id": "624696e697c2"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Fishing quota allocations for England and the UK",
+      "url": "https://gov.uk/government/statistical-data-sets/fishing-quota-allocations-for-england-and-the-uk",
+      "published": "2026-09-21T08:24:09+00:00",
+      "excerpt": "These are the fishing quota allocations for England and the UK.",
+      "entities": [
+        "Fishing",
+        "UK. These"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-21T14:40:57+00:00",
+      "id": "cd0457467605"
+    }
+  ]
+}

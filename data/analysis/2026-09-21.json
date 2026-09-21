@@ -1,0 +1,663 @@
+{
+  "generated_at": "2026-09-21T14:41:03+00:00",
+  "date_label": "Monday 21 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n35 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 6,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "Landlords",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Four",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Buy-to-let",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Conveyancer",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Home Group",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Chris Hopkins",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Barclays. London-based",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "RHP Group",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Barclays",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Week",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Fatal",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Grenfell",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Places",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "People",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "c078027fdaa6": {
+      "id": "c078027fdaa6",
+      "importance": "Medium",
+      "summary": "Housing association Home Group has promoted Chris Hopkins to the role of chief financial officer",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Home Group",
+        "Housing",
+        "Chris Hopkins"
+      ],
+      "locations": []
+    },
+    "a9a8c6745162": {
+      "id": "a9a8c6745162",
+      "importance": "Medium",
+      "summary": "London-based provider RHP Group has secured a £70m funding package from lender Barclays",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "London",
+        "Barclays. London-based",
+        "RHP Group",
+        "Barclays"
+      ],
+      "locations": []
+    },
+    "4ad8335a8fdb": {
+      "id": "4ad8335a8fdb",
+      "importance": "Medium",
+      "summary": "The Week in Housing is our weekly newsletter, rounding up the most important headlines for housing professionals",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Week",
+        "Housing",
+        "Fatal",
+        "London"
+      ],
+      "locations": []
+    },
+    "10690bb57657": {
+      "id": "10690bb57657",
+      "importance": "Medium",
+      "summary": "Large national housing association Places for People has reported a 17% rise in annual turnover, helped by two mergers, but its surplus fell",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Housing",
+        "Places",
+        "People",
+        "Large"
+      ],
+      "locations": []
+    },
+    "0347709b2db8": {
+      "id": "0347709b2db8",
+      "importance": "Medium",
+      "summary": "Aidan Thatcher, the council’s director of place for the last five and a half years, has departed in pursuit of a new challenge. The post Thatcher leaves Wigan as council’s development stance shifts appeared first on Plac",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Thatcher",
+        "Wigan",
+        "Aidan Thatcher",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "29e2cbe0229b": {
+      "id": "29e2cbe0229b",
+      "importance": "Medium",
+      "summary": "To be delivered by Domis Construction, Plot A1 at New Bailey in Salford will be the final residential part of the Salford Central masterplan, bringing 189 affordable apartments across 21 storeys. The post ECF resi clears",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing",
+        "Regional development"
+      ],
+      "companies": [
+        "Gateway",
+        "Domis Construction",
+        "Plot",
+        "New Bailey"
+      ],
+      "locations": []
+    },
+    "6d5bf5ba4356": {
+      "id": "6d5bf5ba4356",
+      "importance": "Medium",
+      "summary": "Four years on from submission, outline plans for 160 homes off Hayclose Road have approval. The post Westmorland grants Kendal go-ahead appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Westmorland",
+        "Kendal",
+        "Four",
+        "Hayclose Road"
+      ],
+      "locations": []
+    },
+    "cc788356c321": {
+      "id": "cc788356c321",
+      "importance": "Medium",
+      "summary": "Salford City Council has approved plans by CERT Property and ForHousing for affordable flats and townhouses off Albert Street on the site of a former garage. The post Thumbs-up for 126 Eccles social rent homes appeared f",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Thumbs-up",
+        "Eccles",
+        "Salford City Council",
+        "CERT Property and ForHousing"
+      ],
+      "locations": []
+    },
+    "000950a42607": {
+      "id": "000950a42607",
+      "importance": "Medium",
+      "summary": "A new tenant by Christmas: that’s the goal for the 50,600 sq ft store’s latest owner, a Nottingham-based developer who has been slowly branching out into Lancashire. The post ALB picks up Preston Wilko appeared first on ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Preston Wilko",
+        "Christmas",
+        "Nottingham-based",
+        "Lancashire. The"
+      ],
+      "locations": []
+    },
+    "ac2dc60f0baf": {
+      "id": "ac2dc60f0baf",
+      "importance": "Medium",
+      "summary": "With three applications adding up to 460 homes already in the works across the borough, the firm is looking to nearly replicate that number with a single application for a site next to Culcheth High School. The post Peel",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Peel",
+        "Warrington",
+        "With",
+        "Culcheth High School. The"
+      ],
+      "locations": []
+    },
+    "0e205b48d11b": {
+      "id": "0e205b48d11b",
+      "importance": "Medium",
+      "summary": "Creditors face heavy losses after estate agency went bust",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate",
+        "Creditors"
+      ],
+      "locations": []
+    },
+    "20f20c692730": {
+      "id": "20f20c692730",
+      "importance": "Medium",
+      "summary": "UK asking prices rise as autumn housing market picks up",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Rightmove House Price Index"
+      ],
+      "locations": []
+    },
+    "2e6aecbe527b": {
+      "id": "2e6aecbe527b",
+      "importance": "Medium",
+      "summary": "Calls for mandatory regulation as 65% of agents lack qualifications",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Two-thirds",
+        "Calls"
+      ],
+      "locations": []
+    },
+    "83cdb8ccc459": {
+      "id": "83cdb8ccc459",
+      "importance": "Medium",
+      "summary": "Some agents have seen a sharp drop in letting instructions",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Opinion",
+        "Forget",
+        "Some"
+      ],
+      "locations": []
+    },
+    "c422c7080a47": {
+      "id": "c422c7080a47",
+      "importance": "Medium",
+      "summary": "Four industry specialists team up for estate agency masterclass",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Four"
+      ],
+      "locations": []
+    },
+    "41683e7ea583": {
+      "id": "41683e7ea583",
+      "importance": "Medium",
+      "summary": "Buy-to-let delivers 2,130% return over 30 years – but recent performance lags shares",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Buy-to-let"
+      ],
+      "locations": []
+    },
+    "57a46dd8bb42": {
+      "id": "57a46dd8bb42",
+      "importance": "Medium",
+      "summary": "Landlords flee PRS at record rate",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlord",
+        "Landlords"
+      ],
+      "locations": []
+    },
+    "d905ba36da8a": {
+      "id": "d905ba36da8a",
+      "importance": "Medium",
+      "summary": "Asking prices rise for first time since May as buyer activity picks up",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Asking"
+      ],
+      "locations": []
+    },
+    "28adf6880abe": {
+      "id": "28adf6880abe",
+      "importance": "Medium",
+      "summary": "Conveyancer shortage threatens to slow property sales further",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Conveyancer"
+      ],
+      "locations": []
+    },
+    "c638c4537b74": {
+      "id": "c638c4537b74",
+      "importance": "Medium",
+      "summary": "Fixed-term tenancies fade as rolling contracts take over",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rolling",
+        "Fixed-term"
+      ],
+      "locations": []
+    },
+    "f02b3c50e9ac": {
+      "id": "f02b3c50e9ac",
+      "importance": "Medium",
+      "summary": "Prime London house rents soar 67% as supply shrinks",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Luxury London",
+        "Prime London"
+      ],
+      "locations": []
+    },
+    "d42bab88cf22": {
+      "id": "d42bab88cf22",
+      "importance": "Medium",
+      "summary": "It now appears that an estate agency that went into voluntary liquidation two years ago over unpaid taxes may ultimately leave over £600,000 in unpaid debts. A new liquidator’s report says Pilkington Estates Ltd had two ",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Agency",
+        "Pilkington Estates Ltd",
+        "Plymouth"
+      ],
+      "locations": []
+    },
+    "5ccb99cb4898": {
+      "id": "5ccb99cb4898",
+      "importance": "Medium",
+      "summary": "The autumn is going to be challenging, warns the portal",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    "e63c149e19c4": {
+      "id": "e63c149e19c4",
+      "importance": "Medium",
+      "summary": "There's been approaching a 20% drop in conveyancers in five years",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Conveyancer",
+        "There's"
+      ],
+      "locations": []
+    },
+    "5eff0f6cf4be": {
+      "id": "5eff0f6cf4be",
+      "importance": "Medium",
+      "summary": "The analysis has come from The ValPal Network",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Third",
+        "The ValPal Network"
+      ],
+      "locations": []
+    },
+    "08775cb57bbb": {
+      "id": "08775cb57bbb",
+      "importance": "Medium",
+      "summary": "The briefing is on Wednesday of this week",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Sales"
+      ],
+      "locations": []
+    },
+    "5b1ca149bb01": {
+      "id": "5b1ca149bb01",
+      "importance": "Medium",
+      "summary": "He's worked at Foxtons, Chancellors, Countrywide and DAMAC",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Legendary",
+        "He's",
+        "Foxtons",
+        "Chancellors"
+      ],
+      "locations": []
+    },
+    "d4398d8d8753": {
+      "id": "d4398d8d8753",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - About 562 properties are being lost from the market every day in the third quarter of 2026, the highest rate since 2016.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "News",
+        "Helen Gregory",
+        "About"
+      ],
+      "locations": []
+    },
+    "e595bb64cfa7": {
+      "id": "e595bb64cfa7",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Landlords have earned £22 for every £1 invested in the 30 years since the UK’s first buy-to-let mortgage launched.",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages",
+        "Residential investment"
+      ],
+      "companies": [
+        "Buy-to-let",
+        "News",
+        "Helen Gregory",
+        "Landlords"
+      ],
+      "locations": []
+    },
+    "118c264403c4": {
+      "id": "118c264403c4",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Only about 10p of every £1 increase in Local Housing Allowance appears to have fed through into higher rents, according to a think-tank.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Landlords",
+        "News",
+        "Helen Gregory",
+        "Only"
+      ],
+      "locations": []
+    },
+    "5024b68046e9": {
+      "id": "5024b68046e9",
+      "importance": "Medium",
+      "summary": "The Department for Education’s research interests, studies and available data.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Research",
+        "DfE. The Department",
+        "Education’s"
+      ],
+      "locations": []
+    },
+    "5aff52dd29fb": {
+      "id": "5aff52dd29fb",
+      "importance": "Medium",
+      "summary": "Presents key agricultural statistics on the current state of the agriculture industry.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Farming",
+        "Presents"
+      ],
+      "locations": []
+    },
+    "bd4bdde61314": {
+      "id": "bd4bdde61314",
+      "importance": "Medium",
+      "summary": "Data on the latest findings relating to antimicrobial resistance in Mycoplasma genitalium from specimens collected in sexual health clinics across England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Mycoplasma",
+        "MARS",
+        "Data"
+      ],
+      "locations": []
+    },
+    "624696e697c2": {
+      "id": "624696e697c2",
+      "importance": "Medium",
+      "summary": "Measuring Artificial Intelligence in the UK Economy using a thematic account setting out what a thematic account is, the approach ONS is taking to compile an AI thematic account and how it helps in the measurement of the",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Measuring Artificial Intelligence",
+        "UK Economy"
+      ],
+      "locations": []
+    },
+    "cd0457467605": {
+      "id": "cd0457467605",
+      "importance": "Medium",
+      "summary": "These are the fishing quota allocations for England and the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Fishing",
+        "UK. These"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 35,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
