@@ -1,0 +1,648 @@
+{
+  "generated_at": "2026-09-22T12:55:49+00:00",
+  "date_label": "Tuesday 22 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n35 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 7,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Agents",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Rightmove",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Local",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "PropTech",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Great Britain",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Public",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Tonbridge and Malling Borough Council",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Two Rivers",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Principality Building Society",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Two Rivers Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "An Inside Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "LABC Warranty",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Early Career Researcher’s Prize",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Andy Burnham",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Kate Youde",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Maurice Lange",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "a25d7e757c16": {
+      "id": "a25d7e757c16",
+      "importance": "Medium",
+      "summary": "Tonbridge and Malling Borough Council has launched a consultation on its local plan amid worsening water shortage concerns after intervention from the government",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Housing supply"
+      ],
+      "companies": [
+        "Tonbridge and Malling Borough Council"
+      ],
+      "locations": []
+    },
+    "cfe2fd555b4c": {
+      "id": "cfe2fd555b4c",
+      "importance": "Medium",
+      "summary": "Principality Building Society has lent Two Rivers Housing £20m to help retrofit its stock",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Two Rivers",
+        "Principality Building Society",
+        "Two Rivers Housing"
+      ],
+      "locations": []
+    },
+    "291553205119": {
+      "id": "291553205119",
+      "importance": "Medium",
+      "summary": "An Inside Housing roundtable, in association with structural warranty provider LABC Warranty, saw experts discuss what to focus on during the early stages of development",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "An Inside Housing",
+        "LABC Warranty"
+      ],
+      "locations": []
+    },
+    "3f950e0fb538": {
+      "id": "3f950e0fb538",
+      "importance": "Medium",
+      "summary": "As the closing date for the Early Career Researcher’s Prize 2026 draws near, Kate Youde catches up with Maurice Lange, last year’s winner, to talk about his paper on the past, present and future of public housebuilding",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Early Career Researcher’s Prize",
+        "Andy Burnham",
+        "Kate Youde",
+        "Maurice Lange"
+      ],
+      "locations": []
+    },
+    "1f7b9ac499bb": {
+      "id": "1f7b9ac499bb",
+      "importance": "Medium",
+      "summary": "Councils can apply for a share of £21.8m to help them build skills and capacity to deliver more affordable homes, MHCLG has announced",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Councils",
+        "MHCLG"
+      ],
+      "locations": []
+    },
+    "15dc5e945b6a": {
+      "id": "15dc5e945b6a",
+      "importance": "Medium",
+      "summary": "Councillors agreed with Tesco, Aldi, and Waitrose that the scheme for two stores and an 18.7-acre industrial park would negatively impact the district’s centre. The post Lidl and M&S lose out in Formby as Sefton sides wi",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Lidl and M&S",
+        "Formby",
+        "Sefton",
+        "Councillors"
+      ],
+      "locations": []
+    },
+    "37e672a93cef": {
+      "id": "37e672a93cef",
+      "importance": "Medium",
+      "summary": "The Grecian Mill complex on the corner of Norfolk Street and Worsley Road North in Walkden is the subject of plans from Creative Property People for 64 apartments. The post Crumbling Salford mill in line for residential ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Crumbling Salford",
+        "The Grecian Mill",
+        "Norfolk Street and Worsley Road",
+        "North"
+      ],
+      "locations": []
+    },
+    "e0d0d8910aeb": {
+      "id": "e0d0d8910aeb",
+      "importance": "Medium",
+      "summary": "The city council is looking for a consultancy team to update a masterplan that will underpin the transformation of 370 acres around the city’s main train station into a “world-class, highly productive, and connected dest",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Manchester",
+        "Piccadilly",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "bbd583515189": {
+      "id": "bbd583515189",
+      "importance": "Medium",
+      "summary": "21 Living’s take on the famous New York landmark and Taylor Wimpey’s plans to build houses in the Green Belt are both in line to be given consent next week. The post Mini-Flatiron and 160 Hazel Grove homes marked for app",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders",
+        "Planning policy"
+      ],
+      "companies": [
+        "Mini-Flatiron",
+        "Hazel Grove",
+        "Living’s",
+        "New York"
+      ],
+      "locations": []
+    },
+    "2be394dd1cf6": {
+      "id": "2be394dd1cf6",
+      "importance": "Medium",
+      "summary": "The AI property platform is free for agents to list on",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Free AI",
+        "Rightmove. The AI"
+      ],
+      "locations": []
+    },
+    "9ec46a17664b": {
+      "id": "9ec46a17664b",
+      "importance": "Medium",
+      "summary": "Fresh takeover speculation surrounds Rightmove",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Rightmove",
+        "Fresh"
+      ],
+      "locations": []
+    },
+    "6faf27c51c89": {
+      "id": "6faf27c51c89",
+      "importance": "Medium",
+      "summary": "The national landlord register promises greater transparency in the private rented sector, but what will it mean for letting agents and landlords?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents"
+      ],
+      "locations": []
+    },
+    "77ee3ba50e54": {
+      "id": "77ee3ba50e54",
+      "importance": "Medium",
+      "summary": "AI-generated buyer queries add to conveyancing workloads",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "AI-generated"
+      ],
+      "locations": []
+    },
+    "0347eb3db60d": {
+      "id": "0347eb3db60d",
+      "importance": "Medium",
+      "summary": "Landlord exodus warning as latest £65 charge adds to cost squeeze",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Agents",
+        "Landlord"
+      ],
+      "locations": []
+    },
+    "2f4864188488": {
+      "id": "2f4864188488",
+      "importance": "Medium",
+      "summary": "Tax expert warns higher CGT could change investor behaviour",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Labour"
+      ],
+      "locations": []
+    },
+    "c31aec454a8d": {
+      "id": "c31aec454a8d",
+      "importance": "Medium",
+      "summary": "Agents in demand as landlords struggle with growing compliance burden",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Portfolio",
+        "Agents"
+      ],
+      "locations": []
+    },
+    "89e36496ae0e": {
+      "id": "89e36496ae0e",
+      "importance": "Medium",
+      "summary": "National landlord register: Will it improve PRS standards?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "EYE POLL",
+        "Will",
+        "National"
+      ],
+      "locations": []
+    },
+    "fb847aede4c8": {
+      "id": "fb847aede4c8",
+      "importance": "Medium",
+      "summary": "Local authority abandons controversial £1,500 landlord licensing scheme",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Local"
+      ],
+      "locations": []
+    },
+    "67958e5f1691": {
+      "id": "67958e5f1691",
+      "importance": "Medium",
+      "summary": "LRG strengthens tech tie-up with new multi-year deal",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "PropTech"
+      ],
+      "locations": []
+    },
+    "9b781ab2602c": {
+      "id": "9b781ab2602c",
+      "importance": "Medium",
+      "summary": "A new platform is being launched which aims to exclude estate agents from sales. PropTech firm Hizzy says it “allows homeowners to sell their property directly to buyers for a fixed fee, and with no commission to pay.” A",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "PropTech",
+        "Hizzy"
+      ],
+      "locations": []
+    },
+    "ecc8ca71091d": {
+      "id": "ecc8ca71091d",
+      "importance": "Medium",
+      "summary": "The comment comes as speculation mounts about a Rightmove takeover",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "OnTheMarket",
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    "b749a96e9e89": {
+      "id": "b749a96e9e89",
+      "importance": "Medium",
+      "summary": "His brokerage sold an amazing 3,000 properties in a year",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency’s"
+      ],
+      "locations": []
+    },
+    "7d6d09a5d1ac": {
+      "id": "7d6d09a5d1ac",
+      "importance": "Medium",
+      "summary": "He has 10 years experienced with the firm earlier in his career",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Savills"
+      ],
+      "locations": []
+    },
+    "ae89940fb3a6": {
+      "id": "ae89940fb3a6",
+      "importance": "Medium",
+      "summary": "More ultra-rich take out loans for their property purchases, it's claimed",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Wealthy",
+        "More"
+      ],
+      "locations": []
+    },
+    "28058811fdad": {
+      "id": "28058811fdad",
+      "importance": "Medium",
+      "summary": "There are price falls across the country for repossessed homes that come to the market",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Repossessed"
+      ],
+      "locations": []
+    },
+    "8cc2dcbcec09": {
+      "id": "8cc2dcbcec09",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Older renters are more stretched than younger renters, with the over-70s spending 46% of their income on rent, according to new data.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Over",
+        "News",
+        "Helen Gregory",
+        "Older"
+      ],
+      "locations": []
+    },
+    "a1e30d489b04": {
+      "id": "a1e30d489b04",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - A Bristol landlord has been ordered to pay a total of £58,271 after he failed to carry out improvements to his unlicensed HMO.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Bristol",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "c124346b0b1c": {
+      "id": "c124346b0b1c",
+      "importance": "Medium",
+      "summary": "Final reports for research projects commissioned as part of the UK Offshore Energy Strategic Environmental Assessment programme.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK Offshore Energy Strategic",
+        "Environmental Assessment",
+        "Final"
+      ],
+      "locations": []
+    },
+    "a54efbd817de": {
+      "id": "a54efbd817de",
+      "importance": "Medium",
+      "summary": "Detailed annual statistics on the structure of the agricultural industry at 1 June in England and the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Structure",
+        "June. Detailed"
+      ],
+      "locations": []
+    },
+    "abd1740223eb": {
+      "id": "abd1740223eb",
+      "importance": "Medium",
+      "summary": "A rapid review of evidence on the potential adverse health outcomes from long-term exposure to per- and polyfluoroalkyl substances (PFAS) or ‘forever chemicals’.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "PFAS"
+      ],
+      "locations": []
+    },
+    "65937343eac0": {
+      "id": "65937343eac0",
+      "importance": "Medium",
+      "summary": "Local bus fares statistics in Great Britain for April to June 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Quarterly",
+        "Local",
+        "Great Britain"
+      ],
+      "locations": []
+    },
+    "bc1ba6bc9b18": {
+      "id": "bc1ba6bc9b18",
+      "importance": "Medium",
+      "summary": "Ofsted’s annual reports on the effectiveness of welfare and duty of care for recruits and trainees in Armed Forces initial training.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Welfare",
+        "Armed Forces",
+        "Ofsted’s"
+      ],
+      "locations": []
+    },
+    "4e11808ac702": {
+      "id": "4e11808ac702",
+      "importance": "Medium",
+      "summary": "Data and statistics about the local bus sector in Great Britain.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Data",
+        "Great Britain"
+      ],
+      "locations": []
+    },
+    "ef60d815e44a": {
+      "id": "ef60d815e44a",
+      "importance": "Medium",
+      "summary": "The time series datasets consistent with the Public sector finances, UK: August 2026 bulletin.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Public"
+      ],
+      "locations": []
+    },
+    "d4bd607b26d1": {
+      "id": "d4bd607b26d1",
+      "importance": "Medium",
+      "summary": "A presentational framework for the headline measures of Public Sector Finance Statistics (net borrowing net cash requirement and net debt) is explained in this release. This includes the reasons for changes in net borrow",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Public",
+        "Public Sector Finance Statistics"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 35,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
