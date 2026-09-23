@@ -1,0 +1,642 @@
+{
+  "collected_at": "2026-09-23T13:06:57+00:00",
+  "date_london": "2026-09-23",
+  "counts": {
+    "seen_in_feeds": 89,
+    "new": 34,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 11,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 11"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 9,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 9"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 7,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 7"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Sector bodies to develop new homes survey allowing housing associations to rate Section 106 quality",
+      "url": "https://insidehousing.co.uk/home/sector-bodies-to-develop-new-homes-survey-allowing-housing-associations-to-rate-section-106-quality-98810",
+      "published": "2026-09-23T13:00:00+00:00",
+      "excerpt": "A group of national sector bodies is developing a new survey to allow housing associations to rate Section 106 homes, in a bid to boost confidence around quality",
+      "entities": [
+        "Sector",
+        "Section"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:06+00:00",
+      "id": "7678596af73e"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Scottish rural landlord faces closure due to ‘challenging operating environment’",
+      "url": "https://insidehousing.co.uk/home/scottish-rural-landlord-faces-closure-due-to-challenging-operating-environment-98806",
+      "published": "2026-09-23T09:30:00+00:00",
+      "excerpt": "The Communities Housing Trust has decided to wind down because of a “challenging operating environment”",
+      "entities": [
+        "Scottish",
+        "The Communities Housing Trust"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:06+00:00",
+      "id": "29c3ad951ea4"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Onward sees operating surplus rise but completions fall compared with previous year",
+      "url": "https://insidehousing.co.uk/home/onward-sees-operating-surplus-rise-but-completions-fall-compared-with-previous-year-98804",
+      "published": "2026-09-23T08:30:00+00:00",
+      "excerpt": "Onward Homes’ annual operating surplus rose by nearly £10m, to £34m, but the number of homes it completed dropped from last year’s high",
+      "entities": [
+        "Onward",
+        "Onward Homes"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:06+00:00",
+      "id": "5dbccb72173b"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "SNG boss Mark Washer on how losing out on SAHP funding won’t stop his development vision",
+      "url": "https://insidehousing.co.uk/home/sng-boss-mark-washer-on-how-losing-out-on-sahp-funding-wont-stop-his-development-vision-98678",
+      "published": "2026-09-23T08:20:25+00:00",
+      "excerpt": "Chief executive Mark Washer has bold ambitions for Sovereign Network Group despite it having lost out on its Homes England bid. What does any of that have to do with Slough? Katharine Swindells reports",
+      "entities": [
+        "Mark Washer",
+        "SAHP",
+        "Chief",
+        "Sovereign Network Group",
+        "Homes England",
+        "What",
+        "Slough",
+        "Katharine Swindells"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:06+00:00",
+      "id": "a6300d91916d"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Cumberland looks to kickstart £85m Citadels refresh",
+      "url": "https://placenorthwest.co.uk/cumberland-looks-to-kickstart-85m-citadels-refresh",
+      "published": "2026-09-23T10:11:46+00:00",
+      "excerpt": "Council members will vote next week on granting the University of Cumbria a £12m loan and a 125-year lease at peppercorn rent of properties off English Street – a move that should defrost the glacial pace of the mammoth project. The post Cumberland looks to kickstart £85m Citadels refresh appeared first on Place North West .",
+      "entities": [
+        "Cumberland",
+        "Citadels",
+        "University of Cumbria",
+        "English Street",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:13+00:00",
+      "id": "34bbe4226778"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Bridgestone bags Gateway 2 nod in Salford",
+      "url": "https://placenorthwest.co.uk/bridgestone-bags-gateway-2-nod-in-salford",
+      "published": "2026-09-23T09:51:54+00:00",
+      "excerpt": "Work can begin in earnest on the £30m Nexus House, a 364-bedspace student living project, following clearance from the Building Safety Regulator. The post Bridgestone bags Gateway 2 nod in Salford appeared first on Place North West .",
+      "entities": [
+        "Bridgestone",
+        "Gateway",
+        "Salford. Work",
+        "Nexus House",
+        "Building Safety Regulator. The",
+        "Salford",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:13+00:00",
+      "id": "d7b567ed602b"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Orka moves to add 10 storeys to Salford PBSA",
+      "url": "https://placenorthwest.co.uk/orka-moves-to-add-10-storeys-to-salford-pbsa",
+      "published": "2026-09-23T09:51:31+00:00",
+      "excerpt": "Riverside House off Blackfriars Road is to be expanded by 98 units under plans lodged with the city council. The post Orka moves to add 10 storeys to Salford PBSA appeared first on Place North West .",
+      "entities": [
+        "Orka",
+        "Salford PBSA. Riverside House",
+        "Blackfriars Road",
+        "Salford PBSA",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:13+00:00",
+      "id": "7530f77776ee"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Wirral commences search for developer for £24m Liscard resi",
+      "url": "https://placenorthwest.co.uk/wirral-commences-search-for-developer-for-24m-liscard-resi",
+      "published": "2026-09-23T08:43:25+00:00",
+      "excerpt": "A former municipal building off Seaview Road was knocked down last year to make way for affordable properties. The post Wirral commences search for developer for £24m Liscard resi appeared first on Place North West .",
+      "entities": [
+        "Wirral",
+        "Liscard",
+        "Seaview Road",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:13+00:00",
+      "id": "59035c6dbbf0"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "EYE NEWSFLASH: Foxtons acquires four agencies in major expansion push beyond London",
+      "url": "https://propertyindustryeye.com/eye-newsflash-foxtons-acquires-four-businesses-in-major-expansion-push",
+      "published": "2026-09-23T06:11:57+00:00",
+      "excerpt": "Foxtons has acquired Maguire Jackson and Davidson Estates in Birmingham, Warren Anthony in Watford and a lettings portfolio in the Reading area",
+      "entities": [
+        "EYE NEWSFLASH",
+        "Foxtons",
+        "London. Foxtons",
+        "Maguire Jackson and Davidson Estates",
+        "Birmingham",
+        "Warren Anthony",
+        "Watford",
+        "Reading"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:13+00:00",
+      "id": "57d498404b90"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Property group targets £10m agency acquisition spree with eight deals in pipeline",
+      "url": "https://propertyindustryeye.com/property-group-targets-10m-agency-acquisition-spree-with-eight-deals-in-pipeline",
+      "published": "2026-09-23T03:50:52+00:00",
+      "excerpt": "Acquisitions planned by agency group",
+      "entities": [
+        "Property",
+        "Acquisitions"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:13+00:00",
+      "id": "edf880c1a922"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Breaking the chain reaction",
+      "url": "https://propertyindustryeye.com/breaking-the-chain-reaction",
+      "published": "2026-09-23T03:20:18+00:00",
+      "excerpt": "Can fall-throughs finally be fixed?",
+      "entities": [
+        "Breaking"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:13+00:00",
+      "id": "0a99c3339401"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Buyer numbers rise but lengthy sales and rental shortages squeeze market",
+      "url": "https://propertyindustryeye.com/buyer-numbers-rise-but-lengthy-sales-and-rental-shortages-squeeze-market",
+      "published": "2026-09-23T03:00:35+00:00",
+      "excerpt": "Buyer numbers increase but property sales still taking 17 weeks to exchange",
+      "entities": [
+        "Buyer"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:13+00:00",
+      "id": "416f9bc47e2d"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency expands again with fifth branch opening",
+      "url": "https://propertyindustryeye.com/estate-agency-expands-again-with-fifth-branch-opening",
+      "published": "2026-09-23T02:50:07+00:00",
+      "excerpt": "Estate agency opens second new branch in six months",
+      "entities": [
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:13+00:00",
+      "id": "a1a059504083"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Agency hits 20-city milestone with Mighty acquisition",
+      "url": "https://propertyindustryeye.com/agency-hits-20-city-milestone-with-mighty-acquisition",
+      "published": "2026-09-23T02:40:09+00:00",
+      "excerpt": "Acquisition expands student lettings portfolio",
+      "entities": [
+        "Agency",
+        "Mighty",
+        "Acquisition"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:13+00:00",
+      "id": "e2624baa2703"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "The biggest barrier to getting the property market moving revealed",
+      "url": "https://propertyindustryeye.com/the-biggest-barrier-to-getting-the-property-market-moving-revealed",
+      "published": "2026-09-23T02:30:27+00:00",
+      "excerpt": "What’s really stopping people from moving home?",
+      "entities": [
+        "What’s"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:13+00:00",
+      "id": "6d90c5d3b641"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "CGT fears grow as investors brace for potential Budget tax rise",
+      "url": "https://propertyindustryeye.com/cgt-fears-grow-as-investors-brace-for-potential-budget-tax-rise",
+      "published": "2026-09-23T02:26:50+00:00",
+      "excerpt": "CGT fears could prompt property investors to delay sales",
+      "entities": [
+        "Budget"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:13+00:00",
+      "id": "42cc8e8803f9"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agents warned against competing on fees",
+      "url": "https://propertyindustryeye.com/estate-agents-warned-against-competing-on-fees",
+      "published": "2026-09-23T01:50:14+00:00",
+      "excerpt": "Estate agents risk making fees the battleground, industry boss warns",
+      "entities": [
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:13+00:00",
+      "id": "ddc63c2e64a9"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Is your estate agency invisible to AI? New research reveals the risk",
+      "url": "https://propertyindustryeye.com/is-your-estate-agency-invisible-to-ai-new-research-reveals-the-risk",
+      "published": "2026-09-23T01:00:21+00:00",
+      "excerpt": "AI property searches could leave estate agents off the shortlist",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:13+00:00",
+      "id": "b1c7e10bd3a7"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Property group has £10m to buy estate agencies",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/property-group-has-10m-to-buy-estate-agencies",
+      "published": "2026-09-22T23:07:00+00:00",
+      "excerpt": "Sourced claims to have a series of agencies in its sights",
+      "entities": [
+        "Property",
+        "Sourced"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:14+00:00",
+      "id": "4c5fb4db2390"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Shocking transaction delays revealed by agents",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/shocking-transaction-delays-revealed-by-agents",
+      "published": "2026-09-22T23:06:00+00:00",
+      "excerpt": "The revelation is in the latest Propertymark market snapshot",
+      "entities": [
+        "Shocking",
+        "Propertymark"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:14+00:00",
+      "id": "be6dcff29177"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agents should pitch on expertise and quality, not just fees",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/agents-told-to-pitch-on-expertise-and-quality-not-just-fees",
+      "published": "2026-09-22T23:05:00+00:00",
+      "excerpt": "The advice comes from a trade group",
+      "entities": [
+        "Agents"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:14+00:00",
+      "id": "77b7ea4513d2"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Knight Frank is an AI winner – how about YOUR agency?",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/knight-frank-is-an-ai-winner-how-about-your-agency",
+      "published": "2026-09-22T23:04:00+00:00",
+      "excerpt": "The analysis has looked at over 10,000 AI responses",
+      "entities": [
+        "Knight Frank",
+        "YOUR"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:14+00:00",
+      "id": "490caa9912ef"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Low priced homes exchange faster than premium homes",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/low-priced-homes-exchange-faster-than-premium-homes-figures",
+      "published": "2026-09-22T23:02:00+00:00",
+      "excerpt": "The data comes from consultancy TwentyEA",
+      "entities": [
+        "TwentyEA"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:14+00:00",
+      "id": "f93d84f3f73f"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Burnham told to act now on new homes crisis",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/burnham-told-to-act-now-on-new-homes-crisis",
+      "published": "2026-09-22T23:01:00+00:00",
+      "excerpt": "The government's own evaluation of Help To Buy regards it as good value for money",
+      "entities": [
+        "Burnham",
+        "Help To Buy"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:14+00:00",
+      "id": "c174012004b9"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Block ineffective landlord licensing schemes, says Propertymark",
+      "url": "https://landlordzone.co.uk/news/block-ineffective-landlord-licensing-schemes-says-propertymark",
+      "published": "2026-09-23T12:09:50+00:00",
+      "excerpt": "News - Helen Gregory - Agents group believes the government should step in when councils fail to meet a minimum number of proactive inspections and enforcement actions.",
+      "entities": [
+        "Block",
+        "Propertymark. News",
+        "Helen Gregory",
+        "Agents"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:14+00:00",
+      "id": "a42c694ce2c1"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Landlord loses eviction appeal despite £8,554 rent arrears",
+      "url": "https://landlordzone.co.uk/news/landlord-loses-eviction-appeal-despite-ps8-554-rent-arrears",
+      "published": "2026-09-22T13:48:59+00:00",
+      "excerpt": "News - Helen Gregory - A landlord has lost an appeal against a decision refusing to evict a tenant who owed £8,554 in rent arrears.",
+      "entities": [
+        "Landlord",
+        "News",
+        "Helen Gregory"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-23T13:07:14+00:00",
+      "id": "22a61357694e"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK steel strategy demand assessment",
+      "url": "https://gov.uk/government/publications/uk-steel-strategy-demand-assessment",
+      "published": "2026-09-23T10:47:58+00:00",
+      "excerpt": "A government commissioned report on the UK steel demand forecast to 2050, to inform the UK steel strategy.",
+      "entities": [],
+      "kind": "data",
+      "collected_at": "2026-09-23T13:07:15+00:00",
+      "id": "054890a003f6"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Uniformed Youth Fund evaluation reports",
+      "url": "https://gov.uk/government/publications/uniformed-youth-fund-evaluation-reports",
+      "published": "2026-09-23T09:00:06+00:00",
+      "excerpt": "An independent study covering the process and impact evaluation of the Uniformed Youth Fund 2022 to 2025, and a process evaluation of the Uniformed Youth Fund extension 2025 to 2026.",
+      "entities": [
+        "Uniformed Youth Fund"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-23T13:07:15+00:00",
+      "id": "a3101c9affbb"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Costs of compliance",
+      "url": "https://gov.uk/government/publications/costs-of-compliance",
+      "published": "2026-09-23T08:41:24+00:00",
+      "excerpt": "Research to quantify the financial and time costs that businesses incur in order to comply with regulations enforced by OPSS.",
+      "entities": [
+        "Costs",
+        "Research",
+        "OPSS"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-23T13:07:15+00:00",
+      "id": "85c50514d7a0"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Vehicle licensing statistics data files",
+      "url": "https://gov.uk/government/statistical-data-sets/vehicle-licensing-statistics-data-files",
+      "published": "2026-09-23T08:30:04+00:00",
+      "excerpt": "Detailed information about vehicles in the UK, which would be too large to use as structured tables. They are provided as simple CSV text files.…",
+      "entities": [
+        "Vehicle",
+        "Detailed",
+        "They"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-23T13:07:15+00:00",
+      "id": "f88f0317bfb3"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK statistics on waste",
+      "url": "https://gov.uk/government/statistics/uk-waste-data",
+      "published": "2026-09-23T08:30:04+00:00",
+      "excerpt": "Figures compiled on the total waste generated for the whole of the UK.",
+      "entities": [
+        "Figures"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-23T13:07:15+00:00",
+      "id": "86bd422fbe4a"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Vehicle licensing statistics data tables",
+      "url": "https://gov.uk/government/statistical-data-sets/vehicle-licensing-statistics-data-tables",
+      "published": "2026-09-23T08:30:04+00:00",
+      "excerpt": "Detailed statistics about vehicle licensing and registered vehicles in the United Kingdom.",
+      "entities": [
+        "Vehicle",
+        "Detailed",
+        "United Kingdom"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-23T13:07:15+00:00",
+      "id": "f465e3a8698f"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Vehicle licensing statistics: April to June 2026",
+      "url": "https://gov.uk/government/statistics/vehicle-licensing-statistics-april-to-june-2026",
+      "published": "2026-09-23T08:30:04+00:00",
+      "excerpt": "Licensed and registered motor vehicle statistics in Great Britain and the United Kingdom for April to June 2026.",
+      "entities": [
+        "Vehicle",
+        "Licensed",
+        "Great Britain",
+        "United Kingdom"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-23T13:07:15+00:00",
+      "id": "fd08d81a439b"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Newcastle disease in Europe",
+      "url": "https://gov.uk/government/publications/newcastle-disease-in-europe",
+      "published": "2026-09-22T15:56:03+00:00",
+      "excerpt": "Preliminary outbreak assessments for Newcastle disease in Europe.",
+      "entities": [
+        "Newcastle",
+        "Europe. Preliminary",
+        "Europe"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-23T13:07:15+00:00",
+      "id": "31e524af5988"
+    }
+  ]
+}

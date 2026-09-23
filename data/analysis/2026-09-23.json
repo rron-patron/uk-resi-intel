@@ -1,0 +1,637 @@
+{
+  "generated_at": "2026-09-23T13:07:20+00:00",
+  "date_label": "Wednesday 23 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n34 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 10,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Student housing",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Vehicle",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Agents",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Detailed",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "United Kingdom",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Sector",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Section",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Scottish",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Communities Housing Trust",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Onward",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Onward Homes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Mark Washer",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "SAHP",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Chief",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Sovereign Network Group",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Homes England",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "What",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "7678596af73e": {
+      "id": "7678596af73e",
+      "importance": "Medium",
+      "summary": "A group of national sector bodies is developing a new survey to allow housing associations to rate Section 106 homes, in a bid to boost confidence around quality",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Sector",
+        "Section"
+      ],
+      "locations": []
+    },
+    "29c3ad951ea4": {
+      "id": "29c3ad951ea4",
+      "importance": "Medium",
+      "summary": "The Communities Housing Trust has decided to wind down because of a “challenging operating environment”",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Scottish",
+        "The Communities Housing Trust"
+      ],
+      "locations": []
+    },
+    "5dbccb72173b": {
+      "id": "5dbccb72173b",
+      "importance": "Medium",
+      "summary": "Onward Homes’ annual operating surplus rose by nearly £10m, to £34m, but the number of homes it completed dropped from last year’s high",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Onward",
+        "Onward Homes"
+      ],
+      "locations": []
+    },
+    "a6300d91916d": {
+      "id": "a6300d91916d",
+      "importance": "Medium",
+      "summary": "Chief executive Mark Washer has bold ambitions for Sovereign Network Group despite it having lost out on its Homes England bid. What does any of that have to do with Slough? Katharine Swindells reports",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Mark Washer",
+        "SAHP",
+        "Chief",
+        "Sovereign Network Group"
+      ],
+      "locations": []
+    },
+    "34bbe4226778": {
+      "id": "34bbe4226778",
+      "importance": "Medium",
+      "summary": "Council members will vote next week on granting the University of Cumbria a £12m loan and a 125-year lease at peppercorn rent of properties off English Street – a move that should defrost the glacial pace of the mammoth ",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Cumberland",
+        "Citadels",
+        "University of Cumbria",
+        "English Street"
+      ],
+      "locations": []
+    },
+    "d7b567ed602b": {
+      "id": "d7b567ed602b",
+      "importance": "Medium",
+      "summary": "Work can begin in earnest on the £30m Nexus House, a 364-bedspace student living project, following clearance from the Building Safety Regulator. The post Bridgestone bags Gateway 2 nod in Salford appeared first on Place",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Student housing"
+      ],
+      "companies": [
+        "Bridgestone",
+        "Gateway",
+        "Salford. Work",
+        "Nexus House"
+      ],
+      "locations": []
+    },
+    "7530f77776ee": {
+      "id": "7530f77776ee",
+      "importance": "Medium",
+      "summary": "Riverside House off Blackfriars Road is to be expanded by 98 units under plans lodged with the city council. The post Orka moves to add 10 storeys to Salford PBSA appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Student housing"
+      ],
+      "companies": [
+        "Orka",
+        "Salford PBSA. Riverside House",
+        "Blackfriars Road",
+        "Salford PBSA"
+      ],
+      "locations": []
+    },
+    "59035c6dbbf0": {
+      "id": "59035c6dbbf0",
+      "importance": "Medium",
+      "summary": "A former municipal building off Seaview Road was knocked down last year to make way for affordable properties. The post Wirral commences search for developer for £24m Liscard resi appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Wirral",
+        "Liscard",
+        "Seaview Road",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "57d498404b90": {
+      "id": "57d498404b90",
+      "importance": "Medium",
+      "summary": "Foxtons has acquired Maguire Jackson and Davidson Estates in Birmingham, Warren Anthony in Watford and a lettings portfolio in the Reading area",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "EYE NEWSFLASH",
+        "Foxtons",
+        "London. Foxtons",
+        "Maguire Jackson and Davidson Estates"
+      ],
+      "locations": []
+    },
+    "edf880c1a922": {
+      "id": "edf880c1a922",
+      "importance": "Medium",
+      "summary": "Acquisitions planned by agency group",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Property",
+        "Acquisitions"
+      ],
+      "locations": []
+    },
+    "0a99c3339401": {
+      "id": "0a99c3339401",
+      "importance": "Medium",
+      "summary": "Can fall-throughs finally be fixed?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Breaking"
+      ],
+      "locations": []
+    },
+    "416f9bc47e2d": {
+      "id": "416f9bc47e2d",
+      "importance": "Medium",
+      "summary": "Buyer numbers increase but property sales still taking 17 weeks to exchange",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Buyer"
+      ],
+      "locations": []
+    },
+    "a1a059504083": {
+      "id": "a1a059504083",
+      "importance": "Medium",
+      "summary": "Estate agency opens second new branch in six months",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "e2624baa2703": {
+      "id": "e2624baa2703",
+      "importance": "Medium",
+      "summary": "Acquisition expands student lettings portfolio",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Student housing"
+      ],
+      "companies": [
+        "Agency",
+        "Mighty",
+        "Acquisition"
+      ],
+      "locations": []
+    },
+    "6d90c5d3b641": {
+      "id": "6d90c5d3b641",
+      "importance": "Medium",
+      "summary": "What’s really stopping people from moving home?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "What’s"
+      ],
+      "locations": []
+    },
+    "42cc8e8803f9": {
+      "id": "42cc8e8803f9",
+      "importance": "Medium",
+      "summary": "CGT fears could prompt property investors to delay sales",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Budget"
+      ],
+      "locations": []
+    },
+    "ddc63c2e64a9": {
+      "id": "ddc63c2e64a9",
+      "importance": "Medium",
+      "summary": "Estate agents risk making fees the battleground, industry boss warns",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "b1c7e10bd3a7": {
+      "id": "b1c7e10bd3a7",
+      "importance": "Medium",
+      "summary": "AI property searches could leave estate agents off the shortlist",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "4c5fb4db2390": {
+      "id": "4c5fb4db2390",
+      "importance": "Medium",
+      "summary": "Sourced claims to have a series of agencies in its sights",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Property",
+        "Sourced"
+      ],
+      "locations": []
+    },
+    "be6dcff29177": {
+      "id": "be6dcff29177",
+      "importance": "Medium",
+      "summary": "The revelation is in the latest Propertymark market snapshot",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Shocking",
+        "Propertymark"
+      ],
+      "locations": []
+    },
+    "77b7ea4513d2": {
+      "id": "77b7ea4513d2",
+      "importance": "Medium",
+      "summary": "The advice comes from a trade group",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents"
+      ],
+      "locations": []
+    },
+    "490caa9912ef": {
+      "id": "490caa9912ef",
+      "importance": "Medium",
+      "summary": "The analysis has looked at over 10,000 AI responses",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Knight Frank",
+        "YOUR"
+      ],
+      "locations": []
+    },
+    "f93d84f3f73f": {
+      "id": "f93d84f3f73f",
+      "importance": "Medium",
+      "summary": "The data comes from consultancy TwentyEA",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "TwentyEA"
+      ],
+      "locations": []
+    },
+    "c174012004b9": {
+      "id": "c174012004b9",
+      "importance": "Medium",
+      "summary": "The government's own evaluation of Help To Buy regards it as good value for money",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Burnham",
+        "Help To Buy"
+      ],
+      "locations": []
+    },
+    "a42c694ce2c1": {
+      "id": "a42c694ce2c1",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Agents group believes the government should step in when councils fail to meet a minimum number of proactive inspections and enforcement actions.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Block",
+        "Propertymark. News",
+        "Helen Gregory",
+        "Agents"
+      ],
+      "locations": []
+    },
+    "22a61357694e": {
+      "id": "22a61357694e",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - A landlord has lost an appeal against a decision refusing to evict a tenant who owed £8,554 in rent arrears.",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Residential investment"
+      ],
+      "companies": [
+        "Landlord",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "054890a003f6": {
+      "id": "054890a003f6",
+      "importance": "Medium",
+      "summary": "A government commissioned report on the UK steel demand forecast to 2050, to inform the UK steel strategy.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "a3101c9affbb": {
+      "id": "a3101c9affbb",
+      "importance": "Medium",
+      "summary": "An independent study covering the process and impact evaluation of the Uniformed Youth Fund 2022 to 2025, and a process evaluation of the Uniformed Youth Fund extension 2025 to 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Uniformed Youth Fund"
+      ],
+      "locations": []
+    },
+    "85c50514d7a0": {
+      "id": "85c50514d7a0",
+      "importance": "Medium",
+      "summary": "Research to quantify the financial and time costs that businesses incur in order to comply with regulations enforced by OPSS.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Costs",
+        "Research",
+        "OPSS"
+      ],
+      "locations": []
+    },
+    "f88f0317bfb3": {
+      "id": "f88f0317bfb3",
+      "importance": "Medium",
+      "summary": "Detailed information about vehicles in the UK, which would be too large to use as structured tables. They are provided as simple CSV text files.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Vehicle",
+        "Detailed",
+        "They"
+      ],
+      "locations": []
+    },
+    "86bd422fbe4a": {
+      "id": "86bd422fbe4a",
+      "importance": "Medium",
+      "summary": "Figures compiled on the total waste generated for the whole of the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Figures"
+      ],
+      "locations": []
+    },
+    "f465e3a8698f": {
+      "id": "f465e3a8698f",
+      "importance": "Medium",
+      "summary": "Detailed statistics about vehicle licensing and registered vehicles in the United Kingdom.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Vehicle",
+        "Detailed",
+        "United Kingdom"
+      ],
+      "locations": []
+    },
+    "fd08d81a439b": {
+      "id": "fd08d81a439b",
+      "importance": "Medium",
+      "summary": "Licensed and registered motor vehicle statistics in Great Britain and the United Kingdom for April to June 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Vehicle",
+        "Licensed",
+        "Great Britain",
+        "United Kingdom"
+      ],
+      "locations": []
+    },
+    "31e524af5988": {
+      "id": "31e524af5988",
+      "importance": "Medium",
+      "summary": "Preliminary outbreak assessments for Newcastle disease in Europe.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Newcastle",
+        "Europe. Preliminary",
+        "Europe"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 34,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
