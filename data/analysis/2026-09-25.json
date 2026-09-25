@@ -1,0 +1,795 @@
+{
+  "generated_at": "2026-09-25T13:06:11+00:00",
+  "date_label": "Friday 25 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n46 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 9,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Vistry",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "HMRC",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Fine",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Country",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Labour",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Landlords",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Findings",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "UK Data Centre Giant",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Bags",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Debt Facility. Virtus",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "London and Europe",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Week",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Strategic",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Sign",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "b8f3e3c26ed8": {
+      "id": "b8f3e3c26ed8",
+      "importance": "Medium",
+      "summary": "Virtus lands £2.45B finance deal for expansion, eyeing growth in London and Europe.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "UK Data Centre Giant",
+        "Bags",
+        "Debt Facility. Virtus",
+        "London and Europe"
+      ],
+      "locations": []
+    },
+    "f760d3484741": {
+      "id": "f760d3484741",
+      "importance": "Medium",
+      "summary": "The Week in Housing is our weekly newsletter, rounding up the most important headlines for housing professionals. Sign up below to get it direct to your inbox every Friday",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "The Week",
+        "Housing",
+        "Strategic",
+        "Sign"
+      ],
+      "locations": []
+    },
+    "0e00868823c6": {
+      "id": "0e00868823c6",
+      "importance": "Medium",
+      "summary": "After the announcement of strategic partners under the Social and Affordable Homes Programme, some in the sector were left wondering about the government’s priority. Stephen Delahunty reports",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Affordable housing"
+      ],
+      "companies": [
+        "After",
+        "Social and Affordable Homes Programme",
+        "Stephen Delahunty"
+      ],
+      "locations": []
+    },
+    "b0042d8f934f": {
+      "id": "b0042d8f934f",
+      "importance": "Medium",
+      "summary": "London and other English cities are lagging behind rural areas in addressing social housing delivery, according to a new analysis",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "England’s",
+        "SAHP",
+        "London",
+        "English"
+      ],
+      "locations": []
+    },
+    "225fbcca3137": {
+      "id": "225fbcca3137",
+      "importance": "Medium",
+      "summary": "The cross-subsidy model is facing “real challenges” as London’s sales market weakens, L&Q and Riverside have told the London Assembly’s Housing Committee",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Major",
+        "London. The",
+        "London’s",
+        "L&Q and Riverside"
+      ],
+      "locations": []
+    },
+    "a82806d68fe8": {
+      "id": "a82806d68fe8",
+      "importance": "Medium",
+      "summary": "Plymouth Community Homes has announced a plan to invest £1.2bn in its homes and services over the next decade",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "South West",
+        "Plymouth Community Homes"
+      ],
+      "locations": []
+    },
+    "d1e2b85bbd09": {
+      "id": "d1e2b85bbd09",
+      "importance": "Medium",
+      "summary": "Vistry has reported a loss before tax of over £660m in the first half of the year, resulting in part from accounting write-downs",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders",
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Vistry"
+      ],
+      "locations": []
+    },
+    "b3f3e872642e": {
+      "id": "b3f3e872642e",
+      "importance": "Medium",
+      "summary": "Business leaders have joined calls for the Scottish government to treat housing as economic infrastructure",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Scottish",
+        "Business"
+      ],
+      "locations": []
+    },
+    "d03248af584a": {
+      "id": "d03248af584a",
+      "importance": "Medium",
+      "summary": "With the two-year exclusivity deal between Sefton Council and the resort developer having concluded, the local authority is off to see if there’s a better option for the former park and ride on the town’s Esplanade. The ",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Suitors",
+        "Southport",
+        "Cove Resort. With",
+        "Sefton Council"
+      ],
+      "locations": []
+    },
+    "c86b4d5597c4": {
+      "id": "c86b4d5597c4",
+      "importance": "Medium",
+      "summary": "The council voted against relinquishing its planning powers to Manchester City Council when it comes to determining the controversial 120-home scheme, despite less than 1% of the site being located in Trafford. The post ",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Trafford",
+        "Ryebank Fields. The",
+        "Manchester City Council",
+        "Trafford. The"
+      ],
+      "locations": []
+    },
+    "1f0512d64448": {
+      "id": "1f0512d64448",
+      "importance": "Medium",
+      "summary": "The site of a failed DeTrafford scheme off Ellesmere Street is to be redeveloped into 592 apartments under plans submitted by the plot’s owner. The post Chatha Capital lodges plans for 46-storey Manchester residential ap",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Chatha Capital",
+        "Manchester",
+        "DeTrafford",
+        "Ellesmere Street"
+      ],
+      "locations": []
+    },
+    "cfe008b8b441": {
+      "id": "cfe008b8b441",
+      "importance": "Medium",
+      "summary": "Working with social provider First Choice, the firm can go ahead with 147 homes at the Southlink site. Less fortunate was Redwaters Estates, refused permission for a hotly-contested Failsworth proposal. The post Vistry w",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Vistry",
+        "Oldham",
+        "Working",
+        "First Choice"
+      ],
+      "locations": []
+    },
+    "e33afd15d50a": {
+      "id": "e33afd15d50a",
+      "importance": "Medium",
+      "summary": "Purplebricks was founded in 2012 by brothers Michael and Kenny Bruce",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Purplebricks",
+        "HMRC. Purplebricks",
+        "Michael and Kenny Bruce"
+      ],
+      "locations": []
+    },
+    "26ffe0211dc5": {
+      "id": "26ffe0211dc5",
+      "importance": "Medium",
+      "summary": "My Property Box has launched in the North West",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Fast-growing",
+        "North West",
+        "My Property Box"
+      ],
+      "locations": []
+    },
+    "013f399e0637": {
+      "id": "013f399e0637",
+      "importance": "Medium",
+      "summary": "Smart glasses create new headache for agents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Smart"
+      ],
+      "locations": []
+    },
+    "efccf5452d57": {
+      "id": "efccf5452d57",
+      "importance": "Medium",
+      "summary": "Estate agency avoids being wound up after the High Court dismissed an HMRC petition against the business",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "HMRC",
+        "High Court"
+      ],
+      "locations": []
+    },
+    "883fa32ac0b4": {
+      "id": "883fa32ac0b4",
+      "importance": "Medium",
+      "summary": "The UK property market headlines are not overly popular at the moment",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The UK"
+      ],
+      "locations": []
+    },
+    "f270e2eaa951": {
+      "id": "f270e2eaa951",
+      "importance": "Medium",
+      "summary": "The property group swung from a reported pre-tax profit of £40.9m a year ago to a £661.3m loss in the six months to June",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Property"
+      ],
+      "locations": []
+    },
+    "8d64f907b5c0": {
+      "id": "8d64f907b5c0",
+      "importance": "Medium",
+      "summary": "Think tank wants the government to reform stamp duty and council tax together",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Think",
+        "Londoners"
+      ],
+      "locations": []
+    },
+    "d81e7e243643": {
+      "id": "d81e7e243643",
+      "importance": "Medium",
+      "summary": "The move will see Fetherstons operate Fine & Country Northern Ireland",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Fine",
+        "Country",
+        "Northern Ireland",
+        "Fetherstons"
+      ],
+      "locations": []
+    },
+    "bde2bd6dca14": {
+      "id": "bde2bd6dca14",
+      "importance": "Medium",
+      "summary": "Propertymark will hold a webinar ahead of the changes to examine how agents should respond to the new requirements",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Letting",
+        "Propertymark"
+      ],
+      "locations": []
+    },
+    "509a12cebf22": {
+      "id": "509a12cebf22",
+      "importance": "Medium",
+      "summary": "Estate agents face out-of-hours gap",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "195b79a9a767": {
+      "id": "195b79a9a767",
+      "importance": "Medium",
+      "summary": "Property industry tells Labour: planning reform alone won’t fix housing crisis",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Housing supply"
+      ],
+      "companies": [
+        "Property",
+        "Labour"
+      ],
+      "locations": []
+    },
+    "1b1906173e1d": {
+      "id": "1b1906173e1d",
+      "importance": "Medium",
+      "summary": "The Revenue had filed a petition to wind up the company over alleged tax debts",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "HMRC",
+        "The Revenue"
+      ],
+      "locations": []
+    },
+    "d27c44cdaa09": {
+      "id": "d27c44cdaa09",
+      "importance": "Medium",
+      "summary": "The deal involves an undisclosed sum",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Agency"
+      ],
+      "locations": []
+    },
+    "35792fe4351d": {
+      "id": "35792fe4351d",
+      "importance": "Medium",
+      "summary": "AI and technology are creating new challenges for agents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents"
+      ],
+      "locations": []
+    },
+    "64eb252dcdf8": {
+      "id": "64eb252dcdf8",
+      "importance": "Medium",
+      "summary": "The patch is being run by a three-office agency",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Fine",
+        "Country"
+      ],
+      "locations": []
+    },
+    "85f30ce497a2": {
+      "id": "85f30ce497a2",
+      "importance": "Medium",
+      "summary": "Speculation is growing ahead of the Budget in five weeks' time",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Major Labour",
+        "Capital Gains Tax",
+        "Speculation",
+        "Budget"
+      ],
+      "locations": []
+    },
+    "56689bbef656": {
+      "id": "56689bbef656",
+      "importance": "Medium",
+      "summary": "The warning comes from the Property Care Association",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Drought",
+        "Property Care Association"
+      ],
+      "locations": []
+    },
+    "5b5ccecb1352": {
+      "id": "5b5ccecb1352",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - The Welsh government has been urged to consider phasing out Land Transaction Tax (LTT) and offer landlords low-interest loans for retrofit.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Calls",
+        "Welsh",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "f559a2eb6e78": {
+      "id": "f559a2eb6e78",
+      "importance": "Medium",
+      "summary": "Sponsored - Leaders - Four months in, the Renters’ Rights Act has brought fewer market shocks than expected: rents are steady, investment continues, and issues are minor.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Renters’ Rights Act",
+        "Sponsored",
+        "Leaders",
+        "Four"
+      ],
+      "locations": []
+    },
+    "1a9394aedf8f": {
+      "id": "1a9394aedf8f",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Landlords are being advised to strengthen checks after reports that rental properties are being used as short-term brothels.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "b4d16a0a5c8e": {
+      "id": "b4d16a0a5c8e",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Bradford and Breckland councils are the latest authorities to voice concerns over HMO spread.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "News",
+        "Helen Gregory",
+        "Bradford and Breckland"
+      ],
+      "locations": []
+    },
+    "db568dd895f9": {
+      "id": "db568dd895f9",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Landlords have largely complied with EPC rules, but many appear to have done only enough work to bring properties up to the legal threshold.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "f24a528bee03": {
+      "id": "f24a528bee03",
+      "importance": "Medium",
+      "summary": "Analysis and learning from radiotherapy and near miss data reported voluntarily by UK radiotherapy providers and the relevant reporting authorities.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Safer",
+        "Analysis"
+      ],
+      "locations": []
+    },
+    "dd2d3176e08d": {
+      "id": "dd2d3176e08d",
+      "importance": "Medium",
+      "summary": "UK and foreign vessels landings by UK port and UK vessel landings abroad: provisional data.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Monthly Sea Fisheries Statistics"
+      ],
+      "locations": []
+    },
+    "2d0b8b437686": {
+      "id": "2d0b8b437686",
+      "importance": "Medium",
+      "summary": "This new tool provides import data for goods to the UK over the past year, helping identify anomalies in volume and prices that may affect UK producers.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK Import Trends Monitor"
+      ],
+      "locations": []
+    },
+    "5c3a7aeb2692": {
+      "id": "5c3a7aeb2692",
+      "importance": "Medium",
+      "summary": "UK and foreign vessels landings by UK port and UK vessel landings abroad: provisional data.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "3924e82189ca": {
+      "id": "3924e82189ca",
+      "importance": "Medium",
+      "summary": "These tables contain the number of online job adverts split by local authority and occupation (SOC 2020).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Labour",
+        "Standard Occupation Classification",
+        "These"
+      ],
+      "locations": []
+    },
+    "277953ade6a8": {
+      "id": "277953ade6a8",
+      "importance": "Medium",
+      "summary": "A research study to update the UK fixed space cooling market for 2024, covering market size, technologies, key players, routes to market, drivers and barriers.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "ab1bc3a321b8": {
+      "id": "ab1bc3a321b8",
+      "importance": "Medium",
+      "summary": "This report looks at how the social security system interacts with the decision to remain in full-time education or pursue an alternative pathway post-age 16.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "SSAC Occasional Paper"
+      ],
+      "locations": []
+    },
+    "a0ad58292539": {
+      "id": "a0ad58292539",
+      "importance": "Medium",
+      "summary": "Findings from regular surveys of school and college teachers and leaders.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "School",
+        "Findings"
+      ],
+      "locations": []
+    },
+    "f608139e14f9": {
+      "id": "f608139e14f9",
+      "importance": "Medium",
+      "summary": "This report explores customers' journeys, experiences and aspirations within the contributory benefit system (New Style ESA and New Style JSA) and employment.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "New Style ESA and New",
+        "Style JSA"
+      ],
+      "locations": []
+    },
+    "dbf2182f56cf": {
+      "id": "dbf2182f56cf",
+      "importance": "Medium",
+      "summary": "Findings from regular surveys of primary and secondary school pupils’ parents or carers, secondary school pupils and 16 to 18 learners.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Parent",
+        "Findings"
+      ],
+      "locations": []
+    },
+    "657ce1796aee": {
+      "id": "657ce1796aee",
+      "importance": "Medium",
+      "summary": "Science advice notes on the causes of violence-fixated individuals, the influence of social media, and the effectiveness of interventions to reduce risk.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Violence-fixated",
+        "Science"
+      ],
+      "locations": []
+    },
+    "25b490f496cd": {
+      "id": "25b490f496cd",
+      "importance": "Medium",
+      "summary": "​​This report outlines the findings of a major research study with young people aged 14 to 17 to inform the government’s work to extend the right to vote to 16- and 17-year-olds.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Votes"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 46,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}

@@ -1,0 +1,829 @@
+{
+  "collected_at": "2026-09-25T13:05:53+00:00",
+  "date_london": "2026-09-25",
+  "counts": {
+    "seen_in_feeds": 91,
+    "new": 46,
+    "sources_live": 8,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "feed",
+      "url": "https://www.bisnow.com/london/rss",
+      "found": 1,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 1"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 11,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 11"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 7,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 7"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 10,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 10"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "bisnow_uk",
+      "source_name": "Bisnow UK",
+      "title": "UK Data Centre Giant Bags £2.45B Debt Facility",
+      "url": "https://bisnow.com/news/london/data-center-capital-markets/uk-data-centre-giant-bags-pound2-45b-debt-facility",
+      "published": "2026-09-24T17:57:48+00:00",
+      "excerpt": "Virtus lands £2.45B finance deal for expansion, eyeing growth in London and Europe.",
+      "entities": [
+        "UK Data Centre Giant",
+        "Bags",
+        "Debt Facility. Virtus",
+        "London and Europe"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:05:53+00:00",
+      "id": "b8f3e3c26ed8"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "The Week in Housing: Strategic partner bid insight, local plan challenges and concern about cross-subsidy model",
+      "url": "https://insidehousing.co.uk/home/the-week-in-housing-strategic-partner-bid-insight-local-plan-challenges-and-concern-about-cross-subsidy-model-98843",
+      "published": "2026-09-25T12:20:00+00:00",
+      "excerpt": "The Week in Housing is our weekly newsletter, rounding up the most important headlines for housing professionals. Sign up below to get it direct to your inbox every Friday",
+      "entities": [
+        "The Week",
+        "Housing",
+        "Strategic",
+        "Sign"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:05:54+00:00",
+      "id": "f760d3484741"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "How housing delivery changed: inside the strategic partnership bidding process",
+      "url": "https://insidehousing.co.uk/home/how-housing-delivery-changed-inside-the-strategic-partnership-bidding-process-98842",
+      "published": "2026-09-25T12:28:51+00:00",
+      "excerpt": "After the announcement of strategic partners under the Social and Affordable Homes Programme, some in the sector were left wondering about the government’s priority. Stephen Delahunty reports",
+      "entities": [
+        "After",
+        "Social and Affordable Homes Programme",
+        "Stephen Delahunty"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:05:54+00:00",
+      "id": "0e00868823c6"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "England’s major cities will deliver half as much housing under SAHP compared with rural areas, analysis finds",
+      "url": "https://insidehousing.co.uk/home/englands-major-cities-will-deliver-half-as-much-housing-under-sahp-compared-with-rural-areas-analysis-finds-98837",
+      "published": "2026-09-25T09:45:00+00:00",
+      "excerpt": "London and other English cities are lagging behind rural areas in addressing social housing delivery, according to a new analysis",
+      "entities": [
+        "England’s",
+        "SAHP",
+        "London",
+        "English"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:05:54+00:00",
+      "id": "b0042d8f934f"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Major housing associations raise concerns about grant rates and warn cross-subsidy model faces ‘real challenges’ in London",
+      "url": "https://insidehousing.co.uk/home/major-housing-associations-raise-concerns-about-grant-rates-and-warn-cross-subsidy-model-faces-real-challenges-in-london-98836",
+      "published": "2026-09-25T12:00:25+00:00",
+      "excerpt": "The cross-subsidy model is facing “real challenges” as London’s sales market weakens, L&Q and Riverside have told the London Assembly’s Housing Committee",
+      "entities": [
+        "Major",
+        "London. The",
+        "London’s",
+        "L&Q and Riverside",
+        "London Assembly’s Housing Committee"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:05:54+00:00",
+      "id": "225fbcca3137"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "South West housing association launches £1.2bn investment plan",
+      "url": "https://insidehousing.co.uk/home/south-west-housing-association-launches-12bn-investment-plan-98841",
+      "published": "2026-09-25T09:15:00+00:00",
+      "excerpt": "Plymouth Community Homes has announced a plan to invest £1.2bn in its homes and services over the next decade",
+      "entities": [
+        "South West",
+        "Plymouth Community Homes"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:05:54+00:00",
+      "id": "a82806d68fe8"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Vistry reports £660m first-half loss as boss announces transition to ‘smaller business’ and greater focus on affordable delivery",
+      "url": "https://insidehousing.co.uk/home/vistry-reports-660m-first-half-loss-as-boss-announces-transition-to-smaller-business-and-greater-focus-on-affordable-delivery-98834",
+      "published": "2026-09-24T15:00:00+00:00",
+      "excerpt": "Vistry has reported a loss before tax of over £660m in the first half of the year, resulting in part from accounting write-downs",
+      "entities": [
+        "Vistry"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:05:54+00:00",
+      "id": "d1e2b85bbd09"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Scottish business leaders call on government to treat housing as economic infrastructure",
+      "url": "https://insidehousing.co.uk/home/scottish-business-leaders-call-on-government-to-treat-housing-as-economic-infrastructure-98822",
+      "published": "2026-09-24T14:30:00+00:00",
+      "excerpt": "Business leaders have joined calls for the Scottish government to treat housing as economic infrastructure",
+      "entities": [
+        "Scottish",
+        "Business"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:05:54+00:00",
+      "id": "b3f3e872642e"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Suitors welcome for Southport land once promised for £75m Cove Resort",
+      "url": "https://placenorthwest.co.uk/suitors-welcome-for-southport-land-once-promised-for-75m-cove-resort",
+      "published": "2026-09-25T12:47:02+00:00",
+      "excerpt": "With the two-year exclusivity deal between Sefton Council and the resort developer having concluded, the local authority is off to see if there’s a better option for the former park and ride on the town’s Esplanade. The post Suitors welcome for Southport land once promised for £75m Cove Resort appeared first on Place North West .",
+      "entities": [
+        "Suitors",
+        "Southport",
+        "Cove Resort. With",
+        "Sefton Council",
+        "Esplanade. The",
+        "Cove Resort",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:02+00:00",
+      "id": "d03248af584a"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Trafford retains right to rule on Ryebank Fields",
+      "url": "https://placenorthwest.co.uk/trafford-cllrs-retain-right-to-rule-on-ryebank-fields",
+      "published": "2026-09-24T14:41:45+00:00",
+      "excerpt": "The council voted against relinquishing its planning powers to Manchester City Council when it comes to determining the controversial 120-home scheme, despite less than 1% of the site being located in Trafford. The post Trafford retains right to rule on Ryebank Fields appeared first on Place North West .",
+      "entities": [
+        "Trafford",
+        "Ryebank Fields. The",
+        "Manchester City Council",
+        "Trafford. The",
+        "Ryebank Fields",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:02+00:00",
+      "id": "c86b4d5597c4"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Chatha Capital lodges plans for 46-storey Manchester residential",
+      "url": "https://placenorthwest.co.uk/chatha-capital-lodges-plans-for-46-storey-manchester-residential",
+      "published": "2026-09-24T14:34:28+00:00",
+      "excerpt": "The site of a failed DeTrafford scheme off Ellesmere Street is to be redeveloped into 592 apartments under plans submitted by the plot’s owner. The post Chatha Capital lodges plans for 46-storey Manchester residential appeared first on Place North West .",
+      "entities": [
+        "Chatha Capital",
+        "Manchester",
+        "DeTrafford",
+        "Ellesmere Street",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:02+00:00",
+      "id": "1f0512d64448"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Vistry wins Oldham consent",
+      "url": "https://placenorthwest.co.uk/vistry-wins-oldham-consent",
+      "published": "2026-09-24T13:00:54+00:00",
+      "excerpt": "Working with social provider First Choice, the firm can go ahead with 147 homes at the Southlink site. Less fortunate was Redwaters Estates, refused permission for a hotly-contested Failsworth proposal. The post Vistry wins Oldham consent appeared first on Place North West .",
+      "entities": [
+        "Vistry",
+        "Oldham",
+        "Working",
+        "First Choice",
+        "Southlink",
+        "Less",
+        "Redwaters Estates",
+        "Failsworth"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:02+00:00",
+      "id": "cfe008b8b441"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Purplebricks served with winding-up petition by HMRC",
+      "url": "https://propertyindustryeye.com/purplebricks-served-with-winding-up-petition-by-hmrc",
+      "published": "2026-09-25T04:30:10+00:00",
+      "excerpt": "Purplebricks was founded in 2012 by brothers Michael and Kenny Bruce",
+      "entities": [
+        "Purplebricks",
+        "HMRC. Purplebricks",
+        "Michael and Kenny Bruce"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "e33afd15d50a"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Fast-growing estate agency expands into North West with 18th acquisition",
+      "url": "https://propertyindustryeye.com/fast-growing-estate-agency-expands-into-north-west-with-18th-acquisition",
+      "published": "2026-09-25T03:50:31+00:00",
+      "excerpt": "My Property Box has launched in the North West",
+      "entities": [
+        "Fast-growing",
+        "North West",
+        "My Property Box"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "26ffe0211dc5"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agents warned over AI property images and smart glasses at viewings",
+      "url": "https://propertyindustryeye.com/estate-agents-warned-over-ai-property-images-and-smart-glasses-at-viewings",
+      "published": "2026-09-25T03:34:30+00:00",
+      "excerpt": "Smart glasses create new headache for agents",
+      "entities": [
+        "Estate",
+        "Smart"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "013f399e0637"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency avoids winding-up after HMRC petition dismissed",
+      "url": "https://propertyindustryeye.com/estate-agency-avoids-winding-up-after-hmrc-petition-dismissed",
+      "published": "2026-09-25T03:00:29+00:00",
+      "excerpt": "Estate agency avoids being wound up after the High Court dismissed an HMRC petition against the business",
+      "entities": [
+        "Estate",
+        "HMRC",
+        "High Court"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "efccf5452d57"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "The UK property market: Who is getting it wrong?",
+      "url": "https://propertyindustryeye.com/the-uk-property-market-who-is-getting-it-wrong",
+      "published": "2026-09-25T02:40:42+00:00",
+      "excerpt": "The UK property market headlines are not overly popular at the moment",
+      "entities": [
+        "The UK"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "883fa32ac0b4"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Property firm’s shares slide as it crashes to £661m loss",
+      "url": "https://propertyindustryeye.com/property-firms-shares-slide-as-it-crashes-to-661m-loss",
+      "published": "2026-09-25T02:36:25+00:00",
+      "excerpt": "The property group swung from a reported pre-tax profit of £40.9m a year ago to a £661.3m loss in the six months to June",
+      "entities": [
+        "Property"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "f270e2eaa951"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Think tank calls for stamp duty axe as Londoners ‘underpay’ £3.1bn in property tax",
+      "url": "https://propertyindustryeye.com/think-tank-calls-for-stamp-duty-axe-as-londoners-underpay-3-1bn-in-property-tax",
+      "published": "2026-09-25T02:30:43+00:00",
+      "excerpt": "Think tank wants the government to reform stamp duty and council tax together",
+      "entities": [
+        "Think",
+        "Londoners"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "8d64f907b5c0"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Fine & Country expands into Northern Ireland with new agency partnership",
+      "url": "https://propertyindustryeye.com/fine-country-expands-into-northern-ireland-with-new-agency-partnership",
+      "published": "2026-09-25T02:20:50+00:00",
+      "excerpt": "The move will see Fetherstons operate Fine & Country Northern Ireland",
+      "entities": [
+        "Fine",
+        "Country",
+        "Northern Ireland",
+        "Fetherstons",
+        "Country Northern Ireland"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "d81e7e243643"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Letting agents face strict new deadlines under damp and mould rules",
+      "url": "https://propertyindustryeye.com/letting-agents-face-strict-new-deadlines-under-damp-and-mould-rules",
+      "published": "2026-09-24T23:34:30+00:00",
+      "excerpt": "Propertymark will hold a webinar ahead of the changes to examine how agents should respond to the new requirements",
+      "entities": [
+        "Letting",
+        "Propertymark"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "bde2bd6dca14"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agents miss 94% of early evening calls, research claims",
+      "url": "https://propertyindustryeye.com/estate-agents-miss-94-of-early-evening-calls-research-claims",
+      "published": "2026-09-24T23:30:17+00:00",
+      "excerpt": "Estate agents face out-of-hours gap",
+      "entities": [
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "509a12cebf22"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Property industry puts housing supply at top of Labour conference wish list",
+      "url": "https://propertyindustryeye.com/property-industry-puts-housing-supply-at-top-of-labour-conference-wish-list",
+      "published": "2026-09-24T23:20:22+00:00",
+      "excerpt": "Property industry tells Labour: planning reform alone won’t fix housing crisis",
+      "entities": [
+        "Property",
+        "Labour"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "195b79a9a767"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "HMRC fails to wind up estate agency in dramatic court move",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/hmrc-fails-to-wind-up-estate-agency-in-dramatic-court-move",
+      "published": "2026-09-24T23:06:00+00:00",
+      "excerpt": "The Revenue had filed a petition to wind up the company over alleged tax debts",
+      "entities": [
+        "HMRC",
+        "The Revenue"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "1b1906173e1d"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agency makes 18th acquisition in just seven years",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/agency-makes-18th-acquisition-in-just-seven-years",
+      "published": "2026-09-24T23:05:00+00:00",
+      "excerpt": "The deal involves an undisclosed sum",
+      "entities": [
+        "Agency"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "d27c44cdaa09"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agents warned over fake images and buyers recording viewings",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/agents-warned-over-fake-images-and-buyers-recording-viewings",
+      "published": "2026-09-24T23:04:00+00:00",
+      "excerpt": "AI and technology are creating new challenges for agents",
+      "entities": [
+        "Agents"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "35792fe4351d"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Fine & Country launches office in new territory",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/fine-country-launches-office-in-new-territory",
+      "published": "2026-09-24T23:03:00+00:00",
+      "excerpt": "The patch is being run by a three-office agency",
+      "entities": [
+        "Fine",
+        "Country"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "64eb252dcdf8"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Major Labour donor wants Capital Gains Tax increase",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/major-labour-donor-wants-capital-gains-tax-increase",
+      "published": "2026-09-24T23:02:00+00:00",
+      "excerpt": "Speculation is growing ahead of the Budget in five weeks' time",
+      "entities": [
+        "Major Labour",
+        "Capital Gains Tax",
+        "Speculation",
+        "Budget"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "85f30ce497a2"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Drought threat to structures of some homes – expert warning",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/drought-threat-to-structures-of-some-homes-expert-warning",
+      "published": "2026-09-24T23:01:00+00:00",
+      "excerpt": "The warning comes from the Property Care Association",
+      "entities": [
+        "Drought",
+        "Property Care Association"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "56689bbef656"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Calls for landlord tax cuts and green loans in Welsh budget",
+      "url": "https://landlordzone.co.uk/news/calls-for-landlord-tax-cuts-and-green-loans-in-welsh-budget",
+      "published": "2026-09-25T13:05:16+00:00",
+      "excerpt": "News - Helen Gregory - The Welsh government has been urged to consider phasing out Land Transaction Tax (LTT) and offer landlords low-interest loans for retrofit.",
+      "entities": [
+        "Calls",
+        "Welsh",
+        "News",
+        "Helen Gregory",
+        "The Welsh",
+        "Land Transaction Tax"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "5b5ccecb1352"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Renters’ Rights Act: A look at the first 4 months",
+      "url": "https://landlordzone.co.uk/news/renters-rights-act-a-look-at-the-first-4-months",
+      "published": "2026-09-25T12:29:39+00:00",
+      "excerpt": "Sponsored - Leaders - Four months in, the Renters’ Rights Act has brought fewer market shocks than expected: rents are steady, investment continues, and issues are minor.",
+      "entities": [
+        "Renters’ Rights Act",
+        "Sponsored",
+        "Leaders",
+        "Four"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "f559a2eb6e78"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Landlords urged to check rentals aren't used as brothels",
+      "url": "https://landlordzone.co.uk/news/landlords-urged-to-check-rentals-arent-used-as-brothels",
+      "published": "2026-09-25T12:14:19+00:00",
+      "excerpt": "News - Helen Gregory - Landlords are being advised to strengthen checks after reports that rental properties are being used as short-term brothels.",
+      "entities": [
+        "Landlords",
+        "News",
+        "Helen Gregory"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "1a9394aedf8f"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Two more councils propose HMO clampdown",
+      "url": "https://landlordzone.co.uk/news/two-more-councils-propose-hmo-clampdown",
+      "published": "2026-09-24T14:24:12+00:00",
+      "excerpt": "News - Helen Gregory - Bradford and Breckland councils are the latest authorities to voice concerns over HMO spread.",
+      "entities": [
+        "News",
+        "Helen Gregory",
+        "Bradford and Breckland"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "b4d16a0a5c8e"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Landlords 'did just enough' to meet EPC rules, study finds",
+      "url": "https://landlordzone.co.uk/news/landlords-did-just-enough-to-meet-epc-rules-study-finds",
+      "published": "2026-09-24T13:56:07+00:00",
+      "excerpt": "News - Helen Gregory - Landlords have largely complied with EPC rules, but many appear to have done only enough work to bring properties up to the legal threshold.",
+      "entities": [
+        "Landlords",
+        "News",
+        "Helen Gregory"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-25T13:06:04+00:00",
+      "id": "db568dd895f9"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Safer radiotherapy: triannual event analysis and learning",
+      "url": "https://gov.uk/government/publications/safer-radiotherapy-triannual-event-analysis-and-learning",
+      "published": "2026-09-25T10:20:59+00:00",
+      "excerpt": "Analysis and learning from radiotherapy and near miss data reported voluntarily by UK radiotherapy providers and the relevant reporting authorities.",
+      "entities": [
+        "Safer",
+        "Analysis"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-25T13:06:05+00:00",
+      "id": "f24a528bee03"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Monthly Sea Fisheries Statistics August 2026",
+      "url": "https://gov.uk/government/statistics/monthly-sea-fisheries-statistics-august-2026",
+      "published": "2026-09-25T08:58:04+00:00",
+      "excerpt": "UK and foreign vessels landings by UK port and UK vessel landings abroad: provisional data.",
+      "entities": [
+        "Monthly Sea Fisheries Statistics"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-25T13:06:05+00:00",
+      "id": "dd2d3176e08d"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK Import Trends Monitor",
+      "url": "https://gov.uk/government/publications/import-trends-monitor",
+      "published": "2026-09-25T08:57:28+00:00",
+      "excerpt": "This new tool provides import data for goods to the UK over the past year, helping identify anomalies in volume and prices that may affect UK producers.",
+      "entities": [
+        "UK Import Trends Monitor"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-25T13:06:05+00:00",
+      "id": "2d0b8b437686"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "2026 UK and foreign vessels landings by UK port and UK vessel landings abroad: provisional data",
+      "url": "https://gov.uk/government/statistics/2026-uk-and-foreign-vessels-landings-by-uk-port-and-uk-vessel-landings-abroad-provisional-data",
+      "published": "2026-09-25T08:30:01+00:00",
+      "excerpt": "UK and foreign vessels landings by UK port and UK vessel landings abroad: provisional data.",
+      "entities": [],
+      "kind": "data",
+      "collected_at": "2026-09-25T13:06:05+00:00",
+      "id": "5c3a7aeb2692"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Labour demand volumes by Standard Occupation Classification (SOC 2020), UK: January 2017 to August 2026",
+      "url": "https://gov.uk/government/statistics/labour-demand-volumes-by-standard-occupation-classification-soc-2020-uk-january-2017-to-august-2026",
+      "published": "2026-09-25T08:30:01+00:00",
+      "excerpt": "These tables contain the number of online job adverts split by local authority and occupation (SOC 2020).",
+      "entities": [
+        "Labour",
+        "Standard Occupation Classification",
+        "These"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-25T13:06:05+00:00",
+      "id": "3924e82189ca"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK space cooling market landscape update",
+      "url": "https://gov.uk/government/publications/uk-space-cooling-market-landscape-update",
+      "published": "2026-09-24T15:11:58+00:00",
+      "excerpt": "A research study to update the UK fixed space cooling market for 2024, covering market size, technologies, key players, routes to market, drivers and barriers.",
+      "entities": [],
+      "kind": "data",
+      "collected_at": "2026-09-25T13:06:05+00:00",
+      "id": "277953ade6a8"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "SSAC Occasional Paper 27: The influence of the social security system on educational and vocational decision-making at age 16",
+      "url": "https://gov.uk/government/publications/ssac-occasional-paper-27-the-influence-of-the-social-security-system-on-educational-and-vocational-decision-making-at-age-16",
+      "published": "2026-09-24T15:10:27+00:00",
+      "excerpt": "This report looks at how the social security system interacts with the decision to remain in full-time education or pursue an alternative pathway post-age 16.",
+      "entities": [
+        "SSAC Occasional Paper"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-25T13:06:05+00:00",
+      "id": "ab1bc3a321b8"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "School and college voice: omnibus surveys for 2025 to 2026",
+      "url": "https://gov.uk/government/publications/school-and-college-voice-omnibus-surveys-for-2025-to-2026",
+      "published": "2026-09-24T15:00:03+00:00",
+      "excerpt": "Findings from regular surveys of school and college teachers and leaders.",
+      "entities": [
+        "School",
+        "Findings"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-25T13:06:05+00:00",
+      "id": "a0ad58292539"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "A qualitative study with contributory benefit customers and staff",
+      "url": "https://gov.uk/government/publications/a-qualitative-study-with-contributory-benefit-customers-and-staff",
+      "published": "2026-09-24T15:00:03+00:00",
+      "excerpt": "This report explores customers' journeys, experiences and aspirations within the contributory benefit system (New Style ESA and New Style JSA) and employment.",
+      "entities": [
+        "New Style ESA and New",
+        "Style JSA"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-25T13:06:05+00:00",
+      "id": "f608139e14f9"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Parent, pupil and learner voice: omnibus surveys for 2025 to 2026",
+      "url": "https://gov.uk/government/publications/parent-pupil-and-learner-voice-omnibus-surveys-for-2025-to-2026",
+      "published": "2026-09-24T15:00:03+00:00",
+      "excerpt": "Findings from regular surveys of primary and secondary school pupils’ parents or carers, secondary school pupils and 16 to 18 learners.",
+      "entities": [
+        "Parent",
+        "Findings"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-25T13:06:05+00:00",
+      "id": "dbf2182f56cf"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Violence-fixated individuals",
+      "url": "https://gov.uk/government/publications/violence-fixated-individuals",
+      "published": "2026-09-24T15:00:03+00:00",
+      "excerpt": "Science advice notes on the causes of violence-fixated individuals, the influence of social media, and the effectiveness of interventions to reduce risk.",
+      "entities": [
+        "Violence-fixated",
+        "Science"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-25T13:06:05+00:00",
+      "id": "657ce1796aee"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Votes at 16 research",
+      "url": "https://gov.uk/government/publications/votes-at-16-research",
+      "published": "2026-09-24T15:00:02+00:00",
+      "excerpt": "​​This report outlines the findings of a major research study with young people aged 14 to 17 to inform the government’s work to extend the right to vote to 16- and 17-year-olds.",
+      "entities": [
+        "Votes"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-25T13:06:05+00:00",
+      "id": "25b490f496cd"
+    }
+  ]
+}
