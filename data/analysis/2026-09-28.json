@@ -1,0 +1,671 @@
+{
+  "generated_at": "2026-09-28T16:14:53+00:00",
+  "date_label": "Monday 28 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n36 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Housing supply",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Residential investment",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Build-to-rent",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "Manchester",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Landlords",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "First-time",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Burnham’s",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Purplebricks",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Burnham",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Second",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "SettleParadigm",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Quarterly",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Faster",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Building Safety Regulator",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "April and June",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "East Midlands-based",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "West Belfast",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Anita Conway",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "48f6c55f9f90": {
+      "id": "48f6c55f9f90",
+      "importance": "Medium",
+      "summary": "SettleParadigm has delayed the publication of its first annual audited accounts as a merged entity, but is aiming to file this week",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Second",
+        "SettleParadigm"
+      ],
+      "locations": []
+    },
+    "27716c305077": {
+      "id": "27716c305077",
+      "importance": "Medium",
+      "summary": "Faster approvals rates by the Building Safety Regulator have helped push new build starts in England to 35,910 between April and June, up 6% on the previous quarter",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Quarterly",
+        "Faster",
+        "Building Safety Regulator",
+        "April and June"
+      ],
+      "locations": []
+    },
+    "10a027435242": {
+      "id": "10a027435242",
+      "importance": "Medium",
+      "summary": "First-time buyers in England will be able to access 20% government-backed equity loans, in an attempt to support more people into homeownership",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "First-time"
+      ],
+      "locations": []
+    },
+    "a04d690f6542": {
+      "id": "a04d690f6542",
+      "importance": "Medium",
+      "summary": "East Midlands-based housing association EMH has reported an increase in turnover and operating surplus for 2025-26, while the financial position of its care and support service has stabilised",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "East Midlands-based"
+      ],
+      "locations": []
+    },
+    "3c31d050c0a5": {
+      "id": "3c31d050c0a5",
+      "importance": "Medium",
+      "summary": "We have the power to take bold action in unlocking difficult sites, writes Anita Conway, director of development at Radius Housing",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "West Belfast",
+        "Anita Conway",
+        "Radius Housing"
+      ],
+      "locations": []
+    },
+    "ee3c17b78b4f": {
+      "id": "ee3c17b78b4f",
+      "importance": "Medium",
+      "summary": "The developer has enlisted SimpsonHaugh as its architect for One St John’s, aiming for 385 homes at the vacant Albert Shed site at New Quay Street. The post Select consults on 31-storey Manchester tower appeared first on",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Select",
+        "Manchester",
+        "SimpsonHaugh",
+        "One St John’s"
+      ],
+      "locations": []
+    },
+    "9c3f448f8437": {
+      "id": "9c3f448f8437",
+      "importance": "Medium",
+      "summary": "Cabinet minister and Wigan MP Lisa Nandy insisted the council's opposition to some large-scale employment schemes in the Green Belt does not mean the authority is anti growth. The post Nandy says Wigan remains open to de",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Nandy",
+        "Wigan",
+        "Cabinet",
+        "Wigan MP Lisa Nandy"
+      ],
+      "locations": []
+    },
+    "3fec24141423": {
+      "id": "3fec24141423",
+      "importance": "Medium",
+      "summary": "Greater Manchester Pension Fund has completed the sale of its 50% interest in th build-to-rent element of the Manchester development to joint venture partner Vita Group. The post GMPF exits Circle Square resi appeared fi",
+      "why_it_matters": "",
+      "themes": [
+        "Build-to-rent"
+      ],
+      "companies": [
+        "GMPF",
+        "Circle Square",
+        "Greater Manchester Pension Fund",
+        "Manchester"
+      ],
+      "locations": []
+    },
+    "5a8b337787b3": {
+      "id": "5a8b337787b3",
+      "importance": "Medium",
+      "summary": "Ahead of Prime Minister Andy Burnham’s speech at the party conference on Tuesday, the government has announced a trio of programmes to get the housing market moving, support community businesses, and bring vacant propert",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "First-time",
+        "Labour",
+        "Ahead of Prime Minister Andy",
+        "Burnham’s"
+      ],
+      "locations": []
+    },
+    "828f13a59028": {
+      "id": "828f13a59028",
+      "importance": "Medium",
+      "summary": "Set across 430 acres of brownfield stretching from the city centre’s waterfront to Everton FC’s Hill Dickinson Stadium, Liverpool North Docks Mayoral Development Corporation will help lead the delivery of up to 17,000 ho",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Unanimous",
+        "Liverpool’s",
+        "MDC. Set",
+        "Everton FC’s Hill Dickinson"
+      ],
+      "locations": []
+    },
+    "caaba3879752": {
+      "id": "caaba3879752",
+      "importance": "Medium",
+      "summary": "Zentra Group has signed a replacement building contract with the firm to complete a 129-apartment Manchester development following the administration of former main contractor Torsion Construction. The post AC1 agrees te",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "One Victoria. Zentra Group",
+        "Manchester",
+        "Torsion Construction. The",
+        "One Victoria"
+      ],
+      "locations": []
+    },
+    "9098997fa61b": {
+      "id": "9098997fa61b",
+      "importance": "Medium",
+      "summary": "Purplebricks was served with winding-up petition by HMRC last week",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Purplebricks",
+        "HMRC"
+      ],
+      "locations": []
+    },
+    "256503ab9d64": {
+      "id": "256503ab9d64",
+      "importance": "Medium",
+      "summary": "New equity loan scheme will allow some first-time buyers to purchase a new-build home with a deposit of just 2.5%",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Industry"
+      ],
+      "locations": []
+    },
+    "7017652fc5c5": {
+      "id": "7017652fc5c5",
+      "importance": "Medium",
+      "summary": "Estate agency founder has criticised Labour's plan to let councils take over empty homes",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Labour's"
+      ],
+      "locations": []
+    },
+    "ef599b0c3f61": {
+      "id": "ef599b0c3f61",
+      "importance": "Medium",
+      "summary": "Martin & Co franchise owner expands portfolio with acquisition",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate",
+        "Martin"
+      ],
+      "locations": []
+    },
+    "68d2805895fe": {
+      "id": "68d2805895fe",
+      "importance": "Medium",
+      "summary": "The proposal to drop the lower threshold for the mansion tax will cause concern in outer London boroughs and parts of south-east England in particular",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Mansion",
+        "London"
+      ],
+      "locations": []
+    },
+    "f76e7506fad8": {
+      "id": "f76e7506fad8",
+      "importance": "Medium",
+      "summary": "The warning follows the introduction of major tenancy reforms under the Renters’ Rights Act",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "Renters’ Rights Act"
+      ],
+      "locations": []
+    },
+    "c66904931965": {
+      "id": "c66904931965",
+      "importance": "Medium",
+      "summary": "Former letting agency owner Hannah McCartan has been named Female Entrepreneur of the Year 2026",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Former",
+        "Female Entrepreneur",
+        "Year. Former",
+        "Hannah McCartan"
+      ],
+      "locations": []
+    },
+    "20ab90f4971a": {
+      "id": "20ab90f4971a",
+      "importance": "Medium",
+      "summary": "Foxtons also reported an increase in properties coming onto the market during August",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Renters",
+        "London",
+        "Foxtons"
+      ],
+      "locations": []
+    },
+    "22264840abc1": {
+      "id": "22264840abc1",
+      "importance": "Medium",
+      "summary": "Landlords are expected to meet tougher energy efficiency standards by 2030",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Landlords"
+      ],
+      "locations": []
+    },
+    "a188abf25f3c": {
+      "id": "a188abf25f3c",
+      "importance": "Medium",
+      "summary": "Prices climb 3.6% as property market activity slows",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Northern Ireland",
+        "Prices"
+      ],
+      "locations": []
+    },
+    "12cbd6638564": {
+      "id": "12cbd6638564",
+      "importance": "Medium",
+      "summary": "A £34m bailout for Purplebricks is reported to be coming from one of its major investors. The Telegraph says it’s coming from Talk Talk billionaire Sir Charles Dunstone. And it comes after Dunstone’s investment firm, Fre",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Purplebricks",
+        "The Telegraph",
+        "Talk Talk",
+        "Sir Charles Dunstone. And"
+      ],
+      "locations": []
+    },
+    "0992259b6d1c": {
+      "id": "0992259b6d1c",
+      "importance": "Medium",
+      "summary": "Mansion Tax could hit three times as many homes",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Mansion Tax"
+      ],
+      "locations": []
+    },
+    "a04f23fbfbaf": {
+      "id": "a04f23fbfbaf",
+      "importance": "Medium",
+      "summary": "It's a report from the Resolution Foundation think tank",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Stamp Duty",
+        "It's",
+        "Resolution Foundation"
+      ],
+      "locations": []
+    },
+    "c1d9a62c44c2": {
+      "id": "c1d9a62c44c2",
+      "importance": "Medium",
+      "summary": "Are national house price measures completely redundant?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Phil Spencer"
+      ],
+      "locations": []
+    },
+    "4ce4b34e80bf": {
+      "id": "4ce4b34e80bf",
+      "importance": "Medium",
+      "summary": "Franchise owner buys second business as part of expansion plan",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Franchisee",
+        "Franchise"
+      ],
+      "locations": []
+    },
+    "03efc9485222": {
+      "id": "03efc9485222",
+      "importance": "Medium",
+      "summary": "Burnham announced the scheme on Saturday",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Burnham’s",
+        "Burnham"
+      ],
+      "locations": []
+    },
+    "1e4bd5424232": {
+      "id": "1e4bd5424232",
+      "importance": "Medium",
+      "summary": "The Prime Minister has announced changes that he says will bring more empty homes back into use. Andy Burnham says his government will reform Empty Dwelling Management Orders (EDMOs). This is to allow councils to bring m",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Burnham",
+        "The Prime Minister",
+        "Andy Burnham",
+        "Empty Dwelling Management Orders"
+      ],
+      "locations": []
+    },
+    "19abc70478a7": {
+      "id": "19abc70478a7",
+      "importance": "Medium",
+      "summary": "The government is to announce a new equity loan scheme – Your First Home – at next month’s Budget. It will operate only in England and is aimed at first time buyers. This is expected to support 2.5% deposits, backed by 2",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Budget. The",
+        "Your First Home",
+        "Budget. It",
+        "People"
+      ],
+      "locations": []
+    },
+    "0defca7018b7": {
+      "id": "0defca7018b7",
+      "importance": "Medium",
+      "summary": "News - Maria White - UK surveying faces a demographic crisis as 46% plan to exit in a decade, prompting firms to recruit and train new talent pools.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Surveying",
+        "News",
+        "Maria White"
+      ],
+      "locations": []
+    },
+    "0cf1f2c02def": {
+      "id": "0cf1f2c02def",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Councils are to get new powers to take over empty and derelict homes in a bid to tackle the housing crisis.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Councils",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "a5030d2e9e9f": {
+      "id": "a5030d2e9e9f",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Landlords need more certainty around paying for improvements to meet planned new energy efficiency standards, the NRLA warns.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "News",
+        "Helen Gregory",
+        "NRLA"
+      ],
+      "locations": []
+    },
+    "d2062d752fcf": {
+      "id": "d2062d752fcf",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Medway Council has given the go-ahead to new selective and additional licensing schemes which go live next January.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Medway",
+        "January. News",
+        "Helen Gregory",
+        "Medway Council"
+      ],
+      "locations": []
+    },
+    "9b7e8c06d3c6": {
+      "id": "9b7e8c06d3c6",
+      "importance": "Medium",
+      "summary": "UK quarterly data and commentary on coverage achieved by the UK childhood immunisation programme.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Cover",
+        "COVER"
+      ],
+      "locations": []
+    },
+    "503ab9c07fd6": {
+      "id": "503ab9c07fd6",
+      "importance": "Medium",
+      "summary": "How radiation affects people, the consequences of a nuclear accident and the measures used to protect public health in the event of an accident.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Nuclear"
+      ],
+      "locations": []
+    },
+    "c6ccc2967447": {
+      "id": "c6ccc2967447",
+      "importance": "Medium",
+      "summary": "An assessment of the methods and impacts of a new component approach to labour productivity measurement in the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Component"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 36,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}

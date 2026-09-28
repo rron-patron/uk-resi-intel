@@ -1,0 +1,694 @@
+{
+  "collected_at": "2026-09-28T16:14:30+00:00",
+  "date_london": "2026-09-28",
+  "counts": {
+    "seen_in_feeds": 52,
+    "new": 36,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 7,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 7"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 6,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 6"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 10,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 10"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 8,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 8"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 4,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 4"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 7,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 7"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Second major housing association misses deadline for annual accounts filing",
+      "url": "https://insidehousing.co.uk/home/second-major-housing-association-misses-deadline-for-annual-accounts-filing-98873",
+      "published": "2026-09-28T13:45:00+00:00",
+      "excerpt": "SettleParadigm has delayed the publication of its first annual audited accounts as a merged entity, but is aiming to file this week",
+      "entities": [
+        "Second",
+        "SettleParadigm"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:39+00:00",
+      "id": "48f6c55f9f90"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Quarterly starts in England up 6% thanks to speedier BSR approval rates",
+      "url": "https://insidehousing.co.uk/home/quarterly-starts-in-england-up-6-thanks-to-speedier-bsr-approval-rates-98860",
+      "published": "2026-09-28T10:00:28+00:00",
+      "excerpt": "Faster approvals rates by the Building Safety Regulator have helped push new build starts in England to 35,910 between April and June, up 6% on the previous quarter",
+      "entities": [
+        "Quarterly",
+        "Faster",
+        "Building Safety Regulator",
+        "April and June"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:39+00:00",
+      "id": "27716c305077"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Government announces 20% equity loan scheme to support first-time buyers",
+      "url": "https://insidehousing.co.uk/home/government-announces-20-equity-loan-scheme-to-support-first-time-buyers-98861",
+      "published": "2026-09-28T10:00:53+00:00",
+      "excerpt": "First-time buyers in England will be able to access 20% government-backed equity loans, in an attempt to support more people into homeownership",
+      "entities": [
+        "First-time"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:39+00:00",
+      "id": "10a027435242"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "EMH boosts turnover and surplus as supported housing performance stabilises",
+      "url": "https://insidehousing.co.uk/home/emh-boosts-turnover-and-surplus-as-supported-housing-performance-stabilises-98856",
+      "published": "2026-09-28T08:45:00+00:00",
+      "excerpt": "East Midlands-based housing association EMH has reported an increase in turnover and operating surplus for 2025-26, while the financial position of its care and support service has stabilised",
+      "entities": [
+        "East Midlands-based"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:39+00:00",
+      "id": "a04d690f6542"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "The community in West Belfast that shows housing associations’ development power",
+      "url": "https://insidehousing.co.uk/home/the-community-in-west-belfast-that-shows-housing-associations-development-power-98831",
+      "published": "2026-09-28T06:00:00+00:00",
+      "excerpt": "We have the power to take bold action in unlocking difficult sites, writes Anita Conway, director of development at Radius Housing",
+      "entities": [
+        "West Belfast",
+        "Anita Conway",
+        "Radius Housing"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:39+00:00",
+      "id": "3c31d050c0a5"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Select consults on 31-storey Manchester tower",
+      "url": "https://placenorthwest.co.uk/select-consults-on-31-storey-manchester-tower",
+      "published": "2026-09-28T13:21:52+00:00",
+      "excerpt": "The developer has enlisted SimpsonHaugh as its architect for One St John’s, aiming for 385 homes at the vacant Albert Shed site at New Quay Street. The post Select consults on 31-storey Manchester tower appeared first on Place North West .",
+      "entities": [
+        "Select",
+        "Manchester",
+        "SimpsonHaugh",
+        "One St John’s",
+        "Albert Shed",
+        "New Quay Street. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:46+00:00",
+      "id": "ee3c17b78b4f"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Nandy says Wigan remains open to development despite flurry of defensive moves",
+      "url": "https://placenorthwest.co.uk/nandy-says-wigan-remains-open-to-development-despite-flurry-of-defensive-moves",
+      "published": "2026-09-28T12:55:01+00:00",
+      "excerpt": "Cabinet minister and Wigan MP Lisa Nandy insisted the council's opposition to some large-scale employment schemes in the Green Belt does not mean the authority is anti growth. The post Nandy says Wigan remains open to development despite flurry of defensive moves appeared first on Place North West .",
+      "entities": [
+        "Nandy",
+        "Wigan",
+        "Cabinet",
+        "Wigan MP Lisa Nandy",
+        "Green Belt",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:46+00:00",
+      "id": "9c3f448f8437"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "GMPF exits Circle Square resi",
+      "url": "https://placenorthwest.co.uk/gmpf-exits-circle-square-resi",
+      "published": "2026-09-28T10:40:35+00:00",
+      "excerpt": "Greater Manchester Pension Fund has completed the sale of its 50% interest in th build-to-rent element of the Manchester development to joint venture partner Vita Group. The post GMPF exits Circle Square resi appeared first on Place North West .",
+      "entities": [
+        "GMPF",
+        "Circle Square",
+        "Greater Manchester Pension Fund",
+        "Manchester",
+        "Vita Group. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:46+00:00",
+      "id": "3fec24141423"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "First-time buyers, high streets, empty homes targets of Labour promises",
+      "url": "https://placenorthwest.co.uk/first-time-buyers-high-streets-empty-homes-targets-of-labour-promises",
+      "published": "2026-09-28T10:20:16+00:00",
+      "excerpt": "Ahead of Prime Minister Andy Burnham’s speech at the party conference on Tuesday, the government has announced a trio of programmes to get the housing market moving, support community businesses, and bring vacant properties back into use. The post First-time buyers, high streets, empty homes targets of Labour promises appeared first on Place North West .",
+      "entities": [
+        "First-time",
+        "Labour",
+        "Ahead of Prime Minister Andy",
+        "Burnham’s",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:46+00:00",
+      "id": "5a8b337787b3"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Unanimous vote for Liverpool’s first MDC",
+      "url": "https://placenorthwest.co.uk/unanimous-vote-for-liverpools-first-mdc",
+      "published": "2026-09-28T09:51:20+00:00",
+      "excerpt": "Set across 430 acres of brownfield stretching from the city centre’s waterfront to Everton FC’s Hill Dickinson Stadium, Liverpool North Docks Mayoral Development Corporation will help lead the delivery of up to 17,000 homes and 5m sq ft of commercial and employment space. The post Unanimous vote for Liverpool’s first MDC appeared first on Place North West .",
+      "entities": [
+        "Unanimous",
+        "Liverpool’s",
+        "MDC. Set",
+        "Everton FC’s Hill Dickinson",
+        "Stadium",
+        "Liverpool North Docks Mayoral",
+        "Development Corporation",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:46+00:00",
+      "id": "828f13a59028"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "AC1 agrees terms to finish One Victoria",
+      "url": "https://placenorthwest.co.uk/ac1-agrees-terms-to-finish-one-victoria",
+      "published": "2026-09-28T09:01:59+00:00",
+      "excerpt": "Zentra Group has signed a replacement building contract with the firm to complete a 129-apartment Manchester development following the administration of former main contractor Torsion Construction. The post AC1 agrees terms to finish One Victoria appeared first on Place North West .",
+      "entities": [
+        "One Victoria. Zentra Group",
+        "Manchester",
+        "Torsion Construction. The",
+        "One Victoria",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:46+00:00",
+      "id": "caaba3879752"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Purplebricks handed £34m lifeline as investors pump in fresh funds",
+      "url": "https://propertyindustryeye.com/purplebricks-handed-34m-lifeline-as-investors-pump-in-fresh-funds",
+      "published": "2026-09-28T04:42:42+00:00",
+      "excerpt": "Purplebricks was served with winding-up petition by HMRC last week",
+      "entities": [
+        "Purplebricks",
+        "HMRC"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "9098997fa61b"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Industry warns of risks after government unveils 2.5% deposit scheme",
+      "url": "https://propertyindustryeye.com/government-unveils-2-5-deposit-scheme-as-industry-warns-of-risks",
+      "published": "2026-09-28T03:20:01+00:00",
+      "excerpt": "New equity loan scheme will allow some first-time buyers to purchase a new-build home with a deposit of just 2.5%",
+      "entities": [
+        "Industry"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "256503ab9d64"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency veteran turned MP slams government’s empty homes plan",
+      "url": "https://propertyindustryeye.com/estate-agency-veteran-turned-mp-slams-governments-empty-homes-plan",
+      "published": "2026-09-28T02:50:03+00:00",
+      "excerpt": "Estate agency founder has criticised Labour's plan to let councils take over empty homes",
+      "entities": [
+        "Estate",
+        "Labour's"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "7017652fc5c5"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency owner expands with latest acquisition",
+      "url": "https://propertyindustryeye.com/estate-agency-owner-expands-with-latest-acquisition",
+      "published": "2026-09-28T02:30:56+00:00",
+      "excerpt": "Martin & Co franchise owner expands portfolio with acquisition",
+      "entities": [
+        "Estate",
+        "Martin"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "ef599b0c3f61"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Mansion tax could hit thousands more homeowners than initially planned",
+      "url": "https://propertyindustryeye.com/mansion-tax-could-hit-thousands-more-homeowners-than-initially-planned",
+      "published": "2026-09-28T02:10:51+00:00",
+      "excerpt": "The proposal to drop the lower threshold for the mansion tax will cause concern in outer London boroughs and parts of south-east England in particular",
+      "entities": [
+        "Mansion",
+        "London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "68d2805895fe"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Landlords could still face fines for letting agent failures",
+      "url": "https://propertyindustryeye.com/landlords-could-still-face-fines-for-letting-agent-failures",
+      "published": "2026-09-28T02:06:29+00:00",
+      "excerpt": "The warning follows the introduction of major tenancy reforms under the Renters’ Rights Act",
+      "entities": [
+        "Landlords",
+        "Renters’ Rights Act"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "f76e7506fad8"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Former letting agency owner named Female Entrepreneur of the Year",
+      "url": "https://propertyindustryeye.com/former-letting-agency-owner-named-female-entrepreneur-of-the-year",
+      "published": "2026-09-28T02:00:29+00:00",
+      "excerpt": "Former letting agency owner Hannah McCartan has been named Female Entrepreneur of the Year 2026",
+      "entities": [
+        "Former",
+        "Female Entrepreneur",
+        "Year. Former",
+        "Hannah McCartan",
+        "Year"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "c66904931965"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Renters face fiercest competition of 2026 as London demand jumps",
+      "url": "https://propertyindustryeye.com/renters-face-fiercest-competition-of-2026-as-demand-jumps",
+      "published": "2026-09-28T01:16:24+00:00",
+      "excerpt": "Foxtons also reported an increase in properties coming onto the market during August",
+      "entities": [
+        "Renters",
+        "London",
+        "Foxtons"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "20ab90f4971a"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Landlords need urgent clarity to hit 2030 rental energy targets, government warned",
+      "url": "https://propertyindustryeye.com/landlords-need-urgent-clarity-to-hit-2030-rental-energy-targets-government-warned",
+      "published": "2026-09-28T01:10:17+00:00",
+      "excerpt": "Landlords are expected to meet tougher energy efficiency standards by 2030",
+      "entities": [
+        "Landlords"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "22264840abc1"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Northern Ireland tops UK for house price growth",
+      "url": "https://propertyindustryeye.com/northern-ireland-tops-uk-for-house-price-growth",
+      "published": "2026-09-27T23:50:37+00:00",
+      "excerpt": "Prices climb 3.6% as property market activity slows",
+      "entities": [
+        "Northern Ireland",
+        "Prices"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "a188abf25f3c"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Purplebricks bailed out by billionaire’s investment – report",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/purplebricks-bailed-out-by-billionaires-investment-report",
+      "published": "2026-09-28T01:41:24+00:00",
+      "excerpt": "A £34m bailout for Purplebricks is reported to be coming from one of its major investors. The Telegraph says it’s coming from Talk Talk billionaire Sir Charles Dunstone. And it comes after Dunstone’s investment firm, Freston Ventures, converting £25.6m of loans into equity at Strike Limited, Purplebricks’ parent company, in June this year. The Telegraph […]",
+      "entities": [
+        "Purplebricks",
+        "The Telegraph",
+        "Talk Talk",
+        "Sir Charles Dunstone. And",
+        "Dunstone’s",
+        "Freston Ventures",
+        "Strike Limited"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "12cbd6638564"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Mansion Tax could hit three times as many homes",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/mansion-tax-could-hit-three-times-as-many-homes",
+      "published": "2026-09-27T23:06:00+00:00",
+      "excerpt": "Mansion Tax could hit three times as many homes",
+      "entities": [
+        "Mansion Tax"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "0992259b6d1c"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Stamp Duty damage to housing market revealed",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/stamp-duty-damage-to-housing-market-revealed",
+      "published": "2026-09-27T23:05:00+00:00",
+      "excerpt": "It's a report from the Resolution Foundation think tank",
+      "entities": [
+        "Stamp Duty",
+        "It's",
+        "Resolution Foundation"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "a04f23fbfbaf"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Phil Spencer: what’s the point of national house price indices?",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/phil-spencer-why-local-market-info-has-never-been-more-important",
+      "published": "2026-09-27T23:04:00+00:00",
+      "excerpt": "Are national house price measures completely redundant?",
+      "entities": [
+        "Phil Spencer"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "c1d9a62c44c2"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Franchisee buys second branch as part of expansion plan",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/franchisee-buys-second-branch-as-part-of-expansion-plan",
+      "published": "2026-09-27T23:02:00+00:00",
+      "excerpt": "Franchise owner buys second business as part of expansion plan",
+      "entities": [
+        "Franchisee",
+        "Franchise"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "4ce4b34e80bf"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Burnham’s first time buyer initiative gets industry backing",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/burnhams-first-time-buyer-initiative-gets-industry-backing",
+      "published": "2026-09-27T23:01:00+00:00",
+      "excerpt": "Burnham announced the scheme on Saturday",
+      "entities": [
+        "Burnham’s",
+        "Burnham"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "03efc9485222"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Burnham to allow more empty homes to be taken over by councils",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/burnham-to-allow-more-empty-homes-to-be-taken-over-by-councils",
+      "published": "2026-09-27T06:18:08+00:00",
+      "excerpt": "The Prime Minister has announced changes that he says will bring more empty homes back into use. Andy Burnham says his government will reform Empty Dwelling Management Orders (EDMOs). This is to allow councils to bring more long-term empty homes back into use and helping ensure existing housing stock is used more effectively. EDMOs allow […]",
+      "entities": [
+        "Burnham",
+        "The Prime Minister",
+        "Andy Burnham",
+        "Empty Dwelling Management Orders",
+        "EDMOs"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "1e4bd5424232"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "New first time buyer scheme to be announced at Budget",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/new-first-time-buyer-scheme-to-be-announced-at-budget",
+      "published": "2026-09-26T16:39:32+00:00",
+      "excerpt": "The government is to announce a new equity loan scheme – Your First Home – at next month’s Budget. It will operate only in England and is aimed at first time buyers. This is expected to support 2.5% deposits, backed by 20% government-backed equity loans, for prospective first-time buyers purchasing a new-build property from a developer signed up to the scheme. People will be able to access equity…",
+      "entities": [
+        "Budget. The",
+        "Your First Home",
+        "Budget. It",
+        "People"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "19abc70478a7"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Surveying sector faces ticking clock as workforce ages",
+      "url": "https://landlordzone.co.uk/news/surveying-sector-faces-ticking-clock-as-workforce-ages",
+      "published": "2026-09-28T15:30:32+00:00",
+      "excerpt": "News - Maria White - UK surveying faces a demographic crisis as 46% plan to exit in a decade, prompting firms to recruit and train new talent pools.",
+      "entities": [
+        "Surveying",
+        "News",
+        "Maria White"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "0defca7018b7"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Councils get powers to take over empty homes after six months",
+      "url": "https://landlordzone.co.uk/news/councils-get-powers-to-take-over-empty-homes-after-six-months",
+      "published": "2026-09-28T14:33:43+00:00",
+      "excerpt": "News - Helen Gregory - Councils are to get new powers to take over empty and derelict homes in a bid to tackle the housing crisis.",
+      "entities": [
+        "Councils",
+        "News",
+        "Helen Gregory"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "0cf1f2c02def"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Landlords risk EPC upgrade bottleneck without urgent action",
+      "url": "https://landlordzone.co.uk/news/landlords-risk-epc-upgrade-bottleneck-without-urgent-action",
+      "published": "2026-09-28T13:31:10+00:00",
+      "excerpt": "News - Helen Gregory - Landlords need more certainty around paying for improvements to meet planned new energy efficiency standards, the NRLA warns.",
+      "entities": [
+        "Landlords",
+        "News",
+        "Helen Gregory",
+        "NRLA"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "a5030d2e9e9f"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Medway landlords face £1,600 licence fee from January",
+      "url": "https://landlordzone.co.uk/news/medway-landlords-face-ps1-600-licence-fee-from-january",
+      "published": "2026-09-28T12:16:23+00:00",
+      "excerpt": "News - Helen Gregory - Medway Council has given the go-ahead to new selective and additional licensing schemes which go live next January.",
+      "entities": [
+        "Medway",
+        "January. News",
+        "Helen Gregory",
+        "Medway Council"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "d2062d752fcf"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Cover of vaccination evaluated rapidly (COVER) programme 2026 to 2027: quarterly data",
+      "url": "https://gov.uk/government/statistics/cover-of-vaccination-evaluated-rapidly-cover-programme-2026-to-2027-quarterly-data",
+      "published": "2026-09-28T11:09:38+00:00",
+      "excerpt": "UK quarterly data and commentary on coverage achieved by the UK childhood immunisation programme.",
+      "entities": [
+        "Cover",
+        "COVER"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "9b7e8c06d3c6"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Nuclear emergencies: information for the public",
+      "url": "https://gov.uk/government/publications/nuclear-emergencies-information-for-the-public",
+      "published": "2026-09-28T08:51:28+00:00",
+      "excerpt": "How radiation affects people, the consequences of a nuclear accident and the measures used to protect public health in the event of an accident.",
+      "entities": [
+        "Nuclear"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "503ab9c07fd6"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Component approach to measuring labour productivity, methods and impacts, UK: 1997 to 2024",
+      "url": "https://gov.uk/government/statistics/component-approach-to-measuring-labour-productivity-methods-and-impacts-uk-1997-to-2024",
+      "published": "2026-09-28T08:30:00+00:00",
+      "excerpt": "An assessment of the methods and impacts of a new component approach to labour productivity measurement in the UK.",
+      "entities": [
+        "Component"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-28T16:14:47+00:00",
+      "id": "c6ccc2967447"
+    }
+  ]
+}
