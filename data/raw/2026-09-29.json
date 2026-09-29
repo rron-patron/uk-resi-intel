@@ -1,0 +1,841 @@
+{
+  "collected_at": "2026-09-29T14:26:55+00:00",
+  "date_london": "2026-09-29",
+  "counts": {
+    "seen_in_feeds": 87,
+    "new": 46,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 10,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 10"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 10,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 10"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 5,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 5"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Your First Home uptake could be slow due to student loans scandal, thinktank warns",
+      "url": "https://insidehousing.co.uk/home/your-first-home-uptake-could-be-slow-due-to-student-loans-scandal-thinktank-warns-98890",
+      "published": "2026-09-29T14:19:41+00:00",
+      "excerpt": "Uptake of the government’s new equity loan scheme for first-time buyers could be slower than the original Help to Buy policy, a Labour-affiliated thinktank warned",
+      "entities": [
+        "Your First Home",
+        "Uptake",
+        "Help",
+        "Labour-affiliated"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:04+00:00",
+      "id": "cd221c7d9a63"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Some councils will be rebuilding housing skills ‘from scratch’, MP says",
+      "url": "https://insidehousing.co.uk/home/some-councils-will-be-rebuilding-housing-skills-from-scratch-mp-says-98888",
+      "published": "2026-09-29T13:27:07+00:00",
+      "excerpt": "Some councils will be “rebuilding from scratch” in terms of housing delivery and maintenance, an MP told the Labour Party conference on Monday",
+      "entities": [
+        "Some",
+        "Labour Party"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:04+00:00",
+      "id": "9e6ed31e2d99"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Every borough but one bids for London’s £11.7bn SAHP cash",
+      "url": "https://insidehousing.co.uk/home/every-borough-but-one-bids-for-londons-117bn-sahp-cash-98886",
+      "published": "2026-09-29T12:30:00+00:00",
+      "excerpt": "Tom Copley, deputy mayor of London for housing and residential development, said there had been “a huge amount of interest” ahead of cash allocation announcements",
+      "entities": [
+        "Every",
+        "London’s",
+        "SAHP",
+        "Tom Copley",
+        "London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:04+00:00",
+      "id": "4908be3e1694"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Exclusive: leaked letter reveals plan to cede Homes England’s power to mayors in ‘most significant revamp since creation’",
+      "url": "https://insidehousing.co.uk/home/exclusive-leaked-letter-reveals-plan-to-cede-homes-englands-power-to-mayors-in-most-significant-revamp-since-creation-98882",
+      "published": "2026-09-29T10:27:51+00:00",
+      "excerpt": "A letter shared exclusively with Inside Housing has revealed more information on how Homes England will work within regions as “a more responsive place-based delivery partner”",
+      "entities": [
+        "Exclusive",
+        "Homes England’s",
+        "Inside Housing",
+        "Homes England"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:04+00:00",
+      "id": "04311ddcef97"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Regulator gives all-clear for Abbey Row start",
+      "url": "https://placenorthwest.co.uk/regulator-gives-all-clear-for-abbey-row-start",
+      "published": "2026-09-29T10:40:13+00:00",
+      "excerpt": "Bentry Capital’s in-house contractor Mellior Construction will begin work in October on 241 homes in phase one of the Liverpool development. The post Regulator gives all-clear for Abbey Row start appeared first on Place North West .",
+      "entities": [
+        "Regulator",
+        "Abbey Row",
+        "Bentry Capital’s",
+        "Mellior Construction",
+        "Liverpool",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:12+00:00",
+      "id": "f49a016a7125"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Pennycook banks on cumulative effect of housing stimuli to boost supply",
+      "url": "https://placenorthwest.co.uk/pennycook-banks-on-cumulative-effect-of-housing-stimuli-to-boost-supply",
+      "published": "2026-09-29T09:56:34+00:00",
+      "excerpt": "Housing minister Matthew Pennycook acknowledged the development industry’s travails but is hopeful the Your First Home initiative, coupled with other interventions over the last two years, will begin to move the dial on delivery in spite of factors beyond the government’s control. The post Pennycook banks on cumulative effect of housing stimuli to boost supply appeared first on Place North West .",
+      "entities": [
+        "Pennycook",
+        "Housing",
+        "Matthew Pennycook",
+        "Your First Home",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:12+00:00",
+      "id": "4e716a2d52cf"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Knowsley approves 88 ‘zero-bills’ affordable homes",
+      "url": "https://placenorthwest.co.uk/knowsley-approves-88-zero-bills-affordable-homes",
+      "published": "2026-09-29T09:45:56+00:00",
+      "excerpt": "Also signed off by the council’s planning committee: a series of improvements to Grace Park in Halewood. The post Knowsley approves 88 ‘zero-bills’ affordable homes appeared first on Place North West .",
+      "entities": [
+        "Knowsley",
+        "Also",
+        "Grace Park",
+        "Halewood. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:12+00:00",
+      "id": "e63f611ff12d"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Persimmon progresses 450-home Wirral proposal",
+      "url": "https://placenorthwest.co.uk/persimmon-progresses-450-home-wirral-proposal",
+      "published": "2026-09-28T19:41:07+00:00",
+      "excerpt": "The listed housebuilder is drafting plans to redevelop the 60-acre Vineyard Farm in Bebington. The post Persimmon progresses 450-home Wirral proposal appeared first on Place North West .",
+      "entities": [
+        "Persimmon",
+        "Wirral",
+        "Vineyard Farm",
+        "Bebington. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:12+00:00",
+      "id": "817f460d9e7e"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "EYE NEWSFLASH: Government confirms mandatory licensing for agents",
+      "url": "https://propertyindustryeye.com/eye-newsflash-government-confirms-mandatory-licensing-for-estate-agents",
+      "published": "2026-09-29T11:37:44+00:00",
+      "excerpt": "Estate agents face licensing as government confirms plans for independent regulator",
+      "entities": [
+        "EYE NEWSFLASH",
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:13+00:00",
+      "id": "67910cbe7a53"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Historic estate agency acquires rival firm after ‘challenging period’",
+      "url": "https://propertyindustryeye.com/historic-estate-agency-acquires-rival-firm-after-challenging-period",
+      "published": "2026-09-29T04:10:49+00:00",
+      "excerpt": "The acquisition gives the estate agency a foothold in south Shropshire and Herefordshire",
+      "entities": [
+        "Historic",
+        "Shropshire and Herefordshire"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:13+00:00",
+      "id": "a916db7ed51d"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Landlord exodus: More than 500 rental homes leaving PRS every day",
+      "url": "https://propertyindustryeye.com/landlord-exodus-more-than-500-rental-homes-leaving-prs-every-day",
+      "published": "2026-09-29T03:24:55+00:00",
+      "excerpt": "New data firm estimates that 505 rental homes per day have left the sector so far in 2026",
+      "entities": [
+        "Landlord",
+        "More"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:13+00:00",
+      "id": "e5e1077ae06e"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "‘Christmas comes early’ for housebuilders as shares surge on buyer scheme",
+      "url": "https://propertyindustryeye.com/christmas-comes-early-for-housebuilders-as-shares-surge-on-buyer-scheme",
+      "published": "2026-09-29T02:44:20+00:00",
+      "excerpt": "Your First Home has similarities with the former Help to Buy equity loan programme",
+      "entities": [
+        "Christmas",
+        "Your First Home",
+        "Help"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:13+00:00",
+      "id": "0399e344d77b"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Property fall-throughs jump as cost of failed sales climbs",
+      "url": "https://propertyindustryeye.com/property-fall-throughs-jump-as-cost-of-failed-sales-climbs",
+      "published": "2026-09-29T02:30:57+00:00",
+      "excerpt": "Property sales falling through at increasing rate",
+      "entities": [
+        "Property"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:13+00:00",
+      "id": "789ee1e2328b"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agents know the first offer may not be the last – and it could be worth £6,000",
+      "url": "https://propertyindustryeye.com/estate-agents-know-the-first-offer-may-not-be-the-last-and-it-could-be-worth-6000",
+      "published": "2026-09-29T02:20:26+00:00",
+      "excerpt": "Sellers accepting first offer could be leaving £6,000 on the table",
+      "entities": [
+        "Estate",
+        "Sellers"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:13+00:00",
+      "id": "3e68db7bdf27"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "TPFG chief executive makes fresh investment in agency group",
+      "url": "https://propertyindustryeye.com/tpfg-chief-executive-makes-fresh-investment-in-agency-group",
+      "published": "2026-09-29T01:30:46+00:00",
+      "excerpt": "Gareth Samples bought the shares on 28 September at 413p each",
+      "entities": [
+        "TPFG",
+        "Gareth Samples"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:13+00:00",
+      "id": "072ce0488f08"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Buyer appetite rebounds – but agents face a stock problem",
+      "url": "https://propertyindustryeye.com/buyer-appetite-rebounds-but-agents-face-a-stock-problem",
+      "published": "2026-09-29T01:26:52+00:00",
+      "excerpt": "Home-moving appetite rebounds despite political and economic uncertainty",
+      "entities": [
+        "Buyer",
+        "Home-moving"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:13+00:00",
+      "id": "da61eeb467d8"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "HMRC tax data could expose illegal short-term lets",
+      "url": "https://propertyindustryeye.com/hmrc-tax-data-could-expose-illegal-short-term-lets",
+      "published": "2026-09-29T01:00:19+00:00",
+      "excerpt": "Council targets illegal short-term lets with HMRC tax information",
+      "entities": [
+        "HMRC"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:13+00:00",
+      "id": "b98d2c6f5dc7"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "First-time buyer demand slips as just 1.8% of homes deemed suitable",
+      "url": "https://propertyindustryeye.com/first-time-buyer-demand-slips-as-just-1-8-of-homes-deemed-suitable",
+      "published": "2026-09-29T00:20:30+00:00",
+      "excerpt": "First-time buyer demand remains strong in cities such as Liverpool, Sheffield, Leicester and Manchester",
+      "entities": [
+        "First-time",
+        "Liverpool",
+        "Sheffield",
+        "Leicester and Manchester"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:13+00:00",
+      "id": "092f51316ade"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Coastal estate agent reports spike in beach hut sales after summer heatwave",
+      "url": "https://propertyindustryeye.com/coastal-estate-agent-reports-spike-in-beach-hut-sales-after-summer-heatwave",
+      "published": "2026-09-29T00:04:41+00:00",
+      "excerpt": "An Essex estate agent has reported a rise in beach hut sales",
+      "entities": [
+        "Coastal",
+        "An Essex"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:13+00:00",
+      "id": "914e8a2dcc95"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "PropTech firm to brief agents on regulatory changes",
+      "url": "https://propertyindustryeye.com/proptech-firm-to-brief-letting-agents-on-regulatory-changes",
+      "published": "2026-09-28T23:50:58+00:00",
+      "excerpt": "PropTech firm Kamma will hold the online event on 13 October",
+      "entities": [
+        "PropTech",
+        "Kamma"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:13+00:00",
+      "id": "98e32ec94bc2"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Fall-throughs and wasted costs increase again",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/fall-throughs-and-wasted-costs-increase-again",
+      "published": "2026-09-28T23:10:00+00:00",
+      "excerpt": "Every collapse carries a significant financial blow to those involved, it's claimed",
+      "entities": [
+        "Fall-throughs",
+        "Every"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:13+00:00",
+      "id": "27d7e387fa22"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "People still want to buy and sell – despite everything!",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/people-still-want-to-buy-and-sell-despite-everything",
+      "published": "2026-09-28T23:06:00+00:00",
+      "excerpt": "Savills has spoken to some 1,100 prospective buyers and sellers",
+      "entities": [
+        "People",
+        "Savills"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:13+00:00",
+      "id": "d873c19e1031"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "First time buyer demand dips ahead of Burnham scheme",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/first-time-buyer-demand-dips-ahead-of-burnham-scheme",
+      "published": "2026-09-28T23:03:00+00:00",
+      "excerpt": "The survey looks up to the end of this third quarter of the year",
+      "entities": [
+        "First",
+        "Burnham"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:13+00:00",
+      "id": "4a322a8cb79e"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Tax plea to Chancellor issued by Propertymark",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/tax-plea-to-chancellor-issued-by-propertymark",
+      "published": "2026-09-28T23:02:00+00:00",
+      "excerpt": "The Budget is on October 28",
+      "entities": [
+        "Chancellor",
+        "Propertymark. The Budget"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:13+00:00",
+      "id": "41445ab7648c"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Burnham’s scheme may correct market weakness, says Zoopla",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/burnhams-scheme-may-correct-market-weakness-says-zoopla",
+      "published": "2026-09-28T23:01:00+00:00",
+      "excerpt": "There's a demand-supply mismatch in the market, claims Zoopla",
+      "entities": [
+        "Burnham’s",
+        "Zoopla. There's",
+        "Zoopla"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:13+00:00",
+      "id": "85c86a0e744a"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Most parents give rent back to help children buy their first home",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/09/most-parents-give-rent-back-to-help-children-buy-their-first-home",
+      "published": "2026-09-28T23:00:00+00:00",
+      "excerpt": "The Nationwide has completed a detailed analysis of the trend",
+      "entities": [
+        "Most",
+        "The Nationwide"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:13+00:00",
+      "id": "cb1dc10f4aeb"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Simple winter prep could slash £175 off heating bills",
+      "url": "https://landlordzone.co.uk/news/simple-winter-prep-could-slash-ps175-off-heating-bills",
+      "published": "2026-09-29T09:35:26+00:00",
+      "excerpt": "News - Maria White - As energy bills rise, landlords and homeowners can save £175 yearly with simple heating checks and minor adjustments before winter.",
+      "entities": [
+        "Simple",
+        "News",
+        "Maria White"
+      ],
+      "kind": "news",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "a8aab09b00f5"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Price paid data: August 2026",
+      "url": "https://gov.uk/government/statistical-data-sets/price-paid-data-august-2026",
+      "published": "2026-09-29T12:06:57+00:00",
+      "excerpt": "…The current month's Price Paid Data includes new monthly transactions, earlier updates and SPPD/APPD, with CSV and TXT downloads.…",
+      "entities": [
+        "Price",
+        "Price Paid Data",
+        "SPPD",
+        "APPD",
+        "CSV and TXT"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "f617500d68e1"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Adult social care client level data, England: quarterly update to March 2026",
+      "url": "https://gov.uk/government/statistics/adult-social-care-client-level-data-england-quarterly-update-to-march-2026",
+      "published": "2026-09-29T10:59:08+00:00",
+      "excerpt": "Official statistics in development on insights from client level data from local authorities, including information on assessments and long-term support.",
+      "entities": [
+        "Adult",
+        "Official"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "404895b50dce"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Price paid data: July 2026",
+      "url": "https://gov.uk/government/statistical-data-sets/price-paid-data-july-2026",
+      "published": "2026-09-29T10:31:22+00:00",
+      "excerpt": "…The current month's Price Paid Data includes new monthly transactions, earlier updates and SPPD/APPD, with CSV and TXT downloads.…",
+      "entities": [
+        "Price",
+        "Price Paid Data",
+        "SPPD",
+        "APPD",
+        "CSV and TXT"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "5424dee48fa7"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Transaction unique identifier and UPRN Look Up Table dataset",
+      "url": "https://gov.uk/government/statistical-data-sets/transaction-unique-identifier-and-uprn-look-up-table-dataset",
+      "published": "2026-09-29T10:15:43+00:00",
+      "excerpt": "Download the Unique Property Reference Numbers (UPRN) Look Up Table dataset in text or CSV format.",
+      "entities": [
+        "Transaction",
+        "UPRN Look Up Table",
+        "Download",
+        "Unique Property Reference Numbers",
+        "UPRN",
+        "Look Up Table"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "da80f2c48aa7"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Transaction unique identifier and INSPIRE ID Look Up Table dataset",
+      "url": "https://gov.uk/government/statistical-data-sets/transaction-unique-identifier-and-inspire-id-look-up-table-dataset",
+      "published": "2026-09-29T10:11:02+00:00",
+      "excerpt": "Download the INSPIRE ID Look Up Table dataset in text or CSV format.",
+      "entities": [
+        "Transaction",
+        "INSPIRE ID Look Up",
+        "Table",
+        "Download"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "31674a2dba57"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Price Paid Data",
+      "url": "https://gov.uk/government/statistical-data-sets/price-paid-data-downloads",
+      "published": "2026-09-29T09:18:08+00:00",
+      "excerpt": "Download the Price Paid Data (PPD) in text or CSV format and access our linked data.",
+      "entities": [
+        "Price Paid Data. Download",
+        "Price Paid Data"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "ca22e2971535"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Quarterly Energy Prices: September 2026",
+      "url": "https://gov.uk/government/statistics/quarterly-energy-prices-september-2026",
+      "published": "2026-09-29T08:30:06+00:00",
+      "excerpt": "Quarterly statistical publication on energy prices.",
+      "entities": [
+        "Quarterly Energy Prices",
+        "Quarterly"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "03ac8752cc48"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Digest of UK Energy Statistics (DUKES) 2026",
+      "url": "https://gov.uk/government/statistics/digest-of-uk-energy-statistics-dukes-2026",
+      "published": "2026-09-29T08:30:06+00:00",
+      "excerpt": "Digest of UK Energy Statistics (DUKES) 2026: chapters 1-7, annexes A-J and commodity balances in flat file format.",
+      "entities": [
+        "Digest of UK Energy Statistics",
+        "DUKES"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "69a651aa7d48"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Monthly and annual prices of road fuels and petroleum products",
+      "url": "https://gov.uk/government/statistical-data-sets/oil-and-petroleum-products-monthly-statistics",
+      "published": "2026-09-29T08:30:06+00:00",
+      "excerpt": "Monthly and annual prices of road fuels and fuels used for home heating, plus an index of crude oil prices.",
+      "entities": [
+        "Monthly"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "6f88b4265bb1"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Digest of UK Energy Statistics (DUKES): natural gas",
+      "url": "https://gov.uk/government/statistics/natural-gas-chapter-4-digest-of-united-kingdom-energy-statistics-dukes",
+      "published": "2026-09-29T08:30:06+00:00",
+      "excerpt": "DUKES chapter 4: statistics on supply and demand for natural gas.",
+      "entities": [
+        "Digest of UK Energy Statistics",
+        "DUKES"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "ffc84cfa74df"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Prices of fuels purchased by manufacturing industry",
+      "url": "https://gov.uk/government/statistical-data-sets/prices-of-fuels-purchased-by-manufacturing-industry",
+      "published": "2026-09-29T08:30:06+00:00",
+      "excerpt": "…Quarterly and annual prices of fuels purchased by manufacturing industry, in original units and p/kWh, split into consumption sizebands.…",
+      "entities": [
+        "Prices",
+        "Quarterly"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "6da0243e6e43"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Prices of fuels purchased by major power producers",
+      "url": "https://gov.uk/government/statistical-data-sets/prices-of-fuels-purchased-by-major-power-producers",
+      "published": "2026-09-29T08:30:06+00:00",
+      "excerpt": "Quarterly and annual prices of fuels purchased by power generators.",
+      "entities": [
+        "Prices",
+        "Quarterly"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "3d54a46bcc50"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Industrial energy price indices",
+      "url": "https://gov.uk/government/statistical-data-sets/industrial-energy-price-indices",
+      "published": "2026-09-29T08:30:06+00:00",
+      "excerpt": "Quarterly and annual price indices for industrial fuels, in real and current terms, including and excluding the Climate Change Levy (CCL).",
+      "entities": [
+        "Industrial",
+        "Quarterly",
+        "Climate Change Levy"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "81cefda4ffa9"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Gas and electricity prices in the non-domestic sector",
+      "url": "https://gov.uk/government/statistical-data-sets/gas-and-electricity-prices-in-the-non-domestic-sector",
+      "published": "2026-09-29T08:30:06+00:00",
+      "excerpt": "Quarterly and annual gas and electricity prices for the non-domestic sector, including and excluding the Climate Change Levy (CCL), split into consumption size bands.",
+      "entities": [
+        "Quarterly",
+        "Climate Change Levy"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "6651ab0603b7"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Comparisons of international road fuel prices",
+      "url": "https://gov.uk/government/statistical-data-sets/comparisons-of-international-road-fuel-prices",
+      "published": "2026-09-29T08:30:06+00:00",
+      "excerpt": "Comparisons of road fuel prices against other EU countries, using data from the European Commission Oil Bulletin.",
+      "entities": [
+        "Comparisons",
+        "European Commission Oil Bulletin"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "684be81e20fb"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Energy Trends: September 2026, special feature article - Competition in UK electricity markets, 2025",
+      "url": "https://gov.uk/government/statistics/energy-trends-september-2026-special-feature-article-competition-in-uk-electricity-markets-2025",
+      "published": "2026-09-29T08:30:05+00:00",
+      "excerpt": "Special feature article from the September 2026 edition of Energy trends statistical publication.",
+      "entities": [
+        "Energy Trends",
+        "Competition",
+        "Special",
+        "Energy"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "eaec8e752a5a"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Background information and quality report: Research and Development Tax Credits",
+      "url": "https://gov.uk/government/statistics/background-information-and-quality-report-research-and-development-tax-credits",
+      "published": "2026-09-29T08:30:05+00:00",
+      "excerpt": "Background information and quality report for statistics relating to the Research and Development Tax Credits.",
+      "entities": [
+        "Background",
+        "Research and Development Tax Credits"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "6cad092fcea6"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Domestic energy price indices",
+      "url": "https://gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
+      "published": "2026-09-29T08:30:05+00:00",
+      "excerpt": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
+      "entities": [
+        "Domestic",
+        "Quarterly"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "5b34567bf898"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Energy Trends: UK gas",
+      "url": "https://gov.uk/government/statistics/gas-section-4-energy-trends",
+      "published": "2026-09-29T08:30:05+00:00",
+      "excerpt": "…Data on the UK's gas sector, including production, trade and demand.…",
+      "entities": [
+        "Energy Trends",
+        "Data",
+        "UK's"
+      ],
+      "kind": "data",
+      "collected_at": "2026-09-29T14:27:14+00:00",
+      "id": "468ffd5f0bdc"
+    }
+  ]
+}

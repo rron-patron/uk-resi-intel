@@ -1,0 +1,808 @@
+{
+  "generated_at": "2026-09-29T14:27:20+00:00",
+  "date_label": "Tuesday 29 September 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n46 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Housing supply",
+      "count": 6,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Residential investment",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Student housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Quarterly",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Your First Home",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Price Paid Data",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Help",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Every",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Liverpool",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Price",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "SPPD",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "APPD",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "CSV and TXT",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Transaction",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Download",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Digest of UK Energy Statistics",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "DUKES",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Prices",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Climate Change Levy",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Energy Trends",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Uptake",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "cd221c7d9a63": {
+      "id": "cd221c7d9a63",
+      "importance": "Medium",
+      "summary": "Uptake of the government’s new equity loan scheme for first-time buyers could be slower than the original Help to Buy policy, a Labour-affiliated thinktank warned",
+      "why_it_matters": "",
+      "themes": [
+        "Student housing"
+      ],
+      "companies": [
+        "Your First Home",
+        "Uptake",
+        "Help",
+        "Labour-affiliated"
+      ],
+      "locations": []
+    },
+    "9e6ed31e2d99": {
+      "id": "9e6ed31e2d99",
+      "importance": "Medium",
+      "summary": "Some councils will be “rebuilding from scratch” in terms of housing delivery and maintenance, an MP told the Labour Party conference on Monday",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Some",
+        "Labour Party"
+      ],
+      "locations": []
+    },
+    "4908be3e1694": {
+      "id": "4908be3e1694",
+      "importance": "Medium",
+      "summary": "Tom Copley, deputy mayor of London for housing and residential development, said there had been “a huge amount of interest” ahead of cash allocation announcements",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Every",
+        "London’s",
+        "SAHP",
+        "Tom Copley"
+      ],
+      "locations": []
+    },
+    "04311ddcef97": {
+      "id": "04311ddcef97",
+      "importance": "Medium",
+      "summary": "A letter shared exclusively with Inside Housing has revealed more information on how Homes England will work within regions as “a more responsive place-based delivery partner”",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Exclusive",
+        "Homes England’s",
+        "Inside Housing",
+        "Homes England"
+      ],
+      "locations": []
+    },
+    "f49a016a7125": {
+      "id": "f49a016a7125",
+      "importance": "Medium",
+      "summary": "Bentry Capital’s in-house contractor Mellior Construction will begin work in October on 241 homes in phase one of the Liverpool development. The post Regulator gives all-clear for Abbey Row start appeared first on Place ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Regulator",
+        "Abbey Row",
+        "Bentry Capital’s",
+        "Mellior Construction"
+      ],
+      "locations": []
+    },
+    "4e716a2d52cf": {
+      "id": "4e716a2d52cf",
+      "importance": "Medium",
+      "summary": "Housing minister Matthew Pennycook acknowledged the development industry’s travails but is hopeful the Your First Home initiative, coupled with other interventions over the last two years, will begin to move the dial on ",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Pennycook",
+        "Housing",
+        "Matthew Pennycook",
+        "Your First Home"
+      ],
+      "locations": []
+    },
+    "e63f611ff12d": {
+      "id": "e63f611ff12d",
+      "importance": "Medium",
+      "summary": "Also signed off by the council’s planning committee: a series of improvements to Grace Park in Halewood. The post Knowsley approves 88 ‘zero-bills’ affordable homes appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Knowsley",
+        "Also",
+        "Grace Park",
+        "Halewood. The"
+      ],
+      "locations": []
+    },
+    "817f460d9e7e": {
+      "id": "817f460d9e7e",
+      "importance": "Medium",
+      "summary": "The listed housebuilder is drafting plans to redevelop the 60-acre Vineyard Farm in Bebington. The post Persimmon progresses 450-home Wirral proposal appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Persimmon",
+        "Wirral",
+        "Vineyard Farm",
+        "Bebington. The"
+      ],
+      "locations": []
+    },
+    "67910cbe7a53": {
+      "id": "67910cbe7a53",
+      "importance": "Medium",
+      "summary": "Estate agents face licensing as government confirms plans for independent regulator",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "EYE NEWSFLASH",
+        "Estate"
+      ],
+      "locations": []
+    },
+    "a916db7ed51d": {
+      "id": "a916db7ed51d",
+      "importance": "Medium",
+      "summary": "The acquisition gives the estate agency a foothold in south Shropshire and Herefordshire",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Historic",
+        "Shropshire and Herefordshire"
+      ],
+      "locations": []
+    },
+    "e5e1077ae06e": {
+      "id": "e5e1077ae06e",
+      "importance": "Medium",
+      "summary": "New data firm estimates that 505 rental homes per day have left the sector so far in 2026",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlord",
+        "More"
+      ],
+      "locations": []
+    },
+    "0399e344d77b": {
+      "id": "0399e344d77b",
+      "importance": "Medium",
+      "summary": "Your First Home has similarities with the former Help to Buy equity loan programme",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Christmas",
+        "Your First Home",
+        "Help"
+      ],
+      "locations": []
+    },
+    "789ee1e2328b": {
+      "id": "789ee1e2328b",
+      "importance": "Medium",
+      "summary": "Property sales falling through at increasing rate",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property"
+      ],
+      "locations": []
+    },
+    "3e68db7bdf27": {
+      "id": "3e68db7bdf27",
+      "importance": "Medium",
+      "summary": "Sellers accepting first offer could be leaving £6,000 on the table",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate",
+        "Sellers"
+      ],
+      "locations": []
+    },
+    "072ce0488f08": {
+      "id": "072ce0488f08",
+      "importance": "Medium",
+      "summary": "Gareth Samples bought the shares on 28 September at 413p each",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "TPFG",
+        "Gareth Samples"
+      ],
+      "locations": []
+    },
+    "da61eeb467d8": {
+      "id": "da61eeb467d8",
+      "importance": "Medium",
+      "summary": "Home-moving appetite rebounds despite political and economic uncertainty",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Buyer",
+        "Home-moving"
+      ],
+      "locations": []
+    },
+    "b98d2c6f5dc7": {
+      "id": "b98d2c6f5dc7",
+      "importance": "Medium",
+      "summary": "Council targets illegal short-term lets with HMRC tax information",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "HMRC"
+      ],
+      "locations": []
+    },
+    "092f51316ade": {
+      "id": "092f51316ade",
+      "importance": "Medium",
+      "summary": "First-time buyer demand remains strong in cities such as Liverpool, Sheffield, Leicester and Manchester",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "First-time",
+        "Liverpool",
+        "Sheffield",
+        "Leicester and Manchester"
+      ],
+      "locations": []
+    },
+    "914e8a2dcc95": {
+      "id": "914e8a2dcc95",
+      "importance": "Medium",
+      "summary": "An Essex estate agent has reported a rise in beach hut sales",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Coastal",
+        "An Essex"
+      ],
+      "locations": []
+    },
+    "98e32ec94bc2": {
+      "id": "98e32ec94bc2",
+      "importance": "Medium",
+      "summary": "PropTech firm Kamma will hold the online event on 13 October",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "PropTech",
+        "Kamma"
+      ],
+      "locations": []
+    },
+    "27d7e387fa22": {
+      "id": "27d7e387fa22",
+      "importance": "Medium",
+      "summary": "Every collapse carries a significant financial blow to those involved, it's claimed",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Fall-throughs",
+        "Every"
+      ],
+      "locations": []
+    },
+    "d873c19e1031": {
+      "id": "d873c19e1031",
+      "importance": "Medium",
+      "summary": "Savills has spoken to some 1,100 prospective buyers and sellers",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "People",
+        "Savills"
+      ],
+      "locations": []
+    },
+    "4a322a8cb79e": {
+      "id": "4a322a8cb79e",
+      "importance": "Medium",
+      "summary": "The survey looks up to the end of this third quarter of the year",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "First",
+        "Burnham"
+      ],
+      "locations": []
+    },
+    "41445ab7648c": {
+      "id": "41445ab7648c",
+      "importance": "Medium",
+      "summary": "The Budget is on October 28",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Chancellor",
+        "Propertymark. The Budget"
+      ],
+      "locations": []
+    },
+    "85c86a0e744a": {
+      "id": "85c86a0e744a",
+      "importance": "Medium",
+      "summary": "There's a demand-supply mismatch in the market, claims Zoopla",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Burnham’s",
+        "Zoopla. There's",
+        "Zoopla"
+      ],
+      "locations": []
+    },
+    "cb1dc10f4aeb": {
+      "id": "cb1dc10f4aeb",
+      "importance": "Medium",
+      "summary": "The Nationwide has completed a detailed analysis of the trend",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Most",
+        "The Nationwide"
+      ],
+      "locations": []
+    },
+    "a8aab09b00f5": {
+      "id": "a8aab09b00f5",
+      "importance": "Medium",
+      "summary": "News - Maria White - As energy bills rise, landlords and homeowners can save £175 yearly with simple heating checks and minor adjustments before winter.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Simple",
+        "News",
+        "Maria White"
+      ],
+      "locations": []
+    },
+    "f617500d68e1": {
+      "id": "f617500d68e1",
+      "importance": "Medium",
+      "summary": "…The current month's Price Paid Data includes new monthly transactions, earlier updates and SPPD/APPD, with CSV and TXT downloads.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Price",
+        "Price Paid Data",
+        "SPPD",
+        "APPD"
+      ],
+      "locations": []
+    },
+    "404895b50dce": {
+      "id": "404895b50dce",
+      "importance": "Medium",
+      "summary": "Official statistics in development on insights from client level data from local authorities, including information on assessments and long-term support.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Adult",
+        "Official"
+      ],
+      "locations": []
+    },
+    "5424dee48fa7": {
+      "id": "5424dee48fa7",
+      "importance": "Medium",
+      "summary": "…The current month's Price Paid Data includes new monthly transactions, earlier updates and SPPD/APPD, with CSV and TXT downloads.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Price",
+        "Price Paid Data",
+        "SPPD",
+        "APPD"
+      ],
+      "locations": []
+    },
+    "da80f2c48aa7": {
+      "id": "da80f2c48aa7",
+      "importance": "Medium",
+      "summary": "Download the Unique Property Reference Numbers (UPRN) Look Up Table dataset in text or CSV format.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Transaction",
+        "UPRN Look Up Table",
+        "Download",
+        "Unique Property Reference Numbers"
+      ],
+      "locations": []
+    },
+    "31674a2dba57": {
+      "id": "31674a2dba57",
+      "importance": "Medium",
+      "summary": "Download the INSPIRE ID Look Up Table dataset in text or CSV format.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Transaction",
+        "INSPIRE ID Look Up",
+        "Table",
+        "Download"
+      ],
+      "locations": []
+    },
+    "ca22e2971535": {
+      "id": "ca22e2971535",
+      "importance": "Medium",
+      "summary": "Download the Price Paid Data (PPD) in text or CSV format and access our linked data.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Price Paid Data. Download",
+        "Price Paid Data"
+      ],
+      "locations": []
+    },
+    "03ac8752cc48": {
+      "id": "03ac8752cc48",
+      "importance": "Medium",
+      "summary": "Quarterly statistical publication on energy prices.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Quarterly Energy Prices",
+        "Quarterly"
+      ],
+      "locations": []
+    },
+    "69a651aa7d48": {
+      "id": "69a651aa7d48",
+      "importance": "Medium",
+      "summary": "Digest of UK Energy Statistics (DUKES) 2026: chapters 1-7, annexes A-J and commodity balances in flat file format.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Digest of UK Energy Statistics",
+        "DUKES"
+      ],
+      "locations": []
+    },
+    "6f88b4265bb1": {
+      "id": "6f88b4265bb1",
+      "importance": "Medium",
+      "summary": "Monthly and annual prices of road fuels and fuels used for home heating, plus an index of crude oil prices.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Monthly"
+      ],
+      "locations": []
+    },
+    "ffc84cfa74df": {
+      "id": "ffc84cfa74df",
+      "importance": "Medium",
+      "summary": "DUKES chapter 4: statistics on supply and demand for natural gas.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Digest of UK Energy Statistics",
+        "DUKES"
+      ],
+      "locations": []
+    },
+    "6da0243e6e43": {
+      "id": "6da0243e6e43",
+      "importance": "Medium",
+      "summary": "…Quarterly and annual prices of fuels purchased by manufacturing industry, in original units and p/kWh, split into consumption sizebands.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Prices",
+        "Quarterly"
+      ],
+      "locations": []
+    },
+    "3d54a46bcc50": {
+      "id": "3d54a46bcc50",
+      "importance": "Medium",
+      "summary": "Quarterly and annual prices of fuels purchased by power generators.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Prices",
+        "Quarterly"
+      ],
+      "locations": []
+    },
+    "81cefda4ffa9": {
+      "id": "81cefda4ffa9",
+      "importance": "Medium",
+      "summary": "Quarterly and annual price indices for industrial fuels, in real and current terms, including and excluding the Climate Change Levy (CCL).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Industrial",
+        "Quarterly",
+        "Climate Change Levy"
+      ],
+      "locations": []
+    },
+    "6651ab0603b7": {
+      "id": "6651ab0603b7",
+      "importance": "Medium",
+      "summary": "Quarterly and annual gas and electricity prices for the non-domestic sector, including and excluding the Climate Change Levy (CCL), split into consumption size bands.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Quarterly",
+        "Climate Change Levy"
+      ],
+      "locations": []
+    },
+    "684be81e20fb": {
+      "id": "684be81e20fb",
+      "importance": "Medium",
+      "summary": "Comparisons of road fuel prices against other EU countries, using data from the European Commission Oil Bulletin.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Comparisons",
+        "European Commission Oil Bulletin"
+      ],
+      "locations": []
+    },
+    "eaec8e752a5a": {
+      "id": "eaec8e752a5a",
+      "importance": "Medium",
+      "summary": "Special feature article from the September 2026 edition of Energy trends statistical publication.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Energy Trends",
+        "Competition",
+        "Special",
+        "Energy"
+      ],
+      "locations": []
+    },
+    "6cad092fcea6": {
+      "id": "6cad092fcea6",
+      "importance": "Medium",
+      "summary": "Background information and quality report for statistics relating to the Research and Development Tax Credits.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Background",
+        "Research and Development Tax Credits"
+      ],
+      "locations": []
+    },
+    "5b34567bf898": {
+      "id": "5b34567bf898",
+      "importance": "Medium",
+      "summary": "Quarterly and monthly consumer price indices of fuel components in current and real terms.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Domestic",
+        "Quarterly"
+      ],
+      "locations": []
+    },
+    "468ffd5f0bdc": {
+      "id": "468ffd5f0bdc",
+      "importance": "Medium",
+      "summary": "…Data on the UK's gas sector, including production, trade and demand.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Energy Trends",
+        "Data",
+        "UK's"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 46,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
