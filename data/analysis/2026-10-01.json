@@ -1,0 +1,783 @@
+{
+  "generated_at": "2026-10-01T14:55:29+00:00",
+  "date_label": "Thursday 01 October 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n41 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Housing supply",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Residential investment",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Build-to-rent",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Student housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 7,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Major",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Price Paid Data",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Download",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Economic Estimates",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Employment",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Digital Sector",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Official Statistics",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Development",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Office",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "National Statistics",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Annual Population Survey",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Help",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Labour’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Your First Home",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Grace Brown",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "c839b465d053": {
+      "id": "c839b465d053",
+      "importance": "Medium",
+      "summary": "Labour’s new Your First Home scheme may help some people become homeowners, but it fundamentally misunderstands the issue of housing affordability and risks making the problem worse, writes Grace Brown, Kerslake fellow a",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Help",
+        "Labour’s",
+        "Your First Home",
+        "Grace Brown"
+      ],
+      "locations": []
+    },
+    "5c725a090ba5": {
+      "id": "5c725a090ba5",
+      "importance": "Medium",
+      "summary": "Town halls in London are aiming to build 50,000 homes over the next decade, a survey has revealed",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "London",
+        "SAHP",
+        "Town"
+      ],
+      "locations": []
+    },
+    "8a34bfb958ee": {
+      "id": "8a34bfb958ee",
+      "importance": "Medium",
+      "summary": "Ensuring regional leaders play a greater role in housing delivery is a significant opportunity, say Selina White and Jonathan Cowie of Homes for the South West",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Regional development"
+      ],
+      "companies": [
+        "South West. Ensuring",
+        "Selina White and Jonathan Cowie",
+        "Homes",
+        "South West"
+      ],
+      "locations": []
+    },
+    "d4ec3f0f4be6": {
+      "id": "d4ec3f0f4be6",
+      "importance": "Medium",
+      "summary": "Along with setting in motion a document to guide development for a decade, the council’s cabinet will also be asked to sign off land agreements to enable work at Handforth Garden Village. The post Cheshire East triggers ",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Cheshire East",
+        "Along",
+        "Handforth Garden Village. The",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "0e924fa63657": {
+      "id": "0e924fa63657",
+      "importance": "Medium",
+      "summary": "A mix of houses and apartments is planned on 7.5 acres on the northern edge of the Salford town. The post Forshaw lodges plans for 154 affordable homes in Irlam appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Forshaw",
+        "Irlam",
+        "Salford",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "5fb3ada78b00": {
+      "id": "5fb3ada78b00",
+      "importance": "Medium",
+      "summary": "Everway Homes plans to deliver 2,000 houses by 2031. The post Salboy enters suburban BTR market appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Build-to-rent"
+      ],
+      "companies": [
+        "Salboy",
+        "Everway Homes",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "61c12ff0f664": {
+      "id": "61c12ff0f664",
+      "importance": "Medium",
+      "summary": "American actor Hopwood DePree lost his court battle with the council, where he argued that the local authority had acted illegally over refusing to sell him the historic property. The post Rochdale victorious in Hopwood ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rochdale",
+        "Hopwood Hall",
+        "American",
+        "Hopwood DePree"
+      ],
+      "locations": []
+    },
+    "fe3bbdeeba1b": {
+      "id": "fe3bbdeeba1b",
+      "importance": "Medium",
+      "summary": "Also approved: 21 Living's plan for a mini-Flatiron off Tiviot Dale. The post Stockport reluctantly approves Green Belt housing appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Stockport",
+        "Green Belt",
+        "Also",
+        "Living's"
+      ],
+      "locations": []
+    },
+    "29c89e51acdd": {
+      "id": "29c89e51acdd",
+      "importance": "Medium",
+      "summary": "Gateway 2 approval has now been given for all seven higher-risk buildings at the £530m redevelopment of the student campus, as the University of Manchester increases capacity to 3,300 bedspaces. The post Full BSR clearan",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Student housing"
+      ],
+      "companies": [
+        "Full BSR",
+        "Fallowfield PBSA. Gateway",
+        "University of Manchester",
+        "Fallowfield PBSA"
+      ],
+      "locations": []
+    },
+    "1882e2f1a510": {
+      "id": "1882e2f1a510",
+      "importance": "Medium",
+      "summary": "A project calling for the demolition of 44 bungalows, to be replaced by 77 affordable homes, has squeaked through at Cheshire East’s northern planning committee. The post Peaks & Plains secures Bollington consent appeare",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Peaks",
+        "Plains",
+        "Bollington",
+        "Cheshire East’s"
+      ],
+      "locations": []
+    },
+    "3e860470f86d": {
+      "id": "3e860470f86d",
+      "importance": "Medium",
+      "summary": "Nationwide reveals latest house price trends across the UK",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Nationwide"
+      ],
+      "locations": []
+    },
+    "03608bcc3d35": {
+      "id": "03608bcc3d35",
+      "importance": "Medium",
+      "summary": "Major estate agency franchise expands",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Well-known",
+        "Major"
+      ],
+      "locations": []
+    },
+    "206697b15463": {
+      "id": "206697b15463",
+      "importance": "Medium",
+      "summary": "Investor builds Foxtons stake to more than 7%",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Major",
+        "Foxtons. Investor",
+        "Foxtons"
+      ],
+      "locations": []
+    },
+    "2179594b722f": {
+      "id": "2179594b722f",
+      "importance": "Medium",
+      "summary": "Property sales lose momentum as transactions fall in August",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Fresh",
+        "Property"
+      ],
+      "locations": []
+    },
+    "1f120df5dd61": {
+      "id": "1f120df5dd61",
+      "importance": "Medium",
+      "summary": "Why getting property sales over the line is getting harder",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Getting"
+      ],
+      "locations": []
+    },
+    "3aa2256aed8e": {
+      "id": "3aa2256aed8e",
+      "importance": "Medium",
+      "summary": "Rental demand in the capital was 7% higher year-on-year in September",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "London",
+        "Rental"
+      ],
+      "locations": []
+    },
+    "2e8b646878b0": {
+      "id": "2e8b646878b0",
+      "importance": "Medium",
+      "summary": "SpareRoom turns attention from housing to ‘home’",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "SpareRoom"
+      ],
+      "locations": []
+    },
+    "b96b4fc358fb": {
+      "id": "b96b4fc358fb",
+      "importance": "Medium",
+      "summary": "The Red Book is international framework covering residential and commercial property, infrastructure, agriculture, businesses and other asset classes",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Fifty",
+        "RICS Red Book",
+        "The Red Book"
+      ],
+      "locations": []
+    },
+    "f6772abecf3e": {
+      "id": "f6772abecf3e",
+      "importance": "Medium",
+      "summary": "Land and Buildings Transaction Tax (LBTT) generated £758.9m in the 12 months to August 2026",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Property",
+        "Land and Buildings Transaction Tax",
+        "LBTT"
+      ],
+      "locations": []
+    },
+    "01ba5f0916d7": {
+      "id": "01ba5f0916d7",
+      "importance": "Medium",
+      "summary": "Savills has appointed a new director to lead its residential sales team in Guernsey. James Starkey most recently worked on prime London markets in Mayfair and Marylebone. He also has a stint leading the Richmond office f",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "High",
+        "London",
+        "Savills",
+        "Guernsey. James Starkey"
+      ],
+      "locations": []
+    },
+    "0491dd3fd7fa": {
+      "id": "0491dd3fd7fa",
+      "importance": "Medium",
+      "summary": "And most of those are resisted at a lower price",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Glut"
+      ],
+      "locations": []
+    },
+    "6e7c23d2d9e3": {
+      "id": "6e7c23d2d9e3",
+      "importance": "Medium",
+      "summary": "The analysis has been done by Scotland's largest estate agency",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Scotland's"
+      ],
+      "locations": []
+    },
+    "da7f08de3b9c": {
+      "id": "da7f08de3b9c",
+      "importance": "Medium",
+      "summary": "Data from the Home Builders Federation (HBF) shows the number of new homes receiving planning permission plummeted 21% in the last quarter. It says this provides “compelling evidence” to support Andy Burnham’s decision t",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Housing supply"
+      ],
+      "companies": [
+        "Plummeting",
+        "Burnham",
+        "Data",
+        "Home Builders Federation"
+      ],
+      "locations": []
+    },
+    "af9e571d5805": {
+      "id": "af9e571d5805",
+      "importance": "Medium",
+      "summary": "Prosecutors have been asked by police to consider manslaughter and other charges against companies and individuals over the Grenfell Tower fire. Police have given the Crown Prosecution Service (CPS) files of evidence rel",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rayner",
+        "Grenfell",
+        "Prosecutors",
+        "Grenfell Tower"
+      ],
+      "locations": []
+    },
+    "2d8538b0dfb2": {
+      "id": "2d8538b0dfb2",
+      "importance": "Medium",
+      "summary": "Industry leaders welcome plans for independent regulation, qualifications and licensing across the property sector.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property SigNATure",
+        "EAT-ing. Industry"
+      ],
+      "locations": []
+    },
+    "6a2026d173de": {
+      "id": "6a2026d173de",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - A landlord company director has had an £11,000 personal penalty for housing offences cancelled by the Upper Tribunal.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Tribunal",
+        "News",
+        "Helen Gregory",
+        "Upper Tribunal"
+      ],
+      "locations": []
+    },
+    "16394379c8dc": {
+      "id": "16394379c8dc",
+      "importance": "Medium",
+      "summary": "News - Maria White - New Scottish housing rules effective 6 October bring strict Awaab's Law timelines, shorter succession periods, and higher wrongful termination fines.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "New Scottish",
+        "What",
+        "Awaab's",
+        "News"
+      ],
+      "locations": []
+    },
+    "47a203e3df9b": {
+      "id": "47a203e3df9b",
+      "importance": "Medium",
+      "summary": "News - Tom Entwistle - In thirty years buy-to-let beat the S&P 500, returning 22 times its original investment. A Sunday Times article argues the payday is ending",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Buy-to-let",
+        "News",
+        "Tom Entwistle",
+        "Sunday Times"
+      ],
+      "locations": []
+    },
+    "7150643cfc07": {
+      "id": "7150643cfc07",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Landlords have been warned that getting the new Form 4A rent increase process wrong could invalidate or delay a proposed rent rise.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "Form",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "05bfcafd2328": {
+      "id": "05bfcafd2328",
+      "importance": "Medium",
+      "summary": "…HM Treasury's statistics are governed by the standards set out by the UK Statistics Authority in their Code of Practice for accredited official statistics.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "HM Treasury Statistics",
+        "Timetable",
+        "HM Treasury's",
+        "UK Statistics Authority"
+      ],
+      "locations": []
+    },
+    "d40ad89f7532": {
+      "id": "d40ad89f7532",
+      "importance": "Medium",
+      "summary": "A report of the final phase of Building Digital UK legacy voucher schemes.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Final",
+        "BDUK",
+        "Building Digital UK"
+      ],
+      "locations": []
+    },
+    "195fe1660fd6": {
+      "id": "195fe1660fd6",
+      "importance": "Medium",
+      "summary": "This document contains the latest gross domestic product (GDP) deflators. The GDP deflator can be viewed as a measure of general inflation in the domestic economy.",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "GDP September",
+        "Quarterly National Accounts",
+        "The GDP"
+      ],
+      "locations": []
+    },
+    "8ac9d5e81c77": {
+      "id": "8ac9d5e81c77",
+      "importance": "Medium",
+      "summary": "Download the Price Paid Data yearly file in text or CSV format and access our linked data.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Price Paid Data",
+        "Download"
+      ],
+      "locations": []
+    },
+    "4feac437c176": {
+      "id": "4feac437c176",
+      "importance": "Medium",
+      "summary": "Download the Price Paid Data single file in text or CSV format and access our linked data.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Price Paid Data",
+        "Download"
+      ],
+      "locations": []
+    },
+    "a498421e3fe0": {
+      "id": "a498421e3fe0",
+      "importance": "Medium",
+      "summary": "Official Statistics in Development estimating the number of filled jobs in the Digital Sector, derived from the Office for National Statistics (ONS) Annual Population Survey (APS). This includes both employed and self-em",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Economic Estimates",
+        "Employment",
+        "Digital Sector",
+        "Official Statistics"
+      ],
+      "locations": []
+    },
+    "3016d8739a77": {
+      "id": "3016d8739a77",
+      "importance": "Medium",
+      "summary": "Statistics on stop and search, arrests for notifiable offences. This release will also include statistics on detentions under Section 135 and Section 136 of the Mental Health Act previously included in the Other PACE pow",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Stop",
+        "Statistics",
+        "Section",
+        "Mental Health Act"
+      ],
+      "locations": []
+    },
+    "e12a26b7db42": {
+      "id": "e12a26b7db42",
+      "importance": "Medium",
+      "summary": "Includes statistics on premises licences, club premises certificates, personal licences, late-night refreshment and 24-hour alcohol licences.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Alcohol",
+        "England and Wales",
+        "Includes"
+      ],
+      "locations": []
+    },
+    "2a1e36f88967": {
+      "id": "2a1e36f88967",
+      "importance": "Medium",
+      "summary": "Monthly data and commentary on coverage, for England, achieved by the one-off MenB programme targeting young adults, which began in July 2026.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "MenB",
+        "Monthly"
+      ],
+      "locations": []
+    },
+    "4a550a37a704": {
+      "id": "4a550a37a704",
+      "importance": "Medium",
+      "summary": "Information on Ministry of Defence spending with industry and commerce.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Information",
+        "Ministry of Defence"
+      ],
+      "locations": []
+    },
+    "1c3cef0275ed": {
+      "id": "1c3cef0275ed",
+      "importance": "Medium",
+      "summary": "Quarterly results from The Financial Survey of Pension Schemes (FSPS) including membership, income and expenditure, assets and liabilities.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Funded",
+        "Quarterly",
+        "The Financial Survey of Pension",
+        "Schemes"
+      ],
+      "locations": []
+    },
+    "6e2a9feaeab3": {
+      "id": "6e2a9feaeab3",
+      "importance": "Medium",
+      "summary": "Official Statistics in Development estimating the number of filled jobs in the Digital Sector, derived from the Office for National Statistics (ONS) Annual Population Survey (APS). This includes both employed and self-em",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Economic Estimates",
+        "Employment",
+        "Digital Sector",
+        "Official Statistics"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 41,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}

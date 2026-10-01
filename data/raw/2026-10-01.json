@@ -1,0 +1,802 @@
+{
+  "collected_at": "2026-10-01T14:55:05+00:00",
+  "date_london": "2026-10-01",
+  "counts": {
+    "seen_in_feeds": 87,
+    "new": 41,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 7,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 7"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 12,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 12"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 7,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 7"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "The government’s rework of the Help to Buy will do more damage than good",
+      "url": "https://insidehousing.co.uk/home/the-governments-rework-of-the-help-to-buy-will-do-more-damage-than-good-98919",
+      "published": "2026-10-01T10:27:06+00:00",
+      "excerpt": "Labour’s new Your First Home scheme may help some people become homeowners, but it fundamentally misunderstands the issue of housing affordability and risks making the problem worse, writes Grace Brown, Kerslake fellow at the New Economics Foundation",
+      "entities": [
+        "Help",
+        "Labour’s",
+        "Your First Home",
+        "Grace Brown",
+        "Kerslake",
+        "New Economics Foundation"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:14+00:00",
+      "id": "c839b465d053"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "London councils target more than 50,000 homes in bids ahead of SAHP confirmation",
+      "url": "https://insidehousing.co.uk/home/london-councils-target-more-than-50000-homes-in-bids-ahead-of-sahp-confirmation-98914",
+      "published": "2026-10-01T09:52:58+00:00",
+      "excerpt": "Town halls in London are aiming to build 50,000 homes over the next decade, a survey has revealed",
+      "entities": [
+        "London",
+        "SAHP",
+        "Town"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:14+00:00",
+      "id": "5c725a090ba5"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "We are ready and determined to deliver devolution for the South West",
+      "url": "https://insidehousing.co.uk/home/we-are-ready-and-determined-to-deliver-devolution-for-the-south-west-98900",
+      "published": "2026-10-01T06:00:00+00:00",
+      "excerpt": "Ensuring regional leaders play a greater role in housing delivery is a significant opportunity, say Selina White and Jonathan Cowie of Homes for the South West",
+      "entities": [
+        "South West. Ensuring",
+        "Selina White and Jonathan Cowie",
+        "Homes",
+        "South West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:14+00:00",
+      "id": "8a34bfb958ee"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Cheshire East triggers local plan prep phase",
+      "url": "https://placenorthwest.co.uk/cheshire-east-triggers-local-plan-prep-phase",
+      "published": "2026-10-01T12:51:13+00:00",
+      "excerpt": "Along with setting in motion a document to guide development for a decade, the council’s cabinet will also be asked to sign off land agreements to enable work at Handforth Garden Village. The post Cheshire East triggers local plan prep phase appeared first on Place North West .",
+      "entities": [
+        "Cheshire East",
+        "Along",
+        "Handforth Garden Village. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:22+00:00",
+      "id": "d4ec3f0f4be6"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Forshaw lodges plans for 154 affordable homes in Irlam",
+      "url": "https://placenorthwest.co.uk/forshaw-lodges-plans-for-154-affordable-homes-in-irlam",
+      "published": "2026-10-01T10:55:20+00:00",
+      "excerpt": "A mix of houses and apartments is planned on 7.5 acres on the northern edge of the Salford town. The post Forshaw lodges plans for 154 affordable homes in Irlam appeared first on Place North West .",
+      "entities": [
+        "Forshaw",
+        "Irlam",
+        "Salford",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:22+00:00",
+      "id": "0e924fa63657"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Salboy enters suburban BTR market",
+      "url": "https://placenorthwest.co.uk/salboy-enters-suburban-btr-market",
+      "published": "2026-10-01T10:41:34+00:00",
+      "excerpt": "Everway Homes plans to deliver 2,000 houses by 2031. The post Salboy enters suburban BTR market appeared first on Place North West .",
+      "entities": [
+        "Salboy",
+        "Everway Homes",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:22+00:00",
+      "id": "5fb3ada78b00"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Rochdale victorious in Hopwood Hall dispute",
+      "url": "https://placenorthwest.co.uk/rochdale-victorious-in-hopwood-hall-dispute",
+      "published": "2026-10-01T09:55:07+00:00",
+      "excerpt": "American actor Hopwood DePree lost his court battle with the council, where he argued that the local authority had acted illegally over refusing to sell him the historic property. The post Rochdale victorious in Hopwood Hall dispute appeared first on Place North West .",
+      "entities": [
+        "Rochdale",
+        "Hopwood Hall",
+        "American",
+        "Hopwood DePree",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:22+00:00",
+      "id": "61c12ff0f664"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Stockport reluctantly approves Green Belt housing",
+      "url": "https://placenorthwest.co.uk/602594-2",
+      "published": "2026-10-01T09:21:59+00:00",
+      "excerpt": "Also approved: 21 Living's plan for a mini-Flatiron off Tiviot Dale. The post Stockport reluctantly approves Green Belt housing appeared first on Place North West .",
+      "entities": [
+        "Stockport",
+        "Green Belt",
+        "Also",
+        "Living's",
+        "Flatiron",
+        "Tiviot Dale. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:22+00:00",
+      "id": "fe3bbdeeba1b"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Full BSR clearance for Fallowfield PBSA",
+      "url": "https://placenorthwest.co.uk/full-bsr-clearance-for-fallowfield-pbsa",
+      "published": "2026-10-01T09:16:16+00:00",
+      "excerpt": "Gateway 2 approval has now been given for all seven higher-risk buildings at the £530m redevelopment of the student campus, as the University of Manchester increases capacity to 3,300 bedspaces. The post Full BSR clearance for Fallowfield PBSA appeared first on Place North West .",
+      "entities": [
+        "Full BSR",
+        "Fallowfield PBSA. Gateway",
+        "University of Manchester",
+        "Fallowfield PBSA",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:22+00:00",
+      "id": "29c89e51acdd"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Peaks & Plains secures Bollington consent",
+      "url": "https://placenorthwest.co.uk/peaks-plains-secures-bollington-consent",
+      "published": "2026-09-30T14:27:45+00:00",
+      "excerpt": "A project calling for the demolition of 44 bungalows, to be replaced by 77 affordable homes, has squeaked through at Cheshire East’s northern planning committee. The post Peaks & Plains secures Bollington consent appeared first on Place North West .",
+      "entities": [
+        "Peaks",
+        "Plains",
+        "Bollington",
+        "Cheshire East’s",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:22+00:00",
+      "id": "1882e2f1a510"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "UK house price growth halves as property market loses momentum",
+      "url": "https://propertyindustryeye.com/nationwide-reveals-latest-house-price-trends-across-the-uk",
+      "published": "2026-10-01T05:06:57+00:00",
+      "excerpt": "Nationwide reveals latest house price trends across the UK",
+      "entities": [
+        "Nationwide"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:23+00:00",
+      "id": "3e860470f86d"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Well-known estate agency franchise completes eighth acquisition in 18 months",
+      "url": "https://propertyindustryeye.com/well-known-estate-agency-franchise-completes-eighth-acquisition-in-18-months",
+      "published": "2026-10-01T03:10:15+00:00",
+      "excerpt": "Major estate agency franchise expands",
+      "entities": [
+        "Well-known",
+        "Major"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:23+00:00",
+      "id": "03608bcc3d35"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Major investor increases stake in Foxtons",
+      "url": "https://propertyindustryeye.com/major-investor-increases-stake-in-foxtons",
+      "published": "2026-10-01T02:50:41+00:00",
+      "excerpt": "Investor builds Foxtons stake to more than 7%",
+      "entities": [
+        "Major",
+        "Foxtons. Investor",
+        "Foxtons"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:23+00:00",
+      "id": "206697b15463"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Fresh figures reveal growing pressure on the housing market",
+      "url": "https://propertyindustryeye.com/fresh-figures-reveal-growing-pressure-on-the-housing-market",
+      "published": "2026-10-01T02:30:46+00:00",
+      "excerpt": "Property sales lose momentum as transactions fall in August",
+      "entities": [
+        "Fresh",
+        "Property"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:23+00:00",
+      "id": "2179594b722f"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "The property market’s biggest challenge: Getting sales to completion",
+      "url": "https://propertyindustryeye.com/the-property-markets-biggest-challenge-getting-sales-to-completion",
+      "published": "2026-10-01T02:10:52+00:00",
+      "excerpt": "Why getting property sales over the line is getting harder",
+      "entities": [
+        "Getting"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:23+00:00",
+      "id": "1f120df5dd61"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "London rental demand rebounds as supply falls 10%",
+      "url": "https://propertyindustryeye.com/london-rental-demand-rebounds-as-supply-falls-10",
+      "published": "2026-10-01T01:30:45+00:00",
+      "excerpt": "Rental demand in the capital was 7% higher year-on-year in September",
+      "entities": [
+        "London",
+        "Rental"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:23+00:00",
+      "id": "3aa2256aed8e"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "SpareRoom launches celebrity podcast exploring what ‘home’ really means",
+      "url": "https://propertyindustryeye.com/spareroom-launches-celebrity-podcast-exploring-what-home-really-means",
+      "published": "2026-10-01T00:50:15+00:00",
+      "excerpt": "SpareRoom turns attention from housing to ‘home’",
+      "entities": [
+        "SpareRoom"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:23+00:00",
+      "id": "2e8b646878b0"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Fifty not out: RICS Red Book celebrates half a century",
+      "url": "https://propertyindustryeye.com/fifty-not-out-rics-red-book-celebrates-half-a-century",
+      "published": "2026-10-01T00:44:14+00:00",
+      "excerpt": "The Red Book is international framework covering residential and commercial property, infrastructure, agriculture, businesses and other asset classes",
+      "entities": [
+        "Fifty",
+        "RICS Red Book",
+        "The Red Book"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:23+00:00",
+      "id": "b96b4fc358fb"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Property tax revenues hit new high as buyers face mounting costs",
+      "url": "https://propertyindustryeye.com/property-tax-revenues-hit-new-high-as-buyers-face-mounting-costs",
+      "published": "2026-09-30T23:50:58+00:00",
+      "excerpt": "Land and Buildings Transaction Tax (LBTT) generated £758.9m in the 12 months to August 2026",
+      "entities": [
+        "Property",
+        "Land and Buildings Transaction Tax",
+        "LBTT"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:23+00:00",
+      "id": "f6772abecf3e"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "High flying agent quits London for unusual director role",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/high-flying-agent-deserts-london-for-unusual-director-role",
+      "published": "2026-09-30T23:07:00+00:00",
+      "excerpt": "Savills has appointed a new director to lead its residential sales team in Guernsey. James Starkey most recently worked on prime London markets in Mayfair and Marylebone. He also has a stint leading the Richmond office for Chestertons. Before that he worked for Guernsey agents Swoffers and Cooper Brouard. Guernsey has two property markets. Local Market […]",
+      "entities": [
+        "High",
+        "London",
+        "Savills",
+        "Guernsey. James Starkey",
+        "Mayfair and Marylebone. He",
+        "Richmond",
+        "Chestertons. Before",
+        "Guernsey"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:23+00:00",
+      "id": "01ba5f0916d7"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Glut of homes re-listed after failing to sell",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/quarter-of-newly-listed-homes-have-been-on-the-market-before",
+      "published": "2026-09-30T23:06:00+00:00",
+      "excerpt": "And most of those are resisted at a lower price",
+      "entities": [
+        "Glut"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:23+00:00",
+      "id": "0491dd3fd7fa"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Property tax revenue hits another record",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/property-tax-revenue-hits-another-record",
+      "published": "2026-09-30T23:05:00+00:00",
+      "excerpt": "The analysis has been done by Scotland's largest estate agency",
+      "entities": [
+        "Property",
+        "Scotland's"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:23+00:00",
+      "id": "6e7c23d2d9e3"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Plummeting new homes figures shows need for Burnham plan – claim",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/plummeting-new-homes-figures-shows-need-for-burnham-plan-claim",
+      "published": "2026-09-30T23:04:00+00:00",
+      "excerpt": "Data from the Home Builders Federation (HBF) shows the number of new homes receiving planning permission plummeted 21% in the last quarter. It says this provides “compelling evidence” to support Andy Burnham’s decision to introduce a new equity loan scheme to support first-time buyers and boost housing supply. The HBF says just 45,315 new homes […]",
+      "entities": [
+        "Plummeting",
+        "Burnham",
+        "Data",
+        "Home Builders Federation",
+        "Andy Burnham’s",
+        "The HBF"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:23+00:00",
+      "id": "da7f08de3b9c"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Rayner speaks out about Grenfell police probe into housing ministry",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/rayner-speaks-out-about-grenfell-police-probe-into-housing-ministry",
+      "published": "2026-09-30T23:01:00+00:00",
+      "excerpt": "Prosecutors have been asked by police to consider manslaughter and other charges against companies and individuals over the Grenfell Tower fire. Police have given the Crown Prosecution Service (CPS) files of evidence relating to 20 companies and organisations and 54 individuals. The CPS has been asked to consider charges including corporate manslaughter, gross negligence manslaughter, […]",
+      "entities": [
+        "Rayner",
+        "Grenfell",
+        "Prosecutors",
+        "Grenfell Tower",
+        "Police",
+        "Crown Prosecution Service",
+        "The CPS"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:23+00:00",
+      "id": "af9e571d5805"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Property SigNATure: The proof of the pudding is in the EAT-ing",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/property-signature-the-proof-of-the-pudding-is-in-the-eat-ing",
+      "published": "2026-09-30T23:00:00+00:00",
+      "excerpt": "Industry leaders welcome plans for independent regulation, qualifications and licensing across the property sector.",
+      "entities": [
+        "Property SigNATure",
+        "EAT-ing. Industry"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:23+00:00",
+      "id": "2d8538b0dfb2"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Tribunal cancels £11K penalty against landlord director",
+      "url": "https://landlordzone.co.uk/news/tribunal-cancels-ps11k-penalty-against-landlord-director",
+      "published": "2026-10-01T14:06:38+00:00",
+      "excerpt": "News - Helen Gregory - A landlord company director has had an £11,000 personal penalty for housing offences cancelled by the Upper Tribunal.",
+      "entities": [
+        "Tribunal",
+        "News",
+        "Helen Gregory",
+        "Upper Tribunal"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:23+00:00",
+      "id": "6a2026d173de"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "New Scottish rental rules incoming: What landlords need to know about Awaab's law and wrongful termination fines",
+      "url": "https://landlordzone.co.uk/news/new-scottish-rental-rules-incoming-what-landlords-need-to-know-about-awaabs-law-and-wrongful-termination-fines",
+      "published": "2026-10-01T09:54:29+00:00",
+      "excerpt": "News - Maria White - New Scottish housing rules effective 6 October bring strict Awaab's Law timelines, shorter succession periods, and higher wrongful termination fines.",
+      "entities": [
+        "New Scottish",
+        "What",
+        "Awaab's",
+        "News",
+        "Maria White",
+        "Awaab's Law"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:23+00:00",
+      "id": "16394379c8dc"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Buy-to-let at 30, a dirty word, or a hedge against a debased currency?",
+      "url": "https://landlordzone.co.uk/news/buy-to-let-at-30-a-dirty-word-or-a-hedge-against-a-debased-currency",
+      "published": "2026-09-30T19:45:31+00:00",
+      "excerpt": "News - Tom Entwistle - In thirty years buy-to-let beat the S&P 500, returning 22 times its original investment. A Sunday Times article argues the payday is ending",
+      "entities": [
+        "Buy-to-let",
+        "News",
+        "Tom Entwistle",
+        "Sunday Times"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:23+00:00",
+      "id": "47a203e3df9b"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Landlords warned new Form 4A rules could catch them out",
+      "url": "https://landlordzone.co.uk/news/landlords-warned-new-form-4a-rules-could-catch-them-out",
+      "published": "2026-09-30T16:15:47+00:00",
+      "excerpt": "News - Helen Gregory - Landlords have been warned that getting the new Form 4A rent increase process wrong could invalidate or delay a proposed rent rise.",
+      "entities": [
+        "Landlords",
+        "Form",
+        "News",
+        "Helen Gregory"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-01T14:55:23+00:00",
+      "id": "7150643cfc07"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "HM Treasury Statistics: Timetable, standards and policies",
+      "url": "https://gov.uk/government/statistics/hm-treasury-statistics-timetable-standards-and-policies",
+      "published": "2026-10-01T13:29:48+00:00",
+      "excerpt": "…HM Treasury's statistics are governed by the standards set out by the UK Statistics Authority in their Code of Practice for accredited official statistics.…",
+      "entities": [
+        "HM Treasury Statistics",
+        "Timetable",
+        "HM Treasury's",
+        "UK Statistics Authority",
+        "Code of Practice"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-01T14:55:24+00:00",
+      "id": "05bfcafd2328"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Final evaluation of BDUK legacy vouchers schemes",
+      "url": "https://gov.uk/government/publications/final-evaluation-of-bduk-legacy-vouchers-schemes",
+      "published": "2026-10-01T10:02:56+00:00",
+      "excerpt": "A report of the final phase of Building Digital UK legacy voucher schemes.",
+      "entities": [
+        "Final",
+        "BDUK",
+        "Building Digital UK"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-01T14:55:24+00:00",
+      "id": "d40ad89f7532"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "GDP deflators at market prices, and money GDP September 2026 (Quarterly National Accounts)",
+      "url": "https://gov.uk/government/statistics/gdp-deflators-at-market-prices-and-money-gdp-september-2026-quarterly-national-accounts",
+      "published": "2026-10-01T09:29:35+00:00",
+      "excerpt": "This document contains the latest gross domestic product (GDP) deflators. The GDP deflator can be viewed as a measure of general inflation in the domestic economy.",
+      "entities": [
+        "GDP September",
+        "Quarterly National Accounts",
+        "The GDP"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-01T14:55:24+00:00",
+      "id": "195fe1660fd6"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Price Paid Data yearly file",
+      "url": "https://gov.uk/government/statistical-data-sets/price-paid-data-yearly-file",
+      "published": "2026-10-01T09:04:33+00:00",
+      "excerpt": "Download the Price Paid Data yearly file in text or CSV format and access our linked data.",
+      "entities": [
+        "Price Paid Data",
+        "Download"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-01T14:55:24+00:00",
+      "id": "8ac9d5e81c77"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Price Paid Data single file",
+      "url": "https://gov.uk/government/statistical-data-sets/price-paid-data-single-file",
+      "published": "2026-10-01T08:58:54+00:00",
+      "excerpt": "Download the Price Paid Data single file in text or CSV format and access our linked data.",
+      "entities": [
+        "Price Paid Data",
+        "Download"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-01T14:55:24+00:00",
+      "id": "4feac437c176"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Economic Estimates: Employment in the Digital Sector, January 2024 to December 2024",
+      "url": "https://gov.uk/government/statistics/economic-estimates-employment-in-the-digital-sector-january-2024-to-december-2024",
+      "published": "2026-10-01T08:30:11+00:00",
+      "excerpt": "Official Statistics in Development estimating the number of filled jobs in the Digital Sector, derived from the Office for National Statistics (ONS) Annual Population Survey (APS). This includes both employed and self-employ…",
+      "entities": [
+        "Economic Estimates",
+        "Employment",
+        "Digital Sector",
+        "Official Statistics",
+        "Development",
+        "Office",
+        "National Statistics",
+        "Annual Population Survey"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-01T14:55:24+00:00",
+      "id": "a498421e3fe0"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Stop and search, arrests, and mental health detentions, March 2026",
+      "url": "https://gov.uk/government/statistics/stop-and-search-arrests-and-mental-health-detentions-march-2026",
+      "published": "2026-10-01T08:30:10+00:00",
+      "excerpt": "Statistics on stop and search, arrests for notifiable offences. This release will also include statistics on detentions under Section 135 and Section 136 of the Mental Health Act previously included in the Other PACE powers …",
+      "entities": [
+        "Stop",
+        "Statistics",
+        "Section",
+        "Mental Health Act",
+        "Other PACE"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-01T14:55:24+00:00",
+      "id": "3016d8739a77"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Alcohol licensing, England and Wales, April 2025 to March 2026",
+      "url": "https://gov.uk/government/statistics/alcohol-licensing-england-and-wales-april-2025-to-march-2026",
+      "published": "2026-10-01T08:30:09+00:00",
+      "excerpt": "Includes statistics on premises licences, club premises certificates, personal licences, late-night refreshment and 24-hour alcohol licences.",
+      "entities": [
+        "Alcohol",
+        "England and Wales",
+        "Includes"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-01T14:55:24+00:00",
+      "id": "e12a26b7db42"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "MenB one-off vaccination programme (young adults, 2026): coverage reports",
+      "url": "https://gov.uk/government/publications/menb-one-off-vaccination-programme-young-adults-2026-coverage-reports",
+      "published": "2026-10-01T08:30:09+00:00",
+      "excerpt": "Monthly data and commentary on coverage, for England, achieved by the one-off MenB programme targeting young adults, which began in July 2026.",
+      "entities": [
+        "MenB",
+        "Monthly"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-01T14:55:24+00:00",
+      "id": "2a1e36f88967"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "MOD trade, industry and contracts: 2026",
+      "url": "https://gov.uk/government/statistics/mod-trade-industry-and-contracts-2026",
+      "published": "2026-10-01T08:30:09+00:00",
+      "excerpt": "Information on Ministry of Defence spending with industry and commerce.",
+      "entities": [
+        "Information",
+        "Ministry of Defence"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-01T14:55:24+00:00",
+      "id": "4a550a37a704"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Funded occupational pension schemes in the UK: October 2025 to March 2026",
+      "url": "https://gov.uk/government/statistics/funded-occupational-pension-schemes-in-the-uk-october-2025-to-march-2026",
+      "published": "2026-10-01T08:30:09+00:00",
+      "excerpt": "Quarterly results from The Financial Survey of Pension Schemes (FSPS) including membership, income and expenditure, assets and liabilities.",
+      "entities": [
+        "Funded",
+        "Quarterly",
+        "The Financial Survey of Pension",
+        "Schemes",
+        "FSPS"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-01T14:55:24+00:00",
+      "id": "1c3cef0275ed"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Economic Estimates: Employment in the Digital Sector, January 2025 to December 2025",
+      "url": "https://gov.uk/government/statistics/economic-estimates-employment-in-the-digital-sector-january-2025-to-december-2025",
+      "published": "2026-10-01T08:30:09+00:00",
+      "excerpt": "Official Statistics in Development estimating the number of filled jobs in the Digital Sector, derived from the Office for National Statistics (ONS) Annual Population Survey (APS). This includes both employed and self-employ…",
+      "entities": [
+        "Economic Estimates",
+        "Employment",
+        "Digital Sector",
+        "Official Statistics",
+        "Development",
+        "Office",
+        "National Statistics",
+        "Annual Population Survey"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-01T14:55:24+00:00",
+      "id": "6e2a9feaeab3"
+    }
+  ]
+}
