@@ -1,0 +1,845 @@
+{
+  "generated_at": "2026-10-02T14:17:54+00:00",
+  "date_label": "Friday 02 October 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n47 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 7,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Student housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Homes England",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Salford",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Greens",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Propertymark",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Letting",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Rightmove",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Student Sector Hopes That",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Bottom Is",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Sight. UK",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Accent",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Orbit",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Week",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Grenfell",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Labour Party",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Sign",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "e8f5d831ab70": {
+      "id": "e8f5d831ab70",
+      "importance": "Medium",
+      "summary": "UK student housing may face revaluation, but resilience hints at potential growth.",
+      "why_it_matters": "",
+      "themes": [
+        "Student housing"
+      ],
+      "companies": [
+        "Student Sector Hopes That",
+        "The Bottom Is",
+        "Sight. UK"
+      ],
+      "locations": []
+    },
+    "8608b1999650": {
+      "id": "8608b1999650",
+      "importance": "Medium",
+      "summary": "Accent named a former long-serving Orbit executive as its interim chief financial officer to replace the incumbent, who is set to join another large landlord",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Accent",
+        "Orbit"
+      ],
+      "locations": []
+    },
+    "38501de1f0e5": {
+      "id": "38501de1f0e5",
+      "importance": "Medium",
+      "summary": "The Week in Housing is our weekly newsletter, rounding up the most important headlines for housing professionals. Sign up below to get it direct to your inbox every Friday",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Week",
+        "Housing",
+        "Grenfell",
+        "Labour Party"
+      ],
+      "locations": []
+    },
+    "7f52249f9001": {
+      "id": "7f52249f9001",
+      "importance": "Medium",
+      "summary": "Under new reforms, Natural England will focus on planning proposals that present the greatest risks or opportunities for nature, allowing it to prioritise complex cases and engage earlier",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Natural England",
+        "Under"
+      ],
+      "locations": []
+    },
+    "37d30d0095b9": {
+      "id": "37d30d0095b9",
+      "importance": "Medium",
+      "summary": "The Local Government Association has announced the launch of the four-year £104m Brownfield Land Release Fund",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "First",
+        "Brownfield Land Release Fund",
+        "The Local Government Association"
+      ],
+      "locations": []
+    },
+    "cfeb204e2a7b": {
+      "id": "cfeb204e2a7b",
+      "importance": "Medium",
+      "summary": "A number of sector professionals have warned that the introduction of the Building Safety Levy will risk constraining development pipelines already facing “significant viability pressure”",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Building Safety Levy"
+      ],
+      "locations": []
+    },
+    "d5e4685cff67": {
+      "id": "d5e4685cff67",
+      "importance": "Medium",
+      "summary": "L&Q has called on the government to lift the shared ownership income cap from £90,000 to £120,000 for families with children in London as they are being locked out of all housing tenures",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "London"
+      ],
+      "locations": []
+    },
+    "d21435547ad0": {
+      "id": "d21435547ad0",
+      "importance": "Medium",
+      "summary": "Hackney Council postponed £281m of its capital spending, including £65m earmarked for housing after it had to replace a contractor that collapsed",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Hackney Council"
+      ],
+      "locations": []
+    },
+    "2cc3e30f0963": {
+      "id": "2cc3e30f0963",
+      "importance": "Medium",
+      "summary": "At the heart of the debate about the role of the national agency is a conversation about power, writes Richard Blakeway, former housing ombudsman",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Richard Blakeway",
+        "Homes England"
+      ],
+      "locations": []
+    },
+    "312ebded3913": {
+      "id": "312ebded3913",
+      "importance": "Medium",
+      "summary": "SettleParadigm spent £302m acquiring 3,454 homes from L&Q in January, according to its accounts",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Housing",
+        "SettleParadigm"
+      ],
+      "locations": []
+    },
+    "fb8136f68e48": {
+      "id": "fb8136f68e48",
+      "importance": "Medium",
+      "summary": "Lidl picks up Salford site pegged for affordable homes The post Lidl picks up Salford site pegged for affordable homes appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Lidl",
+        "Salford",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "8ffa2df85a85": {
+      "id": "8ffa2df85a85",
+      "importance": "Medium",
+      "summary": "Seeking to take advantage of recent pro-development changes in the NPPF, namely a default yes for residential developments close to train stations, the developer has submitted plans for 89 homes off Pear Tree Close. The ",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Wain Homes",
+        "Marple Bridge",
+        "Seeking",
+        "NPPF"
+      ],
+      "locations": []
+    },
+    "cd81d0b723e3": {
+      "id": "cd81d0b723e3",
+      "importance": "Medium",
+      "summary": "The joint venture between Homes England, Lloyds Banking Group, and Barratt Redrow has set its sights on 200 acres between Lancaster Canal and Back Lane, making the case for why it should be removed from the Green Belt. T",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders",
+        "Planning policy"
+      ],
+      "companies": [
+        "MADE",
+        "Carnforth. The",
+        "Homes England",
+        "Lloyds Banking Group"
+      ],
+      "locations": []
+    },
+    "52bdb809d84b": {
+      "id": "52bdb809d84b",
+      "importance": "Medium",
+      "summary": "The government’s housing agency, the National Housing Bank, and the combined authority have forged a deeper working relationship having signed a Place Delivery Agreement to speed up the construction of homes. The post Ho",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Regional development"
+      ],
+      "companies": [
+        "Homes England",
+        "Liverpool City Region",
+        "National Housing Bank",
+        "Place Delivery Agreement"
+      ],
+      "locations": []
+    },
+    "7a0adab9dbac": {
+      "id": "7a0adab9dbac",
+      "importance": "Medium",
+      "summary": "The Liverpool-based developer is expanding into the sector, working in joint venture partnership to deliver 182 homes across three schemes in Runcorn, Liverpool, and Salford. The post Legacie enters social housing market",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Legacie",
+        "The Liverpool-based",
+        "Runcorn",
+        "Liverpool"
+      ],
+      "locations": []
+    },
+    "19858cf033d2": {
+      "id": "19858cf033d2",
+      "importance": "Medium",
+      "summary": "Bury Council’s appointed contractor is now on site delivering remediation and site enabling works as the 7.4-acre brownfield site is lined up for town centre homes. The post Conlon gets cracking at Pyramid Park appeared ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Conlon",
+        "Pyramid Park. Bury Council’s",
+        "Pyramid Park",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "3c55173533d7": {
+      "id": "3c55173533d7",
+      "importance": "Medium",
+      "summary": "Located off Edward Avenue, the city council’s 63-home scheme would see 19 townhouses and 44 flats delivered across four blocks. The post Salford proposes homes opposite Buile Hill Park appeared first on Place North West ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Salford",
+        "Buile Hill Park. Located",
+        "Edward Avenue",
+        "Buile Hill Park"
+      ],
+      "locations": []
+    },
+    "ec4555ebd1ac": {
+      "id": "ec4555ebd1ac",
+      "importance": "Medium",
+      "summary": "Propertymark warns rent caps could backfire",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "EYE NEWSFLASH",
+        "Greens",
+        "Propertymark"
+      ],
+      "locations": []
+    },
+    "5d5db1e54c37": {
+      "id": "5d5db1e54c37",
+      "importance": "Medium",
+      "summary": "Council warns agents over compliance",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Letting",
+        "Renters’ Rights Act. Council"
+      ],
+      "locations": []
+    },
+    "a81a6cfc737d": {
+      "id": "a81a6cfc737d",
+      "importance": "Medium",
+      "summary": "A house is worth what a willing and able purchaser is prepared to pay",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Cock-up"
+      ],
+      "locations": []
+    },
+    "bcee6019e068": {
+      "id": "bcee6019e068",
+      "importance": "Medium",
+      "summary": "Buyers hold back as agents face a difficult end to the year",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Buyers"
+      ],
+      "locations": []
+    },
+    "7893b542559e": {
+      "id": "7893b542559e",
+      "importance": "Medium",
+      "summary": "National database could replace local schemes",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Propertymark",
+        "National"
+      ],
+      "locations": []
+    },
+    "6cffcec3b2c4": {
+      "id": "6cffcec3b2c4",
+      "importance": "Medium",
+      "summary": "House prices at their most affordable in a decade - but there is a catch",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "House"
+      ],
+      "locations": []
+    },
+    "528c19f3bb20": {
+      "id": "528c19f3bb20",
+      "importance": "Medium",
+      "summary": "New first-time buyer scheme could double choice of affordable new-build homes",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "57b86d45c62b": {
+      "id": "57b86d45c62b",
+      "importance": "Medium",
+      "summary": "Rents climb almost 5% as regional divide widens",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rents"
+      ],
+      "locations": []
+    },
+    "540a088cda5d": {
+      "id": "540a088cda5d",
+      "importance": "Medium",
+      "summary": "Rightmove share options",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rightmove’s",
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    "ea3ee55e56de": {
+      "id": "ea3ee55e56de",
+      "importance": "Medium",
+      "summary": "Letting agents and landlords face increased HMO licensing enforcement",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Letting"
+      ],
+      "locations": []
+    },
+    "2efb92630ac9": {
+      "id": "2efb92630ac9",
+      "importance": "Medium",
+      "summary": "WiEA unveils new theme, revamped format and early-bird ticket offer for its 2027 flagship event",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Bring",
+        "Women",
+        "Estate Agency",
+        "WiEA"
+      ],
+      "locations": []
+    },
+    "ae707e02ca1d": {
+      "id": "ae707e02ca1d",
+      "importance": "Medium",
+      "summary": "The rescued agency proactively approached a business advisory service",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Multi-branch"
+      ],
+      "locations": []
+    },
+    "f03c7c027f79": {
+      "id": "f03c7c027f79",
+      "importance": "Medium",
+      "summary": "The Bank of England next considers interest rates on November 5",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Interest",
+        "The Bank of England"
+      ],
+      "locations": []
+    },
+    "852a18e660e9": {
+      "id": "852a18e660e9",
+      "importance": "Medium",
+      "summary": "Selling is one thing - being ready to move is another...",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Christmas",
+        "Selling"
+      ],
+      "locations": []
+    },
+    "de636878fe42": {
+      "id": "de636878fe42",
+      "importance": "Medium",
+      "summary": "Buyer demand across London’s core prime property market cooled during the third quarter, falling -1.3% on a quarterly basis. However, a number of central London markets bucked the wider trend, with demand across the supe",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Buyer",
+        "London. Buyer",
+        "London’s",
+        "However"
+      ],
+      "locations": []
+    },
+    "41d9964cf493": {
+      "id": "41d9964cf493",
+      "importance": "Medium",
+      "summary": "Full details of the scheme will be made public at the Budget later this month",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rightmove",
+        "Burnham’s",
+        "Full",
+        "Budget"
+      ],
+      "locations": []
+    },
+    "40feafcffd16": {
+      "id": "40feafcffd16",
+      "importance": "Medium",
+      "summary": "This summer has hit construction costs",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "87e72b684e7b": {
+      "id": "87e72b684e7b",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Barnet Council has started targeting unlawful HMOs in a series of evening raids across the London borough.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Raids",
+        "News",
+        "Helen Gregory",
+        "Barnet Council"
+      ],
+      "locations": []
+    },
+    "0b643f9c1a41": {
+      "id": "0b643f9c1a41",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Green Party leader Zack Polanski has called for a three-year emergency brake on rents to end 'fear and uncertainty' in the PRS.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Greens",
+        "News",
+        "Helen Gregory",
+        "Green Party"
+      ],
+      "locations": []
+    },
+    "0fd13a4479d4": {
+      "id": "0fd13a4479d4",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - A letting agent has been fined £8,600 for issuing a six-month fixed-term tenancy agreement in breach of the Renters’ Rights Act.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Agent",
+        "News",
+        "Helen Gregory",
+        "Renters’ Rights Act"
+      ],
+      "locations": []
+    },
+    "5775522b0f52": {
+      "id": "5775522b0f52",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Landlords have been urged to check that a digital identity provider is specifically approved for Right to Rent.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "Right",
+        "Rent",
+        "News"
+      ],
+      "locations": []
+    },
+    "daddf58b7d8a": {
+      "id": "daddf58b7d8a",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Tenants facing eviction will have access to expanded free legal advice paid for by £16 million in new funding.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Tenants",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "4fcddbb7ea88": {
+      "id": "4fcddbb7ea88",
+      "importance": "Medium",
+      "summary": "Regulatory Policy Committee's opinion of the quality of the evidence and analysis in the options assessment from Department of Transport.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Highways",
+        "Financing",
+        "Bill. Regulatory Policy Committee's",
+        "Department of Transport"
+      ],
+      "locations": []
+    },
+    "db198faf3c9b": {
+      "id": "db198faf3c9b",
+      "importance": "Medium",
+      "summary": "Livestock numbers in the United Kingdom at June and December each year.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Livestock",
+        "United Kingdom. Livestock",
+        "United Kingdom",
+        "June and December"
+      ],
+      "locations": []
+    },
+    "e8f51d500f20": {
+      "id": "e8f51d500f20",
+      "importance": "Medium",
+      "summary": "Report of the independent Expert Academic Panel on Neurodiversity, led by Professor Amanda Kirby, containing recommendations on workplace inclusion.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Expert Academic Panel",
+        "Neurodiversity Final Report and Recommendations",
+        "Report",
+        "Neurodiversity"
+      ],
+      "locations": []
+    },
+    "af0afad3f92e": {
+      "id": "af0afad3f92e",
+      "importance": "Medium",
+      "summary": "An analysis of fresh beef cuts bought in the UK in 2024, to measure their macronutrient, mineral and vitamin content.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Nutrient"
+      ],
+      "locations": []
+    },
+    "d2913db8c7d2": {
+      "id": "d2913db8c7d2",
+      "importance": "Medium",
+      "summary": "Results from the Northern Ireland (NI) element of the UK Innovation Survey (UKIS) 2025, covering the three-year period from 2022 to 2024.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK Innovation Survey",
+        "Northern Ireland Results. Results",
+        "Northern Ireland",
+        "UKIS"
+      ],
+      "locations": []
+    },
+    "9dd42b73f6e6": {
+      "id": "9dd42b73f6e6",
+      "importance": "Medium",
+      "summary": "This project undertook experiments to determine rates of decay for intestinal enterococci at three freshwater locations.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Experimentally",
+        "English",
+        "EDGE"
+      ],
+      "locations": []
+    },
+    "011d4d3cf103": {
+      "id": "011d4d3cf103",
+      "importance": "Medium",
+      "summary": "Preliminary outbreak assessments, qualitative risk assessments and updated situation assessments for bluetongue virus in Europe.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Bluetongue",
+        "Europe. Preliminary",
+        "Europe"
+      ],
+      "locations": []
+    },
+    "76882480114b": {
+      "id": "76882480114b",
+      "importance": "Medium",
+      "summary": "Detailed information on a selection of the Planning Inspectorate's casework decisions over a 5 year rolling period.",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Planning Inspectorate Casework Database",
+        "Detailed",
+        "Planning Inspectorate's"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 47,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
