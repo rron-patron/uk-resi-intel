@@ -1,0 +1,734 @@
+{
+  "generated_at": "2026-10-05T16:35:28+00:00",
+  "date_label": "Monday 05 October 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n40 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 12,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Build-to-rent",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "More",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Landlord",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "England and Wales",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Rightmove",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Short-term",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Number",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Private",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Conservatives",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Section",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "CIL and Future Homes Standard",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Shadow",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Andrew Griffith",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Community Infrastructure Levy and Future Homes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Standard",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Liverpool",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Homes England",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "8eea47b6bda9": {
+      "id": "8eea47b6bda9",
+      "importance": "Medium",
+      "summary": "Shadow chancellor Andrew Griffith has confirmed plans to scrap Section 106 agreements, the Community Infrastructure Levy and Future Homes Standard",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Conservatives",
+        "Section",
+        "CIL and Future Homes Standard",
+        "Shadow"
+      ],
+      "locations": []
+    },
+    "900354ea88fd": {
+      "id": "900354ea88fd",
+      "importance": "Medium",
+      "summary": "Liverpool City Region has become the first authority to sign a new type of agreement with Homes England aimed at giving places more control over housing delivery",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Liverpool",
+        "Homes England",
+        "Liverpool City Region"
+      ],
+      "locations": []
+    },
+    "a9ce60181b54": {
+      "id": "a9ce60181b54",
+      "importance": "Medium",
+      "summary": "Stonewater has concluded the transfer of 1,700 homes from Mount Green, which merged with the large Leicester-based landlord in 2024",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Stonewater",
+        "Mount Green",
+        "Leicester-based"
+      ],
+      "locations": []
+    },
+    "ffbf2785b2b9": {
+      "id": "ffbf2785b2b9",
+      "importance": "Medium",
+      "summary": "Changeworks, an Edinburgh-based social enterprise, says the long-term solution is to reduce energy demand by making homes more energy efficient",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "More",
+        "Scottish",
+        "Changeworks",
+        "Edinburgh-based"
+      ],
+      "locations": []
+    },
+    "913457671788": {
+      "id": "913457671788",
+      "importance": "Medium",
+      "summary": "The English regulator is reviewing its economic regulation of the sector, and the consultation on its proposed new “risk-based” approach closed on 30 September. Grainne Cuffe sets out what sector bodies think of the plan",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "More",
+        "Sector",
+        "RSH’s",
+        "The English"
+      ],
+      "locations": []
+    },
+    "931e108a9527": {
+      "id": "931e108a9527",
+      "importance": "Medium",
+      "summary": "Wheatley Group’s operating surplus rose by £6.5m to £167.9m after accounting for new grant income and other non-cash items",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Wheatley’s",
+        "Wheatley Group’s"
+      ],
+      "locations": []
+    },
+    "a0604aea9fe6": {
+      "id": "a0604aea9fe6",
+      "importance": "Medium",
+      "summary": "Tameside Council’s executive cabinet has signed off publication of the draft Homes, Spaces, Places document, opening up the public consultation phase. The post Tameside pushes local plan forward appeared first on Place N",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Tameside",
+        "Tameside Council’s",
+        "Homes",
+        "Spaces"
+      ],
+      "locations": []
+    },
+    "66a126147101": {
+      "id": "66a126147101",
+      "importance": "Medium",
+      "summary": "True North Partnerships, CERT Property, and L&G Affordable Homes have submitted plans for 192 discounted canal-side properties to Tameside Council. The post Droylsden Marina resi progresses appeared first on Place North ",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Droylsden Marina",
+        "True North Partnerships",
+        "CERT Property",
+        "L&G Affordable Homes"
+      ],
+      "locations": []
+    },
+    "222312e03538": {
+      "id": "222312e03538",
+      "importance": "Medium",
+      "summary": "Rather than languish in purgatory over whether or not the transformation of the existing 15 council system into a four unitary authority one will go forward, the Reform-led county council has opted to issue a protective ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Lancashire County",
+        "Rather",
+        "Reform-led",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "7d8c97a39bf5": {
+      "id": "7d8c97a39bf5",
+      "importance": "Medium",
+      "summary": "Wirral Council has appointed the engineering firm to craft a new vision for the public spaces within the town centre as part of a £11m regeneration programme. The post Buro Happold to lead Liscard public realm redesign a",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Regional development"
+      ],
+      "companies": [
+        "Buro Happold",
+        "Liscard",
+        "Wirral Council",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "3f4e698d96c0": {
+      "id": "3f4e698d96c0",
+      "importance": "Medium",
+      "summary": "A tower on Whitworth Street West featuring 364 apartments is progressing towards a start on site with the investor close to finalising a deal to finance the development as part of its £1bn multi-family fund, following a ",
+      "why_it_matters": "",
+      "themes": [
+        "Build-to-rent",
+        "Residential investment",
+        "Regional development"
+      ],
+      "companies": [
+        "Glenbrook’s",
+        "Manchester BTR",
+        "Whitworth Street West",
+        "Greater Manchester Combined Authority"
+      ],
+      "locations": []
+    },
+    "4e85c07cdd0c": {
+      "id": "4e85c07cdd0c",
+      "importance": "Medium",
+      "summary": "Guildcrest Estates acquires Frederick & Co Property Services",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate",
+        "Guildcrest Estates",
+        "Frederick",
+        "Co Property Services"
+      ],
+      "locations": []
+    },
+    "a58f53c83a59": {
+      "id": "a58f53c83a59",
+      "importance": "Medium",
+      "summary": "New estate agency launches says it caters for properties that ‘don’t fit neatly into the traditional property box’",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "7f7d0debd97a": {
+      "id": "7f7d0debd97a",
+      "importance": "Medium",
+      "summary": "Badenoch signals inheritance tax shake-up as she condemns ‘double taxation’",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Homeowners",
+        "Badenoch"
+      ],
+      "locations": []
+    },
+    "af54952bcf39": {
+      "id": "af54952bcf39",
+      "importance": "Medium",
+      "summary": "House prices to plunge by £100,000? Cleverly makes bold claim",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "London",
+        "Cleverly’s",
+        "House",
+        "Cleverly"
+      ],
+      "locations": []
+    },
+    "ccef4fb66b43": {
+      "id": "ccef4fb66b43",
+      "importance": "Medium",
+      "summary": "Landlords face a £327m annual bill under the government's new property registration scheme",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Landlords"
+      ],
+      "locations": []
+    },
+    "6b925d9497bc": {
+      "id": "6b925d9497bc",
+      "importance": "Medium",
+      "summary": "The company's former UK chief executive departed in April last year",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Jobs"
+      ],
+      "locations": []
+    },
+    "ed9bf47c2dc9": {
+      "id": "ed9bf47c2dc9",
+      "importance": "Medium",
+      "summary": "Rightmove-backed property industry podcast features estate and letting agency leaders from across the UK",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rightmove",
+        "Rightmove-backed"
+      ],
+      "locations": []
+    },
+    "48d25458c0eb": {
+      "id": "48d25458c0eb",
+      "importance": "Medium",
+      "summary": "David Reuben has left the UK for Monaco",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Billionaire",
+        "David Reuben",
+        "Monaco"
+      ],
+      "locations": []
+    },
+    "b44d575e6f4f": {
+      "id": "b44d575e6f4f",
+      "importance": "Medium",
+      "summary": "Councillors refuse landlord's application to renew HMO licence",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlord",
+        "Councillors"
+      ],
+      "locations": []
+    },
+    "70500daa5140": {
+      "id": "70500daa5140",
+      "importance": "Medium",
+      "summary": "Knight Frank's latest figures show prices rose 0.3% in the three months to September",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Prime London",
+        "Knight Frank's"
+      ],
+      "locations": []
+    },
+    "ea1ff820883c": {
+      "id": "ea1ff820883c",
+      "importance": "Medium",
+      "summary": "A new boutique agency claims it's based around something rivals usually ignore",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "844ba5501199": {
+      "id": "844ba5501199",
+      "importance": "Medium",
+      "summary": "He's been at Lomond since late 2025",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Lomond",
+        "He's"
+      ],
+      "locations": []
+    },
+    "41eabd97b5a5": {
+      "id": "41eabd97b5a5",
+      "importance": "Medium",
+      "summary": "The acquisition includes a rental portfolio too",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Agency"
+      ],
+      "locations": []
+    },
+    "a9cd66a58e9c": {
+      "id": "a9cd66a58e9c",
+      "importance": "Medium",
+      "summary": "There's a new episode every weekday throughout October and November",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rightmove",
+        "There's",
+        "October and November"
+      ],
+      "locations": []
+    },
+    "84322a1270bb": {
+      "id": "84322a1270bb",
+      "importance": "Medium",
+      "summary": "Knight Frank has looked at its data and whole-market performance",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "More",
+        "London",
+        "Knight Frank"
+      ],
+      "locations": []
+    },
+    "3e8c78d10bbd": {
+      "id": "3e8c78d10bbd",
+      "importance": "Medium",
+      "summary": "The Conservatives say new build house prices would fall by up to £50,000 if they win the next general election. They promise to scrap a series of Net Zero and unpopular regulations which they describe as “burdensome red ",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Tories",
+        "The Conservatives",
+        "They",
+        "Net Zero"
+      ],
+      "locations": []
+    },
+    "2bba8afa3e92": {
+      "id": "2bba8afa3e92",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - The average number of investment properties owned by landlords in England and Wales has increased to 18 – a 50% increase from this time last year.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Average",
+        "News",
+        "Helen Gregory",
+        "England and Wales"
+      ],
+      "locations": []
+    },
+    "db0d9d575e26": {
+      "id": "db0d9d575e26",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - A landlord and his company have been told to pay £246,000 for serious fire safety failures at two residential properties in Lancashire.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Landlord",
+        "News",
+        "Helen Gregory",
+        "Lancashire"
+      ],
+      "locations": []
+    },
+    "a36db94771da": {
+      "id": "a36db94771da",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - The NRLA has slammed the upcoming private rented sector database as a “costly mess” which will only provide an extremely limited service.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlord",
+        "News",
+        "Helen Gregory",
+        "The NRLA"
+      ],
+      "locations": []
+    },
+    "57d6993e1cd0": {
+      "id": "57d6993e1cd0",
+      "importance": "Medium",
+      "summary": "This report presents the findings of a comprehensive evaluation of how the Trade Remedies Authority (TRA) conducts investigations and engages with participants.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Evaluation of TRA Investigation Process",
+        "Trade Remedies Authority"
+      ],
+      "locations": []
+    },
+    "17ba925994a5": {
+      "id": "17ba925994a5",
+      "importance": "Medium",
+      "summary": "This release details movements in the international reserves of gold and assets held by the UK government.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "4f6394df668e": {
+      "id": "4f6394df668e",
+      "importance": "Medium",
+      "summary": "Number of guest nights, nights, and stays for short-term lets offered via online collaborative economy platforms from July 2023 to December 2025.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Short-term",
+        "Number"
+      ],
+      "locations": []
+    },
+    "606195e9b3cc": {
+      "id": "606195e9b3cc",
+      "importance": "Medium",
+      "summary": "Use our calculator to explore the average cost of buying a home in your neighbourhood relative to local average earnings",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "2d9e555f83ea": {
+      "id": "2d9e555f83ea",
+      "importance": "Medium",
+      "summary": "Starts and completions of new build dwellings in the UK, on a quarterly and annual basis, time series data.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Indicators",
+        "Starts"
+      ],
+      "locations": []
+    },
+    "d04dbed0d233": {
+      "id": "d04dbed0d233",
+      "importance": "Medium",
+      "summary": "Number of guest nights, nights, and stays for short-term lets offered via online collaborative economy platforms from July 2024 to June 2025.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Short-term",
+        "Number"
+      ],
+      "locations": []
+    },
+    "433423424fd0": {
+      "id": "433423424fd0",
+      "importance": "Medium",
+      "summary": "Overview of our plans for the statistical development of rental prices statistics, including a timeline for development.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Private",
+        "Overview"
+      ],
+      "locations": []
+    },
+    "4291d96a1b54": {
+      "id": "4291d96a1b54",
+      "importance": "Medium",
+      "summary": "Energy efficiency, carbon dioxide emissions and central heating main fuel type for new and existing homes by property type, tenure, and property age.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Energy",
+        "England and Wales"
+      ],
+      "locations": []
+    },
+    "d610e5bca60f": {
+      "id": "d610e5bca60f",
+      "importance": "Medium",
+      "summary": "A summary of private rented sector statistics from across the UK to assess their comparability and limitations, and improve statistical coherence.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Private"
+      ],
+      "locations": []
+    },
+    "c0d5d3942568": {
+      "id": "c0d5d3942568",
+      "importance": "Medium",
+      "summary": "Ratios of house prices to annual disposable household incomes, for countries of the UK, English regions, and local authorities in England and Wales.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Housing Purchase Affordability",
+        "Ratios",
+        "English",
+        "England and Wales"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 40,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
