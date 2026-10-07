@@ -1,0 +1,756 @@
+{
+  "generated_at": "2026-10-07T14:53:42+00:00",
+  "date_label": "Wednesday 07 October 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n40 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Later living",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 7,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Sir Michael Lyons",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Property Traitors",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Brookfield Teams Up With",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Developer For UK Affordable Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Push. Brookfield",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Sigma Capital",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "English Cities Fund. Sir",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Michael Lyons",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "English Cities Fund",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Thirteen",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Teesside-based",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Homes England and L&G",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Northampton",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The English Cities Fund",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "West Northamptonshire Council",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Torus",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "ec4531ef9b17": {
+      "id": "ec4531ef9b17",
+      "importance": "Medium",
+      "summary": "Brookfield bought a for-profit provider and is partnering with Sigma Capital to manage affordable UK homes.",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Brookfield Teams Up With",
+        "Developer For UK Affordable Housing",
+        "Push. Brookfield",
+        "Sigma Capital"
+      ],
+      "locations": []
+    },
+    "a0b424795de0": {
+      "id": "a0b424795de0",
+      "importance": "Medium",
+      "summary": "Sir Michael Lyons is retiring as the chair of regeneration specialists the English Cities Fund",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Sir Michael Lyons",
+        "English Cities Fund. Sir",
+        "Michael Lyons",
+        "English Cities Fund"
+      ],
+      "locations": []
+    },
+    "52f1ce51d26f": {
+      "id": "52f1ce51d26f",
+      "importance": "Medium",
+      "summary": "Teesside-based landlord Thirteen delivered a record number of homes in 2025-26, according to its accounts for the year, while its turnover hit £234.9m",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Thirteen",
+        "Teesside-based"
+      ],
+      "locations": []
+    },
+    "93e40a970ec8": {
+      "id": "93e40a970ec8",
+      "importance": "Medium",
+      "summary": "The English Cities Fund public-private partnership has submitted plans to West Northamptonshire Council for a major town-centre regeneration scheme",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Homes England and L&G",
+        "Northampton",
+        "The English Cities Fund",
+        "West Northamptonshire Council"
+      ],
+      "locations": []
+    },
+    "cceab2978e77": {
+      "id": "cceab2978e77",
+      "importance": "Medium",
+      "summary": "Torus is aiming to build more than 9,500 homes over the next nine years, including shared ownership, despite acknowledging that demand for this product “continues to be challenging”",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Torus"
+      ],
+      "locations": []
+    },
+    "e70c2453147b": {
+      "id": "e70c2453147b",
+      "importance": "Medium",
+      "summary": "Planning policy must not prioritise family housing over actual local need, writes Alice Moore, associate director at consultancy Boyer",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Have",
+        "Planning",
+        "Alice Moore",
+        "Boyer"
+      ],
+      "locations": []
+    },
+    "2dc27ed19783": {
+      "id": "2dc27ed19783",
+      "importance": "Medium",
+      "summary": "A year after Salford City Council launched its independent design review forum, members and users have spoken to Place North West about the initiative, one of few of its kind in the North, and whether it is achieving wha",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "IN FOCUS",
+        "How Salford",
+        "Salford City Council",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "553de97bf219": {
+      "id": "553de97bf219",
+      "importance": "Medium",
+      "summary": "Construction has started this week on a 152-strong development in Penrhyn Bay in North Wales, while a 15-acre Carrington site is being readied for 139 residences. The post Anwyl triggers work on 300 homes appeared first ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Anwyl",
+        "Construction",
+        "Penrhyn Bay",
+        "North Wales"
+      ],
+      "locations": []
+    },
+    "eb0dd5e0c357": {
+      "id": "eb0dd5e0c357",
+      "importance": "Medium",
+      "summary": "Fifty flats for over-55s have been created within a five-storey scheme on the site of the Manchester suburb’s former swimming pool. The post Caddick completes £14m Chorlton later living appeared first on Place North West",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Later living"
+      ],
+      "companies": [
+        "Caddick",
+        "Chorlton",
+        "Fifty",
+        "Manchester"
+      ],
+      "locations": []
+    },
+    "2272a4d8ee7d": {
+      "id": "2272a4d8ee7d",
+      "importance": "Medium",
+      "summary": "Paul Walker is set to take on the lead council officer role for the local authority as it continues its push to find a permanent replacement for Rob Polkinghorne, who left in May. The post Cheshire East to appoint interi",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Cheshire East",
+        "Paul Walker",
+        "Rob Polkinghorne",
+        "May. The"
+      ],
+      "locations": []
+    },
+    "e1df165df796": {
+      "id": "e1df165df796",
+      "importance": "Medium",
+      "summary": "At the second time of asking, Wain Homes secured the go-ahead for 240 homes on the edge of Ellesmere Port. Also approved: 86 homes south of Kelsall. The post Double developer delight at CWAC committee appeared first on P",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Double",
+        "CWAC",
+        "Wain Homes",
+        "Ellesmere Port. Also"
+      ],
+      "locations": []
+    },
+    "eaaed9e3748d": {
+      "id": "eaaed9e3748d",
+      "importance": "Medium",
+      "summary": "The chair of ECF, the joint venture partnership between Homes England’s National Housing Bank, Legal & General, and Muse, is stepping down at the end of January after 25 years of leading regeneration projects across the ",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Sir Michael Lyons",
+        "Homes England’s National Housing",
+        "Bank",
+        "Legal"
+      ],
+      "locations": []
+    },
+    "92a02172882e": {
+      "id": "92a02172882e",
+      "importance": "Medium",
+      "summary": "Having invested £1.5m in the conversion and extension of the Pumphouse building, the owner of Liverpool’s Titanic Hotel has named the incoming pizzeria 1848, in honour of the year the dock opened. The post Harcourt heads",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Harcourt",
+        "Stanley Dock",
+        "Having",
+        "Pumphouse"
+      ],
+      "locations": []
+    },
+    "fa2c1d3d8a80": {
+      "id": "fa2c1d3d8a80",
+      "importance": "Medium",
+      "summary": "AI handles calls, WhatsApp and enquiries",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "EYE NEWS UPDATE",
+        "TPFG",
+        "WhatsApp"
+      ],
+      "locations": []
+    },
+    "d884b24bfda7": {
+      "id": "d884b24bfda7",
+      "importance": "Medium",
+      "summary": "Did the housing market regain any momentum in September?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "House"
+      ],
+      "locations": []
+    },
+    "0a66d153124f": {
+      "id": "0a66d153124f",
+      "importance": "Medium",
+      "summary": "New AI-powered live chat service for agency websites",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "New AI-powered"
+      ],
+      "locations": []
+    },
+    "8697dbe0c075": {
+      "id": "8697dbe0c075",
+      "importance": "Medium",
+      "summary": "Housebuilder pushes for stamp duty cuts as it claims reforms could deliver major Treasury boost",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders",
+        "Residential investment"
+      ],
+      "companies": [
+        "Chancellor",
+        "Housebuilder",
+        "Treasury"
+      ],
+      "locations": []
+    },
+    "67743f873e96": {
+      "id": "67743f873e96",
+      "importance": "Medium",
+      "summary": "Paws for thought as agents navigate renting with pets",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Paws"
+      ],
+      "locations": []
+    },
+    "a0a4f3a6531c": {
+      "id": "a0a4f3a6531c",
+      "importance": "Medium",
+      "summary": "Estate agent says inheritance boom could bring new investors into buy-to-let",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlord",
+        "Estate"
+      ],
+      "locations": []
+    },
+    "3f534bfd84af": {
+      "id": "3f534bfd84af",
+      "importance": "Medium",
+      "summary": "The prime minister needs to reach out to the widest electorate constituency",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Andy Burnham",
+        "Less",
+        "Britain",
+        "Schmaltz-Fest’. The"
+      ],
+      "locations": []
+    },
+    "3aa272a76409": {
+      "id": "3aa272a76409",
+      "importance": "Medium",
+      "summary": "London leads the Property Traitors",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property Traitors",
+        "Zoopla",
+        "Britain’s",
+        "London"
+      ],
+      "locations": []
+    },
+    "6d48767731de": {
+      "id": "6d48767731de",
+      "importance": "Medium",
+      "summary": "Tenant demand rises as more than three in 10 rental homes secure tenants",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tenant"
+      ],
+      "locations": []
+    },
+    "70e85ee16fda": {
+      "id": "70e85ee16fda",
+      "importance": "Medium",
+      "summary": "The data has been analysed by Brickflow",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Brickflow"
+      ],
+      "locations": []
+    },
+    "6ff5546ad393": {
+      "id": "6ff5546ad393",
+      "importance": "Medium",
+      "summary": "Are you a Faithful? Or...",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Welcome",
+        "Property Traitors",
+        "Faithful"
+      ],
+      "locations": []
+    },
+    "b956e6cff669": {
+      "id": "b956e6cff669",
+      "importance": "Medium",
+      "summary": "He joined in 2001",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "b11da73932c2": {
+      "id": "b11da73932c2",
+      "importance": "Medium",
+      "summary": "Six of 20 regional meetings have been held so far",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents"
+      ],
+      "locations": []
+    },
+    "44ea9d7c143e": {
+      "id": "44ea9d7c143e",
+      "importance": "Medium",
+      "summary": "Mortgage problems lie behind many transaction fall-throughs",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Buyers",
+        "Mortgage"
+      ],
+      "locations": []
+    },
+    "aa44f74af0e3": {
+      "id": "aa44f74af0e3",
+      "importance": "Medium",
+      "summary": "RICS is working with the Chartered Institution of Water and Environmental Management",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "RICS",
+        "Chartered Institution of Water and Environmental",
+        "Management"
+      ],
+      "locations": []
+    },
+    "a2814722d14d": {
+      "id": "a2814722d14d",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Greater Manchester has launched the Better Renting programme in a bid to improve landlord compliance.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Greater Manchester",
+        "News",
+        "Helen Gregory",
+        "Better Renting"
+      ],
+      "locations": []
+    },
+    "84ee324874bb": {
+      "id": "84ee324874bb",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - The average UK room rent has hit a new high of £769 per month as year-on-year rental supply fell -4.7%.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Room",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "34ae15af761f": {
+      "id": "34ae15af761f",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Concerns have been raised about which software products are currently ready for landlords to use.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "News",
+        "Helen Gregory",
+        "Concerns"
+      ],
+      "locations": []
+    },
+    "5aedfaee60fb": {
+      "id": "5aedfaee60fb",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Shadow Housing Secretary Katie Lam has reportedly backed scrapping the Renters’ Rights Act.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Renters' Rights Act",
+        "Tory",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "2299d7f0d799": {
+      "id": "2299d7f0d799",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Liverpool councillors are set to bring in new planning controls across the city to manage the growth of HMOs.",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Liverpool",
+        "Article",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "8ba8880fa41c": {
+      "id": "8ba8880fa41c",
+      "importance": "Medium",
+      "summary": "This release contains all indicators which fall under Theme F (Resilience) of the Environmental Indicator Framework.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Environmental Indicator Framework Theme",
+        "Resilience",
+        "Theme",
+        "Environmental Indicator Framework"
+      ],
+      "locations": []
+    },
+    "1025c846d89e": {
+      "id": "1025c846d89e",
+      "importance": "Medium",
+      "summary": "Statistics and analysis on the construction sector for September 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Building",
+        "Statistics"
+      ],
+      "locations": []
+    },
+    "55afcc229920": {
+      "id": "55afcc229920",
+      "importance": "Medium",
+      "summary": "Tables showing confirmed toxigenic C. diphtheriae cases among asylum seekers in England between 2022 and 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Diphtheria",
+        "Tables"
+      ],
+      "locations": []
+    },
+    "068b1d0ceaf2": {
+      "id": "068b1d0ceaf2",
+      "importance": "Medium",
+      "summary": "Gram-negative, MRSA and MSSA bacteraemia by organisation and location of onset, and C. difficile infections by organisation and prior trust exposure.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Gram-negative",
+        "MRSA and MSSA"
+      ],
+      "locations": []
+    },
+    "9e8624e39979": {
+      "id": "9e8624e39979",
+      "importance": "Medium",
+      "summary": "Results of the NCSP audits, which form part of its quality assurance framework.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "National Chlamydia Screening Programme",
+        "NCSP",
+        "Results"
+      ],
+      "locations": []
+    },
+    "86c77ef8f6d0": {
+      "id": "86c77ef8f6d0",
+      "importance": "Medium",
+      "summary": "This is an Official Statistics in Development release.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landings Enriched Approach",
+        "Positional FISHeries",
+        "LEAPFISH",
+        "Official Statistics"
+      ],
+      "locations": []
+    },
+    "99ea93376a43": {
+      "id": "99ea93376a43",
+      "importance": "Medium",
+      "summary": "This ad hoc analysis examines the impact of the adjusted Triple Lock.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "State Pension",
+        "Triple Lock"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 40,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
