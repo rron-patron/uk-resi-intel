@@ -1,0 +1,860 @@
+{
+  "generated_at": "2026-10-08T15:03:17+00:00",
+  "date_label": "Thursday 08 October 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}\n\n50 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 8,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 7,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Statistics",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Agents",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Tory",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Kemi Badenoch",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "More",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Reports",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "City Hall",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Pennycook",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "NPPF",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Matthew Pennycook",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "England’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Significant",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "London SAHP",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Social and Affordable Homes Programme",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "2d81f502dbf3": {
+      "id": "2d81f502dbf3",
+      "importance": "Medium",
+      "summary": "City Hall has approved 10,000 homes that were rejected by councils, through the London mayor’s call-in process",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "City Hall",
+        "London"
+      ],
+      "locations": []
+    },
+    "754f1aa670d5": {
+      "id": "754f1aa670d5",
+      "importance": "Medium",
+      "summary": "Matthew Pennycook has highlighted two key reforms to national planning policy that are aimed at increasing housing supply, in a letter to England’s planning chief",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Housing supply"
+      ],
+      "companies": [
+        "Pennycook",
+        "NPPF",
+        "Matthew Pennycook",
+        "England’s"
+      ],
+      "locations": []
+    },
+    "d38c2bd32d48": {
+      "id": "d38c2bd32d48",
+      "importance": "Medium",
+      "summary": "A significant number of London landlords have only been granted 40% of what they bid for from the capital’s pot of the Social and Affordable Homes Programme, Inside Housing understands",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Significant",
+        "London SAHP",
+        "London",
+        "Social and Affordable Homes Programme"
+      ],
+      "locations": []
+    },
+    "be10c3a3e1d8": {
+      "id": "be10c3a3e1d8",
+      "importance": "Medium",
+      "summary": "A multimillion-pound settlement over a tower block refurbishment deal has helped boost Together Housing Group’s turnover by more than £60m",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Yorkshire",
+        "Together Housing Group’s"
+      ],
+      "locations": []
+    },
+    "903d062408e8": {
+      "id": "903d062408e8",
+      "importance": "Medium",
+      "summary": "Inside Housing’s new analysis ranks Ipswich Borough Council as the 11th biggest council house builder. Council leader Neil MacDonald explains how they did it",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Why Ipswich",
+        "Inside Housing’s",
+        "Ipswich Borough Council",
+        "Neil MacDonald"
+      ],
+      "locations": []
+    },
+    "aa33279f098f": {
+      "id": "aa33279f098f",
+      "importance": "Medium",
+      "summary": "River Properties is seeking outline permission from Fylde Council for a residential-led mixed-use scheme featuring a supermarket on a site previously owned by the controversial ex-owners of Blackpool FC. The post Proposa",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Proposals",
+        "Ansdell",
+        "Oyston",
+        "River Properties"
+      ],
+      "locations": []
+    },
+    "5a01a93f8a93": {
+      "id": "5a01a93f8a93",
+      "importance": "Medium",
+      "summary": "After 25 years, Alan Bevan has sold his Liverpool letting business to Lomond, which continues to gobble up regional property agencies at a rate of knots. The post Bevan sells City Residential to acquisitive property grou",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Bevan",
+        "City Residential",
+        "After",
+        "Alan Bevan"
+      ],
+      "locations": []
+    },
+    "304e79d36a1b": {
+      "id": "304e79d36a1b",
+      "importance": "Medium",
+      "summary": "A combined 370 acres in Alsager and Crewe are earmarked for 1,100 and 1,700 properties respectively. The post Hallam Land goes big in Cheshire East with plans for 2,800 homes appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Hallam Land",
+        "Cheshire East",
+        "Alsager and Crewe",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "5b05bcff32dd": {
+      "id": "5b05bcff32dd",
+      "importance": "Medium",
+      "summary": "Floodlit football and tennis will be enabled by the project, which will also see a cricket pavilion and padel building introduced to the Lancashire facility. The post Unanimous go-ahead granted for Croston Sports Club ov",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Unanimous",
+        "Croston Sports Club",
+        "Floodlit",
+        "Lancashire"
+      ],
+      "locations": []
+    },
+    "4fd160fec14e": {
+      "id": "4fd160fec14e",
+      "importance": "Medium",
+      "summary": "Having vacated its former premises at Great Jackson Street to pave the way for a quintet of Renaker skyscrapers, the operator will open a five-court facility within the emerging neighbourhood in 2027. The post Club de Pa",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Club de Padel",
+        "Manchester’s Mayfield. Having",
+        "Great Jackson Street",
+        "Renaker"
+      ],
+      "locations": []
+    },
+    "cd1b63d53bc1": {
+      "id": "cd1b63d53bc1",
+      "importance": "Medium",
+      "summary": "Part of the Greater Manchester Fire and Rescue Service’s £65m estate revamp, the Bury New Road facility is a replacement for the town’s dated 1960s building. The post Robertson hands over Whitefield fire station appeared",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Robertson",
+        "Whitefield",
+        "Part",
+        "Greater Manchester Fire and Rescue"
+      ],
+      "locations": []
+    },
+    "9922825c5e40": {
+      "id": "9922825c5e40",
+      "importance": "Medium",
+      "summary": "FI Property Group has made good on its promise to appeal the rejection of two large sheds on 100 acres of Green Belt near Stanworth. The post Inquiry will decide fate of 1.3m sq ft Chorley industrial appeared first on Pl",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Inquiry",
+        "Chorley",
+        "FI Property Group",
+        "Green Belt"
+      ],
+      "locations": []
+    },
+    "49448a721481": {
+      "id": "49448a721481",
+      "importance": "Medium",
+      "summary": "Buyer demand weakens as house price pressure intensifies",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Pain",
+        "Buyer"
+      ],
+      "locations": []
+    },
+    "ade897241441": {
+      "id": "ade897241441",
+      "importance": "Medium",
+      "summary": "Kemi Badenoch put property taxation at the centre of her keynote speech at the Conservative Party conference",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents",
+        "Tory",
+        "Kemi Badenoch",
+        "Conservative Party"
+      ],
+      "locations": []
+    },
+    "e2d6ab99f85f": {
+      "id": "e2d6ab99f85f",
+      "importance": "Medium",
+      "summary": "Agents step up AI investment",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Moveli",
+        "Agents"
+      ],
+      "locations": []
+    },
+    "aacbae2875ec": {
+      "id": "aacbae2875ec",
+      "importance": "Medium",
+      "summary": "Is it wise to optimise an estate agency around the cheapest lead?",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "locations": []
+    },
+    "b9261cd9926f": {
+      "id": "b9261cd9926f",
+      "importance": "Medium",
+      "summary": "Industry backs homebuying shake-up as confidence in reforms grows",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Industry"
+      ],
+      "locations": []
+    },
+    "1c683185685c": {
+      "id": "1c683185685c",
+      "importance": "Medium",
+      "summary": "Dwelly's acquisition strategy rests on combining established local agencies with its technology platform",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Dwelly",
+        "Dwelly's"
+      ],
+      "locations": []
+    },
+    "c61faf2dd611": {
+      "id": "c61faf2dd611",
+      "importance": "Medium",
+      "summary": "The football league cup sponsorship deal comes months after estate agency businesses merged to create major group",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "7836ec132bf8": {
+      "id": "7836ec132bf8",
+      "importance": "Medium",
+      "summary": "There are around 300,000 empty homes nationwide",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Empty"
+      ],
+      "locations": []
+    },
+    "baa5e1af820b": {
+      "id": "baa5e1af820b",
+      "importance": "Medium",
+      "summary": "There are plans to grow the estate agent network",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Founding"
+      ],
+      "locations": []
+    },
+    "1ac39be93d3d": {
+      "id": "1ac39be93d3d",
+      "importance": "Medium",
+      "summary": "The RICS sentiment survey shows a roughly stagnant housing market",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Higher",
+        "RICS. The RICS"
+      ],
+      "locations": []
+    },
+    "d25e574ae7ec": {
+      "id": "d25e574ae7ec",
+      "importance": "Medium",
+      "summary": "Two founding members of the Ethical Agent Network (EAN) have acquired a majority stake in the organisation. The EAN was launched in March 2024 to bring together independent estate and letting agencies committed to high s",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Ethical Agent Network",
+        "The EAN",
+        "Agencies"
+      ],
+      "locations": []
+    },
+    "8db91eed9a50": {
+      "id": "8db91eed9a50",
+      "importance": "Medium",
+      "summary": "The new Conservative policy to radically overhaul Inheritance Tax (IHT) has been branded “very, very bad” and may cut the number of downsizers. Leader Kemi Badenoch told her party conference yesterday that she would have",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Will Tory Inheritance Tax",
+        "Conservative",
+        "Inheritance Tax",
+        "Leader Kemi Badenoch"
+      ],
+      "locations": []
+    },
+    "caa02f0d6aec": {
+      "id": "caa02f0d6aec",
+      "importance": "Medium",
+      "summary": "More details of the scheme come later this month",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Some",
+        "Burnham",
+        "More"
+      ],
+      "locations": []
+    },
+    "a9727f1cdab1": {
+      "id": "a9727f1cdab1",
+      "importance": "Medium",
+      "summary": "The reforms call for more digitisation and upfront information in sellers' packs",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Most"
+      ],
+      "locations": []
+    },
+    "c30123385262": {
+      "id": "c30123385262",
+      "importance": "Medium",
+      "summary": "It's the latest Lloyds Bank index",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Housing",
+        "It's",
+        "Lloyds Bank"
+      ],
+      "locations": []
+    },
+    "96caf18ef721": {
+      "id": "96caf18ef721",
+      "importance": "Medium",
+      "summary": "Kemi Badenoch made the pledges today at the Tory party conference",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Tory",
+        "Kemi Badenoch"
+      ],
+      "locations": []
+    },
+    "0c5c2e507b64": {
+      "id": "0c5c2e507b64",
+      "importance": "Medium",
+      "summary": "The Property Franchise Group, the UK’s largest multi-brand property franchisor, has acquired a 25% equity interest in an AI platform. Enteka Ai is described as a conversational AI platform for UK estate agents and mortga",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Agency",
+        "The Property Franchise Group",
+        "UK’s",
+        "Enteka Ai"
+      ],
+      "locations": []
+    },
+    "c36d4d4e316e": {
+      "id": "c36d4d4e316e",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - More tenants are chasing fewer homes as landlord instructions remain scarce, according to UK letting agents.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Rental",
+        "News",
+        "Helen Gregory",
+        "More"
+      ],
+      "locations": []
+    },
+    "37089217c286": {
+      "id": "37089217c286",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Three property firms have been expelled from The Property Ombudsman after failing to pay compensation to landlords and a homebuyer.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Ombudsman",
+        "News",
+        "Helen Gregory",
+        "Three"
+      ],
+      "locations": []
+    },
+    "dffebeae920c": {
+      "id": "dffebeae920c",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Spain’s experience of trying to tackle its housing crisis has highlighted the potential impact of tighter regulation on the PRS.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Spain's",
+        "UK. News",
+        "Helen Gregory",
+        "Spain’s"
+      ],
+      "locations": []
+    },
+    "7030bcd94f8d": {
+      "id": "7030bcd94f8d",
+      "importance": "Medium",
+      "summary": "Information - Tom Entwistle - Are company lets in England a legitimate and workable alternative or a hidden trap?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Company",
+        "Renters’ Rights Act. Information",
+        "Tom Entwistle"
+      ],
+      "locations": []
+    },
+    "13e327a51314": {
+      "id": "13e327a51314",
+      "importance": "Medium",
+      "summary": "Statistics on the active and passive surveillance of transmissible spongiform encephalopathies (TSEs) in sheep in Great Britain.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Sheep",
+        "Statistics",
+        "TSEs",
+        "Great Britain"
+      ],
+      "locations": []
+    },
+    "362f931228a7": {
+      "id": "362f931228a7",
+      "importance": "Medium",
+      "summary": "Latest information on global disease events under monitoring.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Outbreaks",
+        "Latest"
+      ],
+      "locations": []
+    },
+    "57346c8602bb": {
+      "id": "57346c8602bb",
+      "importance": "Medium",
+      "summary": "England-level consumption and market value estimates for 6 key drugs (2024 to 2025) and usage patterns in England and Scotland (2021 to 2025).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Wastewater Analysis",
+        "Estimating",
+        "England-level",
+        "England and Scotland"
+      ],
+      "locations": []
+    },
+    "18c2b41180b1": {
+      "id": "18c2b41180b1",
+      "importance": "Medium",
+      "summary": "This weekly summary highlights changes in the number of people visiting GPs, going to emergency departments and calling NHS 111.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Syndromic"
+      ],
+      "locations": []
+    },
+    "3f311898e8a3": {
+      "id": "3f311898e8a3",
+      "importance": "Medium",
+      "summary": "How the actual number of deaths in England compare with the expected numbers of deaths for each week.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Weekly"
+      ],
+      "locations": []
+    },
+    "a8d10ed37133": {
+      "id": "a8d10ed37133",
+      "importance": "Medium",
+      "summary": "Animals in Science Committee response to a ministerial commission for advice.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Strengthening",
+        "Animals",
+        "Science Committee"
+      ],
+      "locations": []
+    },
+    "413c1ac05052": {
+      "id": "413c1ac05052",
+      "importance": "Medium",
+      "summary": "UK quota management spreadsheets showing uptake of fish catches by each producer organisation against their allocations for the year.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Quota"
+      ],
+      "locations": []
+    },
+    "98958f05ac05": {
+      "id": "98958f05ac05",
+      "importance": "Medium",
+      "summary": "This is a list of AAIB Record-only investigations that were reviewed during July - August 2026",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "AAIB Record-only"
+      ],
+      "locations": []
+    },
+    "887af8e857c6": {
+      "id": "887af8e857c6",
+      "importance": "Medium",
+      "summary": "Statistics on visa applications for people coming to the UK for work, study and family reasons.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Monthly",
+        "Statistics"
+      ],
+      "locations": []
+    },
+    "af81fa8ec47b": {
+      "id": "af81fa8ec47b",
+      "importance": "Medium",
+      "summary": "Information on wheat, barley, oats and oilseed rape production.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Cereal",
+        "Information"
+      ],
+      "locations": []
+    },
+    "948231be3ff1": {
+      "id": "948231be3ff1",
+      "importance": "Medium",
+      "summary": "Outlines the quality and methodology information (QMI) relevant to the healthcare-associated infections (HCAI) accredited official statistics releases.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Healthcare-associated",
+        "HCAI",
+        "Outlines"
+      ],
+      "locations": []
+    },
+    "ccb615aae509": {
+      "id": "ccb615aae509",
+      "importance": "Medium",
+      "summary": "Statistics on the number of cases referred to the National Referral Mechanism (NRM) awaiting a conclusive grounds decision, September 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Modern Slavery",
+        "Statistics",
+        "National Referral Mechanism"
+      ],
+      "locations": []
+    },
+    "0c7715d17392": {
+      "id": "0c7715d17392",
+      "importance": "Medium",
+      "summary": "The latest information on mpox clade Ib and clade IIb cases in the UK and mpox vaccine administration in England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Mpox"
+      ],
+      "locations": []
+    },
+    "3263ee2d5307": {
+      "id": "3263ee2d5307",
+      "importance": "Medium",
+      "summary": "The release shows UK trade in Food, Feed and Drink in current prices and real terms.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Food",
+        "Feed and Drink"
+      ],
+      "locations": []
+    },
+    "38e8680dedd9": {
+      "id": "38e8680dedd9",
+      "importance": "Medium",
+      "summary": "Contains statistical material relating to the Terrorism Act 2000, including arrests and outcomes, and stops and searches.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Operation",
+        "TACT",
+        "Contains",
+        "Terrorism Act"
+      ],
+      "locations": []
+    },
+    "9b162d66df46": {
+      "id": "9b162d66df46",
+      "importance": "Medium",
+      "summary": "Reports of norovirus and rotavirus laboratory surveillance and enteric virus outbreaks in hospital settings in England during the 2026 to 2027 season.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "National",
+        "Reports"
+      ],
+      "locations": []
+    },
+    "b14a8bab9129": {
+      "id": "b14a8bab9129",
+      "importance": "Medium",
+      "summary": "Reports presenting data since 2020 for sexually transmitted infections (STIs) in the South East of England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Sexually",
+        "South East",
+        "Reports",
+        "STIs"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 50,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}",
+    "model": null
+  }
+}
