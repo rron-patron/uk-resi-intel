@@ -1,0 +1,903 @@
+{
+  "collected_at": "2026-10-09T14:46:45+00:00",
+  "date_london": "2026-10-09",
+  "counts": {
+    "seen_in_feeds": 93,
+    "new": 49,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 9,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 9"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 13,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 13"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 19,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 19"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 10,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 10"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "The Week in Housing: London SAHP update, regulatory woes, and closer looks at major sector reforms",
+      "url": "https://insidehousing.co.uk/home/the-week-in-housing-london-sahp-update-regulatory-woes-and-closer-looks-at-major-sector-reforms-99067",
+      "published": "2026-10-09T13:06:11+00:00",
+      "excerpt": "The Week in Housing is our weekly newsletter, rounding up the most important headlines for housing professionals. Sign up below to get it direct to your inbox every Friday",
+      "entities": [
+        "The Week",
+        "Housing",
+        "London SAHP",
+        "Sign"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:46:54+00:00",
+      "id": "0a12e632b73f"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Additional £5.3bn of grant funding needed to unlock 41,000 additional social homes, NHF finds",
+      "url": "https://insidehousing.co.uk/home/additional-53bn-of-grant-funding-needed-to-unlock-41000-additional-social-homes-nhf-finds-99084",
+      "published": "2026-10-09T11:03:25+00:00",
+      "excerpt": "New research by the National Housing Federation estimates an additional £5.3bn of grant funding over 10 years is needed to unlock 41,000 additional social homes",
+      "entities": [
+        "Additional",
+        "National Housing Federation"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:46:54+00:00",
+      "id": "d9cc60472015"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Homes England picks production firm behind Peaky Blinders to lead new development project",
+      "url": "https://insidehousing.co.uk/home/homes-england-picks-production-firm-behind-peaky-blinders-to-lead-new-development-project-99079",
+      "published": "2026-10-09T10:09:40+00:00",
+      "excerpt": "The production firm behind Peaky Blinders and the upcoming James Bond film has been chosen to lead the development of Birmingham’s new creative quarter",
+      "entities": [
+        "Homes England",
+        "Peaky Blinders",
+        "James Bond",
+        "Birmingham’s"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:46:54+00:00",
+      "id": "303c6702eed3"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Researchers bring together expertise in place, neuroscience and design to tackle UK’s building ‘blandemic’",
+      "url": "https://insidehousing.co.uk/home/researchers-bring-together-expertise-in-place-neuroscience-and-design-to-tackle-uks-building-blandemic-99078",
+      "published": "2026-10-09T08:30:00+00:00",
+      "excerpt": "Glasgow university has teamed up with UK Research and Innovation and Humanise to investigate how development can “strengthen health, pride and belonging”",
+      "entities": [
+        "Researchers",
+        "UK’s",
+        "Glasgow",
+        "UK Research and Innovation and Humanise"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:46:54+00:00",
+      "id": "52d9f0d0be72"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Aim and you might hit. Targets crucial to solving housing crisis",
+      "url": "https://placenorthwest.co.uk/aim-and-you-might-hit-targets-crucial-to-solving-housing-crisis",
+      "published": "2026-10-09T12:18:13+00:00",
+      "excerpt": "Secretary of State Angela Rayner acknowledged recently that there was only a “slim chance” of the Government overseeing the completion of 1.5 million homes within the current parliamentary term, writes Sam Stafford . The post Aim and you might hit. Targets crucial to solving housing crisis appeared first on Place North West .",
+      "entities": [
+        "Targets",
+        "Secretary of State Angela Rayner",
+        "Sam Stafford",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:02+00:00",
+      "id": "46ffb6eec3fc"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Cheshire East laments govt decision to pull £92m A500 road scheme",
+      "url": "https://placenorthwest.co.uk/cheshire-east-laments-govt-decision-to-pull-92m-a500-road-scheme",
+      "published": "2026-10-09T12:05:42+00:00",
+      "excerpt": "The council said it is “deeply disappointed” that a project to alleviate congestion around Crewe has been removed from the government’s Major Road Network programme. The post Cheshire East laments govt decision to pull £92m A500 road scheme appeared first on Place North West .",
+      "entities": [
+        "Cheshire East",
+        "Crewe",
+        "Major Road Network",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:02+00:00",
+      "id": "4c2d4878791b"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "MCR edges towards 10,000 student beds target with Preston double",
+      "url": "https://placenorthwest.co.uk/mcr-edges-towards-10000-student-beds-target-with-preston-double",
+      "published": "2026-10-09T10:37:10+00:00",
+      "excerpt": "MCR Property Group has bought 668 PBSA units across two schemes in the Lancashire city as it seeks to rapidly expand its portfolio. The post MCR edges towards 10,000 student beds target with Preston double appeared first on Place North West .",
+      "entities": [
+        "Preston",
+        "MCR Property Group",
+        "PBSA",
+        "Lancashire",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:02+00:00",
+      "id": "42d69d646118"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Warrington sets out next steps for 4,200-home extension",
+      "url": "https://placenorthwest.co.uk/warrington-sets-out-next-steps-for-4200-home-extension",
+      "published": "2026-10-09T09:23:17+00:00",
+      "excerpt": "Subject to cabinet adopting a development framework for the urban extension, majority landowner Homes England will seek to appoint a private sector partner as master developer but construction will not commence until 2029 “at the earliest”. The post Warrington sets out next steps for 4,200-home extension appeared first on Place North West .",
+      "entities": [
+        "Warrington",
+        "Subject",
+        "Homes England",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:02+00:00",
+      "id": "a8e90206d6c2"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Cheshire landowners seek permission for 205 homes",
+      "url": "https://placenorthwest.co.uk/cheshire-landowners-seek-permission-for-205-homes",
+      "published": "2026-10-09T08:56:20+00:00",
+      "excerpt": "Proposals have been tabled for hundreds of homes on 22 acres of grazing land off Crewe Road in Shavington. The post Cheshire landowners seek permission for 205 homes appeared first on Place North West .",
+      "entities": [
+        "Cheshire",
+        "Proposals",
+        "Crewe Road",
+        "Shavington. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:02+00:00",
+      "id": "bcc2423df65e"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Bolton local plan marches on",
+      "url": "https://placenorthwest.co.uk/bolton-local-plan-marches-on",
+      "published": "2026-10-09T08:21:01+00:00",
+      "excerpt": "Cabinet and full council have now approved the draft document, meaning it can move to the statutory eight-week consultation stage. The post Bolton local plan marches on appeared first on Place North West .",
+      "entities": [
+        "Bolton",
+        "Cabinet",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:02+00:00",
+      "id": "75dc0c154e79"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Ascend beefs up senior team",
+      "url": "https://placenorthwest.co.uk/ascend-beefs-up-senior-team",
+      "published": "2026-10-09T07:21:33+00:00",
+      "excerpt": "The third-party operator of single-family rental homes has strengthened its hand with the appointment of governance specialist Phil Gilbert as group risk and compliance lead. The post Ascend beefs up senior team appeared first on Place North West .",
+      "entities": [
+        "Ascend",
+        "Phil Gilbert",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:02+00:00",
+      "id": "02679d1a5b8d"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Fresh plans in as Macclesfield Rugby Club rethinks",
+      "url": "https://placenorthwest.co.uk/fresh-plans-in-as-macclesfield-rugby-club-rethinks",
+      "published": "2026-10-08T15:05:47+00:00",
+      "excerpt": "An 80-bed care home and 22 bungalows will sit alongside revamped facilities at Priory Park as the sports organisation looks to secure its long-term future. The post Fresh plans in as Macclesfield Rugby Club rethinks appeared first on Place North West .",
+      "entities": [
+        "Fresh",
+        "Macclesfield Rugby Club",
+        "Priory Park",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:02+00:00",
+      "id": "489eaa6e4f10"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Fast-growing estate agency expands again with latest acquisition",
+      "url": "https://propertyindustryeye.com/fast-growing-estate-agency-expands-again-with-latest-acquisition",
+      "published": "2026-10-09T04:10:59+00:00",
+      "excerpt": "Lomond has expanded in Liverpool",
+      "entities": [
+        "Fast-growing",
+        "Lomond",
+        "Liverpool"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:03+00:00",
+      "id": "1986fce85e60"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency warns clients over data breach linked to third-party provider",
+      "url": "https://propertyindustryeye.com/estate-agency-warns-clients-over-data-breach-linked-to-third-party-provider",
+      "published": "2026-10-09T04:06:42+00:00",
+      "excerpt": "Agency says client contact details may have been compromised through third-party service provider",
+      "entities": [
+        "Estate",
+        "Agency"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:03+00:00",
+      "id": "86b6ebdce831"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agent hit with £200,000 bill after neighbour dispute spirals",
+      "url": "https://propertyindustryeye.com/estate-agent-hit-with-200000-bill-after-neighbour-dispute-spirals",
+      "published": "2026-10-09T03:50:28+00:00",
+      "excerpt": "The estate agent challenged the ruling in the High Court",
+      "entities": [
+        "Estate",
+        "High Court"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:03+00:00",
+      "id": "0ed9a5ec2935"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Is the UK property market really dead?",
+      "url": "https://propertyindustryeye.com/is-the-uk-property-market-really-dead",
+      "published": "2026-10-09T03:40:00+00:00",
+      "excerpt": "Joining Chris Watkin on the UK Property Market Stats Show this week is Verona Frankish, boss of Yopa",
+      "entities": [
+        "Joining Chris Watkin",
+        "UK Property Market Stats",
+        "Show",
+        "Verona Frankish",
+        "Yopa"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:03+00:00",
+      "id": "3f1440997ae5"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Property firms expelled from The Property Ombudsman",
+      "url": "https://propertyindustryeye.com/property-firms-expelled-from-the-property-ombudsman",
+      "published": "2026-10-09T03:30:35+00:00",
+      "excerpt": "Three property firms expelled after failing to pay Ombudsman awards",
+      "entities": [
+        "Property",
+        "The Property Ombudsman. Three",
+        "Ombudsman"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:03+00:00",
+      "id": "a73b3a971092"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Awaab’s Law moves closer for agents as repair deadline shake-up begins",
+      "url": "https://propertyindustryeye.com/awaabs-law-moves-closer-for-letting-agents-as-repair-deadline-shake-up-begins",
+      "published": "2026-10-09T02:50:24+00:00",
+      "excerpt": "Awaab’s Law set for private rented sector as government consults on strict repair deadlines",
+      "entities": [
+        "Awaab’s Law"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:03+00:00",
+      "id": "7d6fc72edb82"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Major property firm withdraws from London’s ‘broken’ housing market",
+      "url": "https://propertyindustryeye.com/major-property-firm-withdraws-from-londons-broken-housing-market",
+      "published": "2026-10-09T01:20:28+00:00",
+      "excerpt": "Developers retreat from London",
+      "entities": [
+        "Major",
+        "London’s",
+        "Developers",
+        "London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:03+00:00",
+      "id": "dbf33aac6dcf"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Knight Frank attracts 170 agents as self-employed model gathers pace",
+      "url": "https://propertyindustryeye.com/knight-frank-attracts-170-agents-as-self-employed-model-gathers-pace",
+      "published": "2026-10-09T01:00:03+00:00",
+      "excerpt": "Knight Frank targets further territories",
+      "entities": [
+        "Knight Frank"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:03+00:00",
+      "id": "b62aa3820988"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Property consultancy moves office as it plans further hires",
+      "url": "https://propertyindustryeye.com/property-consultancy-expands-office-as-it-plans-further-hires",
+      "published": "2026-10-08T23:50:47+00:00",
+      "excerpt": "Bradley Hall has moved its Manchester operation to larger city-centre premises",
+      "entities": [
+        "Property",
+        "Bradley Hall",
+        "Manchester"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:03+00:00",
+      "id": "235bdb579c8e"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agent left with £200,000 legal bill after property dispute",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/agent-left-with-200000-legal-bill-after-sea-view-boundary-dispute",
+      "published": "2026-10-08T23:06:00+00:00",
+      "excerpt": "National media are reporting that an estate agent has been left with a £200,000 court bill after losing a court battle over a hedge. Sarah Douglas – a former London agent who is now managing director of the Marchand Petit agency in Devon – is reported by The Independent to have become embroiled in a […]",
+      "entities": [
+        "Agent",
+        "National",
+        "Sarah Douglas",
+        "London",
+        "Marchand Petit",
+        "Devon",
+        "The Independent"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:03+00:00",
+      "id": "7bfc4e580131"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Top agency has 170 applicants to be self-employed brokers",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/top-agency-has-170-applicants-to-be-self-employed-brokers",
+      "published": "2026-10-08T23:05:00+00:00",
+      "excerpt": "This business model enables brokers to work independently while remaining fully aligned and partnered with the firm.",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:03+00:00",
+      "id": "aa4e3c2d4c4f"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Lomond headcount now 2,600 as it snaps up another estate agency",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/lomond-headcount-now-2600-as-it-snaps-up-another-estate-agency",
+      "published": "2026-10-08T23:04:00+00:00",
+      "excerpt": "The empire now stretched to over 150 branches",
+      "entities": [
+        "Lomond"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:03+00:00",
+      "id": "47511bbf9214"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agent kicked out by Ombudsman after survey dispute",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/agent-expelled-by-ombudsman-after-survey-dispute",
+      "published": "2026-10-08T23:03:00+00:00",
+      "excerpt": "In total, three agencies have just been expelled by TPO",
+      "entities": [
+        "Agent",
+        "Ombudsman"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:03+00:00",
+      "id": "02590eb6c1a5"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Strict new health and safety law coming to private rentals",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/government-brings-strict-new-health-and-safety-law-on-private-rental-sector",
+      "published": "2026-10-08T23:03:00+00:00",
+      "excerpt": "The consultation on extending Awaab's Law to the private rental sector ends on December 18",
+      "entities": [
+        "Strict",
+        "Awaab's Law"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:03+00:00",
+      "id": "0ecd9d50afe8"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Punishing mortgage rates hit housing market yet again",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/punishing-mortgage-rates-hit-housing-market-yet-again",
+      "published": "2026-10-08T23:01:00+00:00",
+      "excerpt": "This analysis is by Moneyfacts",
+      "entities": [
+        "Punishing",
+        "Moneyfacts"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:03+00:00",
+      "id": "ac7647f4342a"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "West Midlands council approves strict HMO planning rules",
+      "url": "https://landlordzone.co.uk/news/west-midlands-council-approves-strict-hmo-planning-rules",
+      "published": "2026-10-09T14:04:15+00:00",
+      "excerpt": "News - Helen Gregory - Stoke-on-Trent City Council is bringing in new planning controls to stem the growth of HMOs across the city.",
+      "entities": [
+        "West Midlands",
+        "News",
+        "Helen Gregory",
+        "Stoke-on-Trent City Council",
+        "HMOs"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "650cd1faf9ae"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Deposit protection scheme and youth charity win top award for raising half a million",
+      "url": "https://landlordzone.co.uk/news/deposit-protection-scheme-and-youth-charity-win-top-award-for-raising-half-a-million",
+      "published": "2026-10-09T13:03:42+00:00",
+      "excerpt": "News - Maria White - mydeposits and Centrepoint win gold at the Corporate Engagement Awards after raising over £500k through a tenant interest donation scheme.",
+      "entities": [
+        "Deposit",
+        "News",
+        "Maria White",
+        "Centrepoint",
+        "Corporate Engagement Awards"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "9b7e5e4dc94d"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Landlord fined after leaving young family in cold all winter",
+      "url": "https://landlordzone.co.uk/news/landlord-fined-after-leaving-young-family-in-cold-all-winter",
+      "published": "2026-10-09T11:23:50+00:00",
+      "excerpt": "News - Helen Gregory - A landlord has been fined £26,000 after he left the mother of a newborn baby and child with disabilities without heating or hot water.",
+      "entities": [
+        "Landlord",
+        "News",
+        "Helen Gregory"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "13bb59a6c2ae"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Awaab's Law moves step closer to private rented sector",
+      "url": "https://landlordzone.co.uk/news/awaabs-law-moves-step-closer-to-private-rented-sector",
+      "published": "2026-10-09T08:09:36+00:00",
+      "excerpt": "News - Helen Gregory - Landlord and agent groups have urged the government to get the details right as it moves closer to implementing Awaab’s Law in the PRS.",
+      "entities": [
+        "Awaab's Law",
+        "News",
+        "Helen Gregory",
+        "Landlord",
+        "Awaab’s Law"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "d586f1c581ef"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "BTR giant takes management in-house as it targets 20,000 rentals",
+      "url": "https://landlordzone.co.uk/news/btr-giant-takes-management-in-house-as-it-targets-20-000-rentals",
+      "published": "2026-10-08T15:15:16+00:00",
+      "excerpt": "News - Helen Gregory - A major institutional BTR landlord has moved its property management in-house as it details big expansion plans.",
+      "entities": [
+        "News",
+        "Helen Gregory"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "3e6f0e38b781"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Catchment statistics for nutrient pollution",
+      "url": "https://gov.uk/government/publications/catchment-statistics-for-nutrient-pollution",
+      "published": "2026-10-09T12:41:40+00:00",
+      "excerpt": "A report giving the catchment-scale source apportionment and estimated diffuse sector reductions required to meet protected area water quality targets.",
+      "entities": [
+        "Catchment"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "80fea8d955dd"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Statistics at DWP",
+      "url": "https://gov.uk/government/organisations/department-for-work-pensions/about/statistics",
+      "published": "2026-10-09T09:45:03+00:00",
+      "excerpt": "We publish statistics on benefits, pensions, employment programmes, income distribution and other subjects we are responsible for.",
+      "entities": [
+        "Statistics",
+        "DWP. We"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "fb27b9b20abf"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Industrial Strategy quarterly update: July to September 2026",
+      "url": "https://gov.uk/government/publications/industrial-strategy-quarterly-update-july-to-september-2026",
+      "published": "2026-10-09T08:30:04+00:00",
+      "excerpt": "An update on delivery of commitments in the Industrial Strategy.",
+      "entities": [
+        "Industrial Strategy"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "76da815635df"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Air quality compliance assessment 2025: results and data tables",
+      "url": "https://gov.uk/government/publications/air-quality-compliance-assessment-2025-results-and-data-tables",
+      "published": "2026-10-09T08:30:03+00:00",
+      "excerpt": "…Data used in the 'Air pollution in the UK 2025' report, which presents the results of the UK’s compliance assessment against the Air Quality Standards Regulations (2010).…",
+      "entities": [
+        "Data",
+        "UK’s",
+        "Air Quality Standards Regulations"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "f6f882595338"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK Urban NO2 Network (UUNN) technical reports",
+      "url": "https://gov.uk/government/publications/uk-urban-no2-network-uunn-technical-reports",
+      "published": "2026-10-09T08:30:03+00:00",
+      "excerpt": "…Annual technical reports for the UK Urban NO2 Network (UUNN), part of the UK's air pollution monitoring regime.…",
+      "entities": [
+        "UK Urban",
+        "Network",
+        "UUNN",
+        "Annual",
+        "UK's"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "b9cce3dfa7ca"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Air quality monitoring regime assessments",
+      "url": "https://gov.uk/government/publications/air-quality-monitoring-regime-assessments",
+      "published": "2026-10-09T08:30:03+00:00",
+      "excerpt": "…Reviews of the UK's air quality monitoring networks under the Air Quality Standards Regulations (2010).…",
+      "entities": [
+        "Reviews",
+        "UK's",
+        "Air Quality Standards Regulations"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "3199f4584a41"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Polycyclic Aromatic Hydrocarbons (PAH) Monitoring Network technical reports",
+      "url": "https://gov.uk/government/publications/polycyclic-aromatic-hydrocarbons-pah-monitoring-network-technical-reports",
+      "published": "2026-10-09T08:30:03+00:00",
+      "excerpt": "…Annual technical reports for the Polycyclic Aromatic Hydrocarbons (PAH) Monitoring Network, part of the UK's air pollution monitoring regime.…",
+      "entities": [
+        "Polycyclic Aromatic Hydrocarbons",
+        "Monitoring Network",
+        "Annual",
+        "UK's"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "d6709e13dbf6"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK trade development plan update: Oct 2026",
+      "url": "https://gov.uk/government/statistics/uk-trade-development-plan-update-oct-2026",
+      "published": "2026-10-09T08:30:03+00:00",
+      "excerpt": "An update on development of UK trade and investment statistics, highlighting recent successes and ongoing and future development plans.",
+      "entities": [],
+      "kind": "data",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "462bfc5f1497"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Automatic Urban and Rural Network (AURN) technical reports",
+      "url": "https://gov.uk/government/publications/automatic-urban-and-rural-network-aurn-technical-reports",
+      "published": "2026-10-09T08:30:03+00:00",
+      "excerpt": "…Annual technical reports for the Automatic, Urban and Rural Network (AURN), part of the UK's air pollution monitoring regime.…",
+      "entities": [
+        "Automatic Urban and Rural Network",
+        "AURN",
+        "Annual",
+        "Automatic",
+        "Urban and Rural Network",
+        "UK's"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "923410e74a4c"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Heavy Metals Monitoring Network technical reports",
+      "url": "https://gov.uk/government/publications/heavy-metals-monitoring-network-technical-reports",
+      "published": "2026-10-09T08:30:03+00:00",
+      "excerpt": "…Annual technical reports for the Heavy Metals Monitoring Network, part of the UK's air pollution monitoring regime.…",
+      "entities": [
+        "Heavy Metals Monitoring Network",
+        "Annual",
+        "UK's"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "6e324fcf6c18"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Hydrocarbons Network technical reports",
+      "url": "https://gov.uk/government/publications/hydrocarbons-network-technical-reports",
+      "published": "2026-10-09T08:30:03+00:00",
+      "excerpt": "…Annual technical reports for the UK Hydrocarbons Network, part of the UK's air pollution monitoring regime.…",
+      "entities": [
+        "Hydrocarbons Network",
+        "Annual",
+        "UK Hydrocarbons Network",
+        "UK's"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "7acf8d2c0104"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Air quality compliance assessment 2025: modelled data and reports",
+      "url": "https://gov.uk/government/publications/air-quality-compliance-assessment-2025-modelled-data-and-reports",
+      "published": "2026-10-09T08:30:03+00:00",
+      "excerpt": "Modelled data and reports to supplement the air quality compliance assessment 2025 under the Air Quality Standards Regulations (2010).",
+      "entities": [
+        "Modelled",
+        "Air Quality Standards Regulations"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "2617bfca8c03"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Air pollution in the UK 2025",
+      "url": "https://gov.uk/government/publications/air-pollution-in-the-uk-2025",
+      "published": "2026-10-09T08:30:03+00:00",
+      "excerpt": "The UK’s annual compliance assessment for 2025 against the Air Quality Standards Regulations (2010).…",
+      "entities": [
+        "The UK’s",
+        "Air Quality Standards Regulations"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "863688aab49a"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Independent review into mental health conditions, ADHD and autism: final report",
+      "url": "https://gov.uk/government/publications/independent-review-into-mental-health-conditions-adhd-and-autism-final-report",
+      "published": "2026-10-09T08:00:00+00:00",
+      "excerpt": "Final report detailing the findings of the independent review into the prevalence and support for mental health conditions, ADHD and autism.",
+      "entities": [
+        "Independent",
+        "ADHD",
+        "Final"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "39adf32bd2b2"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Research at DVLA",
+      "url": "https://gov.uk/government/organisations/driver-and-vehicle-licensing-agency/about/research",
+      "published": "2026-10-09T06:21:44+00:00",
+      "excerpt": "Research carried out by the Driver and Vehicle Licensing Agency (DVLA).",
+      "entities": [
+        "Research",
+        "DVLA. Research",
+        "Driver and Vehicle Licensing Agency",
+        "DVLA"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "bbde5fe194d3"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "DCMS Economic Estimates: Earnings 2025",
+      "url": "https://gov.uk/government/statistics/dcms-economic-estimates-earnings-2025",
+      "published": "2026-10-08T15:45:14+00:00",
+      "excerpt": "Official Statistics used to provide an estimate of the contribution of DCMS Sectors to the UK economy, measured by employee earnings.",
+      "entities": [
+        "DCMS Economic Estimates",
+        "Earnings",
+        "Official Statistics",
+        "DCMS Sectors"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "127680e48a39"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "DCMS Sectors Economic Estimates: Trade, 2022 and 2023",
+      "url": "https://gov.uk/government/statistics/dcms-sectors-economic-estimates-trade-2022-and-2023",
+      "published": "2026-10-08T15:45:07+00:00",
+      "excerpt": "Official statistics estimating the contribution of DCMS sectors to the UK economy, measured by imports and exports of goods and services.…",
+      "entities": [
+        "DCMS Sectors Economic Estimates",
+        "Trade",
+        "Official",
+        "DCMS"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-09T14:47:04+00:00",
+      "id": "e88f1ce6fa5d"
+    }
+  ]
+}

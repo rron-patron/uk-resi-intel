@@ -1,0 +1,874 @@
+{
+  "generated_at": "2026-10-09T14:47:10+00:00",
+  "date_label": "Friday 09 October 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': None}\n\n49 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 9,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 6,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Student housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Later living",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Build-to-rent",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 8,
+      "context": ""
+    },
+    {
+      "name": "UK's",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "News",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Annual",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Helen Gregory",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Air Quality Standards Regulations",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Homes England",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "UK’s",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Lomond",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Ombudsman",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Awaab’s Law",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Agent",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Awaab's Law",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Landlord",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "The Week",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "London SAHP",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "0a12e632b73f": {
+      "id": "0a12e632b73f",
+      "importance": "Medium",
+      "summary": "The Week in Housing is our weekly newsletter, rounding up the most important headlines for housing professionals. Sign up below to get it direct to your inbox every Friday",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Week",
+        "Housing",
+        "London SAHP",
+        "Sign"
+      ],
+      "locations": []
+    },
+    "d9cc60472015": {
+      "id": "d9cc60472015",
+      "importance": "Medium",
+      "summary": "New research by the National Housing Federation estimates an additional £5.3bn of grant funding over 10 years is needed to unlock 41,000 additional social homes",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Additional",
+        "National Housing Federation"
+      ],
+      "locations": []
+    },
+    "303c6702eed3": {
+      "id": "303c6702eed3",
+      "importance": "Medium",
+      "summary": "The production firm behind Peaky Blinders and the upcoming James Bond film has been chosen to lead the development of Birmingham’s new creative quarter",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Homes England",
+        "Peaky Blinders",
+        "James Bond",
+        "Birmingham’s"
+      ],
+      "locations": []
+    },
+    "52d9f0d0be72": {
+      "id": "52d9f0d0be72",
+      "importance": "Medium",
+      "summary": "Glasgow university has teamed up with UK Research and Innovation and Humanise to investigate how development can “strengthen health, pride and belonging”",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Researchers",
+        "UK’s",
+        "Glasgow",
+        "UK Research and Innovation and Humanise"
+      ],
+      "locations": []
+    },
+    "46ffb6eec3fc": {
+      "id": "46ffb6eec3fc",
+      "importance": "Medium",
+      "summary": "Secretary of State Angela Rayner acknowledged recently that there was only a “slim chance” of the Government overseeing the completion of 1.5 million homes within the current parliamentary term, writes Sam Stafford . The",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Targets",
+        "Secretary of State Angela Rayner",
+        "Sam Stafford",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "4c2d4878791b": {
+      "id": "4c2d4878791b",
+      "importance": "Medium",
+      "summary": "The council said it is “deeply disappointed” that a project to alleviate congestion around Crewe has been removed from the government’s Major Road Network programme. The post Cheshire East laments govt decision to pull £",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Cheshire East",
+        "Crewe",
+        "Major Road Network",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "42d69d646118": {
+      "id": "42d69d646118",
+      "importance": "Medium",
+      "summary": "MCR Property Group has bought 668 PBSA units across two schemes in the Lancashire city as it seeks to rapidly expand its portfolio. The post MCR edges towards 10,000 student beds target with Preston double appeared first",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment",
+        "Student housing"
+      ],
+      "companies": [
+        "Preston",
+        "MCR Property Group",
+        "PBSA",
+        "Lancashire"
+      ],
+      "locations": []
+    },
+    "a8e90206d6c2": {
+      "id": "a8e90206d6c2",
+      "importance": "Medium",
+      "summary": "Subject to cabinet adopting a development framework for the urban extension, majority landowner Homes England will seek to appoint a private sector partner as master developer but construction will not commence until 202",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Warrington",
+        "Subject",
+        "Homes England",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "bcc2423df65e": {
+      "id": "bcc2423df65e",
+      "importance": "Medium",
+      "summary": "Proposals have been tabled for hundreds of homes on 22 acres of grazing land off Crewe Road in Shavington. The post Cheshire landowners seek permission for 205 homes appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Cheshire",
+        "Proposals",
+        "Crewe Road",
+        "Shavington. The"
+      ],
+      "locations": []
+    },
+    "75dc0c154e79": {
+      "id": "75dc0c154e79",
+      "importance": "Medium",
+      "summary": "Cabinet and full council have now approved the draft document, meaning it can move to the statutory eight-week consultation stage. The post Bolton local plan marches on appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Bolton",
+        "Cabinet",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "02679d1a5b8d": {
+      "id": "02679d1a5b8d",
+      "importance": "Medium",
+      "summary": "The third-party operator of single-family rental homes has strengthened its hand with the appointment of governance specialist Phil Gilbert as group risk and compliance lead. The post Ascend beefs up senior team appeared",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Ascend",
+        "Phil Gilbert",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "489eaa6e4f10": {
+      "id": "489eaa6e4f10",
+      "importance": "Medium",
+      "summary": "An 80-bed care home and 22 bungalows will sit alongside revamped facilities at Priory Park as the sports organisation looks to secure its long-term future. The post Fresh plans in as Macclesfield Rugby Club rethinks appe",
+      "why_it_matters": "",
+      "themes": [
+        "Later living"
+      ],
+      "companies": [
+        "Fresh",
+        "Macclesfield Rugby Club",
+        "Priory Park",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "1986fce85e60": {
+      "id": "1986fce85e60",
+      "importance": "Medium",
+      "summary": "Lomond has expanded in Liverpool",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Fast-growing",
+        "Lomond",
+        "Liverpool"
+      ],
+      "locations": []
+    },
+    "86b6ebdce831": {
+      "id": "86b6ebdce831",
+      "importance": "Medium",
+      "summary": "Agency says client contact details may have been compromised through third-party service provider",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Agency"
+      ],
+      "locations": []
+    },
+    "0ed9a5ec2935": {
+      "id": "0ed9a5ec2935",
+      "importance": "Medium",
+      "summary": "The estate agent challenged the ruling in the High Court",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate",
+        "High Court"
+      ],
+      "locations": []
+    },
+    "3f1440997ae5": {
+      "id": "3f1440997ae5",
+      "importance": "Medium",
+      "summary": "Joining Chris Watkin on the UK Property Market Stats Show this week is Verona Frankish, boss of Yopa",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Joining Chris Watkin",
+        "UK Property Market Stats",
+        "Show",
+        "Verona Frankish"
+      ],
+      "locations": []
+    },
+    "a73b3a971092": {
+      "id": "a73b3a971092",
+      "importance": "Medium",
+      "summary": "Three property firms expelled after failing to pay Ombudsman awards",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "The Property Ombudsman. Three",
+        "Ombudsman"
+      ],
+      "locations": []
+    },
+    "7d6fc72edb82": {
+      "id": "7d6fc72edb82",
+      "importance": "Medium",
+      "summary": "Awaab’s Law set for private rented sector as government consults on strict repair deadlines",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Awaab’s Law"
+      ],
+      "locations": []
+    },
+    "dbf33aac6dcf": {
+      "id": "dbf33aac6dcf",
+      "importance": "Medium",
+      "summary": "Developers retreat from London",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Major",
+        "London’s",
+        "Developers",
+        "London"
+      ],
+      "locations": []
+    },
+    "b62aa3820988": {
+      "id": "b62aa3820988",
+      "importance": "Medium",
+      "summary": "Knight Frank targets further territories",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Knight Frank"
+      ],
+      "locations": []
+    },
+    "235bdb579c8e": {
+      "id": "235bdb579c8e",
+      "importance": "Medium",
+      "summary": "Bradley Hall has moved its Manchester operation to larger city-centre premises",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Bradley Hall",
+        "Manchester"
+      ],
+      "locations": []
+    },
+    "7bfc4e580131": {
+      "id": "7bfc4e580131",
+      "importance": "Medium",
+      "summary": "National media are reporting that an estate agent has been left with a £200,000 court bill after losing a court battle over a hedge. Sarah Douglas – a former London agent who is now managing director of the Marchand Peti",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Agent",
+        "National",
+        "Sarah Douglas",
+        "London"
+      ],
+      "locations": []
+    },
+    "aa4e3c2d4c4f": {
+      "id": "aa4e3c2d4c4f",
+      "importance": "Medium",
+      "summary": "This business model enables brokers to work independently while remaining fully aligned and partnered with the firm.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "47511bbf9214": {
+      "id": "47511bbf9214",
+      "importance": "Medium",
+      "summary": "The empire now stretched to over 150 branches",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Lomond"
+      ],
+      "locations": []
+    },
+    "02590eb6c1a5": {
+      "id": "02590eb6c1a5",
+      "importance": "Medium",
+      "summary": "In total, three agencies have just been expelled by TPO",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agent",
+        "Ombudsman"
+      ],
+      "locations": []
+    },
+    "0ecd9d50afe8": {
+      "id": "0ecd9d50afe8",
+      "importance": "Medium",
+      "summary": "The consultation on extending Awaab's Law to the private rental sector ends on December 18",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Strict",
+        "Awaab's Law"
+      ],
+      "locations": []
+    },
+    "ac7647f4342a": {
+      "id": "ac7647f4342a",
+      "importance": "Medium",
+      "summary": "This analysis is by Moneyfacts",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Punishing",
+        "Moneyfacts"
+      ],
+      "locations": []
+    },
+    "650cd1faf9ae": {
+      "id": "650cd1faf9ae",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Stoke-on-Trent City Council is bringing in new planning controls to stem the growth of HMOs across the city.",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "West Midlands",
+        "News",
+        "Helen Gregory",
+        "Stoke-on-Trent City Council"
+      ],
+      "locations": []
+    },
+    "9b7e5e4dc94d": {
+      "id": "9b7e5e4dc94d",
+      "importance": "Medium",
+      "summary": "News - Maria White - mydeposits and Centrepoint win gold at the Corporate Engagement Awards after raising over £500k through a tenant interest donation scheme.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Deposit",
+        "News",
+        "Maria White",
+        "Centrepoint"
+      ],
+      "locations": []
+    },
+    "13bb59a6c2ae": {
+      "id": "13bb59a6c2ae",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - A landlord has been fined £26,000 after he left the mother of a newborn baby and child with disabilities without heating or hot water.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Landlord",
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "d586f1c581ef": {
+      "id": "d586f1c581ef",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - Landlord and agent groups have urged the government to get the details right as it moves closer to implementing Awaab’s Law in the PRS.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Awaab's Law",
+        "News",
+        "Helen Gregory",
+        "Landlord"
+      ],
+      "locations": []
+    },
+    "3e6f0e38b781": {
+      "id": "3e6f0e38b781",
+      "importance": "Medium",
+      "summary": "News - Helen Gregory - A major institutional BTR landlord has moved its property management in-house as it details big expansion plans.",
+      "why_it_matters": "",
+      "themes": [
+        "Build-to-rent",
+        "Housing supply"
+      ],
+      "companies": [
+        "News",
+        "Helen Gregory"
+      ],
+      "locations": []
+    },
+    "80fea8d955dd": {
+      "id": "80fea8d955dd",
+      "importance": "Medium",
+      "summary": "A report giving the catchment-scale source apportionment and estimated diffuse sector reductions required to meet protected area water quality targets.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Catchment"
+      ],
+      "locations": []
+    },
+    "fb27b9b20abf": {
+      "id": "fb27b9b20abf",
+      "importance": "Medium",
+      "summary": "We publish statistics on benefits, pensions, employment programmes, income distribution and other subjects we are responsible for.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Statistics",
+        "DWP. We"
+      ],
+      "locations": []
+    },
+    "76da815635df": {
+      "id": "76da815635df",
+      "importance": "Medium",
+      "summary": "An update on delivery of commitments in the Industrial Strategy.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Industrial Strategy"
+      ],
+      "locations": []
+    },
+    "f6f882595338": {
+      "id": "f6f882595338",
+      "importance": "Medium",
+      "summary": "…Data used in the 'Air pollution in the UK 2025' report, which presents the results of the UK’s compliance assessment against the Air Quality Standards Regulations (2010).…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Data",
+        "UK’s",
+        "Air Quality Standards Regulations"
+      ],
+      "locations": []
+    },
+    "b9cce3dfa7ca": {
+      "id": "b9cce3dfa7ca",
+      "importance": "Medium",
+      "summary": "…Annual technical reports for the UK Urban NO2 Network (UUNN), part of the UK's air pollution monitoring regime.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK Urban",
+        "Network",
+        "UUNN",
+        "Annual"
+      ],
+      "locations": []
+    },
+    "3199f4584a41": {
+      "id": "3199f4584a41",
+      "importance": "Medium",
+      "summary": "…Reviews of the UK's air quality monitoring networks under the Air Quality Standards Regulations (2010).…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Reviews",
+        "UK's",
+        "Air Quality Standards Regulations"
+      ],
+      "locations": []
+    },
+    "d6709e13dbf6": {
+      "id": "d6709e13dbf6",
+      "importance": "Medium",
+      "summary": "…Annual technical reports for the Polycyclic Aromatic Hydrocarbons (PAH) Monitoring Network, part of the UK's air pollution monitoring regime.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Polycyclic Aromatic Hydrocarbons",
+        "Monitoring Network",
+        "Annual",
+        "UK's"
+      ],
+      "locations": []
+    },
+    "462bfc5f1497": {
+      "id": "462bfc5f1497",
+      "importance": "Medium",
+      "summary": "An update on development of UK trade and investment statistics, highlighting recent successes and ongoing and future development plans.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "923410e74a4c": {
+      "id": "923410e74a4c",
+      "importance": "Medium",
+      "summary": "…Annual technical reports for the Automatic, Urban and Rural Network (AURN), part of the UK's air pollution monitoring regime.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Automatic Urban and Rural Network",
+        "AURN",
+        "Annual",
+        "Automatic"
+      ],
+      "locations": []
+    },
+    "6e324fcf6c18": {
+      "id": "6e324fcf6c18",
+      "importance": "Medium",
+      "summary": "…Annual technical reports for the Heavy Metals Monitoring Network, part of the UK's air pollution monitoring regime.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Heavy Metals Monitoring Network",
+        "Annual",
+        "UK's"
+      ],
+      "locations": []
+    },
+    "7acf8d2c0104": {
+      "id": "7acf8d2c0104",
+      "importance": "Medium",
+      "summary": "…Annual technical reports for the UK Hydrocarbons Network, part of the UK's air pollution monitoring regime.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Hydrocarbons Network",
+        "Annual",
+        "UK Hydrocarbons Network",
+        "UK's"
+      ],
+      "locations": []
+    },
+    "2617bfca8c03": {
+      "id": "2617bfca8c03",
+      "importance": "Medium",
+      "summary": "Modelled data and reports to supplement the air quality compliance assessment 2025 under the Air Quality Standards Regulations (2010).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Modelled",
+        "Air Quality Standards Regulations"
+      ],
+      "locations": []
+    },
+    "863688aab49a": {
+      "id": "863688aab49a",
+      "importance": "Medium",
+      "summary": "The UK’s annual compliance assessment for 2025 against the Air Quality Standards Regulations (2010).…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The UK’s",
+        "Air Quality Standards Regulations"
+      ],
+      "locations": []
+    },
+    "39adf32bd2b2": {
+      "id": "39adf32bd2b2",
+      "importance": "Medium",
+      "summary": "Final report detailing the findings of the independent review into the prevalence and support for mental health conditions, ADHD and autism.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Independent",
+        "ADHD",
+        "Final"
+      ],
+      "locations": []
+    },
+    "bbde5fe194d3": {
+      "id": "bbde5fe194d3",
+      "importance": "Medium",
+      "summary": "Research carried out by the Driver and Vehicle Licensing Agency (DVLA).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Research",
+        "DVLA. Research",
+        "Driver and Vehicle Licensing Agency",
+        "DVLA"
+      ],
+      "locations": []
+    },
+    "127680e48a39": {
+      "id": "127680e48a39",
+      "importance": "Medium",
+      "summary": "Official Statistics used to provide an estimate of the contribution of DCMS Sectors to the UK economy, measured by employee earnings.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "DCMS Economic Estimates",
+        "Earnings",
+        "Official Statistics",
+        "DCMS Sectors"
+      ],
+      "locations": []
+    },
+    "e88f1ce6fa5d": {
+      "id": "e88f1ce6fa5d",
+      "importance": "Medium",
+      "summary": "Official statistics estimating the contribution of DCMS sectors to the UK economy, measured by imports and exports of goods and services.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "DCMS Sectors Economic Estimates",
+        "Trade",
+        "Official",
+        "DCMS"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 49,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': None}",
+    "model": null
+  }
+}
