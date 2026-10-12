@@ -1,0 +1,584 @@
+{
+  "collected_at": "2026-10-12T17:07:13+00:00",
+  "date_london": "2026-10-12",
+  "counts": {
+    "seen_in_feeds": 45,
+    "new": 29,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 4,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 4"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 5,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 5"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 9,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 9"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 6,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 6"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "feed",
+      "url": "https://www.landlordzone.co.uk/news/rss.xml",
+      "found": 2,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 2"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 9,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 9"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "London council hopes to build on ‘legacy’ of community-led housing with new strategy",
+      "url": "https://insidehousing.co.uk/home/london-council-hopes-to-build-on-legacy-of-community-led-housing-with-new-strategy-99105",
+      "published": "2026-10-12T15:00:00+00:00",
+      "excerpt": "Lewisham Council is creating a community-led housebuilding strategy that brings together housing organisations to develop more affordable homes in the borough",
+      "entities": [
+        "London",
+        "Lewisham Council"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:22+00:00",
+      "id": "306a84c75eb1"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "New DLR link to support thousands of new homes gets public backing to go ahead",
+      "url": "https://insidehousing.co.uk/home/new-dlr-link-to-support-thousands-of-new-homes-gets-public-backing-to-go-ahead-99097",
+      "published": "2026-10-12T10:15:00+00:00",
+      "excerpt": "A consultation on plans to extend the Docklands Light Railway to Thamesmead and Beckton Riverside has shown “continued strong support for the scheme”",
+      "entities": [
+        "New DLR",
+        "Docklands Light Railway",
+        "Thamesmead and Beckton Riverside"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:22+00:00",
+      "id": "cc234a827de5"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Can the autumn Budget change the economics of homelessness?",
+      "url": "https://insidehousing.co.uk/home/can-the-autumn-budget-change-the-economics-of-homelessness-98901",
+      "published": "2026-10-12T06:00:00+00:00",
+      "excerpt": "A Total Place approach to funding could be the key to holistic homelessness prevention, writes Ligia Teixeira, chief executive of the Centre for Homelessness Impact",
+      "entities": [
+        "Budget",
+        "Total Place",
+        "Ligia Teixeira",
+        "Centre",
+        "Homelessness Impact"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:22+00:00",
+      "id": "fb4cd64558a5"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Partners lodge plans for 152 affordable homes in Woodley",
+      "url": "https://placenorthwest.co.uk/partners-lodge-plans-for-152-affordable-homes-in-woodley",
+      "published": "2026-10-12T12:59:59+00:00",
+      "excerpt": "Anwyl Partner Projects and Great Places Housing Group have submitted a proposal to build houses on 23 acres off Gravel Bank Road. The post Partners lodge plans for 152 affordable homes in Woodley appeared first on Place North West .",
+      "entities": [
+        "Partners",
+        "Woodley. Anwyl Partner Projects",
+        "Great Places Housing Group",
+        "Gravel Bank Road. The",
+        "Woodley",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:29+00:00",
+      "id": "8ae160187a2a"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Barratt works up plans for another phase in Burnley",
+      "url": "https://placenorthwest.co.uk/barratt-works-up-plans-for-another-phase-in-burnley",
+      "published": "2026-10-12T12:59:25+00:00",
+      "excerpt": "The volume housebuilder wants to construct 150 houses on 30 acres next door to its 87-home Brun Lea Heights development. The post Barratt works up plans for another phase in Burnley appeared first on Place North West .",
+      "entities": [
+        "Barratt",
+        "Burnley. The",
+        "Brun Lea Heights",
+        "Burnley",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:29+00:00",
+      "id": "ec732c12ad47"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Preston approves city centre car park, 60 homes",
+      "url": "https://placenorthwest.co.uk/preston-approves-city-centre-car-park-60-homes",
+      "published": "2026-10-12T10:42:11+00:00",
+      "excerpt": "In a roundabout way, the city council has kept hopes for the redevelopment of the former Odeon Cinema site alive while also giving developer Progressive Living the right to operate the site permanently as a car park. The post Preston approves city centre car park, 60 homes appeared first on Place North West .",
+      "entities": [
+        "Preston",
+        "Odeon Cinema",
+        "Progressive Living",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:29+00:00",
+      "id": "a16d584c9052"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Tilbury Douglas in box seat for £45m Haigh Hall restoration",
+      "url": "https://placenorthwest.co.uk/tilbury-douglas-in-box-seat-for-45m-haigh-hall-restoration",
+      "published": "2026-10-12T09:18:10+00:00",
+      "excerpt": "The contractor has been drafted in to take the transformation of Wigan Council’s grade two star-listed asset into a “nationally significant” cultural destination through pre-construction. The post Tilbury Douglas in box seat for £45m Haigh Hall restoration appeared first on Place North West .",
+      "entities": [
+        "Tilbury Douglas",
+        "Haigh Hall",
+        "Wigan Council’s",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:29+00:00",
+      "id": "dc9ff43926d9"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Trafford to seek public support for long-stalled Alty site as revised plans progress",
+      "url": "https://placenorthwest.co.uk/trafford-to-seek-public-support-for-long-stalled-alty-site",
+      "published": "2026-10-12T08:34:51+00:00",
+      "excerpt": "Plans for the 4.5-acre plot off Oakfield Road previously known as Altair will be residential-led under revised proposals from the council published three years after the collapse of Nikal, the developer previously attached to the scheme. The post Trafford to seek public support for long-stalled Alty site as revised plans progress appeared first on Place North West .",
+      "entities": [
+        "Trafford",
+        "Alty",
+        "Plans",
+        "Oakfield Road",
+        "Altair",
+        "Nikal",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:29+00:00",
+      "id": "22783f7846f8"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Regulation and redress must work hand in hand if this reform is to deliver for consumers",
+      "url": "https://propertyindustryeye.com/regulation-and-redress-must-work-hand-in-hand-if-this-reform-is-to-deliver-for-consumers",
+      "published": "2026-10-12T05:50:19+00:00",
+      "excerpt": "Lesley Horton looks at what needs to happen next following the Government’s commitment to introduce independent regulation of property agents",
+      "entities": [
+        "Regulation",
+        "Lesley Horton",
+        "Government’s"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:31+00:00",
+      "id": "fec717445e46"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Self-employed agency network hits 100 brokers after tripling in two years",
+      "url": "https://propertyindustryeye.com/self-employed-agency-network-hits-100-brokers-after-tripling-in-two-years",
+      "published": "2026-10-12T02:50:52+00:00",
+      "excerpt": "Senior agents make the switch to self-employed",
+      "entities": [
+        "Self-employed",
+        "Senior"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:31+00:00",
+      "id": "45eafe0672de"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Housing market faces fresh squeeze as mortgage rates hit three-year high",
+      "url": "https://propertyindustryeye.com/housing-market-faces-fresh-squeeze-as-mortgage-rates-hit-three-year-high",
+      "published": "2026-10-12T01:50:06+00:00",
+      "excerpt": "Knight Frank's latest figures show the impact of higher mortgage rates and political uncertainty on the market",
+      "entities": [
+        "Housing",
+        "Knight Frank's"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:31+00:00",
+      "id": "3079a71cabdf"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Landlord who never visited rental property ordered to pay £28,500",
+      "url": "https://propertyindustryeye.com/landlord-who-never-visited-rental-property-ordered-to-pay-28500",
+      "published": "2026-10-12T01:20:03+00:00",
+      "excerpt": "The landlord's lack of action in this case described as 'shocking'",
+      "entities": [
+        "Landlord"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:31+00:00",
+      "id": "88dcbcbaa1fb"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Rental market takes a turn – but there’s a catch",
+      "url": "https://propertyindustryeye.com/rental-market-takes-a-turn-but-theres-a-catch",
+      "published": "2026-10-12T01:00:15+00:00",
+      "excerpt": "Rents drop in 10 out of 11 regions as market shows signs of easing",
+      "entities": [
+        "Rental",
+        "Rents"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:31+00:00",
+      "id": "ce6876cce0af"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Prime property prices fall further as buyers gain the upper hand",
+      "url": "https://propertyindustryeye.com/prime-property-prices-fall-further-as-buyers-gain-the-upper-hand",
+      "published": "2026-10-12T00:40:42+00:00",
+      "excerpt": "Prime property prices continued to fall in the third quarter, but the pace of decline is slowing as sellers adjust their expectations to secure deals. New figures from Savills show prime central London values fell 1.5% between July and September, taking the annual decline to 4.8%. Prices in the capital’s most expensive neighbourhoods now stand … Continued",
+      "entities": [
+        "Prime",
+        "Savills",
+        "London",
+        "July and September",
+        "Prices",
+        "Continued"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:31+00:00",
+      "id": "e0be4d515928"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "eXp announces major London event as global bosses head to UK",
+      "url": "https://propertyindustryeye.com/exp-announces-major-london-event-as-global-bosses-head-to-uk",
+      "published": "2026-10-12T00:20:32+00:00",
+      "excerpt": "Conference building on the success of eXp UK",
+      "entities": [
+        "London",
+        "UK. Conference"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:31+00:00",
+      "id": "b0a22e9dd77c"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "UFO crash lands in estate agency",
+      "url": "https://propertyindustryeye.com/ufo-crash-lands-in-estate-agency",
+      "published": "2026-10-11T23:50:14+00:00",
+      "excerpt": "Close encounters of the estate agency kind as UFO crash lands in north London",
+      "entities": [
+        "Close",
+        "London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:31+00:00",
+      "id": "cc614eb7b75d"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Former agent says ‘I’ll take down Rightmove’",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/new-sales-video-app-aims-to-take-down-rightmove",
+      "published": "2026-10-11T23:06:00+00:00",
+      "excerpt": "Scroll Home's app should be available from December 1",
+      "entities": [
+        "Former",
+        "I’ll",
+        "Rightmove’. Scroll Home's"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:31+00:00",
+      "id": "fb85695452cf"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Key sales role for long-standing agency figure",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/key-sales-role-goes-to-long-standing-agency-staff-member",
+      "published": "2026-10-11T23:05:00+00:00",
+      "excerpt": "This is at a Knight Frank sales office",
+      "entities": [
+        "Knight Frank"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:31+00:00",
+      "id": "b9f15dddd396"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Some prime house prices now 27% below peak, admits Savills",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/some-prime-house-prices-now-27-below-peak-admits-savills",
+      "published": "2026-10-11T23:04:00+00:00",
+      "excerpt": "The peak was now 12 years ago",
+      "entities": [
+        "Some",
+        "Savills. The"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:31+00:00",
+      "id": "c7e2159b076e"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Mansion Tax “won’t be extended to cheaper properties”",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/mansion-tax-wont-be-extended-to-cheaper-properties",
+      "published": "2026-10-11T23:02:00+00:00",
+      "excerpt": "Chancellor John Healey has rejected the idea of extending the proposed Mansion Tax to cheaper properties. The tax – which is formally called the High Value Council Tax Surcharge (HVCTS) – comes into effect in 2028 after being created by former Chancellor Rachel Reeves. Under her rules, the HVCTS applies to properties valued at £2m […]",
+      "entities": [
+        "Mansion Tax",
+        "Chancellor John Healey",
+        "High Value Council Tax",
+        "Surcharge",
+        "HVCTS",
+        "Chancellor Rachel Reeves. Under"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:31+00:00",
+      "id": "823e71f3e3d2"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Retirement flats branded “a miserable investment”",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/retirement-flats-branded-a-miserable-investment",
+      "published": "2026-10-11T23:01:00+00:00",
+      "excerpt": "The Financial Times is suspicious about the lack of industry data for the sector",
+      "entities": [
+        "Retirement",
+        "The Financial Times"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:31+00:00",
+      "id": "694389066046"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "eXp plans 2027 extravaganza for broker agents",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/exp-plans-2027-extravaganza-for-broker-agents",
+      "published": "2026-10-11T23:00:00+00:00",
+      "excerpt": "It will involve eXp agents from around the world",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:31+00:00",
+      "id": "496f31384388"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "Awaab's Law: Government puts landlord costs at £42m a year",
+      "url": "https://landlordzone.co.uk/news/awaabs-law-government-puts-landlord-costs-at-ps42m-a-year",
+      "published": "2026-10-12T12:40:34+00:00",
+      "excerpt": "News - Helen Gregory - The government estimates that extending Awaab’s Law to private rented homes will result in annual net costs to landlords of £42.2 million.",
+      "entities": [
+        "Awaab's Law",
+        "News",
+        "Helen Gregory",
+        "Awaab’s Law"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:31+00:00",
+      "id": "74daa728541a"
+    },
+    {
+      "source_key": "landlordzone",
+      "source_name": "LandlordZONE",
+      "title": "BTL yields hit 15-year high as regional gap widens",
+      "url": "https://landlordzone.co.uk/news/btl-yields-hit-15-year-high-as-regional-gap-widens",
+      "published": "2026-10-12T10:32:53+00:00",
+      "excerpt": "News - Helen Gregory - Average gross buy-to-let yields have reached their highest level for more than 15 years, according to Paragon Bank.",
+      "entities": [
+        "News",
+        "Helen Gregory",
+        "Average",
+        "Paragon Bank"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-12T17:07:31+00:00",
+      "id": "1b0248343399"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Cover of vaccination evaluated rapidly (COVER) programme 2025 to 2026: quarterly data",
+      "url": "https://gov.uk/government/statistics/cover-of-vaccination-evaluated-rapidly-cover-programme-2025-to-2026-quarterly-data",
+      "published": "2026-10-12T15:04:24+00:00",
+      "excerpt": "UK quarterly data and commentary on coverage achieved by the UK childhood immunisation programme.",
+      "entities": [
+        "Cover",
+        "COVER"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-12T17:07:32+00:00",
+      "id": "e804eda133b1"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Measures from the adult social care outcomes framework, England: 2024 to 2025",
+      "url": "https://gov.uk/government/statistics/measures-from-the-adult-social-care-outcomes-framework-england-2024-to-2025",
+      "published": "2026-10-12T13:29:50+00:00",
+      "excerpt": "Findings from ASCOF, which measures how well care services achieve outcomes including quality of life and whether long-term support needs are being met.",
+      "entities": [
+        "Measures",
+        "Findings",
+        "ASCOF"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-12T17:07:32+00:00",
+      "id": "e9f2eb2e34e4"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Defra International indicator results – Statement of voluntary application of the Code of Practice for Statistics",
+      "url": "https://gov.uk/government/publications/statement-of-voluntary-compliance-with-the-code-of-practice-for-statistics-defras-oda-annual-results-report",
+      "published": "2026-10-12T13:08:34+00:00",
+      "excerpt": "Statement of voluntary application of the Code of Practice for Statistics.",
+      "entities": [
+        "Defra International",
+        "Statement",
+        "Code of Practice",
+        "Statistics. Statement",
+        "Statistics"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-12T17:07:32+00:00",
+      "id": "3ecb61a59de6"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Cyber security skills and sectoral analysis 2027: privacy notice",
+      "url": "https://gov.uk/government/publications/cyber-security-skills-and-sectoral-analysis-2027-privacy-notice",
+      "published": "2026-10-12T11:16:38+00:00",
+      "excerpt": "Privacy notice explaining how we will use personal data when organisations respond to the cyber security skills and sectoral analysis research 2027.",
+      "entities": [
+        "Cyber",
+        "Privacy"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-12T17:07:32+00:00",
+      "id": "0ada874bbdab"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "DCMS R&D Science & Analysis Programme Phase 1 evaluation",
+      "url": "https://gov.uk/government/publications/dcms-rd-science-analysis-programme-phase-1-evaluation",
+      "published": "2026-10-12T08:30:01+00:00",
+      "excerpt": "Independent evaluation of Phase 1 (2022 to 2025) of the DCMS R&D Science & Analysis Programme.",
+      "entities": [
+        "DCMS R&D Science",
+        "Analysis Programme Phase",
+        "Independent",
+        "Phase",
+        "Analysis Programme"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-12T17:07:32+00:00",
+      "id": "77fa29b84956"
+    }
+  ]
+}
