@@ -1,0 +1,682 @@
+{
+  "generated_at": "2026-10-13T15:24:21+00:00",
+  "date_label": "Tuesday 13 October 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CfzU5QdQqGLQWNjeBxY4U'}\n\n36 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 8,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 7,
+      "context": ""
+    },
+    {
+      "name": "Welsh",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Former",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Independent",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Statistics",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Scottish",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Ore Valley Housing Association",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Scotland’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Large Welsh",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Wates",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Trivallis",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Penrhys",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Landlords",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Together Housing and Vico Homes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Retrofit",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Budget. Retrofit",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Budget",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Homes England",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Strategic Place Partnership. Homes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "fd80a09aa1dc": {
+      "id": "fd80a09aa1dc",
+      "importance": "Medium",
+      "summary": "Ore Valley Housing Association has been found non-compliant with Scotland’s social housing regulatory standards",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Scottish",
+        "Ore Valley Housing Association",
+        "Scotland’s"
+      ],
+      "locations": []
+    },
+    "1c0b518c290a": {
+      "id": "1c0b518c290a",
+      "importance": "Medium",
+      "summary": "Welsh housing association Trivallis has selected Wates as its development partner for a 900-home regeneration scheme in Penrhys",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing",
+        "Regional development"
+      ],
+      "companies": [
+        "Large Welsh",
+        "Wates",
+        "Welsh",
+        "Trivallis"
+      ],
+      "locations": []
+    },
+    "726458f4ef04": {
+      "id": "726458f4ef04",
+      "importance": "Medium",
+      "summary": "Together Housing and Vico Homes have opened early discussions about coming together as one larger association",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "Together Housing and Vico Homes"
+      ],
+      "locations": []
+    },
+    "e696fb69ada4": {
+      "id": "e696fb69ada4",
+      "importance": "Medium",
+      "summary": "Retrofit bosses have warned of a “severe blow” to households after it was reported that the government could cut heat pump subsidies to fund defence in the Budget",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Retrofit",
+        "Budget. Retrofit",
+        "Budget"
+      ],
+      "locations": []
+    },
+    "93679fd21db5": {
+      "id": "93679fd21db5",
+      "importance": "Medium",
+      "summary": "Homes England has signed its latest Strategic Place Partnership in a bid to deliver more homes and bring underused land back into use",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Homes England",
+        "Strategic Place Partnership. Homes",
+        "Strategic Place Partnership"
+      ],
+      "locations": []
+    },
+    "8e2c33b7590b": {
+      "id": "8e2c33b7590b",
+      "importance": "Medium",
+      "summary": "The redevelopment of the former Greater Manchester Police headquarters off Chester Road has been beefed up with an additional 200 homes and could be on site this time next year. The post FEC ramps up density in Old Traff",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Old Trafford",
+        "Greater Manchester Police",
+        "Chester Road",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "45c5de778232": {
+      "id": "45c5de778232",
+      "importance": "Medium",
+      "summary": "Wythenshawe Community Housing Group and Southway Housing Trust have taken a step towards amalgamation in November. The post Boards sign off South Manchester housing association merger appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Boards",
+        "South Manchester",
+        "Wythenshawe Community Housing Group",
+        "Southway Housing Trust"
+      ],
+      "locations": []
+    },
+    "fbeef5e66204": {
+      "id": "fbeef5e66204",
+      "importance": "Medium",
+      "summary": "Galliford Try has completed the structure of the 144-bedroom hotel, which is part of the wider Fettlers regeneration scheme being delivered by Cityheart. The post Wigan Hilton on course for completion in 2027 appeared fi",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Wigan Hilton",
+        "Galliford Try",
+        "Fettlers",
+        "Cityheart. The"
+      ],
+      "locations": []
+    },
+    "6e8ebaae8a43": {
+      "id": "6e8ebaae8a43",
+      "importance": "Medium",
+      "summary": "Gavin Barwell, who is the chair of Stockport Mayoral Development Corporation and Theresa May’s former chief of staff, has called for no new rules for developers for three years and wants a firm commitment from government",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Gavin Barwell",
+        "Stockport Mayoral Development Corporation",
+        "Theresa May’s",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "760015aae72d": {
+      "id": "760015aae72d",
+      "importance": "Medium",
+      "summary": "To be built next to Theatr Clwyd in Mold, the 23,000 sq ft joint facility for Flintshire and Denbighshire was criticised at committee, with opponents declaring that such a project should have gone before the Design Commi",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Welsh",
+        "Theatr Clwyd",
+        "Mold",
+        "Flintshire and Denbighshire"
+      ],
+      "locations": []
+    },
+    "91957035a93e": {
+      "id": "91957035a93e",
+      "importance": "Medium",
+      "summary": "The developer stepped in to complete the Wharton Road scheme following the collapse of Lane End in 2022. The post Breck picks up the pieces to complete 205 Winsford homes for Jigsaw appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Breck",
+        "Winsford",
+        "Jigsaw. The",
+        "Wharton Road"
+      ],
+      "locations": []
+    },
+    "c055e040ad1c": {
+      "id": "c055e040ad1c",
+      "importance": "Medium",
+      "summary": "Auto Rental Car Hire wants to build four apartment blocks featuring a combined 49 flats on land between Bank Street a nd Queen Street. The post Farnworth car rental outfit proposes resi on site of its head office appeare",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Farnworth",
+        "Auto Rental Car Hire",
+        "Bank Street",
+        "Queen Street. The"
+      ],
+      "locations": []
+    },
+    "237ab85a7d7e": {
+      "id": "237ab85a7d7e",
+      "importance": "Medium",
+      "summary": "Former letting agent admitted 19 fraud offences after 20 landlords and tenants suffered major losses",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Agent",
+        "Former"
+      ],
+      "locations": []
+    },
+    "c5e4e3afdc73": {
+      "id": "c5e4e3afdc73",
+      "importance": "Medium",
+      "summary": "Research by Yopa suggests a £1.5m threshold would have caught almost one in 10 London homes on the market",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Chancellor",
+        "Research",
+        "Yopa",
+        "London"
+      ],
+      "locations": []
+    },
+    "c233d32c4b35": {
+      "id": "c233d32c4b35",
+      "importance": "Medium",
+      "summary": "Property-only social media platform launches",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Former",
+        "LinkedIn and Facebook. Property-only"
+      ],
+      "locations": []
+    },
+    "4c4e0ffafebf": {
+      "id": "4c4e0ffafebf",
+      "importance": "Medium",
+      "summary": "The deal marks another acquisition for the agency group as it continues to expand across the UK.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Independent"
+      ],
+      "locations": []
+    },
+    "cec4d51b1550": {
+      "id": "cec4d51b1550",
+      "importance": "Medium",
+      "summary": "Estate agency owner intends to pursue further acquisitions",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "eb96da66e07b": {
+      "id": "eb96da66e07b",
+      "importance": "Medium",
+      "summary": "Rightmove rolls out new AI tool to help buyers compare properties",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    "1ff5cf1644c3": {
+      "id": "1ff5cf1644c3",
+      "importance": "Medium",
+      "summary": "Rental yields climb in eight out of 10 regions – but where are returns highest?",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Buy-to-let",
+        "Rental"
+      ],
+      "locations": []
+    },
+    "5147492436bf": {
+      "id": "5147492436bf",
+      "importance": "Medium",
+      "summary": "Moveli positions new earnings calculator as a recruitment tool",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Fast-growing",
+        "Moveli"
+      ],
+      "locations": []
+    },
+    "cf809583cf65": {
+      "id": "cf809583cf65",
+      "importance": "Medium",
+      "summary": "It's not the same for everyone . . .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Christmas",
+        "It's"
+      ],
+      "locations": []
+    },
+    "611116a8e128": {
+      "id": "611116a8e128",
+      "importance": "Medium",
+      "summary": "An estate agent who scammed almost £50,000 has avoided jail. East Anglia agent Victoria Steele, 51, had pleaded guilty to 19 fraud offences following a police investigation. It’s been reported by local media in the regio",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Guilty",
+        "East Anglia",
+        "Victoria Steele",
+        "It’s"
+      ],
+      "locations": []
+    },
+    "ea7d0296965f": {
+      "id": "ea7d0296965f",
+      "importance": "Medium",
+      "summary": "Two brothers, each a former estate agent, are setting up an app specifically for those in the property industry. Chris and David Tremlett – who used to work at traditional agency Pointins and online operators Purplebrick",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Ex-agents",
+        "Facebook. Two",
+        "Chris and David Tremlett",
+        "Pointins"
+      ],
+      "locations": []
+    },
+    "364c69c38d7a": {
+      "id": "364c69c38d7a",
+      "importance": "Medium",
+      "summary": "A Martin & Co franchisee has completed his fourth acquisition with the purchase of independent agency ADM Residential. Martin & Co Huddersfield franchise owner Will Taylor since 2009. Having originally built the business",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Independent",
+        "Martin",
+        "ADM Residential. Martin",
+        "Co Huddersfield"
+      ],
+      "locations": []
+    },
+    "715e40e6812f": {
+      "id": "715e40e6812f",
+      "importance": "Medium",
+      "summary": "There are almost 5m leasehold properties in the UK",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Service"
+      ],
+      "locations": []
+    },
+    "76c9a3faf6fb": {
+      "id": "76c9a3faf6fb",
+      "importance": "Medium",
+      "summary": "Savills has appointed Ashley Gale to lead its new homes team in Cambridge. Gale joined Savills in 2025 and has over 20 years’ experience in the sector, having previously worked for housebuilders Hopkins Homes and Weston ",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Savills",
+        "Ashley Gale",
+        "Cambridge. Gale",
+        "Hopkins Homes and Weston Homes"
+      ],
+      "locations": []
+    },
+    "7171d2c7cf10": {
+      "id": "7171d2c7cf10",
+      "importance": "Medium",
+      "summary": "The brand has around 100 agents across the UK",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Self",
+        "AI. The"
+      ],
+      "locations": []
+    },
+    "7b872767ee38": {
+      "id": "7b872767ee38",
+      "importance": "Medium",
+      "summary": "Regulatory Policy Committee's opinion of the quality of the evidence and analysis in the Home Office's impact assessment.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Immigration and Asylum Bill. Regulatory",
+        "Policy Committee's",
+        "Home Office's"
+      ],
+      "locations": []
+    },
+    "dfe555a0aa44": {
+      "id": "dfe555a0aa44",
+      "importance": "Medium",
+      "summary": "The Independent Report on Paramilitary Group Transition to Disbandment has been published today, Tuesday 13 October.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Independent Report",
+        "Paramilitary Group Transition",
+        "Disbandment. The Independent Report",
+        "Disbandment"
+      ],
+      "locations": []
+    },
+    "b0f085bf399e": {
+      "id": "b0f085bf399e",
+      "importance": "Medium",
+      "summary": "Monthly reports on rainfall, soil moisture deficit, river flows, groundwater levels and reservoir levels.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Water",
+        "Monthly"
+      ],
+      "locations": []
+    },
+    "a833ecab12a1": {
+      "id": "a833ecab12a1",
+      "importance": "Medium",
+      "summary": "Science advice notes on the entry pathways to better support girls' and women’s access to, and progression in, technology-related careers.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Improving",
+        "Science"
+      ],
+      "locations": []
+    },
+    "9b4ff8b2b435": {
+      "id": "9b4ff8b2b435",
+      "importance": "Medium",
+      "summary": "Updates on the proposed commercial frameworks for transport and storage, power, and industrial carbon capture business models.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Carbon",
+        "CCUS",
+        "Updates"
+      ],
+      "locations": []
+    },
+    "3099159ebfdc": {
+      "id": "3099159ebfdc",
+      "importance": "Medium",
+      "summary": "Official statistics annual data on coverage achieved by the childhood immunisation programme in England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Cover",
+        "COVER",
+        "Official"
+      ],
+      "locations": []
+    },
+    "ae2ca782a181": {
+      "id": "ae2ca782a181",
+      "importance": "Medium",
+      "summary": "Annual trends in wild bird populations in the UK and England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Wild",
+        "England. Annual",
+        "UK and England"
+      ],
+      "locations": []
+    },
+    "caf75a4ebbc3": {
+      "id": "caf75a4ebbc3",
+      "importance": "Medium",
+      "summary": "Statistics on UK armed forces veterans resident in England and Wales.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "England and Wales",
+        "Statistics"
+      ],
+      "locations": []
+    },
+    "7de5d88590e1": {
+      "id": "7de5d88590e1",
+      "importance": "Medium",
+      "summary": "Statistics on industry-level concentration measures showing how market concentration has changed from 2007 to 2025.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Trends",
+        "Statistics"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 36,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CfzU5QdQqGLQWNjeBxY4U'}",
+    "model": null
+  }
+}

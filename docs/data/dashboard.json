@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generated_at_utc": "2026-10-12T17:07:38+00:00",
-  "generated_at_london": "2026-10-12T18:07+01:00",
-  "date_label": "12 October 2026",
-  "time_label": "18:07 BST",
-  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cfxi9HMLbFVzuWBy4jW9r'}\n\n29 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "generated_at_utc": "2026-10-13T15:24:21+00:00",
+  "generated_at_london": "2026-10-13T16:24+01:00",
+  "date_label": "13 October 2026",
+  "time_label": "16:24 BST",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CfzU5QdQqGLQWNjeBxY4U'}\n\n36 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
   "sentiment": {
     "overall": "neutral",
     "score": 0,
@@ -16,14 +16,28 @@
   "themes": [
     {
       "name": "Residential investment",
-      "count": 7,
+      "count": 8,
       "direction": "steady",
       "summary": "",
       "article_ids": []
     },
     {
       "name": "Affordable housing",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
       "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 1,
       "direction": "steady",
       "summary": "",
       "article_ids": []
@@ -34,67 +48,107 @@
       "direction": "steady",
       "summary": "",
       "article_ids": []
-    },
-    {
-      "name": "Interest rates & mortgages",
-      "count": 1,
-      "direction": "steady",
-      "summary": "",
-      "article_ids": []
-    },
-    {
-      "name": "Later living",
-      "count": 1,
-      "direction": "steady",
-      "summary": "",
-      "article_ids": []
     }
   ],
   "companies": [
     {
       "name": "Place North West",
       "type": "Other",
-      "mentions": 5,
+      "mentions": 7,
       "context": ""
     },
     {
-      "name": "London",
-      "type": "Other",
-      "mentions": 4,
-      "context": ""
-    },
-    {
-      "name": "News",
+      "name": "Welsh",
       "type": "Other",
       "mentions": 2,
       "context": ""
     },
     {
-      "name": "Helen Gregory",
+      "name": "Former",
       "type": "Other",
       "mentions": 2,
       "context": ""
     },
     {
-      "name": "Lewisham Council",
+      "name": "Independent",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Statistics",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Scottish",
       "type": "Other",
       "mentions": 1,
       "context": ""
     },
     {
-      "name": "New DLR",
+      "name": "Ore Valley Housing Association",
       "type": "Other",
       "mentions": 1,
       "context": ""
     },
     {
-      "name": "Docklands Light Railway",
+      "name": "Scotland’s",
       "type": "Other",
       "mentions": 1,
       "context": ""
     },
     {
-      "name": "Thamesmead and Beckton Riverside",
+      "name": "Large Welsh",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Wates",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Trivallis",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Penrhys",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Landlords",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Together Housing and Vico Homes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Retrofit",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Budget. Retrofit",
       "type": "Other",
       "mentions": 1,
       "context": ""
@@ -106,67 +160,13 @@
       "context": ""
     },
     {
-      "name": "Total Place",
+      "name": "Homes England",
       "type": "Other",
       "mentions": 1,
       "context": ""
     },
     {
-      "name": "Ligia Teixeira",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "Centre",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "Homelessness Impact",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "Partners",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "Woodley. Anwyl Partner Projects",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "Great Places Housing Group",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "Gravel Bank Road. The",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "Woodley",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "Barratt",
-      "type": "Other",
-      "mentions": 1,
-      "context": ""
-    },
-    {
-      "name": "Burnley. The",
+      "name": "Strategic Place Partnership. Homes",
       "type": "Other",
       "mentions": 1,
       "context": ""
@@ -183,635 +183,778 @@
   "regions": [],
   "stories": [
     {
-      "id": "e804eda133b1",
-      "title": "Cover of vaccination evaluated rapidly (COVER) programme 2025 to 2026: quarterly data",
+      "id": "fd80a09aa1dc",
+      "title": "Scottish housing association judged non-compliant with regulatory standards",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/scottish-housing-association-judged-non-compliant-with-regulatory-standards-99127",
+      "published": "2026-10-13T14:30:00+00:00",
+      "kind": "news",
+      "excerpt": "Ore Valley Housing Association has been found non-compliant with Scotland’s social housing regulatory standards",
+      "importance": "Medium",
+      "summary": "Ore Valley Housing Association has been found non-compliant with Scotland’s social housing regulatory standards",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Scottish",
+        "Ore Valley Housing Association",
+        "Scotland’s"
+      ],
+      "locations": []
+    },
+    {
+      "id": "7b872767ee38",
+      "title": "RPC opinion: impact of Immigration and Asylum Bill",
       "source": "HM Land Registry — UK HPI",
       "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/statistics/cover-of-vaccination-evaluated-rapidly-cover-programme-2025-to-2026-quarterly-data",
-      "published": "2026-10-12T15:04:24+00:00",
+      "url": "https://gov.uk/government/publications/rpc-opinion-impact-of-immigration-and-asylum-bill",
+      "published": "2026-10-13T14:19:30+00:00",
       "kind": "data",
-      "excerpt": "UK quarterly data and commentary on coverage achieved by the UK childhood immunisation programme.",
+      "excerpt": "Regulatory Policy Committee's opinion of the quality of the evidence and analysis in the Home Office's impact assessment.",
       "importance": "Medium",
-      "summary": "UK quarterly data and commentary on coverage achieved by the UK childhood immunisation programme.",
+      "summary": "Regulatory Policy Committee's opinion of the quality of the evidence and analysis in the Home Office's impact assessment.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Immigration and Asylum Bill. Regulatory",
+        "Policy Committee's",
+        "Home Office's"
+      ],
+      "locations": []
+    },
+    {
+      "id": "8e2c33b7590b",
+      "title": "FEC ramps up density in Old Trafford as timeline, housing mix firmed up",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/fec-ramps-up-density-in-old-trafford-as-timeline-housing-mix-firmed-up",
+      "published": "2026-10-13T13:33:19+00:00",
+      "kind": "news",
+      "excerpt": "The redevelopment of the former Greater Manchester Police headquarters off Chester Road has been beefed up with an additional 200 homes and could be on site this time next year. The post FEC ramps up density in Old Trafford as timeline, housing mix firmed up appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "The redevelopment of the former Greater Manchester Police headquarters off Chester Road has been beefed up with an additional 200 homes and could be on site this time next year. The post FEC ramps up density in Old Traff",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Old Trafford",
+        "Greater Manchester Police",
+        "Chester Road",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    {
+      "id": "1c0b518c290a",
+      "title": "Large Welsh housing association appoints Wates to deliver £209m regeneration scheme",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/large-welsh-housing-association-appoints-wates-to-deliver-209m-regeneration-scheme-99108",
+      "published": "2026-10-13T13:00:00+00:00",
+      "kind": "news",
+      "excerpt": "Welsh housing association Trivallis has selected Wates as its development partner for a 900-home regeneration scheme in Penrhys",
+      "importance": "Medium",
+      "summary": "Welsh housing association Trivallis has selected Wates as its development partner for a 900-home regeneration scheme in Penrhys",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing",
+        "Regional development"
+      ],
+      "companies": [
+        "Large Welsh",
+        "Wates",
+        "Welsh",
+        "Trivallis"
+      ],
+      "locations": []
+    },
+    {
+      "id": "dfe555a0aa44",
+      "title": "Independent Report on Paramilitary Group Transition to Disbandment",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/independent-report-on-paramilitary-group-transition-to-disbandment",
+      "published": "2026-10-13T12:21:17+00:00",
+      "kind": "data",
+      "excerpt": "The Independent Report on Paramilitary Group Transition to Disbandment has been published today, Tuesday 13 October.",
+      "importance": "Medium",
+      "summary": "The Independent Report on Paramilitary Group Transition to Disbandment has been published today, Tuesday 13 October.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Independent Report",
+        "Paramilitary Group Transition",
+        "Disbandment. The Independent Report",
+        "Disbandment"
+      ],
+      "locations": []
+    },
+    {
+      "id": "726458f4ef04",
+      "title": "Landlords explore merging into 70,000-home association",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/landlords-explore-merging-into-70000-home-association-99122",
+      "published": "2026-10-13T11:23:17+00:00",
+      "kind": "news",
+      "excerpt": "Together Housing and Vico Homes have opened early discussions about coming together as one larger association",
+      "importance": "Medium",
+      "summary": "Together Housing and Vico Homes have opened early discussions about coming together as one larger association",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords",
+        "Together Housing and Vico Homes"
+      ],
+      "locations": []
+    },
+    {
+      "id": "e696fb69ada4",
+      "title": "Retrofit bosses warn of ‘severe blow’ as heat pump subsidy could be slashed at autumn Budget",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/retrofit-bosses-warn-of-severe-blow-as-heat-pump-subsidy-could-be-slashed-at-autumn-budget-99114",
+      "published": "2026-10-13T11:19:59+00:00",
+      "kind": "news",
+      "excerpt": "Retrofit bosses have warned of a “severe blow” to households after it was reported that the government could cut heat pump subsidies to fund defence in the Budget",
+      "importance": "Medium",
+      "summary": "Retrofit bosses have warned of a “severe blow” to households after it was reported that the government could cut heat pump subsidies to fund defence in the Budget",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Retrofit",
+        "Budget. Retrofit",
+        "Budget"
+      ],
+      "locations": []
+    },
+    {
+      "id": "45c5de778232",
+      "title": "Boards sign off South Manchester housing association merger",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/boards-sign-off-south-manchester-housing-association-merger",
+      "published": "2026-10-13T10:49:26+00:00",
+      "kind": "news",
+      "excerpt": "Wythenshawe Community Housing Group and Southway Housing Trust have taken a step towards amalgamation in November. The post Boards sign off South Manchester housing association merger appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "Wythenshawe Community Housing Group and Southway Housing Trust have taken a step towards amalgamation in November. The post Boards sign off South Manchester housing association merger appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Boards",
+        "South Manchester",
+        "Wythenshawe Community Housing Group",
+        "Southway Housing Trust"
+      ],
+      "locations": []
+    },
+    {
+      "id": "b0f085bf399e",
+      "title": "Water situation: national monthly reports for England 2026",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/water-situation-national-monthly-reports-for-england-2026",
+      "published": "2026-10-13T10:46:44+00:00",
+      "kind": "data",
+      "excerpt": "Monthly reports on rainfall, soil moisture deficit, river flows, groundwater levels and reservoir levels.",
+      "importance": "Medium",
+      "summary": "Monthly reports on rainfall, soil moisture deficit, river flows, groundwater levels and reservoir levels.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Water",
+        "Monthly"
+      ],
+      "locations": []
+    },
+    {
+      "id": "fbeef5e66204",
+      "title": "Wigan Hilton on course for completion in 2027",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/wigan-hilton-on-course-for-completion-in-2027",
+      "published": "2026-10-13T09:48:00+00:00",
+      "kind": "news",
+      "excerpt": "Galliford Try has completed the structure of the 144-bedroom hotel, which is part of the wider Fettlers regeneration scheme being delivered by Cityheart. The post Wigan Hilton on course for completion in 2027 appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "Galliford Try has completed the structure of the 144-bedroom hotel, which is part of the wider Fettlers regeneration scheme being delivered by Cityheart. The post Wigan Hilton on course for completion in 2027 appeared fi",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Wigan Hilton",
+        "Galliford Try",
+        "Fettlers",
+        "Cityheart. The"
+      ],
+      "locations": []
+    },
+    {
+      "id": "6e8ebaae8a43",
+      "title": "No new regulation for three years, demands commission led by ex-housing minister",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/no-new-regulation-for-three-years-demands-commission-led-by-ex-housing-minister",
+      "published": "2026-10-13T09:35:19+00:00",
+      "kind": "news",
+      "excerpt": "Gavin Barwell, who is the chair of Stockport Mayoral Development Corporation and Theresa May’s former chief of staff, has called for no new rules for developers for three years and wants a firm commitment from government that it will not impose rent controls. The post No new regulation for three years, demands commission led by ex-housing minister appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "Gavin Barwell, who is the chair of Stockport Mayoral Development Corporation and Theresa May’s former chief of staff, has called for no new rules for developers for three years and wants a firm commitment from government",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Gavin Barwell",
+        "Stockport Mayoral Development Corporation",
+        "Theresa May’s",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    {
+      "id": "a833ecab12a1",
+      "title": "Improving pathways for women into technology careers",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/improving-pathways-for-women-into-technology-careers",
+      "published": "2026-10-13T09:30:03+00:00",
+      "kind": "data",
+      "excerpt": "Science advice notes on the entry pathways to better support girls' and women’s access to, and progression in, technology-related careers.",
+      "importance": "Medium",
+      "summary": "Science advice notes on the entry pathways to better support girls' and women’s access to, and progression in, technology-related careers.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Improving",
+        "Science"
+      ],
+      "locations": []
+    },
+    {
+      "id": "760015aae72d",
+      "title": "Welsh archive squeaks through with 6-4 vote",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/welsh-archive-squeaks-through-with-6-4-vote",
+      "published": "2026-10-13T09:13:09+00:00",
+      "kind": "news",
+      "excerpt": "To be built next to Theatr Clwyd in Mold, the 23,000 sq ft joint facility for Flintshire and Denbighshire was criticised at committee, with opponents declaring that such a project should have gone before the Design Commission for Wales. The post Welsh archive squeaks through with 6-4 vote appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "To be built next to Theatr Clwyd in Mold, the 23,000 sq ft joint facility for Flintshire and Denbighshire was criticised at committee, with opponents declaring that such a project should have gone before the Design Commi",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Welsh",
+        "Theatr Clwyd",
+        "Mold",
+        "Flintshire and Denbighshire"
+      ],
+      "locations": []
+    },
+    {
+      "id": "9b4ff8b2b435",
+      "title": "Carbon capture, usage and storage (CCUS): business models",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/carbon-capture-usage-and-storage-ccus-business-models",
+      "published": "2026-10-13T09:01:23+00:00",
+      "kind": "data",
+      "excerpt": "Updates on the proposed commercial frameworks for transport and storage, power, and industrial carbon capture business models.",
+      "importance": "Medium",
+      "summary": "Updates on the proposed commercial frameworks for transport and storage, power, and industrial carbon capture business models.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Carbon",
+        "CCUS",
+        "Updates"
+      ],
+      "locations": []
+    },
+    {
+      "id": "91957035a93e",
+      "title": "Breck picks up the pieces to complete 205 Winsford homes for Jigsaw",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/breck-picks-up-the-pieces-to-complete-205-winsford-homes-for-jigsaw",
+      "published": "2026-10-13T08:50:20+00:00",
+      "kind": "news",
+      "excerpt": "The developer stepped in to complete the Wharton Road scheme following the collapse of Lane End in 2022. The post Breck picks up the pieces to complete 205 Winsford homes for Jigsaw appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "The developer stepped in to complete the Wharton Road scheme following the collapse of Lane End in 2022. The post Breck picks up the pieces to complete 205 Winsford homes for Jigsaw appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Breck",
+        "Winsford",
+        "Jigsaw. The",
+        "Wharton Road"
+      ],
+      "locations": []
+    },
+    {
+      "id": "93679fd21db5",
+      "title": "Homes England signs new Strategic Place Partnership",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/homes-england-signs-new-strategic-place-partnership-99111",
+      "published": "2026-10-13T08:45:00+00:00",
+      "kind": "news",
+      "excerpt": "Homes England has signed its latest Strategic Place Partnership in a bid to deliver more homes and bring underused land back into use",
+      "importance": "Medium",
+      "summary": "Homes England has signed its latest Strategic Place Partnership in a bid to deliver more homes and bring underused land back into use",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Homes England",
+        "Strategic Place Partnership. Homes",
+        "Strategic Place Partnership"
+      ],
+      "locations": []
+    },
+    {
+      "id": "3099159ebfdc",
+      "title": "Cover of vaccination evaluated rapidly (COVER) programme: April 2025 to March 2026",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/cover-of-vaccination-evaluated-rapidly-cover-programme-april-2025-to-march-2026",
+      "published": "2026-10-13T08:30:08+00:00",
+      "kind": "data",
+      "excerpt": "Official statistics annual data on coverage achieved by the childhood immunisation programme in England.",
+      "importance": "Medium",
+      "summary": "Official statistics annual data on coverage achieved by the childhood immunisation programme in England.",
       "why_it_matters": "",
       "themes": [],
       "companies": [
         "Cover",
-        "COVER"
+        "COVER",
+        "Official"
       ],
       "locations": []
     },
     {
-      "id": "306a84c75eb1",
-      "title": "London council hopes to build on ‘legacy’ of community-led housing with new strategy",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/london-council-hopes-to-build-on-legacy-of-community-led-housing-with-new-strategy-99105",
-      "published": "2026-10-12T15:00:00+00:00",
-      "kind": "news",
-      "excerpt": "Lewisham Council is creating a community-led housebuilding strategy that brings together housing organisations to develop more affordable homes in the borough",
-      "importance": "Medium",
-      "summary": "Lewisham Council is creating a community-led housebuilding strategy that brings together housing organisations to develop more affordable homes in the borough",
-      "why_it_matters": "",
-      "themes": [
-        "Affordable housing"
-      ],
-      "companies": [
-        "London",
-        "Lewisham Council"
-      ],
-      "locations": []
-    },
-    {
-      "id": "e9f2eb2e34e4",
-      "title": "Measures from the adult social care outcomes framework, England: 2024 to 2025",
+      "id": "ae2ca782a181",
+      "title": "Wild bird populations in the UK and in England",
       "source": "HM Land Registry — UK HPI",
       "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/statistics/measures-from-the-adult-social-care-outcomes-framework-england-2024-to-2025",
-      "published": "2026-10-12T13:29:50+00:00",
+      "url": "https://gov.uk/government/statistics/wild-bird-populations-in-the-uk",
+      "published": "2026-10-13T08:30:07+00:00",
       "kind": "data",
-      "excerpt": "Findings from ASCOF, which measures how well care services achieve outcomes including quality of life and whether long-term support needs are being met.",
+      "excerpt": "Annual trends in wild bird populations in the UK and England.",
       "importance": "Medium",
-      "summary": "Findings from ASCOF, which measures how well care services achieve outcomes including quality of life and whether long-term support needs are being met.",
+      "summary": "Annual trends in wild bird populations in the UK and England.",
       "why_it_matters": "",
       "themes": [],
       "companies": [
-        "Measures",
-        "Findings",
-        "ASCOF"
+        "Wild",
+        "England. Annual",
+        "UK and England"
       ],
       "locations": []
     },
     {
-      "id": "3ecb61a59de6",
-      "title": "Defra International indicator results – Statement of voluntary application of the Code of Practice for Statistics",
+      "id": "caf75a4ebbc3",
+      "title": "UK armed forces veterans, England and Wales: 2024 and 2025",
       "source": "HM Land Registry — UK HPI",
       "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/publications/statement-of-voluntary-compliance-with-the-code-of-practice-for-statistics-defras-oda-annual-results-report",
-      "published": "2026-10-12T13:08:34+00:00",
+      "url": "https://gov.uk/government/statistics/uk-armed-forces-veterans-england-and-wales-2024-and-2025",
+      "published": "2026-10-13T08:30:07+00:00",
       "kind": "data",
-      "excerpt": "Statement of voluntary application of the Code of Practice for Statistics.",
+      "excerpt": "Statistics on UK armed forces veterans resident in England and Wales.",
       "importance": "Medium",
-      "summary": "Statement of voluntary application of the Code of Practice for Statistics.",
+      "summary": "Statistics on UK armed forces veterans resident in England and Wales.",
       "why_it_matters": "",
       "themes": [],
       "companies": [
-        "Defra International",
-        "Statement",
-        "Code of Practice",
-        "Statistics. Statement"
+        "England and Wales",
+        "Statistics"
       ],
       "locations": []
     },
     {
-      "id": "8ae160187a2a",
-      "title": "Partners lodge plans for 152 affordable homes in Woodley",
-      "source": "Place North West",
-      "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/partners-lodge-plans-for-152-affordable-homes-in-woodley",
-      "published": "2026-10-12T12:59:59+00:00",
-      "kind": "news",
-      "excerpt": "Anwyl Partner Projects and Great Places Housing Group have submitted a proposal to build houses on 23 acres off Gravel Bank Road. The post Partners lodge plans for 152 affordable homes in Woodley appeared first on Place North West .",
-      "importance": "Medium",
-      "summary": "Anwyl Partner Projects and Great Places Housing Group have submitted a proposal to build houses on 23 acres off Gravel Bank Road. The post Partners lodge plans for 152 affordable homes in Woodley appeared first on Place ",
-      "why_it_matters": "",
-      "themes": [
-        "Affordable housing"
-      ],
-      "companies": [
-        "Partners",
-        "Woodley. Anwyl Partner Projects",
-        "Great Places Housing Group",
-        "Gravel Bank Road. The"
-      ],
-      "locations": []
-    },
-    {
-      "id": "ec732c12ad47",
-      "title": "Barratt works up plans for another phase in Burnley",
-      "source": "Place North West",
-      "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/barratt-works-up-plans-for-another-phase-in-burnley",
-      "published": "2026-10-12T12:59:25+00:00",
-      "kind": "news",
-      "excerpt": "The volume housebuilder wants to construct 150 houses on 30 acres next door to its 87-home Brun Lea Heights development. The post Barratt works up plans for another phase in Burnley appeared first on Place North West .",
-      "importance": "Medium",
-      "summary": "The volume housebuilder wants to construct 150 houses on 30 acres next door to its 87-home Brun Lea Heights development. The post Barratt works up plans for another phase in Burnley appeared first on Place North West .",
-      "why_it_matters": "",
-      "themes": [
-        "Housebuilders"
-      ],
-      "companies": [
-        "Barratt",
-        "Burnley. The",
-        "Brun Lea Heights",
-        "Burnley"
-      ],
-      "locations": []
-    },
-    {
-      "id": "74daa728541a",
-      "title": "Awaab's Law: Government puts landlord costs at £42m a year",
-      "source": "LandlordZONE",
-      "source_key": "landlordzone",
-      "url": "https://landlordzone.co.uk/news/awaabs-law-government-puts-landlord-costs-at-ps42m-a-year",
-      "published": "2026-10-12T12:40:34+00:00",
-      "kind": "news",
-      "excerpt": "News - Helen Gregory - The government estimates that extending Awaab’s Law to private rented homes will result in annual net costs to landlords of £42.2 million.",
-      "importance": "Medium",
-      "summary": "News - Helen Gregory - The government estimates that extending Awaab’s Law to private rented homes will result in annual net costs to landlords of £42.2 million.",
-      "why_it_matters": "",
-      "themes": [
-        "Residential investment"
-      ],
-      "companies": [
-        "Awaab's Law",
-        "News",
-        "Helen Gregory",
-        "Awaab’s Law"
-      ],
-      "locations": []
-    },
-    {
-      "id": "0ada874bbdab",
-      "title": "Cyber security skills and sectoral analysis 2027: privacy notice",
+      "id": "7de5d88590e1",
+      "title": "Trends in UK industry concentration: 2007 to 2025",
       "source": "HM Land Registry — UK HPI",
       "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/publications/cyber-security-skills-and-sectoral-analysis-2027-privacy-notice",
-      "published": "2026-10-12T11:16:38+00:00",
+      "url": "https://gov.uk/government/statistics/trends-in-uk-industry-concentration-2007-to-2025",
+      "published": "2026-10-13T08:30:07+00:00",
       "kind": "data",
-      "excerpt": "Privacy notice explaining how we will use personal data when organisations respond to the cyber security skills and sectoral analysis research 2027.",
+      "excerpt": "Statistics on industry-level concentration measures showing how market concentration has changed from 2007 to 2025.",
       "importance": "Medium",
-      "summary": "Privacy notice explaining how we will use personal data when organisations respond to the cyber security skills and sectoral analysis research 2027.",
+      "summary": "Statistics on industry-level concentration measures showing how market concentration has changed from 2007 to 2025.",
       "why_it_matters": "",
       "themes": [],
       "companies": [
-        "Cyber",
-        "Privacy"
+        "Trends",
+        "Statistics"
       ],
       "locations": []
     },
     {
-      "id": "a16d584c9052",
-      "title": "Preston approves city centre car park, 60 homes",
+      "id": "c055e040ad1c",
+      "title": "Farnworth car rental outfit proposes resi on site of its head office",
       "source": "Place North West",
       "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/preston-approves-city-centre-car-park-60-homes",
-      "published": "2026-10-12T10:42:11+00:00",
+      "url": "https://placenorthwest.co.uk/farnworth-car-rental-outfit-proposes-resi-on-site-of-its-head-office",
+      "published": "2026-10-13T08:24:41+00:00",
       "kind": "news",
-      "excerpt": "In a roundabout way, the city council has kept hopes for the redevelopment of the former Odeon Cinema site alive while also giving developer Progressive Living the right to operate the site permanently as a car park. The post Preston approves city centre car park, 60 homes appeared first on Place North West .",
+      "excerpt": "Auto Rental Car Hire wants to build four apartment blocks featuring a combined 49 flats on land between Bank Street a nd Queen Street. The post Farnworth car rental outfit proposes resi on site of its head office appeared first on Place North West .",
       "importance": "Medium",
-      "summary": "In a roundabout way, the city council has kept hopes for the redevelopment of the former Odeon Cinema site alive while also giving developer Progressive Living the right to operate the site permanently as a car park. The",
+      "summary": "Auto Rental Car Hire wants to build four apartment blocks featuring a combined 49 flats on land between Bank Street a nd Queen Street. The post Farnworth car rental outfit proposes resi on site of its head office appeare",
       "why_it_matters": "",
       "themes": [],
       "companies": [
-        "Preston",
-        "Odeon Cinema",
-        "Progressive Living",
-        "Place North West"
+        "Farnworth",
+        "Auto Rental Car Hire",
+        "Bank Street",
+        "Queen Street. The"
       ],
       "locations": []
     },
     {
-      "id": "1b0248343399",
-      "title": "BTL yields hit 15-year high as regional gap widens",
-      "source": "LandlordZONE",
-      "source_key": "landlordzone",
-      "url": "https://landlordzone.co.uk/news/btl-yields-hit-15-year-high-as-regional-gap-widens",
-      "published": "2026-10-12T10:32:53+00:00",
+      "id": "237ab85a7d7e",
+      "title": "Agent who defrauded landlords and tenants of almost £50,000 learns fate in court",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/agent-who-defrauded-landlords-and-tenants-of-almost-50000-learns-fate-in-court",
+      "published": "2026-10-13T04:00:54+00:00",
       "kind": "news",
-      "excerpt": "News - Helen Gregory - Average gross buy-to-let yields have reached their highest level for more than 15 years, according to Paragon Bank.",
+      "excerpt": "Former letting agent admitted 19 fraud offences after 20 landlords and tenants suffered major losses",
       "importance": "Medium",
-      "summary": "News - Helen Gregory - Average gross buy-to-let yields have reached their highest level for more than 15 years, according to Paragon Bank.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "News",
-        "Helen Gregory",
-        "Average",
-        "Paragon Bank"
-      ],
-      "locations": []
-    },
-    {
-      "id": "cc234a827de5",
-      "title": "New DLR link to support thousands of new homes gets public backing to go ahead",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/new-dlr-link-to-support-thousands-of-new-homes-gets-public-backing-to-go-ahead-99097",
-      "published": "2026-10-12T10:15:00+00:00",
-      "kind": "news",
-      "excerpt": "A consultation on plans to extend the Docklands Light Railway to Thamesmead and Beckton Riverside has shown “continued strong support for the scheme”",
-      "importance": "Medium",
-      "summary": "A consultation on plans to extend the Docklands Light Railway to Thamesmead and Beckton Riverside has shown “continued strong support for the scheme”",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "New DLR",
-        "Docklands Light Railway",
-        "Thamesmead and Beckton Riverside"
-      ],
-      "locations": []
-    },
-    {
-      "id": "dc9ff43926d9",
-      "title": "Tilbury Douglas in box seat for £45m Haigh Hall restoration",
-      "source": "Place North West",
-      "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/tilbury-douglas-in-box-seat-for-45m-haigh-hall-restoration",
-      "published": "2026-10-12T09:18:10+00:00",
-      "kind": "news",
-      "excerpt": "The contractor has been drafted in to take the transformation of Wigan Council’s grade two star-listed asset into a “nationally significant” cultural destination through pre-construction. The post Tilbury Douglas in box seat for £45m Haigh Hall restoration appeared first on Place North West .",
-      "importance": "Medium",
-      "summary": "The contractor has been drafted in to take the transformation of Wigan Council’s grade two star-listed asset into a “nationally significant” cultural destination through pre-construction. The post Tilbury Douglas in box ",
+      "summary": "Former letting agent admitted 19 fraud offences after 20 landlords and tenants suffered major losses",
       "why_it_matters": "",
       "themes": [
         "Residential investment"
       ],
       "companies": [
-        "Tilbury Douglas",
-        "Haigh Hall",
-        "Wigan Council’s",
-        "Place North West"
+        "Agent",
+        "Former"
       ],
       "locations": []
     },
     {
-      "id": "22783f7846f8",
-      "title": "Trafford to seek public support for long-stalled Alty site as revised plans progress",
-      "source": "Place North West",
-      "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/trafford-to-seek-public-support-for-long-stalled-alty-site",
-      "published": "2026-10-12T08:34:51+00:00",
+      "id": "c5e4e3afdc73",
+      "title": "Chancellor backs down on mansion tax expansion as thousands of homeowners spared",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/chancellor-backs-down-on-mansion-tax-expansion-as-thousands-of-homeowners-spared",
+      "published": "2026-10-13T03:20:01+00:00",
       "kind": "news",
-      "excerpt": "Plans for the 4.5-acre plot off Oakfield Road previously known as Altair will be residential-led under revised proposals from the council published three years after the collapse of Nikal, the developer previously attached to the scheme. The post Trafford to seek public support for long-stalled Alty site as revised plans progress appeared first on Place North West .",
+      "excerpt": "Research by Yopa suggests a £1.5m threshold would have caught almost one in 10 London homes on the market",
       "importance": "Medium",
-      "summary": "Plans for the 4.5-acre plot off Oakfield Road previously known as Altair will be residential-led under revised proposals from the council published three years after the collapse of Nikal, the developer previously attach",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Trafford",
-        "Alty",
-        "Plans",
-        "Oakfield Road"
-      ],
-      "locations": []
-    },
-    {
-      "id": "77fa29b84956",
-      "title": "DCMS R&D Science & Analysis Programme Phase 1 evaluation",
-      "source": "HM Land Registry — UK HPI",
-      "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/publications/dcms-rd-science-analysis-programme-phase-1-evaluation",
-      "published": "2026-10-12T08:30:01+00:00",
-      "kind": "data",
-      "excerpt": "Independent evaluation of Phase 1 (2022 to 2025) of the DCMS R&D Science & Analysis Programme.",
-      "importance": "Medium",
-      "summary": "Independent evaluation of Phase 1 (2022 to 2025) of the DCMS R&D Science & Analysis Programme.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "DCMS R&D Science",
-        "Analysis Programme Phase",
-        "Independent",
-        "Phase"
-      ],
-      "locations": []
-    },
-    {
-      "id": "fb4cd64558a5",
-      "title": "Can the autumn Budget change the economics of homelessness?",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/can-the-autumn-budget-change-the-economics-of-homelessness-98901",
-      "published": "2026-10-12T06:00:00+00:00",
-      "kind": "news",
-      "excerpt": "A Total Place approach to funding could be the key to holistic homelessness prevention, writes Ligia Teixeira, chief executive of the Centre for Homelessness Impact",
-      "importance": "Medium",
-      "summary": "A Total Place approach to funding could be the key to holistic homelessness prevention, writes Ligia Teixeira, chief executive of the Centre for Homelessness Impact",
+      "summary": "Research by Yopa suggests a £1.5m threshold would have caught almost one in 10 London homes on the market",
       "why_it_matters": "",
       "themes": [
         "Residential investment"
       ],
       "companies": [
-        "Budget",
-        "Total Place",
-        "Ligia Teixeira",
-        "Centre"
-      ],
-      "locations": []
-    },
-    {
-      "id": "fec717445e46",
-      "title": "Regulation and redress must work hand in hand if this reform is to deliver for consumers",
-      "source": "Property Industry Eye",
-      "source_key": "property_industry_eye",
-      "url": "https://propertyindustryeye.com/regulation-and-redress-must-work-hand-in-hand-if-this-reform-is-to-deliver-for-consumers",
-      "published": "2026-10-12T05:50:19+00:00",
-      "kind": "news",
-      "excerpt": "Lesley Horton looks at what needs to happen next following the Government’s commitment to introduce independent regulation of property agents",
-      "importance": "Medium",
-      "summary": "Lesley Horton looks at what needs to happen next following the Government’s commitment to introduce independent regulation of property agents",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Regulation",
-        "Lesley Horton",
-        "Government’s"
-      ],
-      "locations": []
-    },
-    {
-      "id": "45eafe0672de",
-      "title": "Self-employed agency network hits 100 brokers after tripling in two years",
-      "source": "Property Industry Eye",
-      "source_key": "property_industry_eye",
-      "url": "https://propertyindustryeye.com/self-employed-agency-network-hits-100-brokers-after-tripling-in-two-years",
-      "published": "2026-10-12T02:50:52+00:00",
-      "kind": "news",
-      "excerpt": "Senior agents make the switch to self-employed",
-      "importance": "Medium",
-      "summary": "Senior agents make the switch to self-employed",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Self-employed",
-        "Senior"
-      ],
-      "locations": []
-    },
-    {
-      "id": "3079a71cabdf",
-      "title": "Housing market faces fresh squeeze as mortgage rates hit three-year high",
-      "source": "Property Industry Eye",
-      "source_key": "property_industry_eye",
-      "url": "https://propertyindustryeye.com/housing-market-faces-fresh-squeeze-as-mortgage-rates-hit-three-year-high",
-      "published": "2026-10-12T01:50:06+00:00",
-      "kind": "news",
-      "excerpt": "Knight Frank's latest figures show the impact of higher mortgage rates and political uncertainty on the market",
-      "importance": "Medium",
-      "summary": "Knight Frank's latest figures show the impact of higher mortgage rates and political uncertainty on the market",
-      "why_it_matters": "",
-      "themes": [
-        "Interest rates & mortgages"
-      ],
-      "companies": [
-        "Housing",
-        "Knight Frank's"
-      ],
-      "locations": []
-    },
-    {
-      "id": "88dcbcbaa1fb",
-      "title": "Landlord who never visited rental property ordered to pay £28,500",
-      "source": "Property Industry Eye",
-      "source_key": "property_industry_eye",
-      "url": "https://propertyindustryeye.com/landlord-who-never-visited-rental-property-ordered-to-pay-28500",
-      "published": "2026-10-12T01:20:03+00:00",
-      "kind": "news",
-      "excerpt": "The landlord's lack of action in this case described as 'shocking'",
-      "importance": "Medium",
-      "summary": "The landlord's lack of action in this case described as 'shocking'",
-      "why_it_matters": "",
-      "themes": [
-        "Residential investment"
-      ],
-      "companies": [
-        "Landlord"
-      ],
-      "locations": []
-    },
-    {
-      "id": "ce6876cce0af",
-      "title": "Rental market takes a turn – but there’s a catch",
-      "source": "Property Industry Eye",
-      "source_key": "property_industry_eye",
-      "url": "https://propertyindustryeye.com/rental-market-takes-a-turn-but-theres-a-catch",
-      "published": "2026-10-12T01:00:15+00:00",
-      "kind": "news",
-      "excerpt": "Rents drop in 10 out of 11 regions as market shows signs of easing",
-      "importance": "Medium",
-      "summary": "Rents drop in 10 out of 11 regions as market shows signs of easing",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Rental",
-        "Rents"
-      ],
-      "locations": []
-    },
-    {
-      "id": "e0be4d515928",
-      "title": "Prime property prices fall further as buyers gain the upper hand",
-      "source": "Property Industry Eye",
-      "source_key": "property_industry_eye",
-      "url": "https://propertyindustryeye.com/prime-property-prices-fall-further-as-buyers-gain-the-upper-hand",
-      "published": "2026-10-12T00:40:42+00:00",
-      "kind": "news",
-      "excerpt": "Prime property prices continued to fall in the third quarter, but the pace of decline is slowing as sellers adjust their expectations to secure deals. New figures from Savills show prime central London values fell 1.5% between July and September, taking the annual decline to 4.8%. Prices in the capital’s most expensive neighbourhoods now stand … Continued",
-      "importance": "Medium",
-      "summary": "Prime property prices continued to fall in the third quarter, but the pace of decline is slowing as sellers adjust their expectations to secure deals. New figures from Savills show prime central London values fell 1.5% b",
-      "why_it_matters": "",
-      "themes": [
-        "Residential investment"
-      ],
-      "companies": [
-        "Prime",
-        "Savills",
-        "London",
-        "July and September"
-      ],
-      "locations": []
-    },
-    {
-      "id": "b0a22e9dd77c",
-      "title": "eXp announces major London event as global bosses head to UK",
-      "source": "Property Industry Eye",
-      "source_key": "property_industry_eye",
-      "url": "https://propertyindustryeye.com/exp-announces-major-london-event-as-global-bosses-head-to-uk",
-      "published": "2026-10-12T00:20:32+00:00",
-      "kind": "news",
-      "excerpt": "Conference building on the success of eXp UK",
-      "importance": "Medium",
-      "summary": "Conference building on the success of eXp UK",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "London",
-        "UK. Conference"
-      ],
-      "locations": []
-    },
-    {
-      "id": "cc614eb7b75d",
-      "title": "UFO crash lands in estate agency",
-      "source": "Property Industry Eye",
-      "source_key": "property_industry_eye",
-      "url": "https://propertyindustryeye.com/ufo-crash-lands-in-estate-agency",
-      "published": "2026-10-11T23:50:14+00:00",
-      "kind": "news",
-      "excerpt": "Close encounters of the estate agency kind as UFO crash lands in north London",
-      "importance": "Medium",
-      "summary": "Close encounters of the estate agency kind as UFO crash lands in north London",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Close",
+        "Chancellor",
+        "Research",
+        "Yopa",
         "London"
       ],
       "locations": []
     },
     {
-      "id": "fb85695452cf",
-      "title": "Former agent says ‘I’ll take down Rightmove’",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/new-sales-video-app-aims-to-take-down-rightmove",
-      "published": "2026-10-11T23:06:00+00:00",
+      "id": "c233d32c4b35",
+      "title": "Former estate agents launch rival to LinkedIn and Facebook",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/former-estate-agents-launch-rival-to-linkedin-and-facebook",
+      "published": "2026-10-13T02:50:11+00:00",
       "kind": "news",
-      "excerpt": "Scroll Home's app should be available from December 1",
+      "excerpt": "Property-only social media platform launches",
       "importance": "Medium",
-      "summary": "Scroll Home's app should be available from December 1",
+      "summary": "Property-only social media platform launches",
       "why_it_matters": "",
       "themes": [],
       "companies": [
         "Former",
-        "I’ll",
-        "Rightmove’. Scroll Home's"
+        "LinkedIn and Facebook. Property-only"
       ],
       "locations": []
     },
     {
-      "id": "b9f15dddd396",
-      "title": "Key sales role for long-standing agency figure",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/key-sales-role-goes-to-long-standing-agency-staff-member",
-      "published": "2026-10-11T23:05:00+00:00",
+      "id": "4c4e0ffafebf",
+      "title": "Independent letting agency with 800 properties acquired in latest deal",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/independent-letting-agency-with-800-properties-acquired-in-latest-deal",
+      "published": "2026-10-13T02:42:00+00:00",
       "kind": "news",
-      "excerpt": "This is at a Knight Frank sales office",
+      "excerpt": "The deal marks another acquisition for the agency group as it continues to expand across the UK.",
       "importance": "Medium",
-      "summary": "This is at a Knight Frank sales office",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Knight Frank"
-      ],
-      "locations": []
-    },
-    {
-      "id": "c7e2159b076e",
-      "title": "Some prime house prices now 27% below peak, admits Savills",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/some-prime-house-prices-now-27-below-peak-admits-savills",
-      "published": "2026-10-11T23:04:00+00:00",
-      "kind": "news",
-      "excerpt": "The peak was now 12 years ago",
-      "importance": "Medium",
-      "summary": "The peak was now 12 years ago",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Some",
-        "Savills. The"
-      ],
-      "locations": []
-    },
-    {
-      "id": "823e71f3e3d2",
-      "title": "Mansion Tax “won’t be extended to cheaper properties”",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/mansion-tax-wont-be-extended-to-cheaper-properties",
-      "published": "2026-10-11T23:02:00+00:00",
-      "kind": "news",
-      "excerpt": "Chancellor John Healey has rejected the idea of extending the proposed Mansion Tax to cheaper properties. The tax – which is formally called the High Value Council Tax Surcharge (HVCTS) – comes into effect in 2028 after being created by former Chancellor Rachel Reeves. Under her rules, the HVCTS applies to properties valued at £2m […]",
-      "importance": "Medium",
-      "summary": "Chancellor John Healey has rejected the idea of extending the proposed Mansion Tax to cheaper properties. The tax – which is formally called the High Value Council Tax Surcharge (HVCTS) – comes into effect in 2028 after ",
+      "summary": "The deal marks another acquisition for the agency group as it continues to expand across the UK.",
       "why_it_matters": "",
       "themes": [
         "Residential investment"
       ],
       "companies": [
-        "Mansion Tax",
-        "Chancellor John Healey",
-        "High Value Council Tax",
-        "Surcharge"
+        "Independent"
       ],
       "locations": []
     },
     {
-      "id": "694389066046",
-      "title": "Retirement flats branded “a miserable investment”",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/retirement-flats-branded-a-miserable-investment",
-      "published": "2026-10-11T23:01:00+00:00",
+      "id": "cec4d51b1550",
+      "title": "Estate agency franchise expands again with another independent takeover",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/established-estate-agency-franchise-buys-independent-in-latest-acquisition",
+      "published": "2026-10-13T02:28:46+00:00",
       "kind": "news",
-      "excerpt": "The Financial Times is suspicious about the lack of industry data for the sector",
+      "excerpt": "Estate agency owner intends to pursue further acquisitions",
       "importance": "Medium",
-      "summary": "The Financial Times is suspicious about the lack of industry data for the sector",
+      "summary": "Estate agency owner intends to pursue further acquisitions",
       "why_it_matters": "",
       "themes": [
-        "Residential investment",
-        "Later living"
+        "Residential investment"
       ],
       "companies": [
-        "Retirement",
-        "The Financial Times"
+        "Estate"
       ],
       "locations": []
     },
     {
-      "id": "496f31384388",
-      "title": "eXp plans 2027 extravaganza for broker agents",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/exp-plans-2027-extravaganza-for-broker-agents",
-      "published": "2026-10-11T23:00:00+00:00",
+      "id": "eb96da66e07b",
+      "title": "Rightmove makes another AI move with new property search feature",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/rightmove-makes-another-ai-move-with-new-property-search-feature",
+      "published": "2026-10-13T01:50:16+00:00",
       "kind": "news",
-      "excerpt": "It will involve eXp agents from around the world",
+      "excerpt": "Rightmove rolls out new AI tool to help buyers compare properties",
       "importance": "Medium",
-      "summary": "It will involve eXp agents from around the world",
+      "summary": "Rightmove rolls out new AI tool to help buyers compare properties",
       "why_it_matters": "",
       "themes": [],
-      "companies": [],
+      "companies": [
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    {
+      "id": "611116a8e128",
+      "title": "Guilty fraudster agent avoids jail",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/guilty-fraudster-agent-avoids-jail",
+      "published": "2026-10-13T01:10:00+00:00",
+      "kind": "news",
+      "excerpt": "An estate agent who scammed almost £50,000 has avoided jail. East Anglia agent Victoria Steele, 51, had pleaded guilty to 19 fraud offences following a police investigation. It’s been reported by local media in the region that Steele was sentenced to 12 months’ imprisonment, suspended for 18 months, and ordered to complete 200 hours of […]",
+      "importance": "Medium",
+      "summary": "An estate agent who scammed almost £50,000 has avoided jail. East Anglia agent Victoria Steele, 51, had pleaded guilty to 19 fraud offences following a police investigation. It’s been reported by local media in the regio",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Guilty",
+        "East Anglia",
+        "Victoria Steele",
+        "It’s"
+      ],
+      "locations": []
+    },
+    {
+      "id": "ea7d0296965f",
+      "title": "Ex-agents launch property app in bid to oust Facebook",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/ex-agents-launch-property-industry-app-in-bid-to-oust-facebook",
+      "published": "2026-10-13T01:00:00+00:00",
+      "kind": "news",
+      "excerpt": "Two brothers, each a former estate agent, are setting up an app specifically for those in the property industry. Chris and David Tremlett – who used to work at traditional agency Pointins and online operators Purplebricks and Yopa – have launched Gatha, which they describe as a free social media app The brothers say it’s […]",
+      "importance": "Medium",
+      "summary": "Two brothers, each a former estate agent, are setting up an app specifically for those in the property industry. Chris and David Tremlett – who used to work at traditional agency Pointins and online operators Purplebrick",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Ex-agents",
+        "Facebook. Two",
+        "Chris and David Tremlett",
+        "Pointins"
+      ],
+      "locations": []
+    },
+    {
+      "id": "1ff5cf1644c3",
+      "title": "Buy-to-let returns strengthen as landlords expand property portfolios",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/buy-to-let-returns-strengthen-as-landlords-expand-property-portfolios",
+      "published": "2026-10-13T00:30:46+00:00",
+      "kind": "news",
+      "excerpt": "Rental yields climb in eight out of 10 regions – but where are returns highest?",
+      "importance": "Medium",
+      "summary": "Rental yields climb in eight out of 10 regions – but where are returns highest?",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Buy-to-let",
+        "Rental"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5147492436bf",
+      "title": "Fast-growing self-employed agency network targets more agents with earnings incentive",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/fast-growing-self-employed-agency-network-targets-more-agents-with-earnings-incentive",
+      "published": "2026-10-13T00:10:49+00:00",
+      "kind": "news",
+      "excerpt": "Moveli positions new earnings calculator as a recruitment tool",
+      "importance": "Medium",
+      "summary": "Moveli positions new earnings calculator as a recruitment tool",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Fast-growing",
+        "Moveli"
+      ],
+      "locations": []
+    },
+    {
+      "id": "cf809583cf65",
+      "title": "Estate agency veteran returns with another Christmas charity single",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/estate-agency-veteran-returns-with-another-christmas-charity-single",
+      "published": "2026-10-12T23:50:43+00:00",
+      "kind": "news",
+      "excerpt": "It's not the same for everyone . . .",
+      "importance": "Medium",
+      "summary": "It's not the same for everyone . . .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Christmas",
+        "It's"
+      ],
+      "locations": []
+    },
+    {
+      "id": "364c69c38d7a",
+      "title": "Independent agency snapped up by franchise brand",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/independent-agency-snapped-up-by-franchise-brand",
+      "published": "2026-10-12T23:06:00+00:00",
+      "kind": "news",
+      "excerpt": "A Martin & Co franchisee has completed his fourth acquisition with the purchase of independent agency ADM Residential. Martin & Co Huddersfield franchise owner Will Taylor since 2009. Having originally built the business from scratch with just one other member of staff, he now has a team of 12. The acquisition is the fourth completed by […]",
+      "importance": "Medium",
+      "summary": "A Martin & Co franchisee has completed his fourth acquisition with the purchase of independent agency ADM Residential. Martin & Co Huddersfield franchise owner Will Taylor since 2009. Having originally built the business",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Independent",
+        "Martin",
+        "ADM Residential. Martin",
+        "Co Huddersfield"
+      ],
+      "locations": []
+    },
+    {
+      "id": "715e40e6812f",
+      "title": "Service charges soar as leasehold sector under spotlight again",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/service-charges-soar-as-leasehold-sector-under-spotlight-again",
+      "published": "2026-10-12T23:04:00+00:00",
+      "kind": "news",
+      "excerpt": "There are almost 5m leasehold properties in the UK",
+      "importance": "Medium",
+      "summary": "There are almost 5m leasehold properties in the UK",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Service"
+      ],
+      "locations": []
+    },
+    {
+      "id": "76c9a3faf6fb",
+      "title": "Savills names key new appointment with over 20 years experience",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/savills-names-key-new-appointment-with-over-20-years-experience",
+      "published": "2026-10-12T23:01:00+00:00",
+      "kind": "news",
+      "excerpt": "Savills has appointed Ashley Gale to lead its new homes team in Cambridge. Gale joined Savills in 2025 and has over 20 years’ experience in the sector, having previously worked for housebuilders Hopkins Homes and Weston Homes. Since joining Savills he has been in the residential development sales team in Cambridge. Commenting on his new […]",
+      "importance": "Medium",
+      "summary": "Savills has appointed Ashley Gale to lead its new homes team in Cambridge. Gale joined Savills in 2025 and has over 20 years’ experience in the sector, having previously worked for housebuilders Hopkins Homes and Weston ",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Savills",
+        "Ashley Gale",
+        "Cambridge. Gale",
+        "Hopkins Homes and Weston Homes"
+      ],
+      "locations": []
+    },
+    {
+      "id": "7171d2c7cf10",
+      "title": "Self employed brokerage pushes ahead with AI",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/self-employed-brokerage-pushes-ahead-with-ai",
+      "published": "2026-10-12T23:00:00+00:00",
+      "kind": "news",
+      "excerpt": "The brand has around 100 agents across the UK",
+      "importance": "Medium",
+      "summary": "The brand has around 100 agents across the UK",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Self",
+        "AI. The"
+      ],
       "locations": []
     }
   ],
   "stats": {
-    "stories": 29,
+    "stories": 36,
     "critical": 0,
     "high": 0,
-    "medium": 29,
+    "medium": 36,
     "low": 0,
-    "sources_live": 7,
+    "sources_live": 6,
     "sources_total": 9,
     "by_source": [
       {
+        "name": "HM Land Registry — UK HPI",
+        "count": 9
+      },
+      {
         "name": "Property Industry Eye",
-        "count": 8
+        "count": 9
+      },
+      {
+        "name": "Place North West",
+        "count": 7
       },
       {
         "name": "Estate Agent Today",
         "count": 6
       },
       {
-        "name": "HM Land Registry — UK HPI",
-        "count": 5
-      },
-      {
-        "name": "Place North West",
-        "count": 5
-      },
-      {
         "name": "Inside Housing",
-        "count": 3
-      },
-      {
-        "name": "LandlordZONE",
-        "count": 2
+        "count": 5
       }
     ]
   },
@@ -891,9 +1034,9 @@
       "name": "Inside Housing",
       "route": "feed",
       "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
-      "found": 4,
+      "found": 10,
       "attempts": [
-        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 4"
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 10"
       ]
     },
     {
@@ -914,9 +1057,9 @@
       "name": "Place North West",
       "route": "feed",
       "url": "https://www.placenorthwest.co.uk/feed/",
-      "found": 5,
+      "found": 13,
       "attempts": [
-        "feed https://www.placenorthwest.co.uk/feed/ -> 5"
+        "feed https://www.placenorthwest.co.uk/feed/ -> 13"
       ]
     },
     {
@@ -924,9 +1067,9 @@
       "name": "Property Industry Eye",
       "route": "feed",
       "url": "https://propertyindustryeye.com/feed/",
-      "found": 9,
+      "found": 19,
       "attempts": [
-        "feed https://propertyindustryeye.com/feed/ -> 9"
+        "feed https://propertyindustryeye.com/feed/ -> 19"
       ]
     },
     {
@@ -934,19 +1077,22 @@
       "name": "Estate Agent Today",
       "route": "feed",
       "url": "https://www.estateagenttoday.co.uk/newsfeeds",
-      "found": 6,
+      "found": 12,
       "attempts": [
-        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 6"
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
       ]
     },
     {
       "source": "landlordzone",
       "name": "LandlordZONE",
-      "route": "feed",
-      "url": "https://www.landlordzone.co.uk/news/rss.xml",
-      "found": 2,
+      "route": "failed",
+      "url": "https://www.landlordzone.co.uk/news",
+      "found": 0,
       "attempts": [
-        "feed https://www.landlordzone.co.uk/news/rss.xml -> 2"
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/blog/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/rss.xml -> 0",
+        "scrape https://www.landlordzone.co.uk/news -> 0"
       ]
     },
     {
@@ -954,9 +1100,9 @@
       "name": "HM Land Registry — UK HPI",
       "route": "feed",
       "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
-      "found": 9,
+      "found": 20,
       "attempts": [
-        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 9"
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
       ]
     },
     {
@@ -974,9 +1120,9 @@
   ],
   "meta": {
     "rated": 0,
-    "unrated": 29,
+    "unrated": 36,
     "degraded": true,
-    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cfxi9HMLbFVzuWBy4jW9r'}",
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CfzU5QdQqGLQWNjeBxY4U'}",
     "model": null
   }
 }
