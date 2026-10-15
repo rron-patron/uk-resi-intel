@@ -1,0 +1,1236 @@
+{
+  "schema": 1,
+  "generated_at_utc": "2026-10-15T12:57:16+00:00",
+  "generated_at_london": "2026-10-15T13:57+01:00",
+  "date_label": "15 October 2026",
+  "time_label": "13:57 BST",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg44UfrZ7UZaUty2bSaLi'}\n\n42 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Planning policy",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Residential investment",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Student housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Statistics",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Plans",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Manchester",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Steer Property Group",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Multi-agency",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Daily",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Great Britain",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Small Business Survey",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Allow",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Northern Housing Consortium",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Mayoral Community Infrastructure Levy",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Regulator",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Rural",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Nine",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Wirral",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "New Ferry",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Jenny Messenger",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "RSPCA Mossley Hall. Proposals",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Wigan Council",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "stories": [
+    {
+      "id": "b7fb4f75cb56",
+      "title": "Allow mayoral CIL to go towards building social homes, Northern Housing Consortium says",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/allow-mayoral-cil-to-go-towards-building-social-homes-northern-housing-consortium-says-99157",
+      "published": "2026-10-15T12:30:00+00:00",
+      "kind": "news",
+      "excerpt": "The government should consider allowing Mayoral Community Infrastructure Levy receipts to be used to build more social homes, the Northern Housing Consortium has said",
+      "importance": "Medium",
+      "summary": "The government should consider allowing Mayoral Community Infrastructure Levy receipts to be used to build more social homes, the Northern Housing Consortium has said",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Allow",
+        "Northern Housing Consortium",
+        "Mayoral Community Infrastructure Levy"
+      ],
+      "locations": []
+    },
+    {
+      "id": "3f182d6951cf",
+      "title": "Bedford Borough Council: Best Value Inspection report",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/bedford-borough-council-best-value-inspection-report",
+      "published": "2026-10-15T12:07:35+00:00",
+      "kind": "data",
+      "excerpt": "The Best Value Inspection report of Bedford Borough Council.",
+      "importance": "Medium",
+      "summary": "The Best Value Inspection report of Bedford Borough Council.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Bedford Borough Council",
+        "Best Value Inspection",
+        "The Best Value Inspection"
+      ],
+      "locations": []
+    },
+    {
+      "id": "044bebacc5d5",
+      "title": "Slough Borough Council: External review into intervention at Slough Borough Council",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/slough-borough-council-external-review-into-intervention-at-slough-borough-council",
+      "published": "2026-10-15T12:06:17+00:00",
+      "kind": "data",
+      "excerpt": "External review of Slough Borough Council led by Dame Mary Ney and supported by Will Godfrey.",
+      "importance": "Medium",
+      "summary": "External review of Slough Borough Council led by Dame Mary Ney and supported by Will Godfrey.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Slough Borough Council",
+        "External",
+        "Slough Borough Council. External",
+        "Dame Mary Ney"
+      ],
+      "locations": []
+    },
+    {
+      "id": "a5c51952f620",
+      "title": "Regulator orders non-compliant housing association to make wind-down plan",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/regulator-orders-non-compliant-housing-association-to-make-wind-down-plan-99158",
+      "published": "2026-10-15T11:50:42+00:00",
+      "kind": "news",
+      "excerpt": "A housing association has been ordered by the regulator to come up with a plan for how it would protect tenants if it closes its operations or goes through deregistration",
+      "importance": "Medium",
+      "summary": "A housing association has been ordered by the regulator to come up with a plan for how it would protect tenants if it closes its operations or goes through deregistration",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Regulator"
+      ],
+      "locations": []
+    },
+    {
+      "id": "411e5ebaca48",
+      "title": "Plans in for RSPCA Mossley Hall",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/plans-in-for-rspca-mossley-hall",
+      "published": "2026-10-15T10:20:20+00:00",
+      "kind": "news",
+      "excerpt": "Proposals have been lodged with Wigan Council for a 55,000 sq ft animal care facility that would allow the organisation to address a capacity crisis in the region. The post Plans in for RSPCA Mossley Hall appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "Proposals have been lodged with Wigan Council for a 55,000 sq ft animal care facility that would allow the organisation to address a capacity crisis in the region. The post Plans in for RSPCA Mossley Hall appeared first ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Plans",
+        "RSPCA Mossley Hall. Proposals",
+        "Wigan Council",
+        "RSPCA Mossley Hall"
+      ],
+      "locations": []
+    },
+    {
+      "id": "662b6aca25cc",
+      "title": "Manchester to create first new conservation areas since the 1990s",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/manchester-to-create-first-new-conservation-areas-since-the-1990s",
+      "published": "2026-10-15T09:58:33+00:00",
+      "kind": "news",
+      "excerpt": "Following a review of its protected neighbourhoods as part of the local plan process, the city council has identified seven locations it thinks should be afforded extra protections. The post Manchester to create first new conservation areas since the 1990s appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "Following a review of its protected neighbourhoods as part of the local plan process, the city council has identified seven locations it thinks should be afforded extra protections. The post Manchester to create first ne",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Manchester",
+        "Following",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    {
+      "id": "9cd6c2e89f23",
+      "title": "Government must show commitment to new towns to drive supply of building materials, committee finds",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/government-must-show-commitment-to-new-towns-to-drive-supply-of-building-materials-committee-finds-99155",
+      "published": "2026-10-15T09:32:20+00:00",
+      "kind": "news",
+      "excerpt": "The government must show commitment to the new-towns programme to drive the supply of building materials amid a shortage, according to a new report",
+      "importance": "Medium",
+      "summary": "The government must show commitment to the new-towns programme to drive the supply of building materials amid a shortage, according to a new report",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    {
+      "id": "6ff6bb5a434e",
+      "title": "Why it’s taken almost 10 years to rebuild after a devastating gas explosion",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/why-its-taken-almost-10-years-to-rebuild-after-a-devastating-gas-explosion-98680",
+      "published": "2026-10-15T09:11:48+00:00",
+      "kind": "news",
+      "excerpt": "Nine years after an explosion devastated the Wirral town of New Ferry, a major regeneration project is well under way to provide more than 70 new affordable homes. Jenny Messenger finds out more",
+      "importance": "Medium",
+      "summary": "Nine years after an explosion devastated the Wirral town of New Ferry, a major regeneration project is well under way to provide more than 70 new affordable homes. Jenny Messenger finds out more",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing",
+        "Regional development"
+      ],
+      "companies": [
+        "Nine",
+        "Wirral",
+        "New Ferry",
+        "Jenny Messenger"
+      ],
+      "locations": []
+    },
+    {
+      "id": "680a8b9abdef",
+      "title": "Plans in for redevelopment of crumbling Stockport mill complex into 141 homes",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/plans-in-for-redevelopment-of-crumbling-stockport-mill-complex-into-141-homes",
+      "published": "2026-10-15T09:09:57+00:00",
+      "kind": "news",
+      "excerpt": "A group of local business owners has worked up proposals for a residential scheme on the site of the dilapidated Compstall Mill. The post Plans in for redevelopment of crumbling Stockport mill complex into 141 homes appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "A group of local business owners has worked up proposals for a residential scheme on the site of the dilapidated Compstall Mill. The post Plans in for redevelopment of crumbling Stockport mill complex into 141 homes appe",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Plans",
+        "Stockport",
+        "Compstall Mill. The",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    {
+      "id": "4b94873d3e9c",
+      "title": "Latest cattle, sheep and pig slaughter statistics",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/cattle-sheep-and-pig-slaughter",
+      "published": "2026-10-15T08:30:04+00:00",
+      "kind": "data",
+      "excerpt": "Monthly UK statistics on cattle, sheep and pig slaughter and meat production.",
+      "importance": "Medium",
+      "summary": "Monthly UK statistics on cattle, sheep and pig slaughter and meat production.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Latest",
+        "Monthly UK"
+      ],
+      "locations": []
+    },
+    {
+      "id": "a4c7edcbdb8d",
+      "title": "Historical statistics notices on the number of cattle, sheep and pigs slaughtered in the UK, 2026",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/historical-statistics-notices-on-the-number-of-cattle-sheep-and-pigs-slaughtered-in-the-uk-2026",
+      "published": "2026-10-15T08:30:04+00:00",
+      "kind": "data",
+      "excerpt": "Previously published copies of the monthly Accredited Official statistics publication on the number of cattle, sheep and pigs slaughtered in the UK.",
+      "importance": "Medium",
+      "summary": "Previously published copies of the monthly Accredited Official statistics publication on the number of cattle, sheep and pigs slaughtered in the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Historical",
+        "Previously",
+        "Accredited Official"
+      ],
+      "locations": []
+    },
+    {
+      "id": "647c8485a0c9",
+      "title": "Daily domestic transport use by mode user engagement 2026",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/daily-domestic-transport-use-by-mode-user-engagement-2026",
+      "published": "2026-10-15T08:30:03+00:00",
+      "kind": "data",
+      "excerpt": "Information relating to the user engagement exercise to improve the daily domestic transport use by mode in Great Britain publication.",
+      "importance": "Medium",
+      "summary": "Information relating to the user engagement exercise to improve the daily domestic transport use by mode in Great Britain publication.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Daily",
+        "Information",
+        "Great Britain"
+      ],
+      "locations": []
+    },
+    {
+      "id": "6120f79a3429",
+      "title": "Daily domestic transport use by mode",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/daily-domestic-transport-use-by-mode",
+      "published": "2026-10-15T08:30:03+00:00",
+      "kind": "data",
+      "excerpt": "Daily usage of selected domestic transport by mode for Great Britain.",
+      "importance": "Medium",
+      "summary": "Daily usage of selected domestic transport by mode for Great Britain.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Daily",
+        "Great Britain"
+      ],
+      "locations": []
+    },
+    {
+      "id": "78f40955d93b",
+      "title": "National Survey of Businesses wave 1: June to August 2026",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/national-survey-of-businesses-wave-1-june-to-august-2026",
+      "published": "2026-10-15T08:30:02+00:00",
+      "kind": "data",
+      "excerpt": "Official Statistics publication of National Survey of Businesses wave 1 results: fieldwork completed from June to August 2026.",
+      "importance": "Medium",
+      "summary": "Official Statistics publication of National Survey of Businesses wave 1 results: fieldwork completed from June to August 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "National Survey of Businesses",
+        "Official Statistics"
+      ],
+      "locations": []
+    },
+    {
+      "id": "51254014934d",
+      "title": "Armed Forces Compensation Scheme statistics: financial year 2025/26",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/armed-forces-compensation-scheme-statistics-financial-year-202526",
+      "published": "2026-10-15T08:30:02+00:00",
+      "kind": "data",
+      "excerpt": "Statistics on compensation recipients and new claims, awards and appeals made under the armed forces and Reserve Forces Compensation Scheme.",
+      "importance": "Medium",
+      "summary": "Statistics on compensation recipients and new claims, awards and appeals made under the armed forces and Reserve Forces Compensation Scheme.",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Armed Forces Compensation Scheme",
+        "Statistics",
+        "Reserve Forces Compensation Scheme"
+      ],
+      "locations": []
+    },
+    {
+      "id": "e163abf37c06",
+      "title": "Nutritional Supply of Agriculture in the UK 2025",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/nutritional-supply-of-agriculture-in-the-uk-2025",
+      "published": "2026-10-15T08:30:02+00:00",
+      "kind": "data",
+      "excerpt": "Statistics on the nutritional supply provided by agriculture in the United Kingdom in 2025.",
+      "importance": "Medium",
+      "summary": "Statistics on the nutritional supply provided by agriculture in the United Kingdom in 2025.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Nutritional Supply of Agriculture",
+        "Statistics",
+        "United Kingdom"
+      ],
+      "locations": []
+    },
+    {
+      "id": "fc1e6e76e1bf",
+      "title": "Police use of force statistics, April 2025 to March 2026",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/police-use-of-force-statistics-april-2025-to-march-2026",
+      "published": "2026-10-15T08:30:01+00:00",
+      "kind": "data",
+      "excerpt": "Statistics on incidents where police officers use force; including type of force, reason, outcome, injuries, and person details (such as age, gender).",
+      "importance": "Medium",
+      "summary": "Statistics on incidents where police officers use force; including type of force, reason, outcome, injuries, and person details (such as age, gender).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Police",
+        "Statistics"
+      ],
+      "locations": []
+    },
+    {
+      "id": "6e74576e70c5",
+      "title": "Support in domestic abuse safe accommodation: 2025 to 2026",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/support-in-domestic-abuse-safe-accommodation-2025-to-2026",
+      "published": "2026-10-15T08:30:01+00:00",
+      "kind": "data",
+      "excerpt": "Management information on domestic abuse support services within safe accommodation delivered across England, by Tier 1 local authorities.",
+      "importance": "Medium",
+      "summary": "Management information on domestic abuse support services within safe accommodation delivered across England, by Tier 1 local authorities.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Support",
+        "Management",
+        "Tier"
+      ],
+      "locations": []
+    },
+    {
+      "id": "7993358385bd",
+      "title": "Statistics on people with a learning disability and autistic people in mental health hospitals, AT: September 2026, MHSDS: August 2026",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/statistics-on-people-with-a-learning-disability-and-autistic-people-in-mental-health-hospitals-at-september-2026-mhsds-august-2026",
+      "published": "2026-10-15T08:30:01+00:00",
+      "kind": "data",
+      "excerpt": "Latest Monthly statistics from the Assuring Transformation collection and MHSDS collection.",
+      "importance": "Medium",
+      "summary": "Latest Monthly statistics from the Assuring Transformation collection and MHSDS collection.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Statistics",
+        "MHSDS",
+        "Latest Monthly",
+        "Assuring Transformation"
+      ],
+      "locations": []
+    },
+    {
+      "id": "81270c28a727",
+      "title": "Non-domestic rating: business floorspace, March 2026",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/non-domestic-rating-business-floorspace-march-2026",
+      "published": "2026-10-15T08:30:01+00:00",
+      "kind": "data",
+      "excerpt": "Statistics on the floorspace of a range of classes of properties on the 2023 rating list as at 31 March 2026.",
+      "importance": "Medium",
+      "summary": "Statistics on the floorspace of a range of classes of properties on the 2023 rating list as at 31 March 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Non-domestic",
+        "Statistics"
+      ],
+      "locations": []
+    },
+    {
+      "id": "a6940952e788",
+      "title": "UK overseas trade in goods statistics August 2026: import and export data",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistical-data-sets/uk-overseas-trade-in-goods-statistics-august-2026-import-and-export-data",
+      "published": "2026-10-15T08:30:01+00:00",
+      "kind": "data",
+      "excerpt": "EU and non-EU import and export data for August 2026.",
+      "importance": "Medium",
+      "summary": "EU and non-EU import and export data for August 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    {
+      "id": "322231edbb15",
+      "title": "Small Business Survey 2025: methodology",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/small-business-survey-2025-methodology",
+      "published": "2026-10-15T08:30:01+00:00",
+      "kind": "data",
+      "excerpt": "Details of the methodology used to conduct the Small Business Survey 2025.",
+      "importance": "Medium",
+      "summary": "Details of the methodology used to conduct the Small Business Survey 2025.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Small Business Survey",
+        "Details"
+      ],
+      "locations": []
+    },
+    {
+      "id": "7453cffaa12e",
+      "title": "UK overseas trade in goods statistics: August 2026",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/uk-overseas-trade-in-goods-statistics-august-2026",
+      "published": "2026-10-15T08:30:01+00:00",
+      "kind": "data",
+      "excerpt": "…This publication provides details of the overseas trade in goods statistics (OTS) of the UK. They are a comprehensive dataset covering the UK's trade in goods at country and product level.…",
+      "importance": "Medium",
+      "summary": "…This publication provides details of the overseas trade in goods statistics (OTS) of the UK. They are a comprehensive dataset covering the UK's trade in goods at country and product level.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK. They",
+        "UK's"
+      ],
+      "locations": []
+    },
+    {
+      "id": "18058a0c2038",
+      "title": "Economic activity and social change in the UK, real-time indicators: 15 October 2026",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/economic-activity-and-social-change-in-the-uk-real-time-indicators-15-october-2026",
+      "published": "2026-10-15T08:30:01+00:00",
+      "kind": "data",
+      "excerpt": "Early experimental data and analysis on economic activity and social change in the UK. These real-time indicators are created using rapid response surveys, novel data sources and experimental methods.",
+      "importance": "Medium",
+      "summary": "Early experimental data and analysis on economic activity and social change in the UK. These real-time indicators are created using rapid response surveys, novel data sources and experimental methods.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Economic",
+        "Early",
+        "UK. These"
+      ],
+      "locations": []
+    },
+    {
+      "id": "61e0bf504c2b",
+      "title": "Small Business Survey 2025: businesses with no employees",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/small-business-survey-2025-businesses-with-no-employees",
+      "published": "2026-10-15T08:30:01+00:00",
+      "kind": "data",
+      "excerpt": "Findings of the Small Business Survey 2025 on the performance of businesses with no employees.",
+      "importance": "Medium",
+      "summary": "Findings of the Small Business Survey 2025 on the performance of businesses with no employees.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Small Business Survey",
+        "Findings"
+      ],
+      "locations": []
+    },
+    {
+      "id": "d870f122b5b7",
+      "title": "MPs say rural areas need dedicated housing strategy to make the most of devolution",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/mps-say-rural-areas-need-dedicated-housing-strategy-to-make-the-most-of-devolution-99151",
+      "published": "2026-10-15T07:00:00+00:00",
+      "kind": "news",
+      "excerpt": "Rural areas need their own dedicated housing strategy to ensure they are not left behind in the push for devolution, MPs have warned",
+      "importance": "Medium",
+      "summary": "Rural areas need their own dedicated housing strategy to ensure they are not left behind in the push for devolution, MPs have warned",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Rural"
+      ],
+      "locations": []
+    },
+    {
+      "id": "7b9a413f2d37",
+      "title": "New EPC-style flood risk certificates could change how homes are bought and sold",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/new-epc-style-flood-risk-certificates-could-change-how-homes-are-bought-and-sold",
+      "published": "2026-10-15T03:50:13+00:00",
+      "kind": "news",
+      "excerpt": "Floods Minister Emma Hardy said the certificates would give households clearer information about the risks facing their properties",
+      "importance": "Medium",
+      "summary": "Floods Minister Emma Hardy said the certificates would give households clearer information about the risks facing their properties",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "New EPC-style",
+        "Floods Minister Emma Hardy"
+      ],
+      "locations": []
+    },
+    {
+      "id": "98f8220f8b27",
+      "title": "Estate agency group expands after completing double acquisition",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/estate-agency-group-expands-after-completing-double-acquisition",
+      "published": "2026-10-15T03:40:47+00:00",
+      "kind": "news",
+      "excerpt": "Steer Property Group buys two estate agency brands in second deal",
+      "importance": "Medium",
+      "summary": "Steer Property Group buys two estate agency brands in second deal",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate",
+        "Steer Property Group"
+      ],
+      "locations": []
+    },
+    {
+      "id": "329bc6d24d02",
+      "title": "More agents, fewer sales: Multi-agency listings underperform",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/more-agents-fewer-sales-multi-agency-listings-underperform",
+      "published": "2026-10-15T03:30:11+00:00",
+      "kind": "news",
+      "excerpt": "Multi-agency properties 46% less likely to sell, research finds",
+      "importance": "Medium",
+      "summary": "Multi-agency properties 46% less likely to sell, research finds",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "More",
+        "Multi-agency"
+      ],
+      "locations": []
+    },
+    {
+      "id": "19a741a2cfc2",
+      "title": "Fail to plan, plan to fail: Getting your agency 2027 ready",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/fail-to-plan-plan-to-fail-getting-your-agency-2027-ready",
+      "published": "2026-10-15T02:50:05+00:00",
+      "kind": "news",
+      "excerpt": "Why estate agency owners need to start planning for 2027 now - before the market does it for them",
+      "importance": "Medium",
+      "summary": "Why estate agency owners need to start planning for 2027 now - before the market does it for them",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Fail",
+        "Getting"
+      ],
+      "locations": []
+    },
+    {
+      "id": "58182eb3e7b9",
+      "title": "Most estate agents use AI – but few are making the most of it",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/most-estate-agents-use-ai-but-few-are-making-the-most-of-it",
+      "published": "2026-10-15T02:36:18+00:00",
+      "kind": "news",
+      "excerpt": "AI divides estate agents as top users save four times more time",
+      "importance": "Medium",
+      "summary": "AI divides estate agents as top users save four times more time",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Most"
+      ],
+      "locations": []
+    },
+    {
+      "id": "38ba6551dc39",
+      "title": "Record rents mask growing concerns over buy-to-let investment",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/record-rents-mask-growing-concerns-over-buy-to-let-investment",
+      "published": "2026-10-15T01:30:11+00:00",
+      "kind": "news",
+      "excerpt": "Rental growth has moderated",
+      "importance": "Medium",
+      "summary": "Rental growth has moderated",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Record",
+        "Rental"
+      ],
+      "locations": []
+    },
+    {
+      "id": "87b281241c0f",
+      "title": "Winkworth announces shareholder payout amid ongoing boardroom dispute",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/winkworth-announces-shareholder-payout-amid-ongoing-boardroom-dispute",
+      "published": "2026-10-15T01:20:07+00:00",
+      "kind": "news",
+      "excerpt": "The AIM-listed company confirmed that shareholders on its register on 23 October will qualify for the payment",
+      "importance": "Medium",
+      "summary": "The AIM-listed company confirmed that shareholders on its register on 23 October will qualify for the payment",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Winkworth",
+        "The AIM-listed"
+      ],
+      "locations": []
+    },
+    {
+      "id": "80df4a1aeba2",
+      "title": "Housing affordability improves – but higher mortgage rates hit sales",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/housing-affordability-improves-but-higher-mortgage-rates-hit-sales",
+      "published": "2026-10-15T00:56:26+00:00",
+      "kind": "news",
+      "excerpt": "Rising incomes and slower house price growth improve housing affordability",
+      "importance": "Medium",
+      "summary": "Rising incomes and slower house price growth improve housing affordability",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Housing",
+        "Rising"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5325e4e25fef",
+      "title": "Younger buyers refuse to give up on homeownership despite affordability squeeze",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/younger-buyers-refuse-to-give-up-on-homeownership-despite-affordability-squeeze",
+      "published": "2026-10-15T00:50:10+00:00",
+      "kind": "news",
+      "excerpt": "Young buyers remain determined to own homes despite costs",
+      "importance": "Medium",
+      "summary": "Young buyers remain determined to own homes despite costs",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Younger",
+        "Young"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2e40532b1f8b",
+      "title": "EPC-style Flood Performance Certificates to be issued to households",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/epc-style-flood-performance-certificates-to-be-issued-to-households",
+      "published": "2026-10-14T23:06:00+00:00",
+      "kind": "news",
+      "excerpt": "Households across England will soon see a clearer picture of a property’s flood risk.",
+      "importance": "Medium",
+      "summary": "Households across England will soon see a clearer picture of a property’s flood risk.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "EPC-style Flood Performance Certificates",
+        "Households"
+      ],
+      "locations": []
+    },
+    {
+      "id": "4157b8eee742",
+      "title": "Two independent agencies snapped up by property group",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/two-independent-agencies-snapped-up-by-property-group",
+      "published": "2026-10-14T23:05:00+00:00",
+      "kind": "news",
+      "excerpt": "Two independent agencies have been acquired by growing business, the Steer Property Group.",
+      "importance": "Medium",
+      "summary": "Two independent agencies have been acquired by growing business, the Steer Property Group.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Steer Property Group"
+      ],
+      "locations": []
+    },
+    {
+      "id": "124f991f191e",
+      "title": "Multi-agency instructions less likely to sell, more likely to cut prices",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/multi-agency-instructions-less-likely-to-sell-more-likely-to-cut-prices",
+      "published": "2026-10-14T23:04:00+00:00",
+      "kind": "news",
+      "excerpt": "The data comes from TwentyEA",
+      "importance": "Medium",
+      "summary": "The data comes from TwentyEA",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Multi-agency",
+        "TwentyEA"
+      ],
+      "locations": []
+    },
+    {
+      "id": "1fec6cac95d7",
+      "title": "Family houses more affordable now than a year ago, says Zoopla",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/family-houses-more-affordable-now-than-a-year-ago-says-zoopla",
+      "published": "2026-10-14T23:02:00+00:00",
+      "kind": "news",
+      "excerpt": "Most two and three-bed houses are at a price a household on an average income can afford.",
+      "importance": "Medium",
+      "summary": "Most two and three-bed houses are at a price a household on an average income can afford.",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Family",
+        "Zoopla. Most"
+      ],
+      "locations": []
+    },
+    {
+      "id": "0ff99575e791",
+      "title": "Property SigNATure: Housing Policy: All picking and no mixing",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/property-signature-housing-policy-all-picking-and-no-mixing",
+      "published": "2026-10-14T23:01:00+00:00",
+      "kind": "news",
+      "excerpt": "I fear Gavin Barwell may have misunderstood the concept of Pick N Mix. Those of us of a certain age will remember the sweetshop ritual. Armed with a paper bag, you wandered past a vast assortment of sweets, selecting a few chocolates, some sherbet lemons and perhaps a handful of pineapple chunks.",
+      "importance": "Medium",
+      "summary": "I fear Gavin Barwell may have misunderstood the concept of Pick N Mix. Those of us of a certain age will remember the sweetshop ritual. Armed with a paper bag, you wandered past a vast assortment of sweets, selecting a f",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property SigNATure",
+        "Housing Policy",
+        "Gavin Barwell",
+        "Pick"
+      ],
+      "locations": []
+    },
+    {
+      "id": "1237439a1bfe",
+      "title": "Huge council tax premiums bring empty homes back to use",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/huge-council-tax-premiums-bring-empty-homes-back-to-use",
+      "published": "2026-10-14T23:00:00+00:00",
+      "kind": "news",
+      "excerpt": "Huge council tax premiums bring empty homes back to use",
+      "importance": "Medium",
+      "summary": "Huge council tax premiums bring empty homes back to use",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Huge"
+      ],
+      "locations": []
+    },
+    {
+      "id": "171eeccec1eb",
+      "title": "Manchester to wave through 3,500 student beds across seven buildings",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/manchester-to-wave-through-3500-student-beds-across-seven-buildings",
+      "published": "2026-10-14T14:08:58+00:00",
+      "kind": "news",
+      "excerpt": "Two proposals featuring towers of 50 and 38 storeys next to and within the £5bn Sister innovation district are due to be given planning consent next week. The post Manchester to wave through 3,500 student beds across seven buildings appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "Two proposals featuring towers of 50 and 38 storeys next to and within the £5bn Sister innovation district are due to be given planning consent next week. The post Manchester to wave through 3,500 student beds across sev",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Residential investment",
+        "Student housing"
+      ],
+      "companies": [
+        "Manchester",
+        "Sister",
+        "Place North West"
+      ],
+      "locations": []
+    }
+  ],
+  "stats": {
+    "stories": 42,
+    "critical": 0,
+    "high": 0,
+    "medium": 42,
+    "low": 0,
+    "sources_live": 6,
+    "sources_total": 9,
+    "by_source": [
+      {
+        "name": "HM Land Registry — UK HPI",
+        "count": 18
+      },
+      {
+        "name": "Property Industry Eye",
+        "count": 9
+      },
+      {
+        "name": "Estate Agent Today",
+        "count": 6
+      },
+      {
+        "name": "Inside Housing",
+        "count": 5
+      },
+      {
+        "name": "Place North West",
+        "count": 4
+      }
+    ]
+  },
+  "sources": [
+    {
+      "key": "bisnow_uk",
+      "name": "Bisnow UK",
+      "homepage": "https://www.bisnow.com/london",
+      "kind": "news"
+    },
+    {
+      "key": "inside_housing",
+      "name": "Inside Housing",
+      "homepage": "https://www.insidehousing.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "property_week_resi",
+      "name": "Property Week — Residential",
+      "homepage": "https://www.propertyweek.com",
+      "kind": "news"
+    },
+    {
+      "key": "place_north_west",
+      "name": "Place North West",
+      "homepage": "https://www.placenorthwest.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "homepage": "https://propertyindustryeye.com",
+      "kind": "news"
+    },
+    {
+      "key": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "homepage": "https://www.estateagenttoday.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "landlordzone",
+      "name": "LandlordZONE",
+      "homepage": "https://www.landlordzone.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "homepage": "https://www.gov.uk/government/organisations/land-registry",
+      "kind": "data"
+    },
+    {
+      "key": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "homepage": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing",
+      "kind": "data"
+    }
+  ],
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 8,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 8"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 10,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 10"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "failed",
+      "url": "https://www.landlordzone.co.uk/news",
+      "found": 0,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/blog/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/rss.xml -> 0",
+        "scrape https://www.landlordzone.co.uk/news -> 0"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "meta": {
+    "rated": 0,
+    "unrated": 42,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg44UfrZ7UZaUty2bSaLi'}",
+    "model": null
+  }
+}
