@@ -1,0 +1,1082 @@
+{
+  "schema": 1,
+  "generated_at_utc": "2026-10-16T12:50:37+00:00",
+  "generated_at_london": "2026-10-16T13:50+01:00",
+  "date_label": "16 October 2026",
+  "time_label": "13:50 BST",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg5wnBecZF7QT5qmumEzf'}\n\n33 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Later living",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "More",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Latest UK Housing Review",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "UK Housing Review",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Turnover",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Abri",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Abri’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "London Plan",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "We’re",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Tracy Harrison",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Northern Housing Consortium",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Renew",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Sector",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Notting Hill Genesis",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Gentoo",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Sunderland-based Gentoo",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Nine",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Wirral",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "New Ferry",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "stories": [
+    {
+      "id": "f9d338a45f91",
+      "title": "Warrington decision paves way for £38m grant for 240 homes",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/warrington-decision-paves-way-for-38m-grant-for-240-homes",
+      "published": "2026-10-16T10:34:58+00:00",
+      "kind": "news",
+      "excerpt": "The council has reapproved Habiko’s plans to redevelop the former DW Sports site off Academy Way to smooth the path to site for the 100% affordable scheme. The post Warrington decision paves way for £38m grant for 240 homes appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "The council has reapproved Habiko’s plans to redevelop the former DW Sports site off Academy Way to smooth the path to site for the 100% affordable scheme. The post Warrington decision paves way for £38m grant for 240 ho",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Warrington",
+        "Habiko’s",
+        "DW Sports",
+        "Academy Way"
+      ],
+      "locations": []
+    },
+    {
+      "id": "298e468109d5",
+      "title": "Homes England readies plans for another 220 South Ribble properties",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/homes-england-readies-plans-for-another-220-south-ribble-properties",
+      "published": "2026-10-16T10:24:14+00:00",
+      "kind": "news",
+      "excerpt": "Proposals for a neighbourhood on land south of Chain House Lane are being worked up alongside plans for another 200 off Church Lane a short distance away. The post Homes England readies plans for another 220 South Ribble properties appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "Proposals for a neighbourhood on land south of Chain House Lane are being worked up alongside plans for another 200 off Church Lane a short distance away. The post Homes England readies plans for another 220 South Ribble",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Homes England",
+        "South Ribble",
+        "Proposals",
+        "Chain House Lane"
+      ],
+      "locations": []
+    },
+    {
+      "id": "3d54c7e5e0a2",
+      "title": "Latest UK Housing Review briefing estimates government will miss 1.5 million homes target by one-third",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/latest-uk-housing-review-briefing-estimates-government-will-miss-15-million-homes-target-by-one-third-99169",
+      "published": "2026-10-16T10:19:18+00:00",
+      "kind": "news",
+      "excerpt": "A UK Housing Review autumn briefing paper has warned that the government is set to miss its delivery target by 500,000 homes",
+      "importance": "Medium",
+      "summary": "A UK Housing Review autumn briefing paper has warned that the government is set to miss its delivery target by 500,000 homes",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Latest UK Housing Review",
+        "UK Housing Review"
+      ],
+      "locations": []
+    },
+    {
+      "id": "dc06c2d6919d",
+      "title": "Turnover and surplus at Abri rise in first half of year while property sales drop by over one-fifth",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/turnover-and-surplus-at-abri-rise-in-first-half-of-year-while-property-sales-drop-by-over-one-fifth-99170",
+      "published": "2026-10-16T10:14:51+00:00",
+      "kind": "news",
+      "excerpt": "Housing association Abri’s operating surplus rose by 14% to £68m in the first half of the year, despite high levels of investment in existing homes",
+      "importance": "Medium",
+      "summary": "Housing association Abri’s operating surplus rose by 14% to £68m in the first half of the year, despite high levels of investment in existing homes",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Turnover",
+        "Abri",
+        "Housing",
+        "Abri’s"
+      ],
+      "locations": []
+    },
+    {
+      "id": "4b936e92e24e",
+      "title": "Cumberland tipped to approve 98 Carlisle houses",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/cumberland-tipped-to-approve-98-carlisle-houses",
+      "published": "2026-10-16T10:05:01+00:00",
+      "kind": "news",
+      "excerpt": "Genesis Homes’ plans for a neighbourhood off Crindledyke Lane has received an officer’s seal of approval ahead of next week’s planning committee. The post Cumberland tipped to approve 98 Carlisle houses appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "Genesis Homes’ plans for a neighbourhood off Crindledyke Lane has received an officer’s seal of approval ahead of next week’s planning committee. The post Cumberland tipped to approve 98 Carlisle houses appeared first on",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Cumberland",
+        "Carlisle",
+        "Genesis Homes",
+        "Crindledyke Lane"
+      ],
+      "locations": []
+    },
+    {
+      "id": "0f4e97babb8d",
+      "title": "Notting Hill Genesis posts £284.6m deficit in delayed accounts",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/notting-hill-genesis-posts-2846m-deficit-in-delayed-accounts-99163",
+      "published": "2026-10-16T09:46:16+00:00",
+      "kind": "news",
+      "excerpt": "Notting Hill Genesis has reported a £284.6m deficit, according to its delayed accounts for 2025-26, published on Thursday",
+      "importance": "Medium",
+      "summary": "Notting Hill Genesis has reported a £284.6m deficit, according to its delayed accounts for 2025-26, published on Thursday",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Notting Hill Genesis"
+      ],
+      "locations": []
+    },
+    {
+      "id": "4ca04fe44d78",
+      "title": "London Plan should go beyond completion targets and take into account ‘accessibility, affordability, maintenance and management’",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/london-plan-should-go-beyond-completion-targets-and-take-into-account-accessibility-affordability-maintenance-and-management-99168",
+      "published": "2026-10-16T09:02:03+00:00",
+      "kind": "news",
+      "excerpt": "The G15 has called for the London Plan to not only be judged on new home completions, but also take into account the plan to manage those homes",
+      "importance": "Medium",
+      "summary": "The G15 has called for the London Plan to not only be judged on new home completions, but also take into account the plan to manage those homes",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "London Plan"
+      ],
+      "locations": []
+    },
+    {
+      "id": "468dab95d13d",
+      "title": "Concord Suite’s demolition given green light",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/concord-suites-demolition-given-green-light",
+      "published": "2026-10-16T08:34:13+00:00",
+      "kind": "news",
+      "excerpt": "Tameside Council can now move forward with its plans to raze the top three floors of the 1960s Droylsden building – a project the local authority hopes will pave the way for the town centre’s regeneration. The post Concord Suite’s demolition given green light appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "Tameside Council can now move forward with its plans to raze the top three floors of the 1960s Droylsden building – a project the local authority hopes will pave the way for the town centre’s regeneration. The post Conco",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Concord Suite’s",
+        "Tameside Council",
+        "Droylsden",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    {
+      "id": "77a60f8b6b8e",
+      "title": "School belonging case studies research",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/school-belonging-case-studies-research",
+      "published": "2026-10-16T08:30:08+00:00",
+      "kind": "data",
+      "excerpt": "Research exploring how mainstream schools support school belonging while maintaining high standards of attendance and attainment.",
+      "importance": "Medium",
+      "summary": "Research exploring how mainstream schools support school belonging while maintaining high standards of attendance and attainment.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "School",
+        "Research"
+      ],
+      "locations": []
+    },
+    {
+      "id": "dea9dfad86d7",
+      "title": "We’re asking the chancellor to unleash the full potential of Northern regeneration",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/were-asking-the-chancellor-to-unleash-the-full-potential-of-northern-regeneration-99102",
+      "published": "2026-10-16T08:18:44+00:00",
+      "kind": "news",
+      "excerpt": "Tracy Harrison, chief executive of the Northern Housing Consortium, reflects on a summer of Renew inquiry site visits across the region",
+      "importance": "Medium",
+      "summary": "Tracy Harrison, chief executive of the Northern Housing Consortium, reflects on a summer of Renew inquiry site visits across the region",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "We’re",
+        "Tracy Harrison",
+        "Northern Housing Consortium",
+        "Renew"
+      ],
+      "locations": []
+    },
+    {
+      "id": "71f263451e30",
+      "title": "More homes, fewer buyers as autumn property market fails to recover",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/more-homes-fewer-buyers-as-autumn-property-market-fails-to-recover",
+      "published": "2026-10-16T04:00:03+00:00",
+      "kind": "news",
+      "excerpt": "Housing market recovery falters as agreed sales slump 11%",
+      "importance": "Medium",
+      "summary": "Housing market recovery falters as agreed sales slump 11%",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "More",
+        "Housing"
+      ],
+      "locations": []
+    },
+    {
+      "id": "8a73b6786e2c",
+      "title": "If the UK property market is so bad, why are so many homes still selling?",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/if-the-property-market-is-struggling-why-are-so-many-homes-still-selling",
+      "published": "2026-10-16T03:50:31+00:00",
+      "kind": "news",
+      "excerpt": "Despite higher mortgage rates, economic uncertainty and subdued buyer confidence, property transactions continue. So what is really driving sales in today’s market?",
+      "importance": "Medium",
+      "summary": "Despite higher mortgage rates, economic uncertainty and subdued buyer confidence, property transactions continue. So what is really driving sales in today’s market?",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Despite"
+      ],
+      "locations": []
+    },
+    {
+      "id": "90615ee56ac6",
+      "title": "New estate agency group launches acquisition drive after completing first deal",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/new-estate-agency-group-launches-acquisition-drive-after-completing-first-deal",
+      "published": "2026-10-16T02:30:23+00:00",
+      "kind": "news",
+      "excerpt": "Fourth-generation estate agent Jack Wilson launches All North Group",
+      "importance": "Medium",
+      "summary": "Fourth-generation estate agent Jack Wilson launches All North Group",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Fourth-generation",
+        "Jack Wilson",
+        "All North Group"
+      ],
+      "locations": []
+    },
+    {
+      "id": "32e3d83fc661",
+      "title": "More affordable homes do not necessarily mean more buyers – Propertymark",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/more-affordable-homes-do-not-necessarily-mean-more-buyers-propertymark",
+      "published": "2026-10-16T02:20:26+00:00",
+      "kind": "news",
+      "excerpt": "Rising mortgage rates, deposit requirements and the wider costs of moving continue to prevent many prospective buyers from entering the market",
+      "importance": "Medium",
+      "summary": "Rising mortgage rates, deposit requirements and the wider costs of moving continue to prevent many prospective buyers from entering the market",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages",
+        "Affordable housing"
+      ],
+      "companies": [
+        "More",
+        "Propertymark. Rising"
+      ],
+      "locations": []
+    },
+    {
+      "id": "742939c5257d",
+      "title": "Tenants’ past performance is not an indication of future success",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/tenants-past-performance-is-not-an-indication-of-future-success",
+      "published": "2026-10-16T02:00:48+00:00",
+      "kind": "news",
+      "excerpt": "Why protecting rental income matters as much as protecting the property",
+      "importance": "Medium",
+      "summary": "Why protecting rental income matters as much as protecting the property",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tenants"
+      ],
+      "locations": []
+    },
+    {
+      "id": "c3b302bf8806",
+      "title": "Estate agents brace for higher AML costs as compliance demands intensify",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/estate-agents-brace-for-higher-aml-costs-as-compliance-demands-intensify",
+      "published": "2026-10-16T01:20:12+00:00",
+      "kind": "news",
+      "excerpt": "Six in ten property compliance leaders expect AML budgets to increase, while 63% report working overtime every week, according to Thirdfort",
+      "importance": "Medium",
+      "summary": "Six in ten property compliance leaders expect AML budgets to increase, while 63% report working overtime every week, according to Thirdfort",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Thirdfort"
+      ],
+      "locations": []
+    },
+    {
+      "id": "58b6e1a4d491",
+      "title": "More existing homeowners enquire about new-build properties",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/more-existing-homeowners-enquire-about-new-build-properties",
+      "published": "2026-10-16T01:00:50+00:00",
+      "kind": "news",
+      "excerpt": "New-build enquiries from existing homeowners rose 23% in the first half of 2026, prompting calls for housebuilders to rethink buyer incentives",
+      "importance": "Medium",
+      "summary": "New-build enquiries from existing homeowners rose 23% in the first half of 2026, prompting calls for housebuilders to rethink buyer incentives",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "More",
+        "New-build"
+      ],
+      "locations": []
+    },
+    {
+      "id": "b52471a8b5bb",
+      "title": "More properties go under the hammer – but fewer sell",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/more-properties-go-under-the-hammer-but-fewer-sell",
+      "published": "2026-10-16T00:30:55+00:00",
+      "kind": "news",
+      "excerpt": "The property auction market continues to see a healthy flow of stock",
+      "importance": "Medium",
+      "summary": "The property auction market continues to see a healthy flow of stock",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "More"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2e6d169901e1",
+      "title": "LonRes to show estate agents how AI can cut admin and generate leads",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/lonres-to-show-estate-agents-how-ai-can-cut-admin-and-generate-leads",
+      "published": "2026-10-15T23:50:03+00:00",
+      "kind": "news",
+      "excerpt": "LonRes and Greenhouse OS will host a free webinar on 28 October exploring how estate agents can use AI to reduce admin and capture lead",
+      "importance": "Medium",
+      "summary": "LonRes and Greenhouse OS will host a free webinar on 28 October exploring how estate agents can use AI to reduce admin and capture lead",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "LonRes",
+        "LonRes and Greenhouse OS"
+      ],
+      "locations": []
+    },
+    {
+      "id": "a469cbb859d6",
+      "title": "Forget the black tie – property industry invited to do lunch",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/forget-the-black-tie-property-industry-invited-to-do-lunch",
+      "published": "2026-10-15T23:30:06+00:00",
+      "kind": "news",
+      "excerpt": "The Boys Club is encouraging estate agents to swap their desks for lunch with colleagues and industry contacts on Friday 23 October",
+      "importance": "Medium",
+      "summary": "The Boys Club is encouraging estate agents to swap their desks for lunch with colleagues and industry contacts on Friday 23 October",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Forget",
+        "The Boys Club"
+      ],
+      "locations": []
+    },
+    {
+      "id": "03d3e26c99b0",
+      "title": "Self-employed agents boost market share while online firms plunge",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/self-employed-agents-boost-market-share-while-online-firms-plunge",
+      "published": "2026-10-15T23:07:00+00:00",
+      "kind": "news",
+      "excerpt": "Online agencies without a substantial self-employed business model fall badly",
+      "importance": "Medium",
+      "summary": "Online agencies without a substantial self-employed business model fall badly",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Self-employed",
+        "Online"
+      ],
+      "locations": []
+    },
+    {
+      "id": "eea2c29c5842",
+      "title": "Troubled agency names major appointment for key branch",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/troubled-agency-names-major-appointment-for-key-branch",
+      "published": "2026-10-15T23:06:00+00:00",
+      "kind": "news",
+      "excerpt": "Winkworth's family feud is still unresolved",
+      "importance": "Medium",
+      "summary": "Winkworth's family feud is still unresolved",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Troubled",
+        "Winkworth's"
+      ],
+      "locations": []
+    },
+    {
+      "id": "38e1e926b824",
+      "title": "Bid to help independent agencies keep local identities",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/bid-to-help-independent-agencies-keep-local-identities",
+      "published": "2026-10-15T23:05:00+00:00",
+      "kind": "news",
+      "excerpt": "The new group will allow independents to keep their identities and characters",
+      "importance": "Medium",
+      "summary": "The new group will allow independents to keep their identities and characters",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    {
+      "id": "9d15075e830e",
+      "title": "Propertymark warns against complacency over affordable homes",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/propertymark-warns-against-complacency-over-affordable-homes",
+      "published": "2026-10-15T23:03:00+00:00",
+      "kind": "news",
+      "excerpt": "Affordability is about more than statistics..",
+      "importance": "Medium",
+      "summary": "Affordability is about more than statistics..",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Propertymark",
+        "Affordability"
+      ],
+      "locations": []
+    },
+    {
+      "id": "bc6e4c890474",
+      "title": "Agency automation pioneer Reapit wins major PropTech recognition",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/agency-automation-pioneer-reapit-wins-major-proptech-recognition",
+      "published": "2026-10-15T23:01:00+00:00",
+      "kind": "news",
+      "excerpt": "Reapit has been won a major accolade for its use of Artificial Intelligence.",
+      "importance": "Medium",
+      "summary": "Reapit has been won a major accolade for its use of Artificial Intelligence.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency",
+        "Reapit",
+        "PropTech",
+        "Artificial Intelligence"
+      ],
+      "locations": []
+    },
+    {
+      "id": "46098946cceb",
+      "title": "Zoopla’s new homes sales website claims more buyer interest",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/zooplas-new-homes-website-claims-upsurge-in-buyer-interest",
+      "published": "2026-10-15T23:00:00+00:00",
+      "kind": "news",
+      "excerpt": "Data from a new homes sales website owned by Zoopla claims an upsurge in buyer interest. Newhomesforsale claims there’s been a 23% increase in enquiries from second and third steppers for new build properties in the first six months of 2026. There is no data available for more recent months. The site says enquiries from […]",
+      "importance": "Medium",
+      "summary": "Data from a new homes sales website owned by Zoopla claims an upsurge in buyer interest. Newhomesforsale claims there’s been a 23% increase in enquiries from second and third steppers for new build properties in the firs",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Zoopla’s",
+        "Data",
+        "Zoopla",
+        "Newhomesforsale"
+      ],
+      "locations": []
+    },
+    {
+      "id": "08628316b22c",
+      "title": "HIV: North East annual data spotlight",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/hiv-north-east-annual-data-spotlight",
+      "published": "2026-10-15T17:03:13+00:00",
+      "kind": "data",
+      "excerpt": "Reports presenting annual epidemiological data for HIV in north-east England.",
+      "importance": "Medium",
+      "summary": "Reports presenting annual epidemiological data for HIV in north-east England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "North East",
+        "Reports"
+      ],
+      "locations": []
+    },
+    {
+      "id": "eb09d03bb325",
+      "title": "Sector should embed intergenerational communities into ‘ordinary placemaking’, conference told",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/sector-should-embed-intergenerational-communities-into-ordinary-placemaking-conference-told-99164",
+      "published": "2026-10-15T16:30:00+00:00",
+      "kind": "news",
+      "excerpt": "The housing sector needs to embed intergenerational communities as part of “just good, ordinary placemaking” and offer more flexibility and choice in later living provision, sector leaders have said",
+      "importance": "Medium",
+      "summary": "The housing sector needs to embed intergenerational communities as part of “just good, ordinary placemaking” and offer more flexibility and choice in later living provision, sector leaders have said",
+      "why_it_matters": "",
+      "themes": [
+        "Later living"
+      ],
+      "companies": [
+        "Sector"
+      ],
+      "locations": []
+    },
+    {
+      "id": "3e73a98ada82",
+      "title": "COVID-19 vaccination in autumn 2026 and spring 2027: JCVI advice, 16 July 2025",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/covid-19-vaccination-in-autumn-2026-and-spring-2027-jcvi-advice-16-july-2025",
+      "published": "2026-10-15T14:49:59+00:00",
+      "kind": "data",
+      "excerpt": "Statement setting out advice from the Joint Committee on Vaccination and Immunisation (JCVI) on the COVID-19 vaccination programmes for autumn 2026 and spring 2027.",
+      "importance": "Medium",
+      "summary": "Statement setting out advice from the Joint Committee on Vaccination and Immunisation (JCVI) on the COVID-19 vaccination programmes for autumn 2026 and spring 2027.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "COVID",
+        "JCVI",
+        "Statement",
+        "Joint Committee"
+      ],
+      "locations": []
+    },
+    {
+      "id": "1c1c15d1ad95",
+      "title": "Gentoo sees £5.4m drop in sales income but increase in rent",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/gentoo-sees-54m-drop-in-sales-income-but-increase-in-rent-99161",
+      "published": "2026-10-15T14:30:00+00:00",
+      "kind": "news",
+      "excerpt": "Sunderland-based Gentoo saw a drop of £5.4m in income from sales, mainly outright market, according to its latest accounts",
+      "importance": "Medium",
+      "summary": "Sunderland-based Gentoo saw a drop of £5.4m in income from sales, mainly outright market, according to its latest accounts",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Gentoo",
+        "Sunderland-based Gentoo"
+      ],
+      "locations": []
+    },
+    {
+      "id": "48fad8646821",
+      "title": "Nicholson Group sets out vision for historic Pilkington canteen",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/nicholson-group-sets-out-vision-for-historic-pilkington-canteen",
+      "published": "2026-10-15T14:11:53+00:00",
+      "kind": "news",
+      "excerpt": "The grade two-listed St Helens building could be converted into 45 flats under ambitious adaptive reuse plans from the developer. The post Nicholson Group sets out vision for historic Pilkington canteen appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "The grade two-listed St Helens building could be converted into 45 flats under ambitious adaptive reuse plans from the developer. The post Nicholson Group sets out vision for historic Pilkington canteen appeared first on",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Nicholson Group",
+        "Pilkington",
+        "St Helens",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    {
+      "id": "21240b14327d",
+      "title": "Why it’s taken almost 10 years to rebuild a town after a devastating gas explosion",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/why-its-taken-almost-10-years-to-rebuild-a-town-after-a-devastating-gas-explosion-98680",
+      "published": "2026-10-15T14:00:08+00:00",
+      "kind": "news",
+      "excerpt": "Nine years after an explosion devastated the Wirral town of New Ferry, a major regeneration project is well under way to provide more than 70 new affordable homes. Jenny Messenger finds out more",
+      "importance": "Medium",
+      "summary": "Nine years after an explosion devastated the Wirral town of New Ferry, a major regeneration project is well under way to provide more than 70 new affordable homes. Jenny Messenger finds out more",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing",
+        "Regional development"
+      ],
+      "companies": [
+        "Nine",
+        "Wirral",
+        "New Ferry",
+        "Jenny Messenger"
+      ],
+      "locations": []
+    },
+    {
+      "id": "4f09de9553f2",
+      "title": "Rainfall and river flow: weekly reports for England",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/rainfall-and-river-flow-weekly-reports-for-england",
+      "published": "2026-10-15T13:33:09+00:00",
+      "kind": "data",
+      "excerpt": "Weekly reports on rainfall and river flow in England for the last 3 months.",
+      "importance": "Medium",
+      "summary": "Weekly reports on rainfall and river flow in England for the last 3 months.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rainfall",
+        "England. Weekly"
+      ],
+      "locations": []
+    }
+  ],
+  "stats": {
+    "stories": 33,
+    "critical": 0,
+    "high": 0,
+    "medium": 33,
+    "low": 0,
+    "sources_live": 6,
+    "sources_total": 9,
+    "by_source": [
+      {
+        "name": "Property Industry Eye",
+        "count": 10
+      },
+      {
+        "name": "Inside Housing",
+        "count": 8
+      },
+      {
+        "name": "Estate Agent Today",
+        "count": 6
+      },
+      {
+        "name": "Place North West",
+        "count": 5
+      },
+      {
+        "name": "HM Land Registry — UK HPI",
+        "count": 4
+      }
+    ]
+  },
+  "sources": [
+    {
+      "key": "bisnow_uk",
+      "name": "Bisnow UK",
+      "homepage": "https://www.bisnow.com/london",
+      "kind": "news"
+    },
+    {
+      "key": "inside_housing",
+      "name": "Inside Housing",
+      "homepage": "https://www.insidehousing.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "property_week_resi",
+      "name": "Property Week — Residential",
+      "homepage": "https://www.propertyweek.com",
+      "kind": "news"
+    },
+    {
+      "key": "place_north_west",
+      "name": "Place North West",
+      "homepage": "https://www.placenorthwest.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "homepage": "https://propertyindustryeye.com",
+      "kind": "news"
+    },
+    {
+      "key": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "homepage": "https://www.estateagenttoday.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "landlordzone",
+      "name": "LandlordZONE",
+      "homepage": "https://www.landlordzone.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "homepage": "https://www.gov.uk/government/organisations/land-registry",
+      "kind": "data"
+    },
+    {
+      "key": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "homepage": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing",
+      "kind": "data"
+    }
+  ],
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 11,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 11"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 9,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 9"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "failed",
+      "url": "https://www.landlordzone.co.uk/news",
+      "found": 0,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/blog/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/rss.xml -> 0",
+        "scrape https://www.landlordzone.co.uk/news -> 0"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "meta": {
+    "rated": 0,
+    "unrated": 33,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg5wnBecZF7QT5qmumEzf'}",
+    "model": null
+  }
+}
