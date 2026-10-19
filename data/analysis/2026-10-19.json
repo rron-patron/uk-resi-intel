@@ -1,0 +1,612 @@
+{
+  "generated_at": "2026-10-19T15:07:36+00:00",
+  "date_label": "Monday 19 October 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgBoepMbW1Ky8Gudd5Gzk'}\n\n30 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 7,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 6,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "Mortgage",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Dourish",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Hamptons",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Britain",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Rightmove",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Raven Housing Trust",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "THFC. Raven Housing Trust",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Lending",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Scottish Housing Regulator’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Cala Homes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Vistry. Developer Cala Homes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Home Counties",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Vico Homes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Sunderland",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Insiyah Khushnood and Michelle Williams",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Igloo",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Lovell",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Poynton",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Located",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "2cd2ab7bfbe8": {
+      "id": "2cd2ab7bfbe8",
+      "importance": "Medium",
+      "summary": "Raven Housing Trust has agreed to borrow £100m from a major affordable housing aggregator",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Raven Housing Trust",
+        "THFC. Raven Housing Trust"
+      ],
+      "locations": []
+    },
+    "125321595715": {
+      "id": "125321595715",
+      "importance": "Medium",
+      "summary": "The Scottish Housing Regulator’s annual review of registered social landlords’ loan portfolios has reported a 46% drop on the previous year",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Lending",
+        "The Scottish Housing Regulator’s"
+      ],
+      "locations": []
+    },
+    "58c4c42aa8c9": {
+      "id": "58c4c42aa8c9",
+      "importance": "Medium",
+      "summary": "Developer Cala Homes has appointed a new managing director for its southern Home Counties region",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Cala Homes",
+        "Vistry. Developer Cala Homes",
+        "Home Counties"
+      ],
+      "locations": []
+    },
+    "6b7032d62dc7": {
+      "id": "6b7032d62dc7",
+      "importance": "Medium",
+      "summary": "Vico Homes’ turnover increased 9% to £227.6m last year, but the boost from rent increases and new-build homes was partly offset by reduced shared ownership sales",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Vico Homes"
+      ],
+      "locations": []
+    },
+    "77612bf04b4f": {
+      "id": "77612bf04b4f",
+      "importance": "Medium",
+      "summary": "A new wave of devolved governance is giving places like Sunderland more control over their futures, write Insiyah Khushnood and Michelle Williams from Igloo",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Sunderland",
+        "Insiyah Khushnood and Michelle Williams",
+        "Igloo"
+      ],
+      "locations": []
+    },
+    "e39468426ebc": {
+      "id": "e39468426ebc",
+      "importance": "Medium",
+      "summary": "Located on the Stockport/Cheshire East border, the scheme would span 66 acres of Green Belt west of the town centre. The post Lovell tables plans for 450 Poynton homes appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Lovell",
+        "Poynton",
+        "Located",
+        "Stockport"
+      ],
+      "locations": []
+    },
+    "064ad4efcff4": {
+      "id": "064ad4efcff4",
+      "importance": "Medium",
+      "summary": "Scion Hotels is the majority tenant of the 84,300 sq ft building, which is located at 22 Dale Street in the city centre. The post Liverpool’s State House up for auction with £2.5m guide price appeared first on Place Nort",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Liverpool’s State House",
+        "Scion Hotels",
+        "Dale Street",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "390d0f990237": {
+      "id": "390d0f990237",
+      "importance": "Medium",
+      "summary": "The existing hodgepodge of teaching blocks and sports facilities would be demolished, with an 84,500 sq ft replacement due to complete in summer 2029 under proposals backed by the Department for Education. The post Stret",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Stretford Grammar",
+        "Department",
+        "Education. The",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "5dcec7d042bf": {
+      "id": "5dcec7d042bf",
+      "importance": "Medium",
+      "summary": "Cartrefi Conwy has been granted approval to build houses and flats on 7.6 acres off Llanrwst Road, south of Glan Conwy. The post Conwy consents plans for 70 affordable homes appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Conwy",
+        "Cartrefi Conwy",
+        "Llanrwst Road",
+        "Glan Conwy. The"
+      ],
+      "locations": []
+    },
+    "a49ca82e3a13": {
+      "id": "a49ca82e3a13",
+      "importance": "Medium",
+      "summary": "Gareth Jones and Robert Brym have been promoted to director, while Jack Farrell has been made an associate director amid the architectural practice’s emergence as a specialist in navigating the Building Safety Act. The p",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "North West. Gareth Jones",
+        "Robert Brym",
+        "Jack Farrell",
+        "Building Safety Act. The"
+      ],
+      "locations": []
+    },
+    "cafa6a752211": {
+      "id": "cafa6a752211",
+      "importance": "Medium",
+      "summary": "With planning permission, funding, and now building regulator sign-off, the 364-home scheme on Whitworth Street West is ready to start on site next year. The post Glenbrook’s 44-storey Manchester tower clears Gateway 2 a",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Residential investment"
+      ],
+      "companies": [
+        "Glenbrook’s",
+        "Manchester",
+        "Gateway",
+        "With"
+      ],
+      "locations": []
+    },
+    "9428b0e22e00": {
+      "id": "9428b0e22e00",
+      "importance": "Medium",
+      "summary": "House price cuts hit 15-year high as sellers battle for dwindling buyers",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "More",
+        "House"
+      ],
+      "locations": []
+    },
+    "9e16a712715b": {
+      "id": "9e16a712715b",
+      "importance": "Medium",
+      "summary": "Mortgage deals lasted just 13 days in September, Moneyfacts reveals",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages",
+        "Residential investment"
+      ],
+      "companies": [
+        "Mortgage",
+        "Moneyfacts"
+      ],
+      "locations": []
+    },
+    "603390560658": {
+      "id": "603390560658",
+      "importance": "Medium",
+      "summary": "Sellers cut asking prices to entice buyers",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Sellers"
+      ],
+      "locations": []
+    },
+    "31d0a25497e9": {
+      "id": "31d0a25497e9",
+      "importance": "Medium",
+      "summary": "haart opens a new Nottingham flagship branch",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Nottingham"
+      ],
+      "locations": []
+    },
+    "d81b2d0e2566": {
+      "id": "d81b2d0e2566",
+      "importance": "Medium",
+      "summary": "Stephen Brown's schools campaign earns BBC recognition as fundraising tops £166,000",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate",
+        "Stephen Brown's"
+      ],
+      "locations": []
+    },
+    "4419962630ac": {
+      "id": "4419962630ac",
+      "importance": "Medium",
+      "summary": "Dourish & Day buys local rival as Whitchurch expansion continues",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Independent",
+        "Dourish",
+        "Whitchurch"
+      ],
+      "locations": []
+    },
+    "4f480e2dbbbd": {
+      "id": "4f480e2dbbbd",
+      "importance": "Medium",
+      "summary": "Citizens Advice warns that 58% of private renting households receiving housing benefit face rent shortfalls, prompting calls for an LHA increase",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rent",
+        "Citizens Advice"
+      ],
+      "locations": []
+    },
+    "ad186b74dd90": {
+      "id": "ad186b74dd90",
+      "importance": "Medium",
+      "summary": "AI adoption could widen gap between agencies",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Former ARLA",
+        "AI. AI"
+      ],
+      "locations": []
+    },
+    "9772f7014a91": {
+      "id": "9772f7014a91",
+      "importance": "Medium",
+      "summary": "Hamptons research reveals 56% of first-time buyers now pay more on their mortgage than they previously paid in rent, as rental growth accelerates",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Higher",
+        "Hamptons"
+      ],
+      "locations": []
+    },
+    "b2289316e2d5": {
+      "id": "b2289316e2d5",
+      "importance": "Medium",
+      "summary": "The NRLA calls for Capital Gains Tax reform",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Landlords",
+        "The NRLA",
+        "Capital Gains Tax"
+      ],
+      "locations": []
+    },
+    "a3800d01a5b4": {
+      "id": "a3800d01a5b4",
+      "importance": "Medium",
+      "summary": "Rising mortgage rates are forcing sellers to lower asking prices in parts of Britain, as Rightmove reports weaker buyer demand and falling sales",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Mortgage",
+        "Rising",
+        "Britain",
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    "e1b100f20e73": {
+      "id": "e1b100f20e73",
+      "importance": "Medium",
+      "summary": "This is according to property consultancy TwentyEA",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Asking",
+        "TwentyEA"
+      ],
+      "locations": []
+    },
+    "2c60cf0d36c7": {
+      "id": "2c60cf0d36c7",
+      "importance": "Medium",
+      "summary": "iamproperty has linked with IT and cybersecurity firm Cortida.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents",
+        "Cortida"
+      ],
+      "locations": []
+    },
+    "28ef64937f8f": {
+      "id": "28ef64937f8f",
+      "importance": "Medium",
+      "summary": "An independent agent has sold his firm to a local rival – at least partly to spend more time with his son. Leo James has sold Whitchurch-based Leo James Property to another firm in the same town, Dourish & Day. On his co",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency",
+        "Leo James",
+        "Whitchurch-based Leo James Property",
+        "Dourish"
+      ],
+      "locations": []
+    },
+    "b1ce885723eb": {
+      "id": "b1ce885723eb",
+      "importance": "Medium",
+      "summary": "The local agency says this is an exciting new chapter",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Self-employed"
+      ],
+      "locations": []
+    },
+    "d6a5e2b2e8e0": {
+      "id": "d6a5e2b2e8e0",
+      "importance": "Medium",
+      "summary": "The average price of a newly listed home has risen 1.0% this month – but prices are actually down a token 0.1% on this time last year. This latest Rightmove index suggests that soaring mortgage rates are now biting harde",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Rightmove",
+        "Britain"
+      ],
+      "locations": []
+    },
+    "72e6cd8bfa74": {
+      "id": "72e6cd8bfa74",
+      "importance": "Medium",
+      "summary": "This is according to the Hamptons estate agency, using Connells Group data",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Hamptons",
+        "Connells Group"
+      ],
+      "locations": []
+    },
+    "9b8fc7ae8206": {
+      "id": "9b8fc7ae8206",
+      "importance": "Medium",
+      "summary": "Preliminary and updated outbreak assessments for avian influenza (bird flu) in Europe and the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Avian",
+        "Namibia. Preliminary",
+        "Europe"
+      ],
+      "locations": []
+    },
+    "0178570432f6": {
+      "id": "0178570432f6",
+      "importance": "Medium",
+      "summary": "The 2025 audit of the National Immunisation programme aligned with the UKHSA Immunisation Equity Strategy 2025 to 2030",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "National Immunisation",
+        "Health Equity Audit",
+        "UKHSA Immunisation Equity Strategy"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 30,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgBoepMbW1Ky8Gudd5Gzk'}",
+    "model": null
+  }
+}
