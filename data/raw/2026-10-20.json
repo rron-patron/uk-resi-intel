@@ -1,0 +1,697 @@
+{
+  "collected_at": "2026-10-20T13:08:06+00:00",
+  "date_london": "2026-10-20",
+  "counts": {
+    "seen_in_feeds": 79,
+    "new": 36,
+    "sources_live": 6,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 8,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 8"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 10,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 10"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "failed",
+      "url": "https://www.landlordzone.co.uk/news",
+      "found": 0,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/blog/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/rss.xml -> 0",
+        "scrape https://www.landlordzone.co.uk/news -> 0"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 19,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 19"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Unite members negotiate pay boost at Scottish landlord",
+      "url": "https://insidehousing.co.uk/home/unite-members-negotiate-pay-boost-at-scottish-landlord-99205",
+      "published": "2026-10-20T12:30:00+00:00",
+      "excerpt": "Staff at the Scottish Borders Housing Association are in line for a pay rise following successful union negotiations",
+      "entities": [
+        "Unite",
+        "Scottish",
+        "Staff",
+        "Scottish Borders Housing Association"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:14+00:00",
+      "id": "5527ce4e55ee"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Supported housing cannot be on the margins of the conversation",
+      "url": "https://insidehousing.co.uk/home/supported-housing-cannot-be-on-the-margins-of-the-conversation-99198",
+      "published": "2026-10-20T12:00:00+00:00",
+      "excerpt": "Amy Hurst, head of practice at thinktank New Local, reflects on what is needed to create a sustainable future for supported housing",
+      "entities": [
+        "Supported",
+        "Amy Hurst",
+        "New Local"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:14+00:00",
+      "id": "2e60613b46a0"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Wain Estates lodges plans for 320 homes in St Helens",
+      "url": "https://placenorthwest.co.uk/wain-estates-lodges-plans-for-320-homes-in-st-helens",
+      "published": "2026-10-20T10:54:14+00:00",
+      "excerpt": "A 32-acre site south of Leyland Green Road in Garswood is the subject of outline proposals for a residential development. The post Wain Estates lodges plans for 320 homes in St Helens appeared first on Place North West .",
+      "entities": [
+        "Wain Estates",
+        "St Helens",
+        "Leyland Green Road",
+        "Garswood",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:21+00:00",
+      "id": "6936adf43f46"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Oval shapes up for start on Manchester mixed-use scheme",
+      "url": "https://placenorthwest.co.uk/oval-shapes-up-for-start-on-manchester-mixed-use-scheme",
+      "published": "2026-10-20T10:48:56+00:00",
+      "excerpt": "A little under a year after the city council signed off the redevelopment of Albert Bridge House into 800 apartments and 250,000 sq ft of workspace, a formal decision notice has now been issued. The post Oval shapes up for start on Manchester mixed-use scheme appeared first on Place North West .",
+      "entities": [
+        "Oval",
+        "Manchester",
+        "Albert Bridge House",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:21+00:00",
+      "id": "05041ea38820"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "TrueNorth adds to Droylsden canal-side holdings",
+      "url": "https://placenorthwest.co.uk/truenorth-adds-to-droylsden-canal-side-holdings",
+      "published": "2026-10-20T09:48:58+00:00",
+      "excerpt": "The developer has acquired a site off Durham Street capable of accommodating 45 homes to go with the Lock Keepers Court site across the water being developed with CERT Property and L&G Affordable Homes. The post TrueNorth adds to Droylsden canal-side holdings appeared first on Place North West .",
+      "entities": [
+        "TrueNorth",
+        "Droylsden",
+        "Durham Street",
+        "Lock Keepers Court",
+        "CERT Property and L&G Affordable Homes",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:21+00:00",
+      "id": "437cd5859889"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Buy houses. Hold them. Govt should keep it simple",
+      "url": "https://placenorthwest.co.uk/buy-houses-hold-them-govt-should-keep-it-simple",
+      "published": "2026-10-20T09:30:59+00:00",
+      "excerpt": "I’ll be honest, when I was asked for my intervention to solve the housing crisis, my first instinct was not to bother, writes Tim Heatley . Not because I don’t care about it. Quite the opposite. The post Buy houses. Hold them. Govt should keep it simple appeared first on Place North West .",
+      "entities": [
+        "Hold",
+        "Govt",
+        "I’ll",
+        "Tim Heatley",
+        "Quite",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:21+00:00",
+      "id": "9d61f06195c0"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Rogue agents exposed in BBC investigation",
+      "url": "https://propertyindustryeye.com/rogue-agents-exposed-in-bbc-investigation",
+      "published": "2026-10-20T03:50:04+00:00",
+      "excerpt": "Property firms under scrutiny as Panorama uncovers housing benefit abuse",
+      "entities": [
+        "Rogue",
+        "Property",
+        "Panorama"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:22+00:00",
+      "id": "fe2a25b784eb"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency boss fined after fire leaves residents trapped",
+      "url": "https://propertyindustryeye.com/estate-agency-boss-fined-after-fire-leaves-residents-trapped",
+      "published": "2026-10-20T03:20:17+00:00",
+      "excerpt": "Estate agent fined after ignoring fire inspectors following blaze that trapped residents",
+      "entities": [
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:22+00:00",
+      "id": "c4b18c7d613d"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Chancellor rules out capital gains tax rise ahead of Budget",
+      "url": "https://propertyindustryeye.com/chancellor-rules-out-capital-gains-tax-rise-ahead-of-budget",
+      "published": "2026-10-20T02:50:48+00:00",
+      "excerpt": "Buy-to-let landlords spared Capital Gains Tax hike as Chancellor makes Budget decision",
+      "entities": [
+        "Chancellor",
+        "Budget. Buy-to-let",
+        "Capital Gains Tax",
+        "Budget"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:22+00:00",
+      "id": "ec18fd161df0"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agents demand housing market boost as Budget scepticism grows",
+      "url": "https://propertyindustryeye.com/estate-agents-demand-housing-market-boost-as-budget-scepticism-grows",
+      "published": "2026-10-20T01:50:34+00:00",
+      "excerpt": "Some 84% per cent of estate agents doubt the Autumn Budget will deliver meaningful housing support, as 56% report a weaker-than-expected market",
+      "entities": [
+        "Estate",
+        "Budget",
+        "Some",
+        "Autumn Budget"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:22+00:00",
+      "id": "8978eaebb56e"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "OPINION: It’s time to free letting agents from the ‘tech trap’",
+      "url": "https://propertyindustryeye.com/opinion-its-time-to-free-letting-agents-from-the-tech-trap",
+      "published": "2026-10-20T01:30:29+00:00",
+      "excerpt": "New technologies have taken the lettings sector by storm",
+      "entities": [
+        "OPINION",
+        "It’s"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:22+00:00",
+      "id": "1cc27929c7f7"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "One in three letting agents hit by fraud attempts as AI scams raise alarm",
+      "url": "https://propertyindustryeye.com/one-in-three-letting-agents-hit-by-fraud-attempts-as-ai-scams-raise-alarm",
+      "published": "2026-10-20T00:50:03+00:00",
+      "excerpt": "More than a third of letting agents report attempted financial fraud",
+      "entities": [
+        "More"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:22+00:00",
+      "id": "a96edb1e50ff"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agents invited to set agenda for industry webinar",
+      "url": "https://propertyindustryeye.com/estate-agents-invited-to-set-agenda-for-industry-webinar",
+      "published": "2026-10-20T00:30:23+00:00",
+      "excerpt": "The Estate Agent Consultancy will host a free webinar on 28 October, with four industry coaches answering questions submitted by estate and letting agents",
+      "entities": [
+        "Estate",
+        "The Estate Agent Consultancy"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:22+00:00",
+      "id": "94571d2f5531"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Prime London rental yields hit 17-year high as landlords weigh their options",
+      "url": "https://propertyindustryeye.com/prime-london-rental-yields-hit-17-year-high-as-landlords-weigh-their-options",
+      "published": "2026-10-19T23:50:50+00:00",
+      "excerpt": "Landlord uncertainty squeezes rental supply as prime yields hit 2009 high",
+      "entities": [
+        "Prime London",
+        "Landlord"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:22+00:00",
+      "id": "049bd7a35747"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Commonhold reforms face major practical hurdles, property experts warn",
+      "url": "https://propertyindustryeye.com/commonhold-reforms-face-major-practical-hurdles-property-experts-warn",
+      "published": "2026-10-19T23:30:48+00:00",
+      "excerpt": "Property experts warn of major obstacles to commonhold reforms",
+      "entities": [
+        "Commonhold",
+        "Property"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:22+00:00",
+      "id": "72fa1b3ca2c3"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agency owner fined after fire leaves people trapped in building",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/agent-fined-after-fire-leaves-people-trapped-in-building",
+      "published": "2026-10-19T23:07:00+00:00",
+      "excerpt": "The fines total around £25,000",
+      "entities": [
+        "Agency"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:22+00:00",
+      "id": "8b7aae1db19b"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "We face ‘most challenging mortgage market of modern times’",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/were-in-the-most-challenging-mortgage-market-of-modern-times-warning",
+      "published": "2026-10-19T23:06:00+00:00",
+      "excerpt": "Shelf-life plummets - and it's because of the Middle East crisis",
+      "entities": [
+        "Shelf-life",
+        "Middle East"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:22+00:00",
+      "id": "318ac70d2779"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Savills beefs up residential leadership team",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/savills-beefs-up-residential-leadership-team",
+      "published": "2026-10-19T23:05:00+00:00",
+      "excerpt": "Savills has announced two significant leadership appointments within its Scottish residential business.",
+      "entities": [
+        "Savills",
+        "Scottish"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:22+00:00",
+      "id": "8f4b4cbe141c"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Winkworth admits prime central London activity hits 18-month low",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/winkworth-admits-prime-central-london-activity-hits-18-month-low",
+      "published": "2026-10-19T23:04:00+00:00",
+      "excerpt": "The franchise giant says the Mansion Tax is already biting in Prime Central London",
+      "entities": [
+        "Winkworth",
+        "London",
+        "Mansion Tax",
+        "Prime Central London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:22+00:00",
+      "id": "e6631ac53d42"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agent’s heroic campaign provides perfect Christmas gift opportunity!",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/agents-heroic-campaign-provides-perfect-christmas-gift-opportunity",
+      "published": "2026-10-19T23:03:00+00:00",
+      "excerpt": "A new paperback book contains advice from agents and others across the spectrum",
+      "entities": [
+        "Agent’s",
+        "Christmas"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:22+00:00",
+      "id": "1feb8cbb4999"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Help downsizers with tax and moving costs, says Barclays Bank",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/help-downsizers-with-tax-and-moving-costs-says-barclays-bank",
+      "published": "2026-10-19T23:01:00+00:00",
+      "excerpt": "Upfront costs like stamp duty deter many downsizes, it's claimed",
+      "entities": [
+        "Help",
+        "Barclays Bank. Upfront"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-20T13:08:22+00:00",
+      "id": "c91a8723d7b3"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK Covid-19 Inquiry: Care Sector (Module 6) Report",
+      "url": "https://gov.uk/government/publications/uk-covid-19-inquiry-care-sector-module-6-report",
+      "published": "2026-10-20T11:00:05+00:00",
+      "excerpt": "The UK Covid-19 Inquiry’s sixth report examines the impact of the pandemic on the adult social care sector in the four nations of the United Kingdom",
+      "entities": [
+        "UK Covid",
+        "Inquiry",
+        "Care Sector",
+        "Module",
+        "Report. The UK Covid",
+        "Inquiry’s",
+        "United Kingdom"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-20T13:08:28+00:00",
+      "id": "be723c4f7c1e"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "RPC opinion: impact of private parking code of practice",
+      "url": "https://gov.uk/government/publications/private-parking-code-of-practice-oa-rpc-opinion-green-rated",
+      "published": "2026-10-20T10:35:58+00:00",
+      "excerpt": "Regulatory Policy Committee's opinion of the quality of the evidence and analysis from Ministry of Housing, Communities and Local Government.",
+      "entities": [
+        "Regulatory Policy Committee's",
+        "Ministry of Housing",
+        "Communities and Local Government"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-20T13:08:28+00:00",
+      "id": "45a711d08c22"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Justice data lab statistics: July 2026",
+      "url": "https://gov.uk/government/statistics/justice-data-lab-statistics-july-2026",
+      "published": "2026-10-20T09:18:07+00:00",
+      "excerpt": "Tailored reports assessing the impact of rehabilitation programmes on reoffending behaviour analysed within the previous quarter, and summary of results to date.",
+      "entities": [
+        "Justice",
+        "Tailored"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-20T13:08:28+00:00",
+      "id": "5ced85f35dae"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "DCMS sectors soft power evidence review and theory of change",
+      "url": "https://gov.uk/government/publications/dcms-sectors-soft-power-evidence-review-and-theory-of-change",
+      "published": "2026-10-20T09:11:01+00:00",
+      "excerpt": "Evidence review and framework exploring how DCMS sectors generate soft power and contribute to the UK’s economic growth and national security.",
+      "entities": [
+        "DCMS",
+        "Evidence",
+        "UK’s"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-20T13:08:28+00:00",
+      "id": "dd5c58b57f40"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Statistics of government revenues from UK oil and gas production",
+      "url": "https://gov.uk/government/statistics/government-revenues-from-uk-oil-and-gas-production--2",
+      "published": "2026-10-20T08:30:16+00:00",
+      "excerpt": "Statistics of government revenues from UK oil and gas production, including data for fields subject to Petroleum Revenue Tax (PRT).",
+      "entities": [
+        "Statistics",
+        "Petroleum Revenue Tax"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-20T13:08:28+00:00",
+      "id": "2edf4b91ca1c"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Individual insolvencies, September 2026",
+      "url": "https://gov.uk/government/statistics/individual-insolvencies-september-2026",
+      "published": "2026-10-20T08:30:04+00:00",
+      "excerpt": "Monthly tables and commentary on the numbers and rates of individual insolvencies, including bankruptcies, debt relief orders and individual voluntary arrangements in England and Wales and Northern Ireland, and quarterly inf…",
+      "entities": [
+        "Individual",
+        "Monthly",
+        "England and Wales and Northern Ireland"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-20T13:08:28+00:00",
+      "id": "f7a0b072a467"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Company insolvencies, September 2026",
+      "url": "https://gov.uk/government/statistics/company-insolvencies-september-2026",
+      "published": "2026-10-20T08:30:00+00:00",
+      "excerpt": "Monthly tables and commentary on the numbers, rates and sectors of companies that have entered formal insolvency procedures in England and Wales, Scotland and Northern Ireland.",
+      "entities": [
+        "Company",
+        "Monthly",
+        "England and Wales",
+        "Scotland and Northern Ireland"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-20T13:08:28+00:00",
+      "id": "8e485de24774"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "HIV: South East annual data spotlight",
+      "url": "https://gov.uk/government/publications/hiv-south-east-annual-data-spotlight",
+      "published": "2026-10-20T08:21:21+00:00",
+      "excerpt": "Report presenting annual epidemiological data for HIV in South East England.",
+      "entities": [
+        "South East",
+        "Report",
+        "South East England"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-20T13:08:28+00:00",
+      "id": "baab4c5979ae"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Earnings and employment from Pay As You Earn Real Time Information, UK: October 2026",
+      "url": "https://gov.uk/government/statistics/earnings-and-employment-from-pay-as-you-earn-real-time-information-uk-october-2026",
+      "published": "2026-10-20T06:00:02+00:00",
+      "excerpt": "Monthly estimates of payrolled employees and their pay from HM Revenue and Customs’ (HMRC’s) Pay As You Earn (PAYE) Real Time Information (RTI) data. This is a joint release between HMRC and the Office for National Statistic…",
+      "entities": [
+        "Earnings",
+        "Pay As You Earn",
+        "Real Time Information",
+        "Monthly",
+        "HM Revenue and Customs",
+        "HMRC’s",
+        "PAYE",
+        "HMRC"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-20T13:08:28+00:00",
+      "id": "c1b9ca88a732"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Labour market in the regions of the UK: October 2026",
+      "url": "https://gov.uk/government/statistics/labour-market-in-the-regions-of-the-uk-october-2026",
+      "published": "2026-10-20T06:00:02+00:00",
+      "excerpt": "Regional, local authority, and parliamentary constituency breakdowns of changes in UK employment, unemployment, and economic inactivity, and other related statistics. These are official statistics in development.",
+      "entities": [
+        "Labour",
+        "Regional",
+        "These"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-20T13:08:28+00:00",
+      "id": "bf5506e85fb9"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK Labour Market: October 2026",
+      "url": "https://gov.uk/government/statistics/uk-labour-market-october-2026",
+      "published": "2026-10-20T06:00:02+00:00",
+      "excerpt": "Estimates of employment, unemployment, inactivity, average weekly earnings, vacancies and other labour market related statistics for the UK.",
+      "entities": [
+        "UK Labour Market",
+        "Estimates"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-20T13:08:28+00:00",
+      "id": "c94990b33d41"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK Eutrophying and Acidifying Atmospheric Pollutants (UKEAP) Network technical reports",
+      "url": "https://gov.uk/government/publications/uk-eutrophying-and-acidifying-atmospheric-pollutants-ukeap-network-technical-reports",
+      "published": "2026-10-19T15:54:55+00:00",
+      "excerpt": "…Annual technical reports from the UK Eutrophying and Acidifying Atmospheric Pollutants (UKEAP) Network, part of the UK's air pollution monitoring regime.…",
+      "entities": [
+        "UK Eutrophying and Acidifying Atmospheric",
+        "Pollutants",
+        "UKEAP",
+        "Network",
+        "Annual",
+        "UK's"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-20T13:08:28+00:00",
+      "id": "6a836773688a"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Coroners statistics 2025",
+      "url": "https://gov.uk/government/statistics/coroners-statistics-2025",
+      "published": "2026-10-19T15:16:50+00:00",
+      "excerpt": "Annual data on deaths reported to coroners, including inquests and post-mortems held, inquest conclusions recorded and finds reported to coroners under treasure legislation.",
+      "entities": [
+        "Coroners",
+        "Annual"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-20T13:08:28+00:00",
+      "id": "3ee8bf31a616"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Hepatitis B in England",
+      "url": "https://gov.uk/government/publications/hepatitis-b-in-england",
+      "published": "2026-10-19T15:11:43+00:00",
+      "excerpt": "UKHSA hepatitis B virus reports and supporting documents for England.",
+      "entities": [
+        "Hepatitis",
+        "England. UKHSA"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-20T13:08:28+00:00",
+      "id": "ddde33d3fbf7"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Siting a geological disposal facility in the UK: A history",
+      "url": "https://gov.uk/government/publications/siting-a-geological-disposal-facility-in-the-uk-a-history",
+      "published": "2026-10-19T10:29:00+00:00",
+      "excerpt": "A detailed history explaining the events relating to the development of an underground repository for radioactive waste.",
+      "entities": [
+        "Siting"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-20T13:08:28+00:00",
+      "id": "7fc0ccf56842"
+    }
+  ]
+}

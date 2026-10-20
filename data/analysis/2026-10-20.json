@@ -1,0 +1,652 @@
+{
+  "generated_at": "2026-10-20T13:08:34+00:00",
+  "date_label": "Tuesday 20 October 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgDYPJjy3VCNx3r5q3MXD'}\n\n36 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Residential investment",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Monthly",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Scottish",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Budget",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Annual",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Unite",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Staff",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Scottish Borders Housing Association",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Supported",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Amy Hurst",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "New Local",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Wain Estates",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "St Helens",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Leyland Green Road",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Garswood",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Oval",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Manchester",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Albert Bridge House",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "5527ce4e55ee": {
+      "id": "5527ce4e55ee",
+      "importance": "Medium",
+      "summary": "Staff at the Scottish Borders Housing Association are in line for a pay rise following successful union negotiations",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Unite",
+        "Scottish",
+        "Staff",
+        "Scottish Borders Housing Association"
+      ],
+      "locations": []
+    },
+    "2e60613b46a0": {
+      "id": "2e60613b46a0",
+      "importance": "Medium",
+      "summary": "Amy Hurst, head of practice at thinktank New Local, reflects on what is needed to create a sustainable future for supported housing",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Supported",
+        "Amy Hurst",
+        "New Local"
+      ],
+      "locations": []
+    },
+    "6936adf43f46": {
+      "id": "6936adf43f46",
+      "importance": "Medium",
+      "summary": "A 32-acre site south of Leyland Green Road in Garswood is the subject of outline proposals for a residential development. The post Wain Estates lodges plans for 320 homes in St Helens appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Wain Estates",
+        "St Helens",
+        "Leyland Green Road",
+        "Garswood"
+      ],
+      "locations": []
+    },
+    "05041ea38820": {
+      "id": "05041ea38820",
+      "importance": "Medium",
+      "summary": "A little under a year after the city council signed off the redevelopment of Albert Bridge House into 800 apartments and 250,000 sq ft of workspace, a formal decision notice has now been issued. The post Oval shapes up f",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Oval",
+        "Manchester",
+        "Albert Bridge House",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "437cd5859889": {
+      "id": "437cd5859889",
+      "importance": "Medium",
+      "summary": "The developer has acquired a site off Durham Street capable of accommodating 45 homes to go with the Lock Keepers Court site across the water being developed with CERT Property and L&G Affordable Homes. The post TrueNort",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "TrueNorth",
+        "Droylsden",
+        "Durham Street",
+        "Lock Keepers Court"
+      ],
+      "locations": []
+    },
+    "9d61f06195c0": {
+      "id": "9d61f06195c0",
+      "importance": "Medium",
+      "summary": "I’ll be honest, when I was asked for my intervention to solve the housing crisis, my first instinct was not to bother, writes Tim Heatley . Not because I don’t care about it. Quite the opposite. The post Buy houses. Hold",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Hold",
+        "Govt",
+        "I’ll",
+        "Tim Heatley"
+      ],
+      "locations": []
+    },
+    "fe2a25b784eb": {
+      "id": "fe2a25b784eb",
+      "importance": "Medium",
+      "summary": "Property firms under scrutiny as Panorama uncovers housing benefit abuse",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rogue",
+        "Property",
+        "Panorama"
+      ],
+      "locations": []
+    },
+    "c4b18c7d613d": {
+      "id": "c4b18c7d613d",
+      "importance": "Medium",
+      "summary": "Estate agent fined after ignoring fire inspectors following blaze that trapped residents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "ec18fd161df0": {
+      "id": "ec18fd161df0",
+      "importance": "Medium",
+      "summary": "Buy-to-let landlords spared Capital Gains Tax hike as Chancellor makes Budget decision",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Chancellor",
+        "Budget. Buy-to-let",
+        "Capital Gains Tax",
+        "Budget"
+      ],
+      "locations": []
+    },
+    "8978eaebb56e": {
+      "id": "8978eaebb56e",
+      "importance": "Medium",
+      "summary": "Some 84% per cent of estate agents doubt the Autumn Budget will deliver meaningful housing support, as 56% report a weaker-than-expected market",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Budget",
+        "Some",
+        "Autumn Budget"
+      ],
+      "locations": []
+    },
+    "1cc27929c7f7": {
+      "id": "1cc27929c7f7",
+      "importance": "Medium",
+      "summary": "New technologies have taken the lettings sector by storm",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "OPINION",
+        "It’s"
+      ],
+      "locations": []
+    },
+    "a96edb1e50ff": {
+      "id": "a96edb1e50ff",
+      "importance": "Medium",
+      "summary": "More than a third of letting agents report attempted financial fraud",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "More"
+      ],
+      "locations": []
+    },
+    "94571d2f5531": {
+      "id": "94571d2f5531",
+      "importance": "Medium",
+      "summary": "The Estate Agent Consultancy will host a free webinar on 28 October, with four industry coaches answering questions submitted by estate and letting agents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "The Estate Agent Consultancy"
+      ],
+      "locations": []
+    },
+    "049bd7a35747": {
+      "id": "049bd7a35747",
+      "importance": "Medium",
+      "summary": "Landlord uncertainty squeezes rental supply as prime yields hit 2009 high",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Prime London",
+        "Landlord"
+      ],
+      "locations": []
+    },
+    "72fa1b3ca2c3": {
+      "id": "72fa1b3ca2c3",
+      "importance": "Medium",
+      "summary": "Property experts warn of major obstacles to commonhold reforms",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Commonhold",
+        "Property"
+      ],
+      "locations": []
+    },
+    "8b7aae1db19b": {
+      "id": "8b7aae1db19b",
+      "importance": "Medium",
+      "summary": "The fines total around £25,000",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Agency"
+      ],
+      "locations": []
+    },
+    "318ac70d2779": {
+      "id": "318ac70d2779",
+      "importance": "Medium",
+      "summary": "Shelf-life plummets - and it's because of the Middle East crisis",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Shelf-life",
+        "Middle East"
+      ],
+      "locations": []
+    },
+    "8f4b4cbe141c": {
+      "id": "8f4b4cbe141c",
+      "importance": "Medium",
+      "summary": "Savills has announced two significant leadership appointments within its Scottish residential business.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Savills",
+        "Scottish"
+      ],
+      "locations": []
+    },
+    "e6631ac53d42": {
+      "id": "e6631ac53d42",
+      "importance": "Medium",
+      "summary": "The franchise giant says the Mansion Tax is already biting in Prime Central London",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Winkworth",
+        "London",
+        "Mansion Tax",
+        "Prime Central London"
+      ],
+      "locations": []
+    },
+    "1feb8cbb4999": {
+      "id": "1feb8cbb4999",
+      "importance": "Medium",
+      "summary": "A new paperback book contains advice from agents and others across the spectrum",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agent’s",
+        "Christmas"
+      ],
+      "locations": []
+    },
+    "c91a8723d7b3": {
+      "id": "c91a8723d7b3",
+      "importance": "Medium",
+      "summary": "Upfront costs like stamp duty deter many downsizes, it's claimed",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Help",
+        "Barclays Bank. Upfront"
+      ],
+      "locations": []
+    },
+    "be723c4f7c1e": {
+      "id": "be723c4f7c1e",
+      "importance": "Medium",
+      "summary": "The UK Covid-19 Inquiry’s sixth report examines the impact of the pandemic on the adult social care sector in the four nations of the United Kingdom",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK Covid",
+        "Inquiry",
+        "Care Sector",
+        "Module"
+      ],
+      "locations": []
+    },
+    "45a711d08c22": {
+      "id": "45a711d08c22",
+      "importance": "Medium",
+      "summary": "Regulatory Policy Committee's opinion of the quality of the evidence and analysis from Ministry of Housing, Communities and Local Government.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Regulatory Policy Committee's",
+        "Ministry of Housing",
+        "Communities and Local Government"
+      ],
+      "locations": []
+    },
+    "5ced85f35dae": {
+      "id": "5ced85f35dae",
+      "importance": "Medium",
+      "summary": "Tailored reports assessing the impact of rehabilitation programmes on reoffending behaviour analysed within the previous quarter, and summary of results to date.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Justice",
+        "Tailored"
+      ],
+      "locations": []
+    },
+    "dd5c58b57f40": {
+      "id": "dd5c58b57f40",
+      "importance": "Medium",
+      "summary": "Evidence review and framework exploring how DCMS sectors generate soft power and contribute to the UK’s economic growth and national security.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "DCMS",
+        "Evidence",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    "2edf4b91ca1c": {
+      "id": "2edf4b91ca1c",
+      "importance": "Medium",
+      "summary": "Statistics of government revenues from UK oil and gas production, including data for fields subject to Petroleum Revenue Tax (PRT).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Statistics",
+        "Petroleum Revenue Tax"
+      ],
+      "locations": []
+    },
+    "f7a0b072a467": {
+      "id": "f7a0b072a467",
+      "importance": "Medium",
+      "summary": "Monthly tables and commentary on the numbers and rates of individual insolvencies, including bankruptcies, debt relief orders and individual voluntary arrangements in England and Wales and Northern Ireland, and quarterly",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Individual",
+        "Monthly",
+        "England and Wales and Northern Ireland"
+      ],
+      "locations": []
+    },
+    "8e485de24774": {
+      "id": "8e485de24774",
+      "importance": "Medium",
+      "summary": "Monthly tables and commentary on the numbers, rates and sectors of companies that have entered formal insolvency procedures in England and Wales, Scotland and Northern Ireland.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Company",
+        "Monthly",
+        "England and Wales",
+        "Scotland and Northern Ireland"
+      ],
+      "locations": []
+    },
+    "baab4c5979ae": {
+      "id": "baab4c5979ae",
+      "importance": "Medium",
+      "summary": "Report presenting annual epidemiological data for HIV in South East England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "South East",
+        "Report",
+        "South East England"
+      ],
+      "locations": []
+    },
+    "c1b9ca88a732": {
+      "id": "c1b9ca88a732",
+      "importance": "Medium",
+      "summary": "Monthly estimates of payrolled employees and their pay from HM Revenue and Customs’ (HMRC’s) Pay As You Earn (PAYE) Real Time Information (RTI) data. This is a joint release between HMRC and the Office for National Stati",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Earnings",
+        "Pay As You Earn",
+        "Real Time Information",
+        "Monthly"
+      ],
+      "locations": []
+    },
+    "bf5506e85fb9": {
+      "id": "bf5506e85fb9",
+      "importance": "Medium",
+      "summary": "Regional, local authority, and parliamentary constituency breakdowns of changes in UK employment, unemployment, and economic inactivity, and other related statistics. These are official statistics in development.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Labour",
+        "Regional",
+        "These"
+      ],
+      "locations": []
+    },
+    "c94990b33d41": {
+      "id": "c94990b33d41",
+      "importance": "Medium",
+      "summary": "Estimates of employment, unemployment, inactivity, average weekly earnings, vacancies and other labour market related statistics for the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK Labour Market",
+        "Estimates"
+      ],
+      "locations": []
+    },
+    "6a836773688a": {
+      "id": "6a836773688a",
+      "importance": "Medium",
+      "summary": "…Annual technical reports from the UK Eutrophying and Acidifying Atmospheric Pollutants (UKEAP) Network, part of the UK's air pollution monitoring regime.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK Eutrophying and Acidifying Atmospheric",
+        "Pollutants",
+        "UKEAP",
+        "Network"
+      ],
+      "locations": []
+    },
+    "3ee8bf31a616": {
+      "id": "3ee8bf31a616",
+      "importance": "Medium",
+      "summary": "Annual data on deaths reported to coroners, including inquests and post-mortems held, inquest conclusions recorded and finds reported to coroners under treasure legislation.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Coroners",
+        "Annual"
+      ],
+      "locations": []
+    },
+    "ddde33d3fbf7": {
+      "id": "ddde33d3fbf7",
+      "importance": "Medium",
+      "summary": "UKHSA hepatitis B virus reports and supporting documents for England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Hepatitis",
+        "England. UKHSA"
+      ],
+      "locations": []
+    },
+    "7fc0ccf56842": {
+      "id": "7fc0ccf56842",
+      "importance": "Medium",
+      "summary": "A detailed history explaining the events relating to the development of an underground repository for radioactive waste.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Siting"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 36,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgDYPJjy3VCNx3r5q3MXD'}",
+    "model": null
+  }
+}
