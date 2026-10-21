@@ -1,0 +1,747 @@
+{
+  "generated_at": "2026-10-21T13:19:09+00:00",
+  "date_label": "Wednesday 21 October 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgFSzyKUKRAGhozRD9gQK'}\n\n41 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Student housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Hepatitis",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Findings",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Social",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Dwelly",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Savills",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "OnTheMarket",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Zoopla",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "UK House Price Index",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Epidemiology",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Vehicle Market Surveillance Unit",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "CPIH",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Insolvent",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Regulator of Social Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Cheap",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Northern Gateway MDC. Having",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Avison Young",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Chris Cheap’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Bury and Rochdale. The",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Northern Gateway MDC",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "02075a5baf55": {
+      "id": "02075a5baf55",
+      "importance": "Medium",
+      "summary": "Social landlords need to “radically rethink” how they use artificial intelligence in order to better serve residents and tackle the housing crisis, a sector expert has said",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Social"
+      ],
+      "locations": []
+    },
+    "b644149b7ab4": {
+      "id": "b644149b7ab4",
+      "importance": "Medium",
+      "summary": "The Regulator of Social Housing has withdrawn its decision to remove an insolvent landlord from the registered providers list",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Insolvent",
+        "The Regulator of Social Housing"
+      ],
+      "locations": []
+    },
+    "c3e98de1ea67": {
+      "id": "c3e98de1ea67",
+      "importance": "Medium",
+      "summary": "A new framework for housing repairs in Scotland worth £900m has opened to bids from contractors",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "c64eed6f3a1c": {
+      "id": "c64eed6f3a1c",
+      "importance": "Medium",
+      "summary": "Having left Avison Young after almost a quarter of a century last year, Chris Cheap’s new role will see him lead an organisation set up to oversee the development of 12m sq ft of employment space and 3,000 homes on aroun",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Cheap",
+        "Northern Gateway MDC. Having",
+        "Avison Young",
+        "Chris Cheap’s"
+      ],
+      "locations": []
+    },
+    "4ebb2cee9314": {
+      "id": "4ebb2cee9314",
+      "importance": "Medium",
+      "summary": "Enabling works are due to begin before the month is out on the 107-studio student accommodation block off Charles Street, with the contractor aiming to complete the scheme in time for the 2028/2029 academic year. The pos",
+      "why_it_matters": "",
+      "themes": [
+        "Student housing"
+      ],
+      "companies": [
+        "Watkin Jones",
+        "Jadebricks’ Manchester PBSA. Enabling",
+        "Charles Street",
+        "Jadebricks’ Manchester PBSA"
+      ],
+      "locations": []
+    },
+    "b6836936ca12": {
+      "id": "b6836936ca12",
+      "importance": "Medium",
+      "summary": "London-based contractor HG has won its third large development in the city, the next phase of FEC’s Red Bank, which features 900 homes across four buildings off Dantzic Street. The post HG Construction lands £225m Manche",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "HG Construction",
+        "Manchester",
+        "London-based",
+        "FEC’s Red Bank"
+      ],
+      "locations": []
+    },
+    "41bca7c4e35c": {
+      "id": "41bca7c4e35c",
+      "importance": "Medium",
+      "summary": "Persimmon Homes is to acquire Westwood Park, a strategic development priority for the council located south of the town centre that is earmarked for more than 400 homes. The post Wigan picks major housebuilder for 59-acr",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Wigan",
+        "Persimmon Homes",
+        "Westwood Park",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "33b70ea2cdb9": {
+      "id": "33b70ea2cdb9",
+      "importance": "Medium",
+      "summary": "Property portal was among businesses disrupted by a power failure at Google's London data centres, although services were restored later in the day",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rightmove",
+        "Google Cloud",
+        "Property",
+        "Google's London"
+      ],
+      "locations": []
+    },
+    "e758fe238cf7": {
+      "id": "e758fe238cf7",
+      "importance": "Medium",
+      "summary": "Dwelly acquires two more agencies in 13-deal acquisition drive",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Agency’s",
+        "Dwelly"
+      ],
+      "locations": []
+    },
+    "d5f9903836c5": {
+      "id": "d5f9903836c5",
+      "importance": "Medium",
+      "summary": "Property Redress says AI now plays a role in around 85% of consumer complaints it receives",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property Redress"
+      ],
+      "locations": []
+    },
+    "d4364bfaa5ed": {
+      "id": "d4364bfaa5ed",
+      "importance": "Medium",
+      "summary": "Warrington franchisees take over established estate agency as Open House pursues expansion following its acquisition by Sourced Property Group",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Franchisees",
+        "Warrington",
+        "Open House",
+        "Sourced Property Group"
+      ],
+      "locations": []
+    },
+    "8dd7120787f7": {
+      "id": "8dd7120787f7",
+      "importance": "Medium",
+      "summary": "Savills ranks entire parliamentary constituencies using school results, rather than measuring prices inside individual school catchment boundaries",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Location",
+        "School",
+        "Savills"
+      ],
+      "locations": []
+    },
+    "fe0b085d3560": {
+      "id": "fe0b085d3560",
+      "importance": "Medium",
+      "summary": "OnTheMarket research reveals growing frustration with housing policy ahead of the Budget",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Home",
+        "Budget",
+        "OnTheMarket"
+      ],
+      "locations": []
+    },
+    "e3b01efe90c4": {
+      "id": "e3b01efe90c4",
+      "importance": "Medium",
+      "summary": "Overpriced homes half as likely to find a buyer, Zoopla warns",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Sellers",
+        "Overpriced",
+        "Zoopla"
+      ],
+      "locations": []
+    },
+    "3db1ed468876": {
+      "id": "3db1ed468876",
+      "importance": "Medium",
+      "summary": "Estate agents turn branches into winter coat collection point",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Housing supply"
+      ],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "b3b5d619754a": {
+      "id": "b3b5d619754a",
+      "importance": "Medium",
+      "summary": "New CRM integration follows similar developments in estate agency, where artificial intelligence is increasingly being used",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "New CRM"
+      ],
+      "locations": []
+    },
+    "ccfdc1fb6307": {
+      "id": "ccfdc1fb6307",
+      "importance": "Medium",
+      "summary": "Does your agency charge cancellation fees?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency",
+        "Does"
+      ],
+      "locations": []
+    },
+    "1cc554fa3a33": {
+      "id": "1cc554fa3a33",
+      "importance": "Medium",
+      "summary": "Dwelly injects AI and economies of scale into the small firms it acquires",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Dwelly"
+      ],
+      "locations": []
+    },
+    "6cb801f6e835": {
+      "id": "6cb801f6e835",
+      "importance": "Medium",
+      "summary": "This is according to research by a London agency",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Mansion Tax",
+        "Prime Central London. This",
+        "London"
+      ],
+      "locations": []
+    },
+    "03b4d446f4a2": {
+      "id": "03b4d446f4a2",
+      "importance": "Medium",
+      "summary": "It's the portal's latest sentiment survey",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "OnTheMarket",
+        "It's"
+      ],
+      "locations": []
+    },
+    "e3a11294ef8a": {
+      "id": "e3a11294ef8a",
+      "importance": "Medium",
+      "summary": "There's a postcode lottery when it comes to sales, says Zoopla",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Revealed",
+        "There's",
+        "Zoopla"
+      ],
+      "locations": []
+    },
+    "7360dc52fd18": {
+      "id": "7360dc52fd18",
+      "importance": "Medium",
+      "summary": "The analysis has been completed by Savills",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Savills"
+      ],
+      "locations": []
+    },
+    "95b7f363d944": {
+      "id": "95b7f363d944",
+      "importance": "Medium",
+      "summary": "Information on research, science, analytical expertise, data and evidence at the Foreign, Commonwealth & Development Office (FCDO).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Research",
+        "FCDO. Information",
+        "Foreign",
+        "Commonwealth"
+      ],
+      "locations": []
+    },
+    "ad001789cd74": {
+      "id": "ad001789cd74",
+      "importance": "Medium",
+      "summary": "Download aggregated data behind the UK House Price Index (UK HPI), in CSV format.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK House Price Index",
+        "Download",
+        "UK HPI"
+      ],
+      "locations": []
+    },
+    "83fc31ff1a69": {
+      "id": "83fc31ff1a69",
+      "importance": "Medium",
+      "summary": "Epidemiology of hepatitis C virus (HCV) in the East of England region using routinely available surveillance data.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Hepatitis",
+        "East of England",
+        "Epidemiology"
+      ],
+      "locations": []
+    },
+    "36edba6e4ec1": {
+      "id": "36edba6e4ec1",
+      "importance": "Medium",
+      "summary": "Findings from vehicle and component testing done during 2025 to check new products on the UK market meet legal obligations.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Vehicle Market Surveillance Unit",
+        "Findings"
+      ],
+      "locations": []
+    },
+    "85d4020f3400": {
+      "id": "85d4020f3400",
+      "importance": "Medium",
+      "summary": "We’ve compiled independent forecasts for the UK economy since 1986. This database includes forecasts of key economic indicators from those publications.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Database",
+        "We’ve"
+      ],
+      "locations": []
+    },
+    "74a615039512": {
+      "id": "74a615039512",
+      "importance": "Medium",
+      "summary": "A comparison of independent forecasts for the UK economy in October 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Forecasts"
+      ],
+      "locations": []
+    },
+    "9702aa3ff76b": {
+      "id": "9702aa3ff76b",
+      "importance": "Medium",
+      "summary": "Findings from the vehicle emissions testing done during 2025 to check vehicles conformed to European emission standards.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Vehicle Market Surveillance Unit",
+        "Findings",
+        "European"
+      ],
+      "locations": []
+    },
+    "de4a3aae09ca": {
+      "id": "de4a3aae09ca",
+      "importance": "Medium",
+      "summary": "Epidemiology of hepatitis C virus (HCV) in the North East using routinely available surveillance data.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Hepatitis",
+        "North East",
+        "Epidemiology"
+      ],
+      "locations": []
+    },
+    "83b6af556bab": {
+      "id": "83b6af556bab",
+      "importance": "Medium",
+      "summary": "The epidemiology of hepatitis C in the East Midlands in 2025.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Hepatitis",
+        "East Midlands"
+      ],
+      "locations": []
+    },
+    "6375c4faabde": {
+      "id": "6375c4faabde",
+      "importance": "Medium",
+      "summary": "Reports presenting annual data for hepatitis C in North West England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Hepatitis",
+        "North West",
+        "Reports",
+        "North West England"
+      ],
+      "locations": []
+    },
+    "fbe0382ceb28": {
+      "id": "fbe0382ceb28",
+      "importance": "Medium",
+      "summary": "The time series datasets connected to the Producer price inflation, UK: September 2026 including services, July to September 2026 bulletin.…",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Producer"
+      ],
+      "locations": []
+    },
+    "16afad07aab1": {
+      "id": "16afad07aab1",
+      "importance": "Medium",
+      "summary": "Statistics on the local government pension scheme in England and Wales.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Local",
+        "England and Wales",
+        "Statistics"
+      ],
+      "locations": []
+    },
+    "88ae6c72b38c": {
+      "id": "88ae6c72b38c",
+      "importance": "Medium",
+      "summary": "…A longer time series of contributions to the Consumer Prices Index including owner occupiers' housing costs (CPIH) and Consumer Prices Index (CPI), UK, monthly.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Contributions",
+        "Consumer Prices Index",
+        "CPIH"
+      ],
+      "locations": []
+    },
+    "7fa97f04880f": {
+      "id": "7fa97f04880f",
+      "importance": "Medium",
+      "summary": "Report bringing together data on the delivery of globally competitive clinical research through the UK Clinical Research Delivery programme.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "UK Clinical Research Delivery",
+        "Report"
+      ],
+      "locations": []
+    },
+    "88df3a74dd61": {
+      "id": "88df3a74dd61",
+      "importance": "Medium",
+      "summary": "Monthly report showing the data for the average house prices for England, Northern Ireland, Scotland and Wales, including in CSV format.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK House Price Index",
+        "Monthly",
+        "Northern Ireland",
+        "Scotland and Wales"
+      ],
+      "locations": []
+    },
+    "9674363ed752": {
+      "id": "9674363ed752",
+      "importance": "Medium",
+      "summary": "Findings from the government’s review of the Right to Manage framework for social housing.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Social",
+        "Right",
+        "Manage",
+        "Findings"
+      ],
+      "locations": []
+    },
+    "92191a84d0e3": {
+      "id": "92191a84d0e3",
+      "importance": "Medium",
+      "summary": "…Summary of HM Revenue and Customs' tax receipts, National Insurance contributions (NICs), and expenditure for the UK.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "HMRC",
+        "National Insurance",
+        "Summary of HM Revenue and Customs",
+        "NICs"
+      ],
+      "locations": []
+    },
+    "4da313d8a3ac": {
+      "id": "4da313d8a3ac",
+      "importance": "Medium",
+      "summary": "Comprehensive database of time series covering measures of inflation data for the UK including CPIH, CPI and RPI.",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Consumer",
+        "Comprehensive",
+        "CPIH",
+        "CPI and RPI"
+      ],
+      "locations": []
+    },
+    "94918bddc535": {
+      "id": "94918bddc535",
+      "importance": "Medium",
+      "summary": "A presentational framework for the headline measures of Public Sector Finance Statistics (net borrowing net cash requirement and net debt) is explained in this release. This includes the reasons for changes in net borrow",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Public",
+        "Public Sector Finance Statistics"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 41,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgFSzyKUKRAGhozRD9gQK'}",
+    "model": null
+  }
+}
