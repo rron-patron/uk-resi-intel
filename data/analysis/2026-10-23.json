@@ -1,0 +1,721 @@
+{
+  "generated_at": "2026-10-23T12:57:42+00:00",
+  "date_label": "Friday 23 October 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgKCyzPpWnTgtoytegP7m'}\n\n40 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 7,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Alto",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Non-Quota",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Welsh",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Wales’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Programme",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Ministry of Defence and Places",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Wheatley’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Glasgow",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "North Glasgow",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Tom Murtha’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "After",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Tom Murtha",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Martin Hilditch",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Mr Murtha’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Warm Homes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Kate McDonald",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "National Housing Federation",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "599cd8e2b91d": {
+      "id": "599cd8e2b91d",
+      "importance": "Medium",
+      "summary": "Wales’s housing minister is “open” to easing new-build regulations to unlock more social homes, amid calls from sector leaders for a compromise on standards",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Welsh",
+        "Wales’s"
+      ],
+      "locations": []
+    },
+    "c45212365232": {
+      "id": "c45212365232",
+      "importance": "Medium",
+      "summary": "A new programme designed to support armed forces veterans into construction jobs has been launched by the Ministry of Defence and Places for London",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Programme",
+        "Ministry of Defence and Places",
+        "London"
+      ],
+      "locations": []
+    },
+    "42b5028bfc77": {
+      "id": "42b5028bfc77",
+      "importance": "Medium",
+      "summary": "Wheatley’s £100m plans to regenerate an area in North Glasgow have been granted planning approval",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Residential investment",
+        "Regional development"
+      ],
+      "companies": [
+        "Wheatley’s",
+        "Glasgow",
+        "North Glasgow"
+      ],
+      "locations": []
+    },
+    "596962890741": {
+      "id": "596962890741",
+      "importance": "Medium",
+      "summary": "After 50 years of being a vocal presence in the sector, Tom Murtha says it’s time to call it a day. Martin Hilditch reflects on Mr Murtha’s career and asks if this is really the end",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tom Murtha’s",
+        "After",
+        "Tom Murtha",
+        "Martin Hilditch"
+      ],
+      "locations": []
+    },
+    "ab08f83fc045": {
+      "id": "ab08f83fc045",
+      "importance": "Medium",
+      "summary": "The sector is making great progress on retrofit, but maintaining momentum requires funding stability, says Kate McDonald of the National Housing Federation",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Warm Homes",
+        "Kate McDonald",
+        "National Housing Federation"
+      ],
+      "locations": []
+    },
+    "1751b1d571ab": {
+      "id": "1751b1d571ab",
+      "importance": "Medium",
+      "summary": "Creditors have taken over a subsidiary of for-profit shared ownership specialist Heylo Housing Group, with 4,651 homes affected",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Creditors",
+        "Heylo’s",
+        "Heylo Housing Group"
+      ],
+      "locations": []
+    },
+    "10e75be13484": {
+      "id": "10e75be13484",
+      "importance": "Medium",
+      "summary": "Newcastle City Council is preparing to launch a £220m housebuilding framework to deliver more than 700 social homes",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Newcastle City Council"
+      ],
+      "locations": []
+    },
+    "7b486c6487ca": {
+      "id": "7b486c6487ca",
+      "importance": "Medium",
+      "summary": "Wyre Council is seeking to appoint a housing association to deliver an apartment scheme off Adelaide Road next to the town’s indoor market. The post RPs on alert for Fleetwood opportunity appeared first on Place North We",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Fleetwood",
+        "Wyre Council",
+        "Adelaide Road",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "e09a92f13a30": {
+      "id": "e09a92f13a30",
+      "importance": "Medium",
+      "summary": "Siding with officers, Cumberland councillors voted this week to approve the housebuilder’s application for a neighbourhood off Crindledyke Lane. The post Genesis nets approval for 98 Carlisle homes appeared first on Plac",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Genesis",
+        "Carlisle",
+        "Siding",
+        "Cumberland"
+      ],
+      "locations": []
+    },
+    "0235bd7906e8": {
+      "id": "0235bd7906e8",
+      "importance": "Medium",
+      "summary": "Frustrations over a lack of affordable homes, the impact on the grade two-listed Marble Arch public house, and absence of parking saw city councillors vote to move towards rejecting the £33.2m project off Rochdale Road. ",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Manchester",
+        "McGoff’s",
+        "Frustrations",
+        "Marble Arch"
+      ],
+      "locations": []
+    },
+    "4877e86603d0": {
+      "id": "4877e86603d0",
+      "importance": "Medium",
+      "summary": "What’s really behind all the AI doom and gloom?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The UK",
+        "What’s"
+      ],
+      "locations": []
+    },
+    "d0f5802650dd": {
+      "id": "d0f5802650dd",
+      "importance": "Medium",
+      "summary": "Landlords face £170,000 in legal costs and lost rent after their flats were allegedly sublet on Airbnb, triggering a lengthy eviction battle.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Landlords",
+        "Airbnb"
+      ],
+      "locations": []
+    },
+    "a44e9754e96a": {
+      "id": "a44e9754e96a",
+      "importance": "Medium",
+      "summary": "Estate agents' frustration grows as property deals drag on",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "42b44a14cbda": {
+      "id": "42b44a14cbda",
+      "importance": "Medium",
+      "summary": "Voice of the Agent 2026 will reveal unpublished estate agency research as industry figures debate politics, taxation and AI at Oxford",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Politics",
+        "Estate",
+        "Voice",
+        "Agent"
+      ],
+      "locations": []
+    },
+    "3d7d5826926c": {
+      "id": "3d7d5826926c",
+      "importance": "Medium",
+      "summary": "BestAgent Club aims to assess agents on performance and offer financial incentives linked to faster transactions and fewer fall-throughs",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "BestAgent Club"
+      ],
+      "locations": []
+    },
+    "4d78f8592648": {
+      "id": "4d78f8592648",
+      "importance": "Medium",
+      "summary": "OPDA says it will continue working with government and industry bodies to develop common data standards",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Prepare",
+        "OPDA"
+      ],
+      "locations": []
+    },
+    "af46af4274db": {
+      "id": "af46af4274db",
+      "importance": "Medium",
+      "summary": "Seven in ten conveyancers still share documents by email, raising questions about transaction delays and readiness for government home-buying reforms",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Conveyancing",
+        "Seven"
+      ],
+      "locations": []
+    },
+    "728d30df59a1": {
+      "id": "728d30df59a1",
+      "importance": "Medium",
+      "summary": "One in four landlords more likely to reject tenants following Renters’ Rights Act",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Renters’ Rights Act",
+        "Goodlord"
+      ],
+      "locations": []
+    },
+    "28508f05085d": {
+      "id": "28508f05085d",
+      "importance": "Medium",
+      "summary": "Big percentage gains, but Alto keeps the actual numbers under wraps",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Alto"
+      ],
+      "locations": []
+    },
+    "b877f6631074": {
+      "id": "b877f6631074",
+      "importance": "Medium",
+      "summary": "Half of private landlords have kept rents unchanged over the past year, despite mounting running costs, new research reveals",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "More",
+        "Half"
+      ],
+      "locations": []
+    },
+    "bd693a9d74eb": {
+      "id": "bd693a9d74eb",
+      "importance": "Medium",
+      "summary": "Landmark research reveals growing frustration over lengthy home moves, poor communication and missing property information.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Transaction",
+        "Landmark"
+      ],
+      "locations": []
+    },
+    "b0862a8d2089": {
+      "id": "b0862a8d2089",
+      "importance": "Medium",
+      "summary": "Alto reports a surge in estate agency software migrations as larger firms seek greater flexibility, automation and AI capabilities",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agencies",
+        "Alto"
+      ],
+      "locations": []
+    },
+    "8c2bd742f060": {
+      "id": "8c2bd742f060",
+      "importance": "Medium",
+      "summary": "Beresfords' annual fundraising event brings together over 300 guests, taking its total donations to £220,480",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Property",
+        "Ambulance. Beresfords"
+      ],
+      "locations": []
+    },
+    "ceac67aad301": {
+      "id": "ceac67aad301",
+      "importance": "Medium",
+      "summary": "iad UK encourages self-employed estate agents to expand into lettings and generate recurring income with centralised management support.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Sales"
+      ],
+      "locations": []
+    },
+    "708d48dd5e06": {
+      "id": "708d48dd5e06",
+      "importance": "Medium",
+      "summary": "Foxtons research reveals 62% of first-time buyers were unaware of developer incentives, with affordability remaining the biggest barrier.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "FTBs",
+        "Foxtons"
+      ],
+      "locations": []
+    },
+    "444b0b56c4ea": {
+      "id": "444b0b56c4ea",
+      "importance": "Medium",
+      "summary": "Estate agents urge the government to provide clarity on stamp duty, mortgage costs and economic policy to restore buyer confidence.",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "What",
+        "Estate"
+      ],
+      "locations": []
+    },
+    "8fb8d9d19b2b": {
+      "id": "8fb8d9d19b2b",
+      "importance": "Medium",
+      "summary": "This report presents the emerging findings from the evaluation of the 15 WorkWell programme pilots, from October 2024 to March 2025",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "WorkWell Pilots Evaluation Early",
+        "Implementation Findings. This",
+        "WorkWell"
+      ],
+      "locations": []
+    },
+    "4fa5be3ec3f7": {
+      "id": "4fa5be3ec3f7",
+      "importance": "Medium",
+      "summary": "Annual mid-year population estimates of people aged 90 years and over by sex and single year of age to 105 years and over, and comparisons between UK countries.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estimates",
+        "Annual"
+      ],
+      "locations": []
+    },
+    "1f555e1e7d52": {
+      "id": "1f555e1e7d52",
+      "importance": "Medium",
+      "summary": "Research to understand how free breakfast clubs in the early adopter scheme work in practice and how families experience them.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Breakfast",
+        "Research"
+      ],
+      "locations": []
+    },
+    "de80c5ceca45": {
+      "id": "de80c5ceca45",
+      "importance": "Medium",
+      "summary": "This is the panel’s first advice to ministers. The panel is providing advice under section 1(1) of the Supported Housing (Regulatory Oversight) Act 2023.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Supported Housing Advisory Panel",
+        "Supported Housing",
+        "Regulatory Oversight"
+      ],
+      "locations": []
+    },
+    "dcbd448834c5": {
+      "id": "dcbd448834c5",
+      "importance": "Medium",
+      "summary": "These tables contain the number of online job adverts split by different geographies and occupation (SOC 2020).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Labour",
+        "Standard Occupation Classification",
+        "These"
+      ],
+      "locations": []
+    },
+    "36e3d6a219c9": {
+      "id": "36e3d6a219c9",
+      "importance": "Medium",
+      "summary": "Non-Quota species uptake by UK vessels: Provisional dataset",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Non-Quota",
+        "Provisional"
+      ],
+      "locations": []
+    },
+    "6268eaed8df7": {
+      "id": "6268eaed8df7",
+      "importance": "Medium",
+      "summary": "Non-Quota species uptake by UK vessels in EU waters - September 2026",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Non-Quota"
+      ],
+      "locations": []
+    },
+    "4710d31b0a87": {
+      "id": "4710d31b0a87",
+      "importance": "Medium",
+      "summary": "Quarterly estimates of total trade, trade in goods, and trade in services by country.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Quarterly"
+      ],
+      "locations": []
+    },
+    "d20a02fc57ff": {
+      "id": "d20a02fc57ff",
+      "importance": "Medium",
+      "summary": "Trade in services data, including a breakdown of exports and imports by country and geographical region, EU and non-EU. Official statistics in development.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Trade",
+        "EU. Official"
+      ],
+      "locations": []
+    },
+    "d4940e6cb3ce": {
+      "id": "d4940e6cb3ce",
+      "importance": "Medium",
+      "summary": "Animal Welfare Committee (AWC) opinion on the welfare of laying hens in non-cage production systems.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Opinion",
+        "Animal Welfare Committee"
+      ],
+      "locations": []
+    },
+    "f649fca584fd": {
+      "id": "f649fca584fd",
+      "importance": "Medium",
+      "summary": "Results of laboratory-based surveillance of elevated blood lead concentrations in children in England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Lead",
+        "Results"
+      ],
+      "locations": []
+    },
+    "e2603b0f5b88": {
+      "id": "e2603b0f5b88",
+      "importance": "Medium",
+      "summary": "This is the 15th report from the offensive weapons homicide reviews 18-month pilot, which ended on 30 September 2024.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Report",
+        "West Midlands. This"
+      ],
+      "locations": []
+    },
+    "af4d291424c8": {
+      "id": "af4d291424c8",
+      "importance": "Medium",
+      "summary": "Risk assessment of dietary cadmium exposure during pregnancy, supporting food safety advice on potential risks to maternal and offspring health.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Cadmium. Risk"
+      ],
+      "locations": []
+    },
+    "91a6311ae178": {
+      "id": "91a6311ae178",
+      "importance": "Medium",
+      "summary": "Sets out the work of the NHS Pension Board from April 2024 to March 2025.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "NHS Pension Board",
+        "Sets"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 40,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgKCyzPpWnTgtoytegP7m'}",
+    "model": null
+  }
+}
