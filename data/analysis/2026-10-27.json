@@ -1,0 +1,720 @@
+{
+  "generated_at": "2026-10-27T13:44:35+00:00",
+  "date_label": "Tuesday 27 October 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgSqnxhuHxWgGaXKCoRwt'}\n\n38 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Affordable housing",
+      "count": 9,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Residential investment",
+      "count": 7,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 8,
+      "context": ""
+    },
+    {
+      "name": "Data",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Budget",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Get Britain Working",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Labour",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Universal Credit",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Port",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "The Regulator of Social Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Major",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Manchester-based",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Hundreds",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Yorkshire and North West England",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "UK’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "PfP CEO",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Autumn Budget",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Greg Reed of Places",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "People",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "d22da6bba3d8": {
+      "id": "d22da6bba3d8",
+      "importance": "Medium",
+      "summary": "The Regulator of Social Housing reported a net gain in social rent homes for private registered providers, but this was offset by a fall in council-owned stock",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "The Regulator of Social Housing"
+      ],
+      "locations": []
+    },
+    "8e5d17de535b": {
+      "id": "8e5d17de535b",
+      "importance": "Medium",
+      "summary": "The government will raise household income eligibility caps for shared ownership in the new year, following calls to ensure the model remains accessible",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "5da2d88e0e63": {
+      "id": "5da2d88e0e63",
+      "importance": "Medium",
+      "summary": "Hundreds of social rent homes are set to be built across Yorkshire and North West England thanks to a multimillion-pound loan from one of the UK’s biggest banks",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Major",
+        "Manchester-based",
+        "Hundreds",
+        "Yorkshire and North West England"
+      ],
+      "locations": []
+    },
+    "633853f5578c": {
+      "id": "633853f5578c",
+      "importance": "Medium",
+      "summary": "Housing challenges are complex and interconnected, and success is not measured only in the number of new homes delivered, says Greg Reed of Places for People",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "PfP CEO",
+        "Autumn Budget",
+        "Housing",
+        "Greg Reed of Places"
+      ],
+      "locations": []
+    },
+    "8c4b1e1875d1": {
+      "id": "8c4b1e1875d1",
+      "importance": "Medium",
+      "summary": "Progress Housing Group has acquired a supported housing provider to “strengthen its offer” to residents with support needs",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Specialist",
+        "Progress Housing Group"
+      ],
+      "locations": []
+    },
+    "6a77ec95c620": {
+      "id": "6a77ec95c620",
+      "importance": "Medium",
+      "summary": "Developers have paused two giant regeneration projects in London which would have included thousands of rental homes",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Landsec and British Land",
+        "Developers",
+        "London"
+      ],
+      "locations": []
+    },
+    "3a47f9a315b7": {
+      "id": "3a47f9a315b7",
+      "importance": "Medium",
+      "summary": "Energy regulator Ofgem has warned social landlords that “hiding” from upcoming heat network regulations “is not going to be an option”",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Ofgem",
+        "Energy"
+      ],
+      "locations": []
+    },
+    "28c619ee11b8": {
+      "id": "28c619ee11b8",
+      "importance": "Medium",
+      "summary": "Designed by Ollier Smurthwaite Architects and inspired by the work of Victorian architect Richard Norman Shaw, the £39.5m project would replace the 83,500 sq ft vacant office block on the site. The post Cheshire Homes pu",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Cheshire Homes",
+        "Stockport",
+        "Designed",
+        "Ollier Smurthwaite Architects"
+      ],
+      "locations": []
+    },
+    "33f1115ca8f0": {
+      "id": "33f1115ca8f0",
+      "importance": "Medium",
+      "summary": "Homes England’s Social and Affordable Homes Programme will help finance the building of 660 social rent properties, 50 affordable rentals, 24 shared ownership homes, and 58 rent-to-buy properties across the region. The p",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "JV North",
+        "Homes England’s Social and Affordable Homes",
+        "Programme",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "086645fa9ded": {
+      "id": "086645fa9ded",
+      "importance": "Medium",
+      "summary": "Sign-off has been given for the allocation of £4.4m in developer contributions for open space and sports projects, along with supporting the delivery of affordable housing. The post Salford sets out next chunk of Section",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Salford",
+        "Section",
+        "Sign-off",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "e388a3b5cd85": {
+      "id": "e388a3b5cd85",
+      "importance": "Medium",
+      "summary": "In June, Andy Burnham announced he wanted to see \"good growth in every postcode\". It's a phrase that has become synonymous with Greater Manchester's approach to development, where success is measured not only by the numb",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "How Greater Manchester",
+        "In June",
+        "Andy Burnham",
+        "It's"
+      ],
+      "locations": []
+    },
+    "462cff56ff1d": {
+      "id": "462cff56ff1d",
+      "importance": "Medium",
+      "summary": "The loan will support delivery of social housing for rent across the North West and Yorkshire. The post NatWest lends £50m to Great Places appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "NatWest",
+        "Great Places. The",
+        "North West and Yorkshire. The",
+        "Great Places"
+      ],
+      "locations": []
+    },
+    "39a07996892e": {
+      "id": "39a07996892e",
+      "importance": "Medium",
+      "summary": "The developer has started construction of 34 social homes at the former pub site, working in partnership with Torus. The post Breck moves beyond the Boundary in Huyton appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Breck",
+        "Boundary",
+        "Huyton. The",
+        "Torus. The"
+      ],
+      "locations": []
+    },
+    "02b7bef10ac2": {
+      "id": "02b7bef10ac2",
+      "importance": "Medium",
+      "summary": "The council wants to pull down the former hotel and nightclub as it steps up plans for nature-led regeneration in Ainsdale. The post Sefton pursues Toad Hall demolition appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Sefton",
+        "Toad Hall",
+        "Ainsdale. The",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "bb425a56f3e4": {
+      "id": "bb425a56f3e4",
+      "importance": "Medium",
+      "summary": "How do we design places for the next 100 years? How can we kick-start affordable housing delivery? What should be in Prime Minister Andy Burnham’s first Budget? Place North brought together experts from across the reside",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Place RESI",
+        "Summary",
+        "What",
+        "Prime Minister Andy Burnham’s"
+      ],
+      "locations": []
+    },
+    "4d7b08a3fd9b": {
+      "id": "4d7b08a3fd9b",
+      "importance": "Medium",
+      "summary": "Zoopla's latest House Price Index reveals a widening divide in the UK housing market",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "House",
+        "Zoopla's",
+        "House Price Index"
+      ],
+      "locations": []
+    },
+    "bad533bd5344": {
+      "id": "bad533bd5344",
+      "importance": "Medium",
+      "summary": "Estate agent gives away entire commission from property sale",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "6a01096f8957": {
+      "id": "6a01096f8957",
+      "importance": "Medium",
+      "summary": "The latest findings follow Rightmove's response to the original allegations",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rightmove",
+        "Rightmove's"
+      ],
+      "locations": []
+    },
+    "4bfe90b0f8f8": {
+      "id": "4bfe90b0f8f8",
+      "importance": "Medium",
+      "summary": "Unscrupulous agents undermine public trust in the industry",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Unscrupulous"
+      ],
+      "locations": []
+    },
+    "cc76e19717a1": {
+      "id": "cc76e19717a1",
+      "importance": "Medium",
+      "summary": "Agents must first fix outdated processes and staffing structures, warns Sally Lawson",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents",
+        "Sally Lawson"
+      ],
+      "locations": []
+    },
+    "a805b2b55695": {
+      "id": "a805b2b55695",
+      "importance": "Medium",
+      "summary": "Property investors take on Dragons’ Den format in new Amazon Prime series",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Dragons’ Den-style",
+        "Amazon Prime. Property",
+        "Dragons’ Den",
+        "Amazon Prime"
+      ],
+      "locations": []
+    },
+    "2426b93fa832": {
+      "id": "2426b93fa832",
+      "importance": "Medium",
+      "summary": "Mortgage market in crisis? Shock findings expose lending failures",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Mortgage",
+        "Shock"
+      ],
+      "locations": []
+    },
+    "ec08515b7c61": {
+      "id": "ec08515b7c61",
+      "importance": "Medium",
+      "summary": "A new Beauchamp Estates study lays bare the downturn in prime central London's luxury apartment market",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "London’s",
+        "Beauchamp Estates",
+        "London's"
+      ],
+      "locations": []
+    },
+    "06168b191d83": {
+      "id": "06168b191d83",
+      "importance": "Medium",
+      "summary": "The purchases form part of LSL's ongoing share buyback programme",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "LSL Property Services",
+        "LSL's"
+      ],
+      "locations": []
+    },
+    "f1746342dafa": {
+      "id": "f1746342dafa",
+      "importance": "Medium",
+      "summary": "This is according to a survey of some 537 agents across the country",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rogue"
+      ],
+      "locations": []
+    },
+    "c8baf6bfea74": {
+      "id": "c8baf6bfea74",
+      "importance": "Medium",
+      "summary": "The agency calls this \"a major appointment\" as it seeks more business in the capital",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency",
+        "London"
+      ],
+      "locations": []
+    },
+    "0cacdb57e43d": {
+      "id": "0cacdb57e43d",
+      "importance": "Medium",
+      "summary": "Zoopla has produced its latest market snapshot",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Price",
+        "Zoopla"
+      ],
+      "locations": []
+    },
+    "5225b2096300": {
+      "id": "5225b2096300",
+      "importance": "Medium",
+      "summary": "Different lifestyles are commonplace - but lending criteria have not kept up",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Lenders",
+        "Different"
+      ],
+      "locations": []
+    },
+    "d5ed7870aea4": {
+      "id": "d5ed7870aea4",
+      "importance": "Medium",
+      "summary": "Help for the sector should come in tomorrow's Budget, a trade body says",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tough",
+        "Help",
+        "Budget"
+      ],
+      "locations": []
+    },
+    "1604571a310e": {
+      "id": "1604571a310e",
+      "importance": "Medium",
+      "summary": "The charity supports children and young people involved with the criminal justice system",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents Do Charity"
+      ],
+      "locations": []
+    },
+    "2d62989b384b": {
+      "id": "2d62989b384b",
+      "importance": "Medium",
+      "summary": "Labour market official statistics in development covering Universal Credit customer employment and journeys, into-work rates and analysis of local labour markets.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Get Britain Working",
+        "Labour Market Insights October",
+        "Labour",
+        "Universal Credit"
+      ],
+      "locations": []
+    },
+    "3182fc3e6459": {
+      "id": "3182fc3e6459",
+      "importance": "Medium",
+      "summary": "Labour market official statistics in development covering into-work rates for people on Universal Credit in the ‘Searching for work’ conditionality regime, English regional rates of people not in education, employment or",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Get Britain Working",
+        "Labour Market Insights April",
+        "Labour",
+        "Universal Credit"
+      ],
+      "locations": []
+    },
+    "559b20aa3c0e": {
+      "id": "559b20aa3c0e",
+      "importance": "Medium",
+      "summary": "Annual statistics on the UK port freight traffic for 2025.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Port",
+        "Annual"
+      ],
+      "locations": []
+    },
+    "b3338343885b": {
+      "id": "b3338343885b",
+      "importance": "Medium",
+      "summary": "Data on stock owned and managed by private registered providers in England in 2025-26.",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Private",
+        "Data"
+      ],
+      "locations": []
+    },
+    "edc764255331": {
+      "id": "edc764255331",
+      "importance": "Medium",
+      "summary": "Data on stock owned and managed by local authority registered providers in England on 31 March 2026.",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Local",
+        "Data"
+      ],
+      "locations": []
+    },
+    "e34ff6aa9193": {
+      "id": "e34ff6aa9193",
+      "importance": "Medium",
+      "summary": "Data about the international and domestic movement of freight by water, produced by Department for Transport.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Port",
+        "PORT",
+        "Data",
+        "Department"
+      ],
+      "locations": []
+    },
+    "c99108f45f10": {
+      "id": "c99108f45f10",
+      "importance": "Medium",
+      "summary": "Data on stock owned and managed by registered providers in England on 31 March 2026.",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Registered",
+        "Data"
+      ],
+      "locations": []
+    },
+    "6eeae54b9717": {
+      "id": "6eeae54b9717",
+      "importance": "Medium",
+      "summary": "Findings from the triannual DESNZ Public Attitudes Tracker (PAT).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "DESNZ Public Attitudes Tracker",
+        "Summer",
+        "Findings"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 38,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgSqnxhuHxWgGaXKCoRwt'}",
+    "model": null
+  }
+}
