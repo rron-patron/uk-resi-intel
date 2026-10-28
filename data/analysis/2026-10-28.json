@@ -1,0 +1,801 @@
+{
+  "generated_at": "2026-10-28T14:41:15+00:00",
+  "date_label": "Wednesday 28 October 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgUovVWmUwPkmM53vBnii'}\n\n45 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 11,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Student housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 7,
+      "context": ""
+    },
+    {
+      "name": "Budget",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Chancellor",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Agency",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Plastic Packaging Tax",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Research",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Fire",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "VAT-free. In",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "John Healey",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "VAT-free",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Just",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Remediation",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Will",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Anna Moore",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Domna",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Britain’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "NIHE",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "50e1dac1a5d5": {
+      "id": "50e1dac1a5d5",
+      "importance": "Medium",
+      "summary": "In his first Budget as chancellor, John Healey has promised to make all land sold to social landlords VAT-free",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Chancellor",
+        "VAT-free. In",
+        "Budget",
+        "John Healey"
+      ],
+      "locations": []
+    },
+    "192230f1d7c2": {
+      "id": "192230f1d7c2",
+      "importance": "Medium",
+      "summary": "A new scheme will force construction manufacturers to pay to protect leaseholders who have “fallen through gaps” from building safety costs",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "3431a436586c": {
+      "id": "3431a436586c",
+      "importance": "Medium",
+      "summary": "Remediation work has not started on more than 1,000 buildings in England with life-critical fire safety defects that developers are responsible for resolving",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Just",
+        "Remediation"
+      ],
+      "locations": []
+    },
+    "dcbd5894f4f6": {
+      "id": "dcbd5894f4f6",
+      "importance": "Medium",
+      "summary": "The government’s ‘solar sprint’ must not become a race to the bottom, writes Anna Moore, chief executive of Domna",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Will",
+        "Anna Moore",
+        "Domna"
+      ],
+      "locations": []
+    },
+    "afdbd3f4c038": {
+      "id": "afdbd3f4c038",
+      "importance": "Medium",
+      "summary": "A housing association has joined a solar scheme that could pay tenants living in flats for supporting Britain’s electricity grid",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Housing",
+        "Britain’s"
+      ],
+      "locations": []
+    },
+    "12266cd481a4": {
+      "id": "12266cd481a4",
+      "importance": "Medium",
+      "summary": "The Northern Ireland Housing Executive supported the delivery of 525 new social homes in Belfast last year, and expects to boost this figure by over a third",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "NIHE",
+        "Belfast",
+        "The Northern Ireland Housing",
+        "Executive"
+      ],
+      "locations": []
+    },
+    "f4e59546bc2a": {
+      "id": "f4e59546bc2a",
+      "importance": "Medium",
+      "summary": "In their place, development partner Cityheart will build a 348-space mobility hub to service the 398 homes still due to be built. The post Wigan cuts 85 homes from £135m Fettlers appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Wigan",
+        "Fettlers. In",
+        "Cityheart",
+        "Fettlers"
+      ],
+      "locations": []
+    },
+    "9e8d4c35f5da": {
+      "id": "9e8d4c35f5da",
+      "importance": "Medium",
+      "summary": "Having signalled the closure of the social housing subsidiary a year ago, cabinet will be asked to sign off the transfer of its stock into the council’s portfolio. The post Bury looks to finalise Six Town shutdown appear",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Bury",
+        "Six Town",
+        "Having",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "f7451dbc3c1b": {
+      "id": "f7451dbc3c1b",
+      "importance": "Medium",
+      "summary": "Rothstone Estates has won Cheshire West and Chester Council’s approval to build a 23,900 sq ft store off Leicester Street. The post M&S Foodhall cleared for Northwich appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "M&S Foodhall",
+        "Northwich. Rothstone Estates",
+        "Cheshire West and Chester Council’s",
+        "Leicester Street. The"
+      ],
+      "locations": []
+    },
+    "74771c6aeab1": {
+      "id": "74771c6aeab1",
+      "importance": "Medium",
+      "summary": "The Wirral housing provider has completed a 2026 financing package to boost its hopes of building 1,300 homes by 2030 across the Liverpool city region, with Danske and Charities Aid Foundation Bank joining the group’s le",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Magenta Living",
+        "The Wirral",
+        "Liverpool",
+        "Danske and Charities Aid Foundation"
+      ],
+      "locations": []
+    },
+    "c90671ff0253": {
+      "id": "c90671ff0253",
+      "importance": "Medium",
+      "summary": "Building safety experts Project Four have joined the North of England at MIPIM delegation. Max Meadows explains why the timing is right strategically to attend MIPIM 2027. The post P4: Why we’re heading back to MIPIM app",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "MIPIM. Building",
+        "Project Four",
+        "North of England",
+        "MIPIM"
+      ],
+      "locations": []
+    },
+    "8924bda86297": {
+      "id": "8924bda86297",
+      "importance": "Medium",
+      "summary": "Wyre Council and principal landowner NPL Estates have invited businesses and residents to have their say on the future direction of the strategic employment area. The post Hillhouse Enterprise Zone consultation kicks off",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Hillhouse Enterprise Zone",
+        "Wyre Council",
+        "NPL Estates",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "2ee685098671": {
+      "id": "2ee685098671",
+      "importance": "Medium",
+      "summary": "Backed by £110.4m of Homes England grant funding, the council is looking to redevelop a 13-acre tranche of the town centre with 230 homes. The post Blackpool launches search for Central Drive housing partner appeared fir",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Blackpool",
+        "Central Drive",
+        "Backed",
+        "Homes England"
+      ],
+      "locations": []
+    },
+    "9b2359c91874": {
+      "id": "9b2359c91874",
+      "importance": "Medium",
+      "summary": "Chancellor unveils tax changes in Autumn Statement",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "EYE NEWSFLASH",
+        "Property Industry",
+        "Autumn Statement",
+        "Chancellor"
+      ],
+      "locations": []
+    },
+    "4a340e8b7ecd": {
+      "id": "4a340e8b7ecd",
+      "importance": "Medium",
+      "summary": "Property industry demands tax reform, housing support and an end to uncertainty",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Autumn Budget",
+        "Property"
+      ],
+      "locations": []
+    },
+    "9f5e0469d38f": {
+      "id": "9f5e0469d38f",
+      "importance": "Medium",
+      "summary": "Estate agency at centre of director ban acquired by expanding property group",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "def5fd5f5a2e": {
+      "id": "def5fd5f5a2e",
+      "importance": "Medium",
+      "summary": "Estate agency saved by 26-year-old estate agent targets £2m revenue after turnaround",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "488e6d5a4ef1": {
+      "id": "488e6d5a4ef1",
+      "importance": "Medium",
+      "summary": "The Estate Agent Consultancy is hosting a free webinar on Wednesday",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents",
+        "Budget Day",
+        "The Estate Agent Consultancy"
+      ],
+      "locations": []
+    },
+    "8ad916ca4cb9": {
+      "id": "8ad916ca4cb9",
+      "importance": "Medium",
+      "summary": "Additional property taxes could weaken activity",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Additional"
+      ],
+      "locations": []
+    },
+    "aa16f10d7c7c": {
+      "id": "aa16f10d7c7c",
+      "importance": "Medium",
+      "summary": "Estate agents warn Budget uncertainty is stalling buyers",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Budget",
+        "Estate"
+      ],
+      "locations": []
+    },
+    "ef828ca91f93": {
+      "id": "ef828ca91f93",
+      "importance": "Medium",
+      "summary": "Low-cost letting agency takes aim at high street after 253% turnover surge",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Agency",
+        "UK’s",
+        "Low-cost"
+      ],
+      "locations": []
+    },
+    "979ab4aada41": {
+      "id": "979ab4aada41",
+      "importance": "Medium",
+      "summary": "Landlords have been adversely affected by tax and legislative changes in recent years",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Landlords"
+      ],
+      "locations": []
+    },
+    "f07cdfbee981": {
+      "id": "f07cdfbee981",
+      "importance": "Medium",
+      "summary": "The Your First Home initiative is expected to help eligible buyers purchase new-build properties with deposits as low as 2.5%",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Housebuilders",
+        "The Your First Home"
+      ],
+      "locations": []
+    },
+    "c0809856771f": {
+      "id": "c0809856771f",
+      "importance": "Medium",
+      "summary": "First-time buyers face one of the toughest affordability environments since the global financial crisis",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "First-time",
+        "Budget. First-time"
+      ],
+      "locations": []
+    },
+    "81b689088b74": {
+      "id": "81b689088b74",
+      "importance": "Medium",
+      "summary": "New rules to reveal who controls land they do not own",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "New Land Registry"
+      ],
+      "locations": []
+    },
+    "e34bec2ac77c": {
+      "id": "e34bec2ac77c",
+      "importance": "Medium",
+      "summary": "Restoring confidence in domestic building work could support construction jobs",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Budget",
+        "Restoring"
+      ],
+      "locations": []
+    },
+    "09e3b53ae33d": {
+      "id": "09e3b53ae33d",
+      "importance": "Medium",
+      "summary": "The acquisition has been described as \"fantastic\"",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Agency"
+      ],
+      "locations": []
+    },
+    "22c366b3974d": {
+      "id": "22c366b3974d",
+      "importance": "Medium",
+      "summary": "Almost exactly four years after being bought out of administration, a Staffordshire agency is about to open a new branch. Managing director Alistair Trippett bought Heywoods – founded back in 1881 and once boasting eight",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Heroic",
+        "Almost",
+        "Staffordshire",
+        "Managing"
+      ],
+      "locations": []
+    },
+    "eca2fa80e52c": {
+      "id": "eca2fa80e52c",
+      "importance": "Medium",
+      "summary": "The Budget is a delicate balancing act says our agent",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "What",
+        "Budget",
+        "The Budget"
+      ],
+      "locations": []
+    },
+    "fa16987486eb": {
+      "id": "fa16987486eb",
+      "importance": "Medium",
+      "summary": "Mortgages are bad enough - but there's a remortgage time bomb coming along",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Budget",
+        "Mortgages"
+      ],
+      "locations": []
+    },
+    "56a2141f91e2": {
+      "id": "56a2141f91e2",
+      "importance": "Medium",
+      "summary": "The technology has global potential, accommodating languages and different agency commission models",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Self-employed",
+        "AI-based"
+      ],
+      "locations": []
+    },
+    "dc06de5f60dc": {
+      "id": "dc06de5f60dc",
+      "importance": "Medium",
+      "summary": "Savills' research paints a mixed picture",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Ultra-wealthy",
+        "London. Savills"
+      ],
+      "locations": []
+    },
+    "f977dd80fa97": {
+      "id": "f977dd80fa97",
+      "importance": "Medium",
+      "summary": "The full evaluation of the of the Plastic Packaging Tax produced by HM Revenue and Customs.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Plastic Packaging Tax Evaluation",
+        "Plastic Packaging Tax",
+        "HM Revenue and Customs"
+      ],
+      "locations": []
+    },
+    "44732a8d1d92": {
+      "id": "44732a8d1d92",
+      "importance": "Medium",
+      "summary": "The joint evaluation by HM Revenue and Customs and HM Treasury of the Alcohol Duty Reforms",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Alcohol Duty Reforms Evaluation",
+        "Report. The",
+        "HM Revenue and Customs and HM",
+        "Treasury"
+      ],
+      "locations": []
+    },
+    "c34f3b35c9a6": {
+      "id": "c34f3b35c9a6",
+      "importance": "Medium",
+      "summary": "This research looked at plastic packaging manufacturers and importers' experiences of Plastic Packaging Tax.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Plastic Packaging Tax Research",
+        "Plastic Packaging Tax"
+      ],
+      "locations": []
+    },
+    "8cf2084e481a": {
+      "id": "8cf2084e481a",
+      "importance": "Medium",
+      "summary": "This research looked at alcohol producers’ views and experiences of the 2023 Alcohol Duty reforms and the new digital system for submitting returns.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Understanding Alcohol Producers' Experiences",
+        "Duty Reforms. This",
+        "Alcohol Duty"
+      ],
+      "locations": []
+    },
+    "7ca3051e694b": {
+      "id": "7ca3051e694b",
+      "importance": "Medium",
+      "summary": "Reviews the cost of charging electric vehicles on the UK public charging network and provides recommendations to reduce charging prices.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Cost",
+        "Reviews"
+      ],
+      "locations": []
+    },
+    "0a8f3b66494d": {
+      "id": "0a8f3b66494d",
+      "importance": "Medium",
+      "summary": "Research report examining the factors influencing student demand for higher education (HE) in England and the price elasticity of demand for HE.",
+      "why_it_matters": "",
+      "themes": [
+        "Student housing"
+      ],
+      "companies": [
+        "Demand",
+        "English",
+        "Research"
+      ],
+      "locations": []
+    },
+    "a4404eca4976": {
+      "id": "a4404eca4976",
+      "importance": "Medium",
+      "summary": "We undertake research and surveillance activities on a range of bacterial, viral and parasitic diseases affecting plants and animals, including wildlife.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Research",
+        "APHA. We"
+      ],
+      "locations": []
+    },
+    "9535c834df21": {
+      "id": "9535c834df21",
+      "importance": "Medium",
+      "summary": "Job titles of people with pre-release access to Department for Work and Pensions (DWP) statistics and the organisations they belong to.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Pre-release",
+        "Department",
+        "Work and Pensions"
+      ],
+      "locations": []
+    },
+    "473969d054e5": {
+      "id": "473969d054e5",
+      "importance": "Medium",
+      "summary": "…The current month's Price Paid Data includes new monthly transactions, earlier updates and SPPD/APPD, with CSV and TXT downloads.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Price",
+        "Price Paid Data",
+        "SPPD",
+        "APPD"
+      ],
+      "locations": []
+    },
+    "a2931f8fcd80": {
+      "id": "a2931f8fcd80",
+      "importance": "Medium",
+      "summary": "We have commissioned the development of an analytical framework and modelling approach for to estimate the cost of IP infringement to the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Methodology"
+      ],
+      "locations": []
+    },
+    "702a287469a3": {
+      "id": "702a287469a3",
+      "importance": "Medium",
+      "summary": "The 107th monthly data release regarding building safety remediation.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Building Safety Remediation"
+      ],
+      "locations": []
+    },
+    "22faa6125444": {
+      "id": "22faa6125444",
+      "importance": "Medium",
+      "summary": "The Ministry of Housing, Communities and Local Government collects detailed information on incidents attended by Fire and Rescue Services.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Fire",
+        "The Ministry of Housing",
+        "Communities and Local Government",
+        "Fire and Rescue Services"
+      ],
+      "locations": []
+    },
+    "6d14f9221c14": {
+      "id": "6d14f9221c14",
+      "importance": "Medium",
+      "summary": "Focuses on incidents and fires attended by fire and rescue services, fire-related fatalities, casualties from those fires and response times to those fires.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Fire",
+        "Focuses"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 45,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgUovVWmUwPkmM53vBnii'}",
+    "model": null
+  }
+}

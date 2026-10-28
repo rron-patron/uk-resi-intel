@@ -1,0 +1,830 @@
+{
+  "collected_at": "2026-10-28T14:40:44+00:00",
+  "date_london": "2026-10-28",
+  "counts": {
+    "seen_in_feeds": 86,
+    "new": 45,
+    "sources_live": 6,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 13,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 13"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 11,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 11"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "failed",
+      "url": "https://www.landlordzone.co.uk/news",
+      "found": 0,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/blog/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/rss.xml -> 0",
+        "scrape https://www.landlordzone.co.uk/news -> 0"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Chancellor announces all land sold to social landlords will be VAT-free",
+      "url": "https://insidehousing.co.uk/home/chancellor-announces-all-land-sold-to-social-landlords-will-be-vat-free-99329",
+      "published": "2026-10-28T14:37:37+00:00",
+      "excerpt": "In his first Budget as chancellor, John Healey has promised to make all land sold to social landlords VAT-free",
+      "entities": [
+        "Chancellor",
+        "VAT-free. In",
+        "Budget",
+        "John Healey",
+        "VAT-free"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:40:53+00:00",
+      "id": "50e1dac1a5d5"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "New scheme will force construction manufacturers to pay for building safety costs",
+      "url": "https://insidehousing.co.uk/home/new-scheme-will-force-construction-manufacturers-to-pay-for-building-safety-costs-99322",
+      "published": "2026-10-28T14:00:00+00:00",
+      "excerpt": "A new scheme will force construction manufacturers to pay to protect leaseholders who have “fallen through gaps” from building safety costs",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:40:53+00:00",
+      "id": "192230f1d7c2"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Just half of buildings in developer remediation contract have started work to fix life-critical safety defects as key target missed",
+      "url": "https://insidehousing.co.uk/home/just-half-of-buildings-in-developer-remediation-contract-have-started-work-to-fix-life-critical-safety-defects-as-key-target-missed-99303",
+      "published": "2026-10-28T10:31:25+00:00",
+      "excerpt": "Remediation work has not started on more than 1,000 buildings in England with life-critical fire safety defects that developers are responsible for resolving",
+      "entities": [
+        "Just",
+        "Remediation"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:40:53+00:00",
+      "id": "3431a436586c"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "The government’s funding for solar is only available for six months. Will the rush bring risk?",
+      "url": "https://insidehousing.co.uk/home/the-governments-funding-for-solar-is-only-available-for-six-months-will-the-rush-bring-risk-99072",
+      "published": "2026-10-28T12:05:18+00:00",
+      "excerpt": "The government’s ‘solar sprint’ must not become a race to the bottom, writes Anna Moore, chief executive of Domna",
+      "entities": [
+        "Will",
+        "Anna Moore",
+        "Domna"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:40:53+00:00",
+      "id": "dcbd5894f4f6"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Housing association joins solar scheme that could pay tenants for supporting the grid",
+      "url": "https://insidehousing.co.uk/home/housing-association-joins-solar-scheme-that-could-pay-tenants-for-supporting-the-grid-99299",
+      "published": "2026-10-27T19:51:01+00:00",
+      "excerpt": "A housing association has joined a solar scheme that could pay tenants living in flats for supporting Britain’s electricity grid",
+      "entities": [
+        "Housing",
+        "Britain’s"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:40:53+00:00",
+      "id": "afdbd3f4c038"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "NIHE aims to boost delivery in Belfast by over one-third this year as new report sets out investment plans",
+      "url": "https://insidehousing.co.uk/home/nihe-aims-to-boost-delivery-in-belfast-by-over-one-third-this-year-as-new-report-sets-out-investment-plans-99302",
+      "published": "2026-10-27T15:00:00+00:00",
+      "excerpt": "The Northern Ireland Housing Executive supported the delivery of 525 new social homes in Belfast last year, and expects to boost this figure by over a third",
+      "entities": [
+        "NIHE",
+        "Belfast",
+        "The Northern Ireland Housing",
+        "Executive"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:40:53+00:00",
+      "id": "12266cd481a4"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Wigan cuts 85 homes from £135m Fettlers",
+      "url": "https://placenorthwest.co.uk/wigan-cuts-85-homes-from-135m-fettlers",
+      "published": "2026-10-28T12:03:02+00:00",
+      "excerpt": "In their place, development partner Cityheart will build a 348-space mobility hub to service the 398 homes still due to be built. The post Wigan cuts 85 homes from £135m Fettlers appeared first on Place North West .",
+      "entities": [
+        "Wigan",
+        "Fettlers. In",
+        "Cityheart",
+        "Fettlers",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:00+00:00",
+      "id": "f4e59546bc2a"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Bury looks to finalise Six Town shutdown",
+      "url": "https://placenorthwest.co.uk/bury-looks-to-finalise-six-town-shutdown",
+      "published": "2026-10-28T11:36:43+00:00",
+      "excerpt": "Having signalled the closure of the social housing subsidiary a year ago, cabinet will be asked to sign off the transfer of its stock into the council’s portfolio. The post Bury looks to finalise Six Town shutdown appeared first on Place North West .",
+      "entities": [
+        "Bury",
+        "Six Town",
+        "Having",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:00+00:00",
+      "id": "9e8d4c35f5da"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "M&S Foodhall cleared for Northwich",
+      "url": "https://placenorthwest.co.uk/ms-foodhall-cleared-for-northwich",
+      "published": "2026-10-28T11:08:45+00:00",
+      "excerpt": "Rothstone Estates has won Cheshire West and Chester Council’s approval to build a 23,900 sq ft store off Leicester Street. The post M&S Foodhall cleared for Northwich appeared first on Place North West .",
+      "entities": [
+        "M&S Foodhall",
+        "Northwich. Rothstone Estates",
+        "Cheshire West and Chester Council’s",
+        "Leicester Street. The",
+        "Northwich",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:00+00:00",
+      "id": "f7451dbc3c1b"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Magenta Living rounds off £77m backing",
+      "url": "https://placenorthwest.co.uk/magenta-living-rounds-off-77m-backing",
+      "published": "2026-10-28T10:30:48+00:00",
+      "excerpt": "The Wirral housing provider has completed a 2026 financing package to boost its hopes of building 1,300 homes by 2030 across the Liverpool city region, with Danske and Charities Aid Foundation Bank joining the group’s lenders. The post Magenta Living rounds off £77m backing appeared first on Place North West .",
+      "entities": [
+        "Magenta Living",
+        "The Wirral",
+        "Liverpool",
+        "Danske and Charities Aid Foundation",
+        "Bank",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:00+00:00",
+      "id": "74771c6aeab1"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "P4: Why we’re heading back to MIPIM",
+      "url": "https://placenorthwest.co.uk/p4-why-were-heading-back-to-mipim",
+      "published": "2026-10-28T09:29:51+00:00",
+      "excerpt": "Building safety experts Project Four have joined the North of England at MIPIM delegation. Max Meadows explains why the timing is right strategically to attend MIPIM 2027. The post P4: Why we’re heading back to MIPIM appeared first on Place North West .",
+      "entities": [
+        "MIPIM. Building",
+        "Project Four",
+        "North of England",
+        "MIPIM",
+        "Max Meadows",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:00+00:00",
+      "id": "c90671ff0253"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Hillhouse Enterprise Zone consultation kicks off",
+      "url": "https://placenorthwest.co.uk/hillhouse-enterprise-zone-consultation-kicks-off",
+      "published": "2026-10-28T08:01:42+00:00",
+      "excerpt": "Wyre Council and principal landowner NPL Estates have invited businesses and residents to have their say on the future direction of the strategic employment area. The post Hillhouse Enterprise Zone consultation kicks off appeared first on Place North West .",
+      "entities": [
+        "Hillhouse Enterprise Zone",
+        "Wyre Council",
+        "NPL Estates",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:00+00:00",
+      "id": "8924bda86297"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Blackpool launches search for Central Drive housing partner",
+      "url": "https://placenorthwest.co.uk/blackpool-launches-search-for-housing-partner",
+      "published": "2026-10-27T14:33:44+00:00",
+      "excerpt": "Backed by £110.4m of Homes England grant funding, the council is looking to redevelop a 13-acre tranche of the town centre with 230 homes. The post Blackpool launches search for Central Drive housing partner appeared first on Place North West .",
+      "entities": [
+        "Blackpool",
+        "Central Drive",
+        "Backed",
+        "Homes England",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:00+00:00",
+      "id": "2ee685098671"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "EYE NEWSFLASH: Property Industry reacts to Autumn Statement as landlords face fresh tax blow",
+      "url": "https://propertyindustryeye.com/eye-news-update-property-industry-reacts-to-autumn-statement-as-landlords-face-fresh-tax-blow",
+      "published": "2026-10-28T13:30:04+00:00",
+      "excerpt": "Chancellor unveils tax changes in Autumn Statement",
+      "entities": [
+        "EYE NEWSFLASH",
+        "Property Industry",
+        "Autumn Statement",
+        "Chancellor"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:01+00:00",
+      "id": "9b2359c91874"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Autumn Budget: Property industry demands action, not more uncertainty",
+      "url": "https://propertyindustryeye.com/autumn-budget-property-industry-demands-action-not-more-uncertainty",
+      "published": "2026-10-28T04:30:38+00:00",
+      "excerpt": "Property industry demands tax reform, housing support and an end to uncertainty",
+      "entities": [
+        "Autumn Budget",
+        "Property"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:01+00:00",
+      "id": "4a340e8b7ecd"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency acquired by expanding property group after director’s 11-year ban",
+      "url": "https://propertyindustryeye.com/estate-agency-acquired-by-expanding-property-group-after-directors-11-year-ban",
+      "published": "2026-10-28T04:20:17+00:00",
+      "excerpt": "Estate agency at centre of director ban acquired by expanding property group",
+      "entities": [
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:01+00:00",
+      "id": "9f5e0469d38f"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency rescued from administration opens new branch",
+      "url": "https://propertyindustryeye.com/estate-agency-rescued-from-administration-opens-new-branch",
+      "published": "2026-10-28T04:00:21+00:00",
+      "excerpt": "Estate agency saved by 26-year-old estate agent targets £2m revenue after turnaround",
+      "entities": [
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:01+00:00",
+      "id": "def5fd5f5a2e"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Agents offered alternative to Budget Day with industry webinar",
+      "url": "https://propertyindustryeye.com/agents-offered-alternative-to-budget-day-with-industry-webinar",
+      "published": "2026-10-28T03:40:40+00:00",
+      "excerpt": "The Estate Agent Consultancy is hosting a free webinar on Wednesday",
+      "entities": [
+        "Agents",
+        "Budget Day",
+        "The Estate Agent Consultancy"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:01+00:00",
+      "id": "488e6d5a4ef1"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Property tax fears put housing market and investors on alert",
+      "url": "https://propertyindustryeye.com/property-tax-fears-put-housing-market-and-investors-on-alert",
+      "published": "2026-10-28T03:20:17+00:00",
+      "excerpt": "Additional property taxes could weaken activity",
+      "entities": [
+        "Property",
+        "Additional"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:01+00:00",
+      "id": "8ad916ca4cb9"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Budget uncertainty leaves property buyers sitting on their hands",
+      "url": "https://propertyindustryeye.com/budget-uncertainty-leaves-property-buyers-sitting-on-their-hands",
+      "published": "2026-10-28T03:10:12+00:00",
+      "excerpt": "Estate agents warn Budget uncertainty is stalling buyers",
+      "entities": [
+        "Budget",
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:01+00:00",
+      "id": "aa16f10d7c7c"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Agency charging £29-a-listing named UK’s fastest-growing",
+      "url": "https://propertyindustryeye.com/agency-charging-29-a-listing-named-uks-fastest-growing",
+      "published": "2026-10-28T03:06:49+00:00",
+      "excerpt": "Low-cost letting agency takes aim at high street after 253% turnover surge",
+      "entities": [
+        "Agency",
+        "UK’s",
+        "Low-cost"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:01+00:00",
+      "id": "ef828ca91f93"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "BTL landlords call for tax overhaul as rental supply comes under pressure",
+      "url": "https://propertyindustryeye.com/btl-landlords-demand-tax-overhaul-as-rental-supply-comes-under-pressure",
+      "published": "2026-10-28T03:00:12+00:00",
+      "excerpt": "Landlords have been adversely affected by tax and legislative changes in recent years",
+      "entities": [
+        "Landlords"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:01+00:00",
+      "id": "979ab4aada41"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Housebuilders warn first-time buyer scheme could fail without wider reforms",
+      "url": "https://propertyindustryeye.com/housebuilders-warn-first-time-buyer-scheme-could-fail-without-wider-reforms",
+      "published": "2026-10-28T02:30:40+00:00",
+      "excerpt": "The Your First Home initiative is expected to help eligible buyers purchase new-build properties with deposits as low as 2.5%",
+      "entities": [
+        "Housebuilders",
+        "The Your First Home"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:01+00:00",
+      "id": "f07cdfbee981"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "First-time buyers face major monthly mortgage hit ahead of Budget",
+      "url": "https://propertyindustryeye.com/first-time-buyers-face-147-monthly-mortgage-hit-ahead-of-budget",
+      "published": "2026-10-28T01:50:48+00:00",
+      "excerpt": "First-time buyers face one of the toughest affordability environments since the global financial crisis",
+      "entities": [
+        "First-time",
+        "Budget. First-time"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:01+00:00",
+      "id": "c0809856771f"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "New Land Registry rules set to change how property deals are reported",
+      "url": "https://propertyindustryeye.com/new-land-registry-rules-set-to-change-how-property-deals-are-reported",
+      "published": "2026-10-28T01:40:38+00:00",
+      "excerpt": "New rules to reveal who controls land they do not own",
+      "entities": [
+        "New Land Registry"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:01+00:00",
+      "id": "81b689088b74"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "£11.2bn home improvement backlog prompts Budget warning from builders",
+      "url": "https://propertyindustryeye.com/11-2bn-home-improvement-backlog-prompts-budget-warning-from-builders",
+      "published": "2026-10-28T00:50:45+00:00",
+      "excerpt": "Restoring confidence in domestic building work could support construction jobs",
+      "entities": [
+        "Budget",
+        "Restoring"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:01+00:00",
+      "id": "e34bec2ac77c"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agency with previously struck-off director acquired by rival firm",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/agency-with-struck-off-director-acquired-by-rival-property-group",
+      "published": "2026-10-28T00:07:00+00:00",
+      "excerpt": "The acquisition has been described as \"fantastic\"",
+      "entities": [
+        "Agency"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:02+00:00",
+      "id": "09e3b53ae33d"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Heroic agency reveals survival story as new branch opens",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/heroic-agency-reveals-survival-story-as-new-branch-opens",
+      "published": "2026-10-28T00:06:00+00:00",
+      "excerpt": "Almost exactly four years after being bought out of administration, a Staffordshire agency is about to open a new branch. Managing director Alistair Trippett bought Heywoods – founded back in 1881 and once boasting eight local branches – out of administration in 2022. He was just 26 at the time. In four years the Heywoods […]",
+      "entities": [
+        "Heroic",
+        "Almost",
+        "Staffordshire",
+        "Managing",
+        "Alistair Trippett",
+        "Heywoods"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:02+00:00",
+      "id": "22c366b3974d"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "What today’s Budget means – a top agent writes",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/what-todays-budget-means-a-top-agent-writes",
+      "published": "2026-10-28T00:05:00+00:00",
+      "excerpt": "The Budget is a delicate balancing act says our agent",
+      "entities": [
+        "What",
+        "Budget",
+        "The Budget"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:02+00:00",
+      "id": "eca2fa80e52c"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Budget for mortgages, taxes and buyers – finance guru predictions",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/budget-for-mortgages-taxes-and-buyers-a-finance-expert-writes",
+      "published": "2026-10-28T00:04:00+00:00",
+      "excerpt": "Mortgages are bad enough - but there's a remortgage time bomb coming along",
+      "entities": [
+        "Budget",
+        "Mortgages"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:02+00:00",
+      "id": "fa16987486eb"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Self-employed broker brand rolls out AI-based tech",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/self-employed-broker-brand-rolls-out-ai-based-tech",
+      "published": "2026-10-28T00:02:00+00:00",
+      "excerpt": "The technology has global potential, accommodating languages and different agency commission models",
+      "entities": [
+        "Self-employed",
+        "AI-based"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:02+00:00",
+      "id": "56a2141f91e2"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Ultra-wealthy buyers luke warm about London",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/ultra-wealthy-buyers-luke-warm-about-london",
+      "published": "2026-10-28T00:00:00+00:00",
+      "excerpt": "Savills' research paints a mixed picture",
+      "entities": [
+        "Ultra-wealthy",
+        "London. Savills"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-28T14:41:02+00:00",
+      "id": "dc06de5f60dc"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Plastic Packaging Tax Evaluation",
+      "url": "https://gov.uk/government/publications/plastic-packaging-tax-evaluation",
+      "published": "2026-10-28T13:51:00+00:00",
+      "excerpt": "The full evaluation of the of the Plastic Packaging Tax produced by HM Revenue and Customs.",
+      "entities": [
+        "Plastic Packaging Tax Evaluation",
+        "Plastic Packaging Tax",
+        "HM Revenue and Customs"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-28T14:41:08+00:00",
+      "id": "f977dd80fa97"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Alcohol Duty Reforms Evaluation Report",
+      "url": "https://gov.uk/government/publications/alcohol-duty-reforms-evaluation-report",
+      "published": "2026-10-28T13:49:07+00:00",
+      "excerpt": "The joint evaluation by HM Revenue and Customs and HM Treasury of the Alcohol Duty Reforms",
+      "entities": [
+        "Alcohol Duty Reforms Evaluation",
+        "Report. The",
+        "HM Revenue and Customs and HM",
+        "Treasury",
+        "Alcohol Duty Reforms"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-28T14:41:08+00:00",
+      "id": "44732a8d1d92"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Plastic Packaging Tax Research",
+      "url": "https://gov.uk/government/publications/plastic-packaging-tax-research",
+      "published": "2026-10-28T13:48:59+00:00",
+      "excerpt": "This research looked at plastic packaging manufacturers and importers' experiences of Plastic Packaging Tax.",
+      "entities": [
+        "Plastic Packaging Tax Research",
+        "Plastic Packaging Tax"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-28T14:41:08+00:00",
+      "id": "c34f3b35c9a6"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Understanding Alcohol Producers' Experiences of Duty Reforms",
+      "url": "https://gov.uk/government/publications/understanding-alcohol-producers-experiences-of-duty-reforms",
+      "published": "2026-10-28T13:48:52+00:00",
+      "excerpt": "This research looked at alcohol producers’ views and experiences of the 2023 Alcohol Duty reforms and the new digital system for submitting returns.",
+      "entities": [
+        "Understanding Alcohol Producers' Experiences",
+        "Duty Reforms. This",
+        "Alcohol Duty"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-28T14:41:08+00:00",
+      "id": "8cf2084e481a"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Cost of public electric vehicle charging review",
+      "url": "https://gov.uk/government/publications/cost-of-public-electric-vehicle-charging-review",
+      "published": "2026-10-28T13:32:18+00:00",
+      "excerpt": "Reviews the cost of charging electric vehicles on the UK public charging network and provides recommendations to reduce charging prices.…",
+      "entities": [
+        "Cost",
+        "Reviews"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-28T14:41:08+00:00",
+      "id": "7ca3051e694b"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Demand determinants and elasticities for English higher education",
+      "url": "https://gov.uk/government/publications/demand-determinants-and-elasticities-for-english-higher-education",
+      "published": "2026-10-28T13:32:08+00:00",
+      "excerpt": "Research report examining the factors influencing student demand for higher education (HE) in England and the price elasticity of demand for HE.",
+      "entities": [
+        "Demand",
+        "English",
+        "Research"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-28T14:41:08+00:00",
+      "id": "0a8f3b66494d"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Research at APHA",
+      "url": "https://gov.uk/government/organisations/animal-and-plant-health-agency/about/research",
+      "published": "2026-10-28T12:59:49+00:00",
+      "excerpt": "We undertake research and surveillance activities on a range of bacterial, viral and parasitic diseases affecting plants and animals, including wildlife.",
+      "entities": [
+        "Research",
+        "APHA. We"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-28T14:41:08+00:00",
+      "id": "a4404eca4976"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Pre-release access to DWP statistics",
+      "url": "https://gov.uk/government/statistics/pre-release-access-to-statistics-order-2008",
+      "published": "2026-10-28T11:37:25+00:00",
+      "excerpt": "Job titles of people with pre-release access to Department for Work and Pensions (DWP) statistics and the organisations they belong to.",
+      "entities": [
+        "Pre-release",
+        "Department",
+        "Work and Pensions"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-28T14:41:08+00:00",
+      "id": "9535c834df21"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Price paid data: September 2026",
+      "url": "https://gov.uk/government/statistical-data-sets/price-paid-data-september-2026",
+      "published": "2026-10-28T11:00:00+00:00",
+      "excerpt": "…The current month's Price Paid Data includes new monthly transactions, earlier updates and SPPD/APPD, with CSV and TXT downloads.…",
+      "entities": [
+        "Price",
+        "Price Paid Data",
+        "SPPD",
+        "APPD",
+        "CSV and TXT"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-28T14:41:08+00:00",
+      "id": "473969d054e5"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Methodology for estimating the scale and cost of IP infringement",
+      "url": "https://gov.uk/government/publications/methodology-for-estimating-the-scale-and-cost-of-ip-infringement",
+      "published": "2026-10-28T10:00:00+00:00",
+      "excerpt": "We have commissioned the development of an analytical framework and modelling approach for to estimate the cost of IP infringement to the UK.",
+      "entities": [
+        "Methodology"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-28T14:41:08+00:00",
+      "id": "a2931f8fcd80"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Building Safety Remediation: monthly data release - September 2026",
+      "url": "https://gov.uk/government/publications/building-safety-remediation-monthly-data-release-september-2026",
+      "published": "2026-10-28T09:30:07+00:00",
+      "excerpt": "The 107th monthly data release regarding building safety remediation.",
+      "entities": [
+        "Building Safety Remediation"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-28T14:41:08+00:00",
+      "id": "702a287469a3"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Fire statistics data tables",
+      "url": "https://gov.uk/government/statistical-data-sets/fire-statistics-data-tables",
+      "published": "2026-10-28T09:30:07+00:00",
+      "excerpt": "The Ministry of Housing, Communities and Local Government collects detailed information on incidents attended by Fire and Rescue Services.",
+      "entities": [
+        "Fire",
+        "The Ministry of Housing",
+        "Communities and Local Government",
+        "Fire and Rescue Services"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-28T14:41:08+00:00",
+      "id": "22faa6125444"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Fire and rescue incident statistics, year ending June 2026",
+      "url": "https://gov.uk/government/statistics/fire-and-rescue-incident-statistics-year-ending-june-2026",
+      "published": "2026-10-28T09:30:07+00:00",
+      "excerpt": "Focuses on incidents and fires attended by fire and rescue services, fire-related fatalities, casualties from those fires and response times to those fires.",
+      "entities": [
+        "Fire",
+        "Focuses"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-28T14:41:08+00:00",
+      "id": "6d14f9221c14"
+    }
+  ]
+}
