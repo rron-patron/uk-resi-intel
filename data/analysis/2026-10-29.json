@@ -1,0 +1,763 @@
+{
+  "generated_at": "2026-10-29T14:45:38+00:00",
+  "date_label": "Thursday 29 October 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgWi4pjxBUFfVBcjokp7D'}\n\n43 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Student housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Budget",
+      "type": "Other",
+      "mentions": 7,
+      "context": ""
+    },
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Budget Responsibility",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Agency",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Water",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Science",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Welsh",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Office",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Autumn Budget. John Healey",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "House of Commons",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Wednesday. Inside Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Clarion",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Hope",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Autumn Budget",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Chancellor John Healey",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Stephen Delahunty",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Why Southwark",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "James McAsh",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Southwark Council",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "8d8e57a3a34d": {
+      "id": "8d8e57a3a34d",
+      "importance": "Medium",
+      "summary": "Welsh social landlords will be able to increase rents by up to 4% in the next financial year, the government has confirmed",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Welsh"
+      ],
+      "locations": []
+    },
+    "a09ae79e7222": {
+      "id": "a09ae79e7222",
+      "importance": "Medium",
+      "summary": "The Office for Budget Responsibility expects 190,000 fewer homes to be delivered over the next five years than its March 2026 forecast had predicted",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Office",
+        "Budget Responsibility"
+      ],
+      "locations": []
+    },
+    "a65b1540592f": {
+      "id": "a65b1540592f",
+      "importance": "Medium",
+      "summary": "John Healey delivered his first Budget as chancellor to the House of Commons on Wednesday. Inside Housing rounds up the sector’s views",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Housing",
+        "Autumn Budget. John Healey",
+        "Budget",
+        "House of Commons"
+      ],
+      "locations": []
+    },
+    "dc4bc7691e35": {
+      "id": "dc4bc7691e35",
+      "importance": "Medium",
+      "summary": "Clarion saw its surpluses rise in the first half of the year despite impairments related to the “challenging development market”",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Clarion"
+      ],
+      "locations": []
+    },
+    "31652402544a": {
+      "id": "31652402544a",
+      "importance": "Medium",
+      "summary": "Chancellor John Healey delivered his first Autumn Budget yesterday. Stephen Delahunty rounds up five key takeaways for the sector",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Hope",
+        "Autumn Budget",
+        "Chancellor John Healey",
+        "Stephen Delahunty"
+      ],
+      "locations": []
+    },
+    "43149523813c": {
+      "id": "43149523813c",
+      "importance": "Medium",
+      "summary": "James McAsh, leader of Southwark Council, on why the local authority is launching a summit to decide the future approach to the Aylesbury Estate regeneration",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Why Southwark",
+        "James McAsh",
+        "Southwark Council",
+        "Aylesbury Estate"
+      ],
+      "locations": []
+    },
+    "eec5b5327209": {
+      "id": "eec5b5327209",
+      "importance": "Medium",
+      "summary": "With 500 homes as the central element, developers have been invited to put forward ideas for a raft of council-owned town centre sites. A preferred developer will be chosen in January. The post Cheshire East casts the ne",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Cheshire East",
+        "Crewe",
+        "With",
+        "January. The"
+      ],
+      "locations": []
+    },
+    "e76b322ce099": {
+      "id": "e76b322ce099",
+      "importance": "Medium",
+      "summary": "Sovini Group, as part of its Sefton 2030 partnership with the local authority, is lined up to acquire five sites, pending cabinet approval of the deals. The post Sefton looks to sell land for 231 affordable homes appeare",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Sefton",
+        "Sovini Group",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "e40d4437fe5f": {
+      "id": "e40d4437fe5f",
+      "importance": "Medium",
+      "summary": "Architect MCAU is working with developer Grantham Estates on a 327-bedspace project next to the historic venue off West Derby Road. The post Plans in for Olympia-adjacent Liverpool PBSA appeared first on Place North West",
+      "why_it_matters": "",
+      "themes": [
+        "Student housing"
+      ],
+      "companies": [
+        "Plans",
+        "Olympia-adjacent Liverpool PBSA. Architect",
+        "MCAU",
+        "Grantham Estates"
+      ],
+      "locations": []
+    },
+    "42cb5e9a79a9": {
+      "id": "42cb5e9a79a9",
+      "importance": "Medium",
+      "summary": "North West authorities will receive a share of a £280m fund to back housing development, transport infrastructure, or High Street regeneration schemes. The post Budget reveals £25m good growth increase for North West app",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Regional development"
+      ],
+      "companies": [
+        "Budget",
+        "North West. North West",
+        "High Street",
+        "North West"
+      ],
+      "locations": []
+    },
+    "1ca3508cf1c6": {
+      "id": "1ca3508cf1c6",
+      "importance": "Medium",
+      "summary": "Prime Minister Andy Burnham’s first Budget was not short on announcements and big promises around devolution, business rates, science funding, and development assistance. Here are the major headlines from the 166-page do",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Regional development"
+      ],
+      "companies": [
+        "Budget",
+        "Your First Homes",
+        "Prime Minister Andy Burnham’s",
+        "Here"
+      ],
+      "locations": []
+    },
+    "c9b901c0737a": {
+      "id": "c9b901c0737a",
+      "importance": "Medium",
+      "summary": "New government guidance sets out rental property registration deadlines, letting agents' responsibilities and future advertising rules",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "BREAKING"
+      ],
+      "locations": []
+    },
+    "f575bbe23d35": {
+      "id": "f575bbe23d35",
+      "importance": "Medium",
+      "summary": "'What the lettings market needed was stability': Industry hits out at tax increase",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tenants",
+        "Property",
+        "What",
+        "Industry"
+      ],
+      "locations": []
+    },
+    "1f55174eff5e": {
+      "id": "1f55174eff5e",
+      "importance": "Medium",
+      "summary": "Why homeowners underestimate the value of estate agents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "4658fd30c83b": {
+      "id": "4658fd30c83b",
+      "importance": "Medium",
+      "summary": "Will the scheme help the wider housing market?",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Will"
+      ],
+      "locations": []
+    },
+    "2e98c9fe716d": {
+      "id": "2e98c9fe716d",
+      "importance": "Medium",
+      "summary": "Landlords in the firing line as chancellor tightens the tax squeeze",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Healey",
+        "Landlords"
+      ],
+      "locations": []
+    },
+    "72d23b4d0fca": {
+      "id": "72d23b4d0fca",
+      "importance": "Medium",
+      "summary": "Estate agency tells rivals to stop breaking property signage rules",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "178e4870968d": {
+      "id": "178e4870968d",
+      "importance": "Medium",
+      "summary": "Government targets greater transparency",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Land Registry"
+      ],
+      "locations": []
+    },
+    "a65261702e4b": {
+      "id": "a65261702e4b",
+      "importance": "Medium",
+      "summary": "Tesco Insurance has launched specialist landlord and holiday home insurance products",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tesco",
+        "Tesco Insurance"
+      ],
+      "locations": []
+    },
+    "6e38b7e62c46": {
+      "id": "6e38b7e62c46",
+      "importance": "Medium",
+      "summary": "New AI technology heading for eXp's UK estate agency network",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "AI-powered",
+        "New AI"
+      ],
+      "locations": []
+    },
+    "21262f5ac1b5": {
+      "id": "21262f5ac1b5",
+      "importance": "Medium",
+      "summary": "John Healey effectively doubled next year's tax rise",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Growing",
+        "John Healey"
+      ],
+      "locations": []
+    },
+    "36aa0eeaf732": {
+      "id": "36aa0eeaf732",
+      "importance": "Medium",
+      "summary": "But the whole industry is angry at the latest tax hit on landlords...",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Propertymark",
+        "Budget"
+      ],
+      "locations": []
+    },
+    "d3360a78e8ed": {
+      "id": "d3360a78e8ed",
+      "importance": "Medium",
+      "summary": "He has 20 years of experience at London agencies",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "New London",
+        "London"
+      ],
+      "locations": []
+    },
+    "96435e8c224e": {
+      "id": "96435e8c224e",
+      "importance": "Medium",
+      "summary": "The platform is declining to reveal its revenue projections",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Agency"
+      ],
+      "locations": []
+    },
+    "fe25f1ba30d2": {
+      "id": "fe25f1ba30d2",
+      "importance": "Medium",
+      "summary": "The Chancellor offers first-time buyer support but fails to address stamp duty reform, rising landlord taxes and sluggish property transactions.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property SigNATure",
+        "Healey’s Budget",
+        "The Chancellor"
+      ],
+      "locations": []
+    },
+    "5256c6aa5cbd": {
+      "id": "5256c6aa5cbd",
+      "importance": "Medium",
+      "summary": "The event takes place next week",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency"
+      ],
+      "locations": []
+    },
+    "b7eb0245c686": {
+      "id": "b7eb0245c686",
+      "importance": "Medium",
+      "summary": "The ‘small print’ analysis of the economy has been released by the independent Office for Budget Responsibility (OBR). This is traditionally released at the same time as the Budget – but it often fails to make the same h",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Bleak",
+        "Office",
+        "Budget Responsibility. The",
+        "Budget Responsibility"
+      ],
+      "locations": []
+    },
+    "3e6a93a6b478": {
+      "id": "3e6a93a6b478",
+      "importance": "Medium",
+      "summary": "Key measures from the Budget 2026",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Budget"
+      ],
+      "locations": []
+    },
+    "c29f8baf9e1b": {
+      "id": "c29f8baf9e1b",
+      "importance": "Medium",
+      "summary": "The Social Mobility Commission annual report updates its index, tracks long-term social mobility trends and local opportunities across the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "State",
+        "Nation",
+        "Who’s",
+        "The Social Mobility Commission"
+      ],
+      "locations": []
+    },
+    "b327b0efc757": {
+      "id": "b327b0efc757",
+      "importance": "Medium",
+      "summary": "The Environment Agency's analysis of the water resources management plan annual review submissions from water companies across England for April 2025 to March 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Water",
+        "The Environment Agency's"
+      ],
+      "locations": []
+    },
+    "f03cdabe9c94": {
+      "id": "f03cdabe9c94",
+      "importance": "Medium",
+      "summary": "A national public health bulletin from the UK Health Security Agency (UKHSA).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Health Protection Report",
+        "UK Health Security Agency",
+        "UKHSA"
+      ],
+      "locations": []
+    },
+    "24c81a7f7b2d": {
+      "id": "24c81a7f7b2d",
+      "importance": "Medium",
+      "summary": "This document contains the latest gross domestic product (GDP) deflators. The GDP deflator can be viewed as a measure of general inflation in the domestic economy.",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "GDP October",
+        "Budget",
+        "The GDP"
+      ],
+      "locations": []
+    },
+    "139d24decfd7": {
+      "id": "139d24decfd7",
+      "importance": "Medium",
+      "summary": "Vaccine uptake data and commentary about the pertussis (whooping cough) vaccination programme for pregnant women.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Pertussis",
+        "Vaccine"
+      ],
+      "locations": []
+    },
+    "32c97db07750": {
+      "id": "32c97db07750",
+      "importance": "Medium",
+      "summary": "Research into the prevalence and experience of combined discrimination, which is a distinct type of discrimation based on a combination of factors, such as age and sex.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Combined",
+        "Research"
+      ],
+      "locations": []
+    },
+    "629f4b0c6732": {
+      "id": "629f4b0c6732",
+      "importance": "Medium",
+      "summary": "This report presents finding from a survey with Carer's Allowance claimants.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Carer’s Allowance Increased Earnings",
+        "Limit Evaluation. This",
+        "Carer's Allowance"
+      ],
+      "locations": []
+    },
+    "9edfc401c6f4": {
+      "id": "9edfc401c6f4",
+      "importance": "Medium",
+      "summary": "Information about the FSA's Pathogen Surveillance in Agriculture, Food and Environment (PATH-SAFE) Programme.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Pathogen Surveillance",
+        "Agriculture",
+        "Food and Environment",
+        "PATH-SAFE"
+      ],
+      "locations": []
+    },
+    "2f754fd0844e": {
+      "id": "2f754fd0844e",
+      "importance": "Medium",
+      "summary": "Accredited Official Statistics on the number of planning applications received, decided and granted in England.",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Planning",
+        "Accredited Official Statistics"
+      ],
+      "locations": []
+    },
+    "efdf3d7bae9d": {
+      "id": "efdf3d7bae9d",
+      "importance": "Medium",
+      "summary": "Science advice note considering the relative success of different contributory benefit models, and UK public attitudes towards them.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Contributory",
+        "Science"
+      ],
+      "locations": []
+    },
+    "d4d7175cf059": {
+      "id": "d4d7175cf059",
+      "importance": "Medium",
+      "summary": "Science advice note considering the use of emerging technologies in community-based custody and public perceptions of punitive justice and offender rehabilitation.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Emerging",
+        "Science"
+      ],
+      "locations": []
+    },
+    "b12e8e30e600": {
+      "id": "b12e8e30e600",
+      "importance": "Medium",
+      "summary": "Report of research that tested and contributed to the development of new school food standards in England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Updating",
+        "Report"
+      ],
+      "locations": []
+    },
+    "3cc9d6ae5f87": {
+      "id": "3cc9d6ae5f87",
+      "importance": "Medium",
+      "summary": "Annual reporting for 2025 on the environmental performance of the 7 water only companies operating in England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Water",
+        "Annual"
+      ],
+      "locations": []
+    },
+    "23d3957cde0d": {
+      "id": "23d3957cde0d",
+      "importance": "Medium",
+      "summary": "Quarterly UK statistics about eggs.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Latest UK",
+        "Quarterly UK"
+      ],
+      "locations": []
+    },
+    "6c0dd3dea6e8": {
+      "id": "6c0dd3dea6e8",
+      "importance": "Medium",
+      "summary": "Statistics on reoffending of offenders who were released from custody, received a non-custodial conviction, or a caution.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Proven",
+        "Statistics"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 43,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgWi4pjxBUFfVBcjokp7D'}",
+    "model": null
+  }
+}

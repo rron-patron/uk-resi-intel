@@ -1,0 +1,1258 @@
+{
+  "schema": 1,
+  "generated_at_utc": "2026-10-29T14:45:38+00:00",
+  "generated_at_london": "2026-10-29T14:45+00:00",
+  "date_label": "29 October 2026",
+  "time_label": "14:45 GMT",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgWi4pjxBUFfVBcjokp7D'}\n\n43 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Student housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Budget",
+      "type": "Other",
+      "mentions": 7,
+      "context": ""
+    },
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Budget Responsibility",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Agency",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Water",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Science",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Welsh",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Office",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Autumn Budget. John Healey",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "House of Commons",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Wednesday. Inside Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Clarion",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Hope",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Autumn Budget",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Chancellor John Healey",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Stephen Delahunty",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Why Southwark",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "James McAsh",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Southwark Council",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "stories": [
+    {
+      "id": "8d8e57a3a34d",
+      "title": "Welsh government confirms social rent uplift cap of 4% for next financial year",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/welsh-government-confirms-social-rent-uplift-cap-of-4-for-next-financial-year-99326",
+      "published": "2026-10-29T14:30:00+00:00",
+      "kind": "news",
+      "excerpt": "Welsh social landlords will be able to increase rents by up to 4% in the next financial year, the government has confirmed",
+      "importance": "Medium",
+      "summary": "Welsh social landlords will be able to increase rents by up to 4% in the next financial year, the government has confirmed",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Welsh"
+      ],
+      "locations": []
+    },
+    {
+      "id": "a65b1540592f",
+      "title": "Housing sector responds to 2026 Autumn Budget",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/housing-sector-responds-to-2026-autumn-budget-99336",
+      "published": "2026-10-29T14:17:09+00:00",
+      "kind": "news",
+      "excerpt": "John Healey delivered his first Budget as chancellor to the House of Commons on Wednesday. Inside Housing rounds up the sector’s views",
+      "importance": "Medium",
+      "summary": "John Healey delivered his first Budget as chancellor to the House of Commons on Wednesday. Inside Housing rounds up the sector’s views",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Housing",
+        "Autumn Budget. John Healey",
+        "Budget",
+        "House of Commons"
+      ],
+      "locations": []
+    },
+    {
+      "id": "eec5b5327209",
+      "title": "Cheshire East casts the net for Crewe proposals",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/cheshire-east-casts-the-net-for-crewe-proposals",
+      "published": "2026-10-29T14:15:44+00:00",
+      "kind": "news",
+      "excerpt": "With 500 homes as the central element, developers have been invited to put forward ideas for a raft of council-owned town centre sites. A preferred developer will be chosen in January. The post Cheshire East casts the net for Crewe proposals appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "With 500 homes as the central element, developers have been invited to put forward ideas for a raft of council-owned town centre sites. A preferred developer will be chosen in January. The post Cheshire East casts the ne",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Cheshire East",
+        "Crewe",
+        "With",
+        "January. The"
+      ],
+      "locations": []
+    },
+    {
+      "id": "c29f8baf9e1b",
+      "title": "State of the Nation 2026: Who’s getting ahead?",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/state-of-the-nation-2026-whos-getting-ahead",
+      "published": "2026-10-29T13:58:13+00:00",
+      "kind": "data",
+      "excerpt": "The Social Mobility Commission annual report updates its index, tracks long-term social mobility trends and local opportunities across the UK.",
+      "importance": "Medium",
+      "summary": "The Social Mobility Commission annual report updates its index, tracks long-term social mobility trends and local opportunities across the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "State",
+        "Nation",
+        "Who’s",
+        "The Social Mobility Commission"
+      ],
+      "locations": []
+    },
+    {
+      "id": "b327b0efc757",
+      "title": "Water resources 2025 to 2026: analysis of the water industry’s annual water resources performance",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/water-resources-2025-2026-analysis-of-the-water-industrys-annual-water-resources-performance",
+      "published": "2026-10-29T13:54:32+00:00",
+      "kind": "data",
+      "excerpt": "The Environment Agency's analysis of the water resources management plan annual review submissions from water companies across England for April 2025 to March 2026.",
+      "importance": "Medium",
+      "summary": "The Environment Agency's analysis of the water resources management plan annual review submissions from water companies across England for April 2025 to March 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Water",
+        "The Environment Agency's"
+      ],
+      "locations": []
+    },
+    {
+      "id": "31652402544a",
+      "title": "‘Hope starts with a home’: 5 things we learned from the Autumn Budget 2026",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/hope-starts-with-a-home-5-things-we-learned-from-the-autumn-budget-2026-99334",
+      "published": "2026-10-29T13:27:18+00:00",
+      "kind": "news",
+      "excerpt": "Chancellor John Healey delivered his first Autumn Budget yesterday. Stephen Delahunty rounds up five key takeaways for the sector",
+      "importance": "Medium",
+      "summary": "Chancellor John Healey delivered his first Autumn Budget yesterday. Stephen Delahunty rounds up five key takeaways for the sector",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Hope",
+        "Autumn Budget",
+        "Chancellor John Healey",
+        "Stephen Delahunty"
+      ],
+      "locations": []
+    },
+    {
+      "id": "a09ae79e7222",
+      "title": "OBR cuts five-year housing forecast by 190,000 homes due to weak demand and rising costs",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/obr-cuts-five-year-housing-forecast-by-190000-homes-due-to-weak-demand-and-rising-costs-99339",
+      "published": "2026-10-29T13:24:51+00:00",
+      "kind": "news",
+      "excerpt": "The Office for Budget Responsibility expects 190,000 fewer homes to be delivered over the next five years than its March 2026 forecast had predicted",
+      "importance": "Medium",
+      "summary": "The Office for Budget Responsibility expects 190,000 fewer homes to be delivered over the next five years than its March 2026 forecast had predicted",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Office",
+        "Budget Responsibility"
+      ],
+      "locations": []
+    },
+    {
+      "id": "f03cdabe9c94",
+      "title": "Health Protection Report volume 20 (2026)",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/health-protection-report-volume-20-2026",
+      "published": "2026-10-29T12:30:01+00:00",
+      "kind": "data",
+      "excerpt": "A national public health bulletin from the UK Health Security Agency (UKHSA).",
+      "importance": "Medium",
+      "summary": "A national public health bulletin from the UK Health Security Agency (UKHSA).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Health Protection Report",
+        "UK Health Security Agency",
+        "UKHSA"
+      ],
+      "locations": []
+    },
+    {
+      "id": "24c81a7f7b2d",
+      "title": "GDP deflators at market prices, and money GDP October 2026 (Budget)",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/gdp-deflators-at-market-prices-and-money-gdp-october-2026-budget",
+      "published": "2026-10-29T12:28:09+00:00",
+      "kind": "data",
+      "excerpt": "This document contains the latest gross domestic product (GDP) deflators. The GDP deflator can be viewed as a measure of general inflation in the domestic economy.",
+      "importance": "Medium",
+      "summary": "This document contains the latest gross domestic product (GDP) deflators. The GDP deflator can be viewed as a measure of general inflation in the domestic economy.",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "GDP October",
+        "Budget",
+        "The GDP"
+      ],
+      "locations": []
+    },
+    {
+      "id": "e76b322ce099",
+      "title": "Sefton looks to sell land for 231 affordable homes",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/sefton-looks-to-sell-land-for-231-affordable-homes",
+      "published": "2026-10-29T11:53:36+00:00",
+      "kind": "news",
+      "excerpt": "Sovini Group, as part of its Sefton 2030 partnership with the local authority, is lined up to acquire five sites, pending cabinet approval of the deals. The post Sefton looks to sell land for 231 affordable homes appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "Sovini Group, as part of its Sefton 2030 partnership with the local authority, is lined up to acquire five sites, pending cabinet approval of the deals. The post Sefton looks to sell land for 231 affordable homes appeare",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Sefton",
+        "Sovini Group",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    {
+      "id": "dc4bc7691e35",
+      "title": "Clarion reports boost to surpluses in first half while lower sales income points to ‘difficult market’",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/clarion-reports-boost-to-surpluses-in-first-half-while-lower-sales-income-points-to-difficult-market-99338",
+      "published": "2026-10-29T11:30:00+00:00",
+      "kind": "news",
+      "excerpt": "Clarion saw its surpluses rise in the first half of the year despite impairments related to the “challenging development market”",
+      "importance": "Medium",
+      "summary": "Clarion saw its surpluses rise in the first half of the year despite impairments related to the “challenging development market”",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Clarion"
+      ],
+      "locations": []
+    },
+    {
+      "id": "139d24decfd7",
+      "title": "Pertussis immunisation in pregnancy: vaccine coverage (England)",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/pertussis-immunisation-in-pregnancy-vaccine-coverage-estimates-in-england-october-2013-to-march-2014",
+      "published": "2026-10-29T11:30:00+00:00",
+      "kind": "data",
+      "excerpt": "Vaccine uptake data and commentary about the pertussis (whooping cough) vaccination programme for pregnant women.",
+      "importance": "Medium",
+      "summary": "Vaccine uptake data and commentary about the pertussis (whooping cough) vaccination programme for pregnant women.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Pertussis",
+        "Vaccine"
+      ],
+      "locations": []
+    },
+    {
+      "id": "32c97db07750",
+      "title": "Combined discrimination: research into prevalence and experiences",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/combined-discrimination-research-into-prevalence-and-experiences",
+      "published": "2026-10-29T11:09:55+00:00",
+      "kind": "data",
+      "excerpt": "Research into the prevalence and experience of combined discrimination, which is a distinct type of discrimation based on a combination of factors, such as age and sex.",
+      "importance": "Medium",
+      "summary": "Research into the prevalence and experience of combined discrimination, which is a distinct type of discrimation based on a combination of factors, such as age and sex.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Combined",
+        "Research"
+      ],
+      "locations": []
+    },
+    {
+      "id": "629f4b0c6732",
+      "title": "Carer’s Allowance Increased Earnings Limit Evaluation",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/carers-allowance-increased-earnings-limit-evaluation",
+      "published": "2026-10-29T11:05:54+00:00",
+      "kind": "data",
+      "excerpt": "This report presents finding from a survey with Carer's Allowance claimants.",
+      "importance": "Medium",
+      "summary": "This report presents finding from a survey with Carer's Allowance claimants.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Carer’s Allowance Increased Earnings",
+        "Limit Evaluation. This",
+        "Carer's Allowance"
+      ],
+      "locations": []
+    },
+    {
+      "id": "9edfc401c6f4",
+      "title": "Pathogen Surveillance in Agriculture, Food and Environment (PATH-SAFE) Programme",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/pathogen-surveillance-in-agriculture-food-and-environment-path-safe-programme",
+      "published": "2026-10-29T11:04:42+00:00",
+      "kind": "data",
+      "excerpt": "Information about the FSA's Pathogen Surveillance in Agriculture, Food and Environment (PATH-SAFE) Programme.",
+      "importance": "Medium",
+      "summary": "Information about the FSA's Pathogen Surveillance in Agriculture, Food and Environment (PATH-SAFE) Programme.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Pathogen Surveillance",
+        "Agriculture",
+        "Food and Environment",
+        "PATH-SAFE"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2f754fd0844e",
+      "title": "Planning applications in England: April to June 2026",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/planning-applications-in-england-april-to-june-2026",
+      "published": "2026-10-29T10:36:12+00:00",
+      "kind": "data",
+      "excerpt": "Accredited Official Statistics on the number of planning applications received, decided and granted in England.",
+      "importance": "Medium",
+      "summary": "Accredited Official Statistics on the number of planning applications received, decided and granted in England.",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Planning",
+        "Accredited Official Statistics"
+      ],
+      "locations": []
+    },
+    {
+      "id": "c9b901c0737a",
+      "title": "BREAKING: Government publishes new rental property registration guidance for letting agents",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/breaking-government-publishes-new-rental-property-registration-guidance-for-letting-agents",
+      "published": "2026-10-29T10:31:04+00:00",
+      "kind": "news",
+      "excerpt": "New government guidance sets out rental property registration deadlines, letting agents' responsibilities and future advertising rules",
+      "importance": "Medium",
+      "summary": "New government guidance sets out rental property registration deadlines, letting agents' responsibilities and future advertising rules",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "BREAKING"
+      ],
+      "locations": []
+    },
+    {
+      "id": "efdf3d7bae9d",
+      "title": "Contributory benefit models and public attitudes",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/contributory-benefit-models-and-public-attitudes",
+      "published": "2026-10-29T10:30:02+00:00",
+      "kind": "data",
+      "excerpt": "Science advice note considering the relative success of different contributory benefit models, and UK public attitudes towards them.",
+      "importance": "Medium",
+      "summary": "Science advice note considering the relative success of different contributory benefit models, and UK public attitudes towards them.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Contributory",
+        "Science"
+      ],
+      "locations": []
+    },
+    {
+      "id": "d4d7175cf059",
+      "title": "Emerging technologies for offender rehabilitation",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/emerging-technologies-for-offender-rehabilitation",
+      "published": "2026-10-29T10:30:02+00:00",
+      "kind": "data",
+      "excerpt": "Science advice note considering the use of emerging technologies in community-based custody and public perceptions of punitive justice and offender rehabilitation.",
+      "importance": "Medium",
+      "summary": "Science advice note considering the use of emerging technologies in community-based custody and public perceptions of punitive justice and offender rehabilitation.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Emerging",
+        "Science"
+      ],
+      "locations": []
+    },
+    {
+      "id": "b12e8e30e600",
+      "title": "Updating the school food standards: feasibility pilot findings",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/updating-the-school-food-standards-feasibility-pilot-findings",
+      "published": "2026-10-29T10:00:03+00:00",
+      "kind": "data",
+      "excerpt": "Report of research that tested and contributed to the development of new school food standards in England.",
+      "importance": "Medium",
+      "summary": "Report of research that tested and contributed to the development of new school food standards in England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Updating",
+        "Report"
+      ],
+      "locations": []
+    },
+    {
+      "id": "e40d4437fe5f",
+      "title": "Plans in for Olympia-adjacent Liverpool PBSA",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/plans-in-for-olympia-adjacent-liverpool-pbsa",
+      "published": "2026-10-29T09:50:52+00:00",
+      "kind": "news",
+      "excerpt": "Architect MCAU is working with developer Grantham Estates on a 327-bedspace project next to the historic venue off West Derby Road. The post Plans in for Olympia-adjacent Liverpool PBSA appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "Architect MCAU is working with developer Grantham Estates on a 327-bedspace project next to the historic venue off West Derby Road. The post Plans in for Olympia-adjacent Liverpool PBSA appeared first on Place North West",
+      "why_it_matters": "",
+      "themes": [
+        "Student housing"
+      ],
+      "companies": [
+        "Plans",
+        "Olympia-adjacent Liverpool PBSA. Architect",
+        "MCAU",
+        "Grantham Estates"
+      ],
+      "locations": []
+    },
+    {
+      "id": "3cc9d6ae5f87",
+      "title": "Water only companies in England: environmental performance report 2025",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/water-only-companies-in-england-environmental-performance-report-2025",
+      "published": "2026-10-29T09:45:19+00:00",
+      "kind": "data",
+      "excerpt": "Annual reporting for 2025 on the environmental performance of the 7 water only companies operating in England.",
+      "importance": "Medium",
+      "summary": "Annual reporting for 2025 on the environmental performance of the 7 water only companies operating in England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Water",
+        "Annual"
+      ],
+      "locations": []
+    },
+    {
+      "id": "23d3957cde0d",
+      "title": "Latest UK egg statistics",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/egg-statistics",
+      "published": "2026-10-29T09:30:17+00:00",
+      "kind": "data",
+      "excerpt": "Quarterly UK statistics about eggs.",
+      "importance": "Medium",
+      "summary": "Quarterly UK statistics about eggs.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Latest UK",
+        "Quarterly UK"
+      ],
+      "locations": []
+    },
+    {
+      "id": "6c0dd3dea6e8",
+      "title": "Proven reoffending statistics: July to September 2024",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/proven-reoffending-statistics-july-to-september-2024",
+      "published": "2026-10-29T09:30:17+00:00",
+      "kind": "data",
+      "excerpt": "Statistics on reoffending of offenders who were released from custody, received a non-custodial conviction, or a caution.",
+      "importance": "Medium",
+      "summary": "Statistics on reoffending of offenders who were released from custody, received a non-custodial conviction, or a caution.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Proven",
+        "Statistics"
+      ],
+      "locations": []
+    },
+    {
+      "id": "43149523813c",
+      "title": "Why Southwark is holding a summit to decide the future of a key regeneration project",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/why-southwark-is-holding-a-summit-to-decide-the-future-of-a-key-regeneration-project-99301",
+      "published": "2026-10-29T07:00:00+00:00",
+      "kind": "news",
+      "excerpt": "James McAsh, leader of Southwark Council, on why the local authority is launching a summit to decide the future approach to the Aylesbury Estate regeneration",
+      "importance": "Medium",
+      "summary": "James McAsh, leader of Southwark Council, on why the local authority is launching a summit to decide the future approach to the Aylesbury Estate regeneration",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Why Southwark",
+        "James McAsh",
+        "Southwark Council",
+        "Aylesbury Estate"
+      ],
+      "locations": []
+    },
+    {
+      "id": "f575bbe23d35",
+      "title": "‘Tenants will pay the price’: Property commentators condemn landlord tax hike",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/tenants-will-pay-the-price-property-commentators-condemn-landlord-tax-hike",
+      "published": "2026-10-29T05:22:33+00:00",
+      "kind": "news",
+      "excerpt": "'What the lettings market needed was stability': Industry hits out at tax increase",
+      "importance": "Medium",
+      "summary": "'What the lettings market needed was stability': Industry hits out at tax increase",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tenants",
+        "Property",
+        "What",
+        "Industry"
+      ],
+      "locations": []
+    },
+    {
+      "id": "1f55174eff5e",
+      "title": "The invisible side of estate agency",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/the-invisible-side-of-estate-agency",
+      "published": "2026-10-29T04:30:06+00:00",
+      "kind": "news",
+      "excerpt": "Why homeowners underestimate the value of estate agents",
+      "importance": "Medium",
+      "summary": "Why homeowners underestimate the value of estate agents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    {
+      "id": "4658fd30c83b",
+      "title": "£4.7bn first-time buyer scheme risks stalling housing market before it even starts",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/4-7bn-first-time-buyer-scheme-risks-stalling-housing-market-before-it-even-starts",
+      "published": "2026-10-29T04:20:59+00:00",
+      "kind": "news",
+      "excerpt": "Will the scheme help the wider housing market?",
+      "importance": "Medium",
+      "summary": "Will the scheme help the wider housing market?",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Will"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2e98c9fe716d",
+      "title": "The property taxman cometh: Healey gives housing another going-over",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/the-property-taxman-cometh-healey-gives-housing-another-going-over",
+      "published": "2026-10-29T03:00:30+00:00",
+      "kind": "news",
+      "excerpt": "Landlords in the firing line as chancellor tightens the tax squeeze",
+      "importance": "Medium",
+      "summary": "Landlords in the firing line as chancellor tightens the tax squeeze",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Healey",
+        "Landlords"
+      ],
+      "locations": []
+    },
+    {
+      "id": "72d23b4d0fca",
+      "title": "Estate agency challenges rivals over unauthorised property signs",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/estate-agency-challenges-rivals-over-unauthorised-property-signs",
+      "published": "2026-10-29T02:30:04+00:00",
+      "kind": "news",
+      "excerpt": "Estate agency tells rivals to stop breaking property signage rules",
+      "importance": "Medium",
+      "summary": "Estate agency tells rivals to stop breaking property signage rules",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    {
+      "id": "178e4870968d",
+      "title": "Land Registry proposes free access to property ownership data in major shake-up",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/land-registry-proposes-free-access-to-property-ownership-data-in-major-shake-up",
+      "published": "2026-10-29T02:00:18+00:00",
+      "kind": "news",
+      "excerpt": "Government targets greater transparency",
+      "importance": "Medium",
+      "summary": "Government targets greater transparency",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Land Registry"
+      ],
+      "locations": []
+    },
+    {
+      "id": "a65261702e4b",
+      "title": "Tesco enters landlord insurance market with new product launch",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/tesco-enters-landlord-insurance-market-with-new-product-launch",
+      "published": "2026-10-29T01:10:04+00:00",
+      "kind": "news",
+      "excerpt": "Tesco Insurance has launched specialist landlord and holiday home insurance products",
+      "importance": "Medium",
+      "summary": "Tesco Insurance has launched specialist landlord and holiday home insurance products",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tesco",
+        "Tesco Insurance"
+      ],
+      "locations": []
+    },
+    {
+      "id": "6e38b7e62c46",
+      "title": "eXp to roll out new AI-powered platform to UK estate agents",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/exp-to-roll-out-new-ai-powered-platform-to-uk-estate-agents",
+      "published": "2026-10-29T00:50:55+00:00",
+      "kind": "news",
+      "excerpt": "New AI technology heading for eXp's UK estate agency network",
+      "importance": "Medium",
+      "summary": "New AI technology heading for eXp's UK estate agency network",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "AI-powered",
+        "New AI"
+      ],
+      "locations": []
+    },
+    {
+      "id": "21262f5ac1b5",
+      "title": "Growing outrage over latest tax on property income",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/growing-outrage-over-latest-tax-on-property-income",
+      "published": "2026-10-29T00:07:00+00:00",
+      "kind": "news",
+      "excerpt": "John Healey effectively doubled next year's tax rise",
+      "importance": "Medium",
+      "summary": "John Healey effectively doubled next year's tax rise",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Growing",
+        "John Healey"
+      ],
+      "locations": []
+    },
+    {
+      "id": "36aa0eeaf732",
+      "title": "Propertymark says the Budget wasn’t all bad…",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/propertymark-says-the-budget-wasnt-all-bad",
+      "published": "2026-10-29T00:05:00+00:00",
+      "kind": "news",
+      "excerpt": "But the whole industry is angry at the latest tax hit on landlords...",
+      "importance": "Medium",
+      "summary": "But the whole industry is angry at the latest tax hit on landlords...",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Propertymark",
+        "Budget"
+      ],
+      "locations": []
+    },
+    {
+      "id": "d3360a78e8ed",
+      "title": "New London agency guru has over two decades of experience",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/new-london-agency-guru-has-over-two-decades-of-experience",
+      "published": "2026-10-29T00:03:00+00:00",
+      "kind": "news",
+      "excerpt": "He has 20 years of experience at London agencies",
+      "importance": "Medium",
+      "summary": "He has 20 years of experience at London agencies",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "New London",
+        "London"
+      ],
+      "locations": []
+    },
+    {
+      "id": "96435e8c224e",
+      "title": "Agency club to launch with £100 and £250 monthly fees",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/agency-club-to-launch-with-100-and-250-monthly-fees",
+      "published": "2026-10-29T00:02:00+00:00",
+      "kind": "news",
+      "excerpt": "The platform is declining to reveal its revenue projections",
+      "importance": "Medium",
+      "summary": "The platform is declining to reveal its revenue projections",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Agency"
+      ],
+      "locations": []
+    },
+    {
+      "id": "fe25f1ba30d2",
+      "title": "Property SigNATure: Healey’s Budget diner – plenty of appetisers, but no main course",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/property-signature-healeys-budget-diner-plenty-of-appetisers-but-no-main-course",
+      "published": "2026-10-29T00:01:00+00:00",
+      "kind": "news",
+      "excerpt": "The Chancellor offers first-time buyer support but fails to address stamp duty reform, rising landlord taxes and sluggish property transactions.",
+      "importance": "Medium",
+      "summary": "The Chancellor offers first-time buyer support but fails to address stamp duty reform, rising landlord taxes and sluggish property transactions.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property SigNATure",
+        "Healey’s Budget",
+        "The Chancellor"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5256c6aa5cbd",
+      "title": "Agency expansion bid undeterred by looting and rioting",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/agency-marketing-drive-undeterred-by-looting-and-rioting",
+      "published": "2026-10-29T00:00:00+00:00",
+      "kind": "news",
+      "excerpt": "The event takes place next week",
+      "importance": "Medium",
+      "summary": "The event takes place next week",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency"
+      ],
+      "locations": []
+    },
+    {
+      "id": "42cb5e9a79a9",
+      "title": "Budget reveals £25m good growth increase for North West",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/budget-reveals-50m-good-growth-boost-for-midlands",
+      "published": "2026-10-28T16:31:40+00:00",
+      "kind": "news",
+      "excerpt": "North West authorities will receive a share of a £280m fund to back housing development, transport infrastructure, or High Street regeneration schemes. The post Budget reveals £25m good growth increase for North West appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "North West authorities will receive a share of a £280m fund to back housing development, transport infrastructure, or High Street regeneration schemes. The post Budget reveals £25m good growth increase for North West app",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Regional development"
+      ],
+      "companies": [
+        "Budget",
+        "North West. North West",
+        "High Street",
+        "North West"
+      ],
+      "locations": []
+    },
+    {
+      "id": "1ca3508cf1c6",
+      "title": "Budget 2026: Your First Homes, data centre covenant, and more highlights",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/budget-2026-your-first-homes-data-centre-covenant-and-more-highlights",
+      "published": "2026-10-28T16:23:28+00:00",
+      "kind": "news",
+      "excerpt": "Prime Minister Andy Burnham’s first Budget was not short on announcements and big promises around devolution, business rates, science funding, and development assistance. Here are the major headlines from the 166-page document. The post Budget 2026: Your First Homes, data centre covenant, and more highlights appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "Prime Minister Andy Burnham’s first Budget was not short on announcements and big promises around devolution, business rates, science funding, and development assistance. Here are the major headlines from the 166-page do",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Regional development"
+      ],
+      "companies": [
+        "Budget",
+        "Your First Homes",
+        "Prime Minister Andy Burnham’s",
+        "Here"
+      ],
+      "locations": []
+    },
+    {
+      "id": "b7eb0245c686",
+      "title": "Bleak housing market forecast from Office for Budget Responsibility",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/bleak-housing-market-forecast-from-office-for-budget-responsibility",
+      "published": "2026-10-28T13:59:37+00:00",
+      "kind": "news",
+      "excerpt": "The ‘small print’ analysis of the economy has been released by the independent Office for Budget Responsibility (OBR). This is traditionally released at the same time as the Budget – but it often fails to make the same headlines. Today’s OBR analysis makes mostly depressing reading for those seeking an improvement in the housing market. […]",
+      "importance": "Medium",
+      "summary": "The ‘small print’ analysis of the economy has been released by the independent Office for Budget Responsibility (OBR). This is traditionally released at the same time as the Budget – but it often fails to make the same h",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Bleak",
+        "Office",
+        "Budget Responsibility. The",
+        "Budget Responsibility"
+      ],
+      "locations": []
+    },
+    {
+      "id": "3e6a93a6b478",
+      "title": "Budget announcements at a glance",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/budget-measures-at-a-glance",
+      "published": "2026-10-28T12:30:00+00:00",
+      "kind": "news",
+      "excerpt": "Key measures from the Budget 2026",
+      "importance": "Medium",
+      "summary": "Key measures from the Budget 2026",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Budget"
+      ],
+      "locations": []
+    }
+  ],
+  "stats": {
+    "stories": 43,
+    "critical": 0,
+    "high": 0,
+    "medium": 43,
+    "low": 0,
+    "sources_live": 6,
+    "sources_total": 9,
+    "by_source": [
+      {
+        "name": "HM Land Registry — UK HPI",
+        "count": 15
+      },
+      {
+        "name": "Property Industry Eye",
+        "count": 9
+      },
+      {
+        "name": "Estate Agent Today",
+        "count": 8
+      },
+      {
+        "name": "Inside Housing",
+        "count": 6
+      },
+      {
+        "name": "Place North West",
+        "count": 5
+      }
+    ]
+  },
+  "sources": [
+    {
+      "key": "bisnow_uk",
+      "name": "Bisnow UK",
+      "homepage": "https://www.bisnow.com/london",
+      "kind": "news"
+    },
+    {
+      "key": "inside_housing",
+      "name": "Inside Housing",
+      "homepage": "https://www.insidehousing.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "property_week_resi",
+      "name": "Property Week — Residential",
+      "homepage": "https://www.propertyweek.com",
+      "kind": "news"
+    },
+    {
+      "key": "place_north_west",
+      "name": "Place North West",
+      "homepage": "https://www.placenorthwest.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "homepage": "https://propertyindustryeye.com",
+      "kind": "news"
+    },
+    {
+      "key": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "homepage": "https://www.estateagenttoday.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "landlordzone",
+      "name": "LandlordZONE",
+      "homepage": "https://www.landlordzone.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "homepage": "https://www.gov.uk/government/organisations/land-registry",
+      "kind": "data"
+    },
+    {
+      "key": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "homepage": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing",
+      "kind": "data"
+    }
+  ],
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 14,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 14"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 10,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 10"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 14,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 14"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "failed",
+      "url": "https://www.landlordzone.co.uk/news",
+      "found": 0,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/blog/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/rss.xml -> 0",
+        "scrape https://www.landlordzone.co.uk/news -> 0"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "meta": {
+    "rated": 0,
+    "unrated": 43,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgWi4pjxBUFfVBcjokp7D'}",
+    "model": null
+  }
+}
