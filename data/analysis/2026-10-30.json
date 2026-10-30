@@ -1,0 +1,683 @@
+{
+  "generated_at": "2026-10-30T14:41:54+00:00",
+  "date_label": "Friday 30 October 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgYbbCh5JkPpstKYJEkPN'}\n\n39 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 6,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "UK’s",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "UK National Accounts",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Office",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Agents",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Google",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Data",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Internal Market",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Input-output",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Estimates",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "UK. Supply",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "SAHP",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Returning",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Budget Responsibility",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Exclusive",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Councils",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Affordable",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Autumn Budget",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Chancellor John Healey",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Stephen Delahunty",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "f17e7adf95a2": {
+      "id": "f17e7adf95a2",
+      "importance": "Medium",
+      "summary": "Returning council housebuilding to 1980s levels could require between £3bn and £4bn of extra grant funding each year, the Office for Budget Responsibility estimated",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "SAHP",
+        "Returning",
+        "Office",
+        "Budget Responsibility"
+      ],
+      "locations": []
+    },
+    "68abbe3e0ec2": {
+      "id": "68abbe3e0ec2",
+      "importance": "Medium",
+      "summary": "Councils spent at least £20m on the local government reorganisation before the government paused the programme in September",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Exclusive",
+        "Councils"
+      ],
+      "locations": []
+    },
+    "fb7a2b3b0957": {
+      "id": "fb7a2b3b0957",
+      "importance": "Medium",
+      "summary": "Affordable housing delivery across Wales increased by 6% to 3,865 last year, reaching the highest annual figure since records began in 2007",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Affordable"
+      ],
+      "locations": []
+    },
+    "a8352cc1cb7e": {
+      "id": "a8352cc1cb7e",
+      "importance": "Medium",
+      "summary": "Chancellor John Healey delivered his first Autumn Budget yesterday. Stephen Delahunty rounds up five key takeaways for the sector",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Autumn Budget",
+        "Chancellor John Healey",
+        "Stephen Delahunty"
+      ],
+      "locations": []
+    },
+    "13c58e494e1b": {
+      "id": "13c58e494e1b",
+      "importance": "Medium",
+      "summary": "Cardinal House in St Mary’s Parsonage could be demolished, should Gary Neville’s development company progress its plans for 136,200 sq ft of offices, 434 apartments, 172 hotel rooms, and 8,700 sq ft of flex commercial sp",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Relentless",
+        "Manchester",
+        "Cardinal House",
+        "St Mary’s Parsonage"
+      ],
+      "locations": []
+    },
+    "7a5bed334fba": {
+      "id": "7a5bed334fba",
+      "importance": "Medium",
+      "summary": "Government has officially withdrawn its proposals to redraw boundaries in the county, a move that would have turned the current 15-council system into a simpler four-unitary-authority structure. The post Rethink for Lanc",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rethink",
+        "Lancashire",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "7824fbfb460a": {
+      "id": "7824fbfb460a",
+      "importance": "Medium",
+      "summary": "The developer can proceed with 146 homes at Little Knowley Farm, an allocated site on the edge of the urban area, securing a 9-2 verdict at committee. The post Castle Green secures Chorley go-ahead appeared first on Plac",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Castle Green",
+        "Chorley",
+        "Little Knowley Farm",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "376808045e0b": {
+      "id": "376808045e0b",
+      "importance": "Medium",
+      "summary": "Nationwide warns of further weakness ahead as rising mortgage costs and falling consumer confidence weigh on the housing market",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "House",
+        "Nationwide"
+      ],
+      "locations": []
+    },
+    "da0a37b79368": {
+      "id": "da0a37b79368",
+      "importance": "Medium",
+      "summary": "Read the headlines and you’d wonder why estate agents bother opening their doors",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The UK",
+        "Read"
+      ],
+      "locations": []
+    },
+    "4d6c13055e1c": {
+      "id": "4d6c13055e1c",
+      "importance": "Medium",
+      "summary": "Agents brace for landlord database amid buy-to-let exodus fears",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents"
+      ],
+      "locations": []
+    },
+    "e2fe55fd4515": {
+      "id": "e2fe55fd4515",
+      "importance": "Medium",
+      "summary": "Chancellor may have just handed letting agents a golden opportunity",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlord",
+        "Chancellor"
+      ],
+      "locations": []
+    },
+    "da64cf289b2e": {
+      "id": "da64cf289b2e",
+      "importance": "Medium",
+      "summary": "Agency owners warned over costly April deadline for business sales",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "April. Agency"
+      ],
+      "locations": []
+    },
+    "efa91e1911ce": {
+      "id": "efa91e1911ce",
+      "importance": "Medium",
+      "summary": "Estate agents share key ways to get Google reviews",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Google",
+        "Estate"
+      ],
+      "locations": []
+    },
+    "961d05e1fc20": {
+      "id": "961d05e1fc20",
+      "importance": "Medium",
+      "summary": "The latest figures paint a worrying picture for estate agents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Another"
+      ],
+      "locations": []
+    },
+    "27f119dce5dc": {
+      "id": "27f119dce5dc",
+      "importance": "Medium",
+      "summary": "Letting agents offered help ahead of regulatory audits",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Letting"
+      ],
+      "locations": []
+    },
+    "4ab203c4fc68": {
+      "id": "4ab203c4fc68",
+      "importance": "Medium",
+      "summary": "Strutt & Parker has launched a new website featuring AI-powered property search and improved visibility across ChatGPT, Gemini and Claude",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Strutt",
+        "Parker",
+        "AI-powered",
+        "ChatGPT"
+      ],
+      "locations": []
+    },
+    "f6b46bc196b2": {
+      "id": "f6b46bc196b2",
+      "importance": "Medium",
+      "summary": "Record number of empty homes returned to use",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Fresh",
+        "Record"
+      ],
+      "locations": []
+    },
+    "bdfbe4bd5b17": {
+      "id": "bdfbe4bd5b17",
+      "importance": "Medium",
+      "summary": "Ghosts, ghouls and gazumping: A Halloween warning for estate agents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate Agent Street",
+        "Must",
+        "Ghosts",
+        "Halloween"
+      ],
+      "locations": []
+    },
+    "b20ea34288cd": {
+      "id": "b20ea34288cd",
+      "importance": "Medium",
+      "summary": "Mortgage approvals are still below 60,000 per month",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Interest",
+        "Mortgage"
+      ],
+      "locations": []
+    },
+    "2411ad1c8f51": {
+      "id": "2411ad1c8f51",
+      "importance": "Medium",
+      "summary": "The latest government demand will increase agents' workload - by a huge margin",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "b3044d4744c5": {
+      "id": "b3044d4744c5",
+      "importance": "Medium",
+      "summary": "The network has given tips for agents to repeat its success",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents",
+        "Google"
+      ],
+      "locations": []
+    },
+    "725bce89b464": {
+      "id": "725bce89b464",
+      "importance": "Medium",
+      "summary": "The system avoids dropdown menus and filters, it's claimed",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Major"
+      ],
+      "locations": []
+    },
+    "510186ef8766": {
+      "id": "510186ef8766",
+      "importance": "Medium",
+      "summary": "The financial terms of the sell-off have not been released",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency"
+      ],
+      "locations": []
+    },
+    "85e961bf2478": {
+      "id": "85e961bf2478",
+      "importance": "Medium",
+      "summary": "This was at The Yorkshires Residential Real Estate Awards",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Architect",
+        "The Yorkshires Residential Real",
+        "Estate Awards"
+      ],
+      "locations": []
+    },
+    "03a8fae54e78": {
+      "id": "03a8fae54e78",
+      "importance": "Medium",
+      "summary": "Data collected since 2002 on hen harrier dispersal behaviour.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Data"
+      ],
+      "locations": []
+    },
+    "3839019e060b": {
+      "id": "3839019e060b",
+      "importance": "Medium",
+      "summary": "The Food Standard Agency's monthly tracking survey that monitors changes in consumers’ behaviour and attitudes in relation to food.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Consumer",
+        "The Food Standard Agency's"
+      ],
+      "locations": []
+    },
+    "2a2247eb097b": {
+      "id": "2a2247eb097b",
+      "importance": "Medium",
+      "summary": "Potential regulatory differences in the UK’s internal market that the Office for the Internal Market (OIM) is tracking.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Regulatory",
+        "Potential",
+        "UK’s",
+        "Office"
+      ],
+      "locations": []
+    },
+    "7487b1453917": {
+      "id": "7487b1453917",
+      "importance": "Medium",
+      "summary": "The Office for the Internal Market (OIM)’s 2026 data strategy update.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Data",
+        "The Office",
+        "Internal Market"
+      ],
+      "locations": []
+    },
+    "65db3e7e6da8": {
+      "id": "65db3e7e6da8",
+      "importance": "Medium",
+      "summary": "UK and foreign vessels landings by UK port and UK vessel landings abroad: provisional data.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Monthly Sea Fisheries Statistics"
+      ],
+      "locations": []
+    },
+    "87086b976c8f": {
+      "id": "87086b976c8f",
+      "importance": "Medium",
+      "summary": "Inspection data and information about the providers and places of children’s social care in England as well as inspections and inspection outcomes from 1 April 2025 to 31 March 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Children's",
+        "Inspection"
+      ],
+      "locations": []
+    },
+    "7a8888e1768b": {
+      "id": "7a8888e1768b",
+      "importance": "Medium",
+      "summary": "Annual estimates of gross fixed capital formation (investment) by industry and asset, in current prices and chained volume measures, consistent with the UK National Accounts.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Annual",
+        "UK National Accounts"
+      ],
+      "locations": []
+    },
+    "cdafad977f1c": {
+      "id": "cdafad977f1c",
+      "importance": "Medium",
+      "summary": "Surveillance data on varicella cases in England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Varicella",
+        "Surveillance"
+      ],
+      "locations": []
+    },
+    "dec61a09918f": {
+      "id": "dec61a09918f",
+      "importance": "Medium",
+      "summary": "UK economic timeseries data of important components of supply and use by product or by industry, including output, consumption, gross value added (GVA), imports and exports.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Supply and Use"
+      ],
+      "locations": []
+    },
+    "cbcfed227484": {
+      "id": "cbcfed227484",
+      "importance": "Medium",
+      "summary": "Estimates of industry inputs and outputs, product supply and demand, and gross value added (GVA) for the UK. Supply and use tables for 1997 to 2024.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Input-output",
+        "Estimates",
+        "UK. Supply"
+      ],
+      "locations": []
+    },
+    "58a05c84f75b": {
+      "id": "58a05c84f75b",
+      "importance": "Medium",
+      "summary": "An annual review of cross-border transactions on the UK’s balance of payments, including the current account, financial account, and the international investment stock position.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "UK Balance of Payments",
+        "The Pink Book",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    "cb102f47cb2d": {
+      "id": "cb102f47cb2d",
+      "importance": "Medium",
+      "summary": "National accounts statistics including national and sector accounts, industrial analyses and environmental accounts.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK National Accounts",
+        "The Blue Book",
+        "National"
+      ],
+      "locations": []
+    },
+    "908c9567019a": {
+      "id": "908c9567019a",
+      "importance": "Medium",
+      "summary": "Estimates of industry inputs and outputs, product supply and demand, and gross value added (GVA) for the UK. Supply and use tables for 1997 to 2024 are consistent with the UK National Accounts in Blue Book 2026.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Input-output",
+        "Estimates",
+        "UK. Supply",
+        "UK National Accounts"
+      ],
+      "locations": []
+    },
+    "8530f31fff58": {
+      "id": "8530f31fff58",
+      "importance": "Medium",
+      "summary": "How agentic AI could affect consumers' lives, how the law applies, and what businesses should do to mitigate risk.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agentic AI"
+      ],
+      "locations": []
+    },
+    "e6d9c34b31a2": {
+      "id": "e6d9c34b31a2",
+      "importance": "Medium",
+      "summary": "An analysis of the UK’s artificial intelligence (AI) sector, developing estimates of the scale and scope of firms developing AI products and services in the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Artificial Intelligence",
+        "UK’s"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 39,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgYbbCh5JkPpstKYJEkPN'}",
+    "model": null
+  }
+}

@@ -1,0 +1,713 @@
+{
+  "collected_at": "2026-10-30T14:41:23+00:00",
+  "date_london": "2026-10-30",
+  "counts": {
+    "seen_in_feeds": 80,
+    "new": 39,
+    "sources_live": 6,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 10,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 10"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 8,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 8"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "failed",
+      "url": "https://www.landlordzone.co.uk/news",
+      "found": 0,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/blog/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/rss.xml -> 0",
+        "scrape https://www.landlordzone.co.uk/news -> 0"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "OBR estimates return to council housebuilding boom would require up to £4bn extra each year on top of SAHP cash",
+      "url": "https://insidehousing.co.uk/home/obr-estimates-return-to-council-housebuilding-boom-would-require-up-to-4bn-extra-each-year-on-top-of-sahp-cash-99349",
+      "published": "2026-10-30T11:15:00+00:00",
+      "excerpt": "Returning council housebuilding to 1980s levels could require between £3bn and £4bn of extra grant funding each year, the Office for Budget Responsibility estimated",
+      "entities": [
+        "SAHP",
+        "Returning",
+        "Office",
+        "Budget Responsibility"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:31+00:00",
+      "id": "f17e7adf95a2"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Exclusive: councils spent at least £20m on local government reorganisation before review",
+      "url": "https://insidehousing.co.uk/home/exclusive-councils-spent-at-least-20m-on-local-government-reorganisation-before-review-99344",
+      "published": "2026-10-30T12:11:34+00:00",
+      "excerpt": "Councils spent at least £20m on the local government reorganisation before the government paused the programme in September",
+      "entities": [
+        "Exclusive",
+        "Councils"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:31+00:00",
+      "id": "68abbe3e0ec2"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Affordable housing delivery in Wales rose 6% last year to nearly 3,900 new homes",
+      "url": "https://insidehousing.co.uk/home/affordable-housing-delivery-in-wales-rose-6-last-year-to-nearly-3900-new-homes-99323",
+      "published": "2026-10-29T17:30:00+00:00",
+      "excerpt": "Affordable housing delivery across Wales increased by 6% to 3,865 last year, reaching the highest annual figure since records began in 2007",
+      "entities": [
+        "Affordable"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:31+00:00",
+      "id": "fb7a2b3b0957"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "5 things we learned from the Autumn Budget 2026",
+      "url": "https://insidehousing.co.uk/home/5-things-we-learned-from-the-autumn-budget-2026-99334",
+      "published": "2026-10-30T09:09:46+00:00",
+      "excerpt": "Chancellor John Healey delivered his first Autumn Budget yesterday. Stephen Delahunty rounds up five key takeaways for the sector",
+      "entities": [
+        "Autumn Budget",
+        "Chancellor John Healey",
+        "Stephen Delahunty"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:31+00:00",
+      "id": "a8352cc1cb7e"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Relentless working up two Manchester towers",
+      "url": "https://placenorthwest.co.uk/relentless-working-up-two-manchester-towers",
+      "published": "2026-10-30T11:55:11+00:00",
+      "excerpt": "Cardinal House in St Mary’s Parsonage could be demolished, should Gary Neville’s development company progress its plans for 136,200 sq ft of offices, 434 apartments, 172 hotel rooms, and 8,700 sq ft of flex commercial space across two blocks of up to 46 storeys. The post Relentless working up two Manchester towers appeared first on Place North West .",
+      "entities": [
+        "Relentless",
+        "Manchester",
+        "Cardinal House",
+        "St Mary’s Parsonage",
+        "Gary Neville’s",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:39+00:00",
+      "id": "13c58e494e1b"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Rethink for Lancashire reorganisation",
+      "url": "https://placenorthwest.co.uk/rethink-for-lancashire-reorganisation",
+      "published": "2026-10-30T09:58:17+00:00",
+      "excerpt": "Government has officially withdrawn its proposals to redraw boundaries in the county, a move that would have turned the current 15-council system into a simpler four-unitary-authority structure. The post Rethink for Lancashire reorganisation appeared first on Place North West .",
+      "entities": [
+        "Rethink",
+        "Lancashire",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:39+00:00",
+      "id": "7a5bed334fba"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Castle Green secures Chorley go-ahead",
+      "url": "https://placenorthwest.co.uk/castle-green-secures-chorley-go-ahead",
+      "published": "2026-10-29T15:20:04+00:00",
+      "excerpt": "The developer can proceed with 146 homes at Little Knowley Farm, an allocated site on the edge of the urban area, securing a 9-2 verdict at committee. The post Castle Green secures Chorley go-ahead appeared first on Place North West .",
+      "entities": [
+        "Castle Green",
+        "Chorley",
+        "Little Knowley Farm",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:39+00:00",
+      "id": "7824fbfb460a"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "House price growth hits weakest level in almost three years as buyer demand falters",
+      "url": "https://propertyindustryeye.com/nationwide-reveals-latest-house-price-figures-as-market-faces-fresh-test",
+      "published": "2026-10-30T05:26:31+00:00",
+      "excerpt": "Nationwide warns of further weakness ahead as rising mortgage costs and falling consumer confidence weigh on the housing market",
+      "entities": [
+        "House",
+        "Nationwide"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:40+00:00",
+      "id": "376808045e0b"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "The UK property market is on life support, isn’t it?",
+      "url": "https://propertyindustryeye.com/the-uk-property-market-is-on-life-support-isnt-it",
+      "published": "2026-10-30T04:50:20+00:00",
+      "excerpt": "Read the headlines and you’d wonder why estate agents bother opening their doors",
+      "entities": [
+        "The UK",
+        "Read"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:40+00:00",
+      "id": "da0a37b79368"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Agents fear landlord database as buy-to-let investors look to exit",
+      "url": "https://propertyindustryeye.com/agents-fear-landlord-database-as-buy-to-let-investors-look-to-exit",
+      "published": "2026-10-30T04:20:50+00:00",
+      "excerpt": "Agents brace for landlord database amid buy-to-let exodus fears",
+      "entities": [
+        "Agents"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:40+00:00",
+      "id": "4d6c13055e1c"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Landlord tax hike could be good news for letting agents, says industry commentator",
+      "url": "https://propertyindustryeye.com/landlord-tax-hike-could-be-good-news-for-letting-agents-says-industry-commentator",
+      "published": "2026-10-30T03:30:26+00:00",
+      "excerpt": "Chancellor may have just handed letting agents a golden opportunity",
+      "entities": [
+        "Landlord",
+        "Chancellor"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:40+00:00",
+      "id": "e2fe55fd4515"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "The £30,000 reason estate agency owners may want to sell before April",
+      "url": "https://propertyindustryeye.com/the-30000-reason-estate-agency-owners-may-want-to-sell-before-april",
+      "published": "2026-10-30T03:20:31+00:00",
+      "excerpt": "Agency owners warned over costly April deadline for business sales",
+      "entities": [
+        "April. Agency"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:40+00:00",
+      "id": "da64cf289b2e"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Are estate agents missing a trick when asking for Google reviews?",
+      "url": "https://propertyindustryeye.com/are-estate-agents-missing-a-trick-when-asking-for-google-reviews",
+      "published": "2026-10-30T03:00:48+00:00",
+      "excerpt": "Estate agents share key ways to get Google reviews",
+      "entities": [
+        "Google",
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:40+00:00",
+      "id": "efa91e1911ce"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Another blow for the housing market as buyers hit the brakes",
+      "url": "https://propertyindustryeye.com/another-blow-for-the-housing-market-as-buyers-hit-the-brakes",
+      "published": "2026-10-30T02:40:28+00:00",
+      "excerpt": "The latest figures paint a worrying picture for estate agents",
+      "entities": [
+        "Another"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:40+00:00",
+      "id": "961d05e1fc20"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Are letting agents ready for key regulatory changes?",
+      "url": "https://propertyindustryeye.com/are-letting-agents-ready-for-key-regulatory-changes",
+      "published": "2026-10-30T02:30:32+00:00",
+      "excerpt": "Letting agents offered help ahead of regulatory audits",
+      "entities": [
+        "Letting"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:40+00:00",
+      "id": "27f119dce5dc"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Strutt & Parker introduces AI-powered property search in website overhaul",
+      "url": "https://propertyindustryeye.com/strutt-parker-introduces-ai-powered-property-search-in-website-overhaul",
+      "published": "2026-10-30T01:50:45+00:00",
+      "excerpt": "Strutt & Parker has launched a new website featuring AI-powered property search and improved visibility across ChatGPT, Gemini and Claude",
+      "entities": [
+        "Strutt",
+        "Parker",
+        "AI-powered",
+        "ChatGPT",
+        "Gemini and Claude"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:40+00:00",
+      "id": "4ab203c4fc68"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Fresh funding announced to tackle thousands of empty homes",
+      "url": "https://propertyindustryeye.com/fresh-funding-announced-to-tackle-thousands-of-empty-homes",
+      "published": "2026-10-30T01:20:01+00:00",
+      "excerpt": "Record number of empty homes returned to use",
+      "entities": [
+        "Fresh",
+        "Record"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:40+00:00",
+      "id": "f6b46bc196b2"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "A nightmare on Estate Agent Street: Must you disclose a haunted house?",
+      "url": "https://propertyindustryeye.com/a-nightmare-on-estate-agent-street-must-you-disclose-a-haunted-house",
+      "published": "2026-10-30T00:50:38+00:00",
+      "excerpt": "Ghosts, ghouls and gazumping: A Halloween warning for estate agents",
+      "entities": [
+        "Estate Agent Street",
+        "Must",
+        "Ghosts",
+        "Halloween"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:40+00:00",
+      "id": "bdfbe4bd5b17"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Interest rates may rise again after bleak figures",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/interest-rates-may-rise-again-after-bleak-figures",
+      "published": "2026-10-30T00:20:00+00:00",
+      "excerpt": "Mortgage approvals are still below 60,000 per month",
+      "entities": [
+        "Interest",
+        "Mortgage"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:41+00:00",
+      "id": "b20ea34288cd"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "MPs mock government’s latest housing market “fiasco”",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/mps-mock-governments-latest-housing-market-fiasco",
+      "published": "2026-10-30T00:07:00+00:00",
+      "excerpt": "The latest government demand will increase agents' workload - by a huge margin",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:41+00:00",
+      "id": "2411ad1c8f51"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agents share Google tips after celebrating 12,000 reviews",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/agents-share-google-tips-after-celebrating-12000-reviews",
+      "published": "2026-10-30T00:05:00+00:00",
+      "excerpt": "The network has given tips for agents to repeat its success",
+      "entities": [
+        "Agents",
+        "Google"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:41+00:00",
+      "id": "b3044d4744c5"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Major agency launches innovative property search system",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/major-agency-launches-innovative-property-search-system",
+      "published": "2026-10-30T00:04:00+00:00",
+      "excerpt": "The system avoids dropdown menus and filters, it's claimed",
+      "entities": [
+        "Major"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:41+00:00",
+      "id": "725bce89b464"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agency to invest in sales after disposal of lettings division",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/agency-to-invest-in-sales-after-disposal-of-lettings-division",
+      "published": "2026-10-30T00:02:00+00:00",
+      "excerpt": "The financial terms of the sell-off have not been released",
+      "entities": [
+        "Agency"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:41+00:00",
+      "id": "510186ef8766"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Architect of agencies’ merger wins property personality award",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/10/architect-of-agencies-merger-wins-property-personality-award",
+      "published": "2026-10-30T00:01:00+00:00",
+      "excerpt": "This was at The Yorkshires Residential Real Estate Awards",
+      "entities": [
+        "Architect",
+        "The Yorkshires Residential Real",
+        "Estate Awards"
+      ],
+      "kind": "news",
+      "collected_at": "2026-10-30T14:41:41+00:00",
+      "id": "85e961bf2478"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Hen harriers: tracking programme update",
+      "url": "https://gov.uk/government/publications/hen-harriers-tracking-programme-update",
+      "published": "2026-10-30T14:36:30+00:00",
+      "excerpt": "Data collected since 2002 on hen harrier dispersal behaviour.",
+      "entities": [
+        "Data"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-30T14:41:47+00:00",
+      "id": "03a8fae54e78"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Consumer insights tracker",
+      "url": "https://gov.uk/government/publications/consumer-insights-tracker",
+      "published": "2026-10-30T10:19:32+00:00",
+      "excerpt": "The Food Standard Agency's monthly tracking survey that monitors changes in consumers’ behaviour and attitudes in relation to food.",
+      "entities": [
+        "Consumer",
+        "The Food Standard Agency's"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-30T14:41:47+00:00",
+      "id": "3839019e060b"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Regulatory developments in the UK internal market",
+      "url": "https://gov.uk/government/publications/regulatory-developments-in-the-uk-internal-market",
+      "published": "2026-10-30T10:01:39+00:00",
+      "excerpt": "Potential regulatory differences in the UK’s internal market that the Office for the Internal Market (OIM) is tracking.",
+      "entities": [
+        "Regulatory",
+        "Potential",
+        "UK’s",
+        "Office",
+        "Internal Market"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-30T14:41:47+00:00",
+      "id": "2a2247eb097b"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Data strategy update 2026",
+      "url": "https://gov.uk/government/publications/data-strategy-update-2026",
+      "published": "2026-10-30T10:01:00+00:00",
+      "excerpt": "The Office for the Internal Market (OIM)’s 2026 data strategy update.",
+      "entities": [
+        "Data",
+        "The Office",
+        "Internal Market"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-30T14:41:47+00:00",
+      "id": "7487b1453917"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Monthly Sea Fisheries Statistics September 2026",
+      "url": "https://gov.uk/government/statistics/monthly-sea-fisheries-statistics-september-2026",
+      "published": "2026-10-30T09:30:03+00:00",
+      "excerpt": "UK and foreign vessels landings by UK port and UK vessel landings abroad: provisional data.",
+      "entities": [
+        "Monthly Sea Fisheries Statistics"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-30T14:41:47+00:00",
+      "id": "65db3e7e6da8"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Children's social care in England 2026",
+      "url": "https://gov.uk/government/statistics/childrens-social-care-in-england-2026",
+      "published": "2026-10-30T09:30:02+00:00",
+      "excerpt": "Inspection data and information about the providers and places of children’s social care in England as well as inspections and inspection outcomes from 1 April 2025 to 31 March 2026.",
+      "entities": [
+        "Children's",
+        "Inspection"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-30T14:41:47+00:00",
+      "id": "87086b976c8f"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Annual gross fixed capital formation by industry and asset",
+      "url": "https://gov.uk/government/statistics/annual-gross-fixed-capital-formation-by-industry-and-asset--2",
+      "published": "2026-10-30T09:30:02+00:00",
+      "excerpt": "Annual estimates of gross fixed capital formation (investment) by industry and asset, in current prices and chained volume measures, consistent with the UK National Accounts.",
+      "entities": [
+        "Annual",
+        "UK National Accounts"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-30T14:41:47+00:00",
+      "id": "7a8888e1768b"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Varicella epidemiological reports",
+      "url": "https://gov.uk/government/publications/varicella-epidemiological-reports",
+      "published": "2026-10-30T09:30:02+00:00",
+      "excerpt": "Surveillance data on varicella cases in England.",
+      "entities": [
+        "Varicella",
+        "Surveillance"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-30T14:41:47+00:00",
+      "id": "cdafad977f1c"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Supply and Use of products and industry GVA, UK: 2024",
+      "url": "https://gov.uk/government/statistics/supply-and-use-of-products-and-industry-gva-uk-2024",
+      "published": "2026-10-30T09:30:01+00:00",
+      "excerpt": "UK economic timeseries data of important components of supply and use by product or by industry, including output, consumption, gross value added (GVA), imports and exports.",
+      "entities": [
+        "Supply and Use"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-30T14:41:47+00:00",
+      "id": "dec61a09918f"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Input-output supply and use tables – summary tables: 2026",
+      "url": "https://gov.uk/government/statistics/input-output-supply-and-use-tables-summary-tables-2026",
+      "published": "2026-10-30T09:30:01+00:00",
+      "excerpt": "Estimates of industry inputs and outputs, product supply and demand, and gross value added (GVA) for the UK. Supply and use tables for 1997 to 2024.",
+      "entities": [
+        "Input-output",
+        "Estimates",
+        "UK. Supply"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-30T14:41:47+00:00",
+      "id": "cbcfed227484"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK Balance of Payments, The Pink Book: 2026",
+      "url": "https://gov.uk/government/statistics/uk-balance-of-payments-the-pink-book-2026",
+      "published": "2026-10-30T09:30:01+00:00",
+      "excerpt": "An annual review of cross-border transactions on the UK’s balance of payments, including the current account, financial account, and the international investment stock position.",
+      "entities": [
+        "UK Balance of Payments",
+        "The Pink Book",
+        "UK’s"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-30T14:41:47+00:00",
+      "id": "58a05c84f75b"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK National Accounts, The Blue Book: 2026",
+      "url": "https://gov.uk/government/statistics/uk-national-accounts-the-blue-book-2026",
+      "published": "2026-10-30T09:30:01+00:00",
+      "excerpt": "National accounts statistics including national and sector accounts, industrial analyses and environmental accounts.",
+      "entities": [
+        "UK National Accounts",
+        "The Blue Book",
+        "National"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-30T14:41:47+00:00",
+      "id": "cb102f47cb2d"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Input-output supply and use tables: 2026 edition",
+      "url": "https://gov.uk/government/statistics/input-output-supply-and-use-tables-2026-edition",
+      "published": "2026-10-30T09:30:01+00:00",
+      "excerpt": "Estimates of industry inputs and outputs, product supply and demand, and gross value added (GVA) for the UK. Supply and use tables for 1997 to 2024 are consistent with the UK National Accounts in Blue Book 2026.",
+      "entities": [
+        "Input-output",
+        "Estimates",
+        "UK. Supply",
+        "UK National Accounts",
+        "Blue Book"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-30T14:41:47+00:00",
+      "id": "908c9567019a"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Agentic AI and consumers",
+      "url": "https://gov.uk/government/publications/agentic-ai-and-consumers",
+      "published": "2026-10-30T09:15:32+00:00",
+      "excerpt": "How agentic AI could affect consumers' lives, how the law applies, and what businesses should do to mitigate risk.",
+      "entities": [
+        "Agentic AI"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-30T14:41:47+00:00",
+      "id": "8530f31fff58"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Artificial Intelligence sector study 2025",
+      "url": "https://gov.uk/government/publications/artificial-intelligence-sector-study-2025",
+      "published": "2026-10-29T16:41:56+00:00",
+      "excerpt": "An analysis of the UK’s artificial intelligence (AI) sector, developing estimates of the scale and scope of firms developing AI products and services in the UK.",
+      "entities": [
+        "Artificial Intelligence",
+        "UK’s"
+      ],
+      "kind": "data",
+      "collected_at": "2026-10-30T14:41:47+00:00",
+      "id": "e6d9c34b31a2"
+    }
+  ]
+}
