@@ -1,0 +1,571 @@
+{
+  "generated_at": "2026-11-02T17:33:12+00:00",
+  "date_label": "Monday 02 November 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgeW5b1cFsypp5GmtNpeT'}\n\n29 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 6,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Rightmove",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "What",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Thousands",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Knight Frank",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Scottish",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Ten Scottish",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Welsh",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Budget",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Lessons",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Rewiring",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "State",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Looking",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Greater London",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Jamie Ratcliff",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Aintree Racecourse. Sites",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Grand National",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Major London",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "2f387a13dd4e": {
+      "id": "2f387a13dd4e",
+      "importance": "Medium",
+      "summary": "Ten Scottish councils will share an additional pot of £700,000 to help owners repair empty properties for use as affordable housing or temporary accommodation",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Scottish",
+        "Ten Scottish"
+      ],
+      "locations": []
+    },
+    "9754753df737": {
+      "id": "9754753df737",
+      "importance": "Medium",
+      "summary": "Welsh sector bodies are calling for a 16% funding increase for homelessness and housing support services in the government’s upcoming Budget",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Welsh",
+        "Budget"
+      ],
+      "locations": []
+    },
+    "2cf2270677f7": {
+      "id": "2cf2270677f7",
+      "importance": "Medium",
+      "summary": "What does the ‘Rewiring the State’ mean for accessing grant and how should providers respond? Looking to Greater London in the early 2010s may hold answers, writes Jamie Ratcliff, co-founder of consultancy Place Base",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Lessons",
+        "London",
+        "What",
+        "Rewiring"
+      ],
+      "locations": []
+    },
+    "7e722a840157": {
+      "id": "7e722a840157",
+      "importance": "Medium",
+      "summary": "Sites near the home of the Grand National horse race are expected to be put up for sale in November as part of plans to build 1,000 affordable homes",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Aintree Racecourse. Sites",
+        "Grand National"
+      ],
+      "locations": []
+    },
+    "f1e72601f118": {
+      "id": "f1e72601f118",
+      "importance": "Medium",
+      "summary": "Housing association Peabody has launched its new five-year sustainability strategy",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Major London",
+        "Housing",
+        "Peabody"
+      ],
+      "locations": []
+    },
+    "66340255b4d4": {
+      "id": "66340255b4d4",
+      "importance": "Medium",
+      "summary": "The Week in Housing is our weekly newsletter, rounding up the most important headlines for housing professionals",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Week",
+        "Housing",
+        "Tragic",
+        "London"
+      ],
+      "locations": []
+    },
+    "7b6332e5659a": {
+      "id": "7b6332e5659a",
+      "importance": "Medium",
+      "summary": "Newmark is leading the sale of the 44-storey Anaconda Cut on behalf of a Luxembourg-based JV between Europa Capital and Atlas Residential. The post Bids in for £100m Salford skyscraper appeared first on Place North West ",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Bids",
+        "Salford",
+        "Newmark",
+        "Anaconda Cut"
+      ],
+      "locations": []
+    },
+    "9d145cdc1446": {
+      "id": "9d145cdc1446",
+      "importance": "Medium",
+      "summary": "The council has rubber-stamped the developer’s Thelwall Heyes proposals after the Department for Transport lifted a block on the local authority determining the application. The post Path cleared for Castle Green’s 330-h",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Path",
+        "Castle Green’s",
+        "Warrington",
+        "Thelwall Heyes"
+      ],
+      "locations": []
+    },
+    "0034709403ae": {
+      "id": "0034709403ae",
+      "importance": "Medium",
+      "summary": "Situated off Rochdale Road, the 221-key hotel’s long leasehold is up for grabs. The post Manchester Hampton by Hilton on market for £13m appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Manchester Hampton",
+        "Hilton",
+        "Situated",
+        "Rochdale Road"
+      ],
+      "locations": []
+    },
+    "36fd9abb6654": {
+      "id": "36fd9abb6654",
+      "importance": "Medium",
+      "summary": "£1.5bn Rightmove battle: Thousands of agents risk missing out, claimants warn",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "JUST IN",
+        "Rightmove",
+        "Thousands"
+      ],
+      "locations": []
+    },
+    "38ad74f01409": {
+      "id": "38ad74f01409",
+      "importance": "Medium",
+      "summary": "Thousands of agents could be included",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Rightmove",
+        "Thousands"
+      ],
+      "locations": []
+    },
+    "93c765e8db06": {
+      "id": "93c765e8db06",
+      "importance": "Medium",
+      "summary": "What will happen to house prices in 2027 and beyond?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "What"
+      ],
+      "locations": []
+    },
+    "9a48b8801c3d": {
+      "id": "9a48b8801c3d",
+      "importance": "Medium",
+      "summary": "The Bank of England decides interest rates on Thursday",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Bank of England",
+        "The Bank of England"
+      ],
+      "locations": []
+    },
+    "c8a11a1c083e": {
+      "id": "c8a11a1c083e",
+      "importance": "Medium",
+      "summary": "Trio join forces in letting technology shake-up",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Three",
+        "Trio"
+      ],
+      "locations": []
+    },
+    "b56034b84056": {
+      "id": "b56034b84056",
+      "importance": "Medium",
+      "summary": "- eXp UK targets agency teams with lower commission caps and AI tools",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "827e3ee0c413": {
+      "id": "827e3ee0c413",
+      "importance": "Medium",
+      "summary": "New research reveals that seven in ten challenged rent increases are being cut, just as landlords face another tax hike",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords"
+      ],
+      "locations": []
+    },
+    "c2d0f0bb16df": {
+      "id": "c2d0f0bb16df",
+      "importance": "Medium",
+      "summary": "Tax bills could exceed rental profits",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Letting"
+      ],
+      "locations": []
+    },
+    "1c4f0ccca552": {
+      "id": "1c4f0ccca552",
+      "importance": "Medium",
+      "summary": "Knight Frank forced to explain why famous restaurant appeared in property advert",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Knight Frank",
+        "Raymond Blanc’s"
+      ],
+      "locations": []
+    },
+    "608c56503b93": {
+      "id": "608c56503b93",
+      "importance": "Medium",
+      "summary": "Asking prices under scrutiny",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Sellers",
+        "Asking"
+      ],
+      "locations": []
+    },
+    "e63348218bd6": {
+      "id": "e63348218bd6",
+      "importance": "Medium",
+      "summary": "Higher mortgage rates have cut buyers’ purchasing power by 15%, with Zoopla forecasting 100,000 fewer property sales this year",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Housing",
+        "Higher",
+        "Zoopla"
+      ],
+      "locations": []
+    },
+    "d9175c38f078": {
+      "id": "d9175c38f078",
+      "importance": "Medium",
+      "summary": "Buyers remain active but are becoming increasingly selective",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Estate",
+        "Buyers"
+      ],
+      "locations": []
+    },
+    "fbb6c529beb0": {
+      "id": "fbb6c529beb0",
+      "importance": "Medium",
+      "summary": "Rightmove is the number one portal in the UK",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    "3f94f2a6dd5b": {
+      "id": "3f94f2a6dd5b",
+      "importance": "Medium",
+      "summary": "The brand is also investing in more AI",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "e9bb4e71fc14": {
+      "id": "e9bb4e71fc14",
+      "importance": "Medium",
+      "summary": "The ad carried the image of a famous restaurant",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Knight Frank"
+      ],
+      "locations": []
+    },
+    "4c98a6e8edc2": {
+      "id": "4c98a6e8edc2",
+      "importance": "Medium",
+      "summary": "The warning comes from the Nationwide's chief economist",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Market",
+        "Nationwide's"
+      ],
+      "locations": []
+    },
+    "365f881a0232": {
+      "id": "365f881a0232",
+      "importance": "Medium",
+      "summary": "Connells Group leads the way with a forecast",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "First",
+        "Connells Group"
+      ],
+      "locations": []
+    },
+    "c4c1fab7c30b": {
+      "id": "c4c1fab7c30b",
+      "importance": "Medium",
+      "summary": "Inflation has far outstripped house price growth in recent years",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Inflation"
+      ],
+      "locations": []
+    },
+    "05032a59d8cc": {
+      "id": "05032a59d8cc",
+      "importance": "Medium",
+      "summary": "Explores England’s drought prospects for refilling storage reservoirs, setting out the different scenarios, risks and mitigating actions for winter 2026-27.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Drought",
+        "Explores England’s"
+      ],
+      "locations": []
+    },
+    "e765ff4a5165": {
+      "id": "e765ff4a5165",
+      "importance": "Medium",
+      "summary": "Findings from the earned settlement public consultation and targeted research with visa holders.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Earned",
+        "Consultation",
+        "Findings"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 29,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgeW5b1cFsypp5GmtNpeT'}",
+    "model": null
+  }
+}

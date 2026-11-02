@@ -1,0 +1,566 @@
+{
+  "collected_at": "2026-11-02T17:32:42+00:00",
+  "date_london": "2026-11-02",
+  "counts": {
+    "seen_in_feeds": 44,
+    "new": 29,
+    "sources_live": 6,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 7,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 7"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 3,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 3"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 12,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 12"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 6,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 6"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "failed",
+      "url": "https://www.landlordzone.co.uk/news",
+      "found": 0,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/blog/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/rss.xml -> 0",
+        "scrape https://www.landlordzone.co.uk/news -> 0"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 6,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 6"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Scottish government boosts empty homes fund",
+      "url": "https://insidehousing.co.uk/home/scottish-government-boosts-empty-homes-fund-99415",
+      "published": "2026-11-02T15:43:40+00:00",
+      "excerpt": "Ten Scottish councils will share an additional pot of £700,000 to help owners repair empty properties for use as affordable housing or temporary accommodation",
+      "entities": [
+        "Scottish",
+        "Ten Scottish"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:51+00:00",
+      "id": "2f387a13dd4e"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Welsh support providers risk closure without 16% funding uplift in upcoming Budget, report warns",
+      "url": "https://insidehousing.co.uk/home/welsh-support-providers-risk-closure-without-16-funding-uplift-in-upcoming-budget-report-warns-99373",
+      "published": "2026-11-02T14:00:00+00:00",
+      "excerpt": "Welsh sector bodies are calling for a 16% funding increase for homelessness and housing support services in the government’s upcoming Budget",
+      "entities": [
+        "Welsh",
+        "Budget"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:51+00:00",
+      "id": "9754753df737"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Lessons from London in the 2010s for development under devolution",
+      "url": "https://insidehousing.co.uk/home/lessons-from-london-in-the-2010s-for-development-under-devolution-99362",
+      "published": "2026-11-02T16:57:57+00:00",
+      "excerpt": "What does the ‘Rewiring the State’ mean for accessing grant and how should providers respond? Looking to Greater London in the early 2010s may hold answers, writes Jamie Ratcliff, co-founder of consultancy Place Base",
+      "entities": [
+        "Lessons",
+        "London",
+        "What",
+        "Rewiring",
+        "State",
+        "Looking",
+        "Greater London",
+        "Jamie Ratcliff"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:51+00:00",
+      "id": "2cf2270677f7"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Council reveals plans to build 1,000 homes near Aintree Racecourse",
+      "url": "https://insidehousing.co.uk/home/council-reveals-plans-to-build-1000-homes-near-aintree-racecourse-99364",
+      "published": "2026-11-02T10:16:35+00:00",
+      "excerpt": "Sites near the home of the Grand National horse race are expected to be put up for sale in November as part of plans to build 1,000 affordable homes",
+      "entities": [
+        "Aintree Racecourse. Sites",
+        "Grand National"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:51+00:00",
+      "id": "7e722a840157"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Major London housing association launches five-year sustainability strategy",
+      "url": "https://insidehousing.co.uk/home/major-london-housing-association-launches-five-year-sustainability-strategy-99324",
+      "published": "2026-11-02T08:53:18+00:00",
+      "excerpt": "Housing association Peabody has launched its new five-year sustainability strategy",
+      "entities": [
+        "Major London",
+        "Housing",
+        "Peabody"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:51+00:00",
+      "id": "f1e72601f118"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "The Week in Housing: Tragic death in London block, Autumn Budget response and Gateway 3 insight",
+      "url": "https://insidehousing.co.uk/home/the-week-in-housing-tragic-death-in-london-block-autumn-budget-response-and-gateway-3-insight-99353",
+      "published": "2026-11-02T11:33:12+00:00",
+      "excerpt": "The Week in Housing is our weekly newsletter, rounding up the most important headlines for housing professionals",
+      "entities": [
+        "The Week",
+        "Housing",
+        "Tragic",
+        "London",
+        "Autumn Budget",
+        "Gateway"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:51+00:00",
+      "id": "66340255b4d4"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Bids in for £100m Salford skyscraper",
+      "url": "https://placenorthwest.co.uk/bids-in-for-100m-salford-skyscraper",
+      "published": "2026-11-02T11:55:17+00:00",
+      "excerpt": "Newmark is leading the sale of the 44-storey Anaconda Cut on behalf of a Luxembourg-based JV between Europa Capital and Atlas Residential. The post Bids in for £100m Salford skyscraper appeared first on Place North West .",
+      "entities": [
+        "Bids",
+        "Salford",
+        "Newmark",
+        "Anaconda Cut",
+        "Luxembourg-based JV",
+        "Europa Capital and Atlas Residential",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:58+00:00",
+      "id": "7b6332e5659a"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Path cleared for Castle Green’s 330-home Warrington scheme after DfT stand-off",
+      "url": "https://placenorthwest.co.uk/path-cleared-for-castle-greens-330-home-warrington-scheme-after-dft-stand-off",
+      "published": "2026-11-02T10:51:42+00:00",
+      "excerpt": "The council has rubber-stamped the developer’s Thelwall Heyes proposals after the Department for Transport lifted a block on the local authority determining the application. The post Path cleared for Castle Green’s 330-home Warrington scheme after DfT stand-off appeared first on Place North West .",
+      "entities": [
+        "Path",
+        "Castle Green’s",
+        "Warrington",
+        "Thelwall Heyes",
+        "Department",
+        "Transport",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:58+00:00",
+      "id": "9d145cdc1446"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Manchester Hampton by Hilton on market for £13m",
+      "url": "https://placenorthwest.co.uk/manchester-hampton-by-hilton-on-market-for-13m",
+      "published": "2026-11-02T10:30:15+00:00",
+      "excerpt": "Situated off Rochdale Road, the 221-key hotel’s long leasehold is up for grabs. The post Manchester Hampton by Hilton on market for £13m appeared first on Place North West .",
+      "entities": [
+        "Manchester Hampton",
+        "Hilton",
+        "Situated",
+        "Rochdale Road",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:58+00:00",
+      "id": "0034709403ae"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "JUST IN: Rightmove accused of trying to block thousands of agents from £1.5bn compensation claim",
+      "url": "https://propertyindustryeye.com/just-in-rightmove-accused-of-trying-to-block-thousands-of-agents-from-1-5bn-compensation-claim",
+      "published": "2026-11-02T11:32:23+00:00",
+      "excerpt": "£1.5bn Rightmove battle: Thousands of agents risk missing out, claimants warn",
+      "entities": [
+        "JUST IN",
+        "Rightmove",
+        "Thousands"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:59+00:00",
+      "id": "36fd9abb6654"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "£1.5bn Rightmove claim reaches crucial court hearing today",
+      "url": "https://propertyindustryeye.com/1-5bn-rightmove-claim-reaches-crucial-court-hearing-today",
+      "published": "2026-11-02T05:00:34+00:00",
+      "excerpt": "Thousands of agents could be included",
+      "entities": [
+        "Rightmove",
+        "Thousands"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:59+00:00",
+      "id": "38ad74f01409"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "What will happen to house prices next year? New forecasts reveal winners and losers",
+      "url": "https://propertyindustryeye.com/what-will-happen-to-house-prices-new-forecasts-reveal-winners-and-losers",
+      "published": "2026-11-02T04:40:13+00:00",
+      "excerpt": "What will happen to house prices in 2027 and beyond?",
+      "entities": [
+        "What"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:59+00:00",
+      "id": "93c765e8db06"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Bank of England tipped to raise interest rates for first time in three years",
+      "url": "https://propertyindustryeye.com/bank-of-england-tipped-to-raise-interest-rates-for-first-time-in-three-years",
+      "published": "2026-11-02T04:20:27+00:00",
+      "excerpt": "The Bank of England decides interest rates on Thursday",
+      "entities": [
+        "Bank of England",
+        "The Bank of England"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:59+00:00",
+      "id": "9a48b8801c3d"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Three letting brands brought together under new property group",
+      "url": "https://propertyindustryeye.com/three-lettings-brands-brought-together-under-new-property-group",
+      "published": "2026-11-02T04:10:49+00:00",
+      "excerpt": "Trio join forces in letting technology shake-up",
+      "entities": [
+        "Three",
+        "Trio"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:59+00:00",
+      "id": "c8a11a1c083e"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "eXp UK cuts commission cap for top-performing estate agency teams",
+      "url": "https://propertyindustryeye.com/exp-uk-cuts-commission-cap-for-top-performing-estate-agency-teams",
+      "published": "2026-11-02T03:50:19+00:00",
+      "excerpt": "- eXp UK targets agency teams with lower commission caps and AI tools",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:59+00:00",
+      "id": "b56034b84056"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Landlords demand significant rent hikes – tribunals cut them down to size",
+      "url": "https://propertyindustryeye.com/landlords-demand-14-rent-hikes-tribunals-cut-them-down-to-size",
+      "published": "2026-11-02T03:40:10+00:00",
+      "excerpt": "New research reveals that seven in ten challenged rent increases are being cut, just as landlords face another tax hike",
+      "entities": [
+        "Landlords"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:59+00:00",
+      "id": "827e3ee0c413"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Letting agents face fresh landlord exodus fears as tax bills climb",
+      "url": "https://propertyindustryeye.com/letting-agents-face-fresh-landlord-exodus-fears-as-tax-bills-climb",
+      "published": "2026-11-02T03:20:34+00:00",
+      "excerpt": "Tax bills could exceed rental profits",
+      "entities": [
+        "Letting"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:59+00:00",
+      "id": "c2d0f0bb16df"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Knight Frank removes misleading ad featuring Raymond Blanc’s famous restaurant",
+      "url": "https://propertyindustryeye.com/knight-frank-removes-misleading-advert-featuring-raymond-blancs-famous-restaurant",
+      "published": "2026-11-02T02:40:34+00:00",
+      "excerpt": "Knight Frank forced to explain why famous restaurant appeared in property advert",
+      "entities": [
+        "Knight Frank",
+        "Raymond Blanc’s"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:59+00:00",
+      "id": "1c4f0ccca552"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Sellers warned to cut asking prices as buyers gain the upper hand",
+      "url": "https://propertyindustryeye.com/sellers-warned-to-cut-asking-prices-as-buyers-gain-the-upper-hand",
+      "published": "2026-11-02T02:30:01+00:00",
+      "excerpt": "Asking prices under scrutiny",
+      "entities": [
+        "Sellers",
+        "Asking"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:59+00:00",
+      "id": "608c56503b93"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Housing market hit by fresh setback as buyers retreat",
+      "url": "https://propertyindustryeye.com/housing-market-hit-by-fresh-setback-as-buyers-retreat",
+      "published": "2026-11-02T01:30:19+00:00",
+      "excerpt": "Higher mortgage rates have cut buyers’ purchasing power by 15%, with Zoopla forecasting 100,000 fewer property sales this year",
+      "entities": [
+        "Housing",
+        "Higher",
+        "Zoopla"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:59+00:00",
+      "id": "e63348218bd6"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agents brace for quieter December as mortgage rate fears intensify",
+      "url": "https://propertyindustryeye.com/estate-agents-brace-for-quieter-december-as-mortgage-rate-fears-intensify",
+      "published": "2026-11-02T00:50:26+00:00",
+      "excerpt": "Buyers remain active but are becoming increasingly selective",
+      "entities": [
+        "Estate",
+        "Buyers"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:59+00:00",
+      "id": "d9175c38f078"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Rightmove legal challenge begins today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/rightmove-unveils-new-help-for-agents",
+      "published": "2026-11-02T00:07:00+00:00",
+      "excerpt": "Rightmove is the number one portal in the UK",
+      "entities": [
+        "Rightmove"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:59+00:00",
+      "id": "fbb6c529beb0"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "eXp UK launches two-tier self-employed commission",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/exp-uk-introduces-two-tier-business-model-for-self-employed-agents",
+      "published": "2026-11-02T00:06:00+00:00",
+      "excerpt": "The brand is also investing in more AI",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:59+00:00",
+      "id": "3f94f2a6dd5b"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Knight Frank drops ad with ‘misleading’ image",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/knight-frank-drops-ad-with-misleading-image",
+      "published": "2026-11-02T00:05:00+00:00",
+      "excerpt": "The ad carried the image of a famous restaurant",
+      "entities": [
+        "Knight Frank"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:59+00:00",
+      "id": "e9bb4e71fc14"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Market to get worse over winter, warns top economist",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/market-to-get-worse-over-winter-warns-top-economist",
+      "published": "2026-11-02T00:04:00+00:00",
+      "excerpt": "The warning comes from the Nationwide's chief economist",
+      "entities": [
+        "Market",
+        "Nationwide's"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:59+00:00",
+      "id": "4c98a6e8edc2"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "First 2027 housing market forecast just released",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/first-2027-housing-market-forecast-just-released",
+      "published": "2026-11-02T00:03:00+00:00",
+      "excerpt": "Connells Group leads the way with a forecast",
+      "entities": [
+        "First",
+        "Connells Group"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:59+00:00",
+      "id": "365f881a0232"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Inflation takes pressure off asking price cuts – analysis",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/inflation-takes-pressure-off-asking-price-cuts-analysis",
+      "published": "2026-11-02T00:02:00+00:00",
+      "excerpt": "Inflation has far outstripped house price growth in recent years",
+      "entities": [
+        "Inflation"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-02T17:32:59+00:00",
+      "id": "c4c1fab7c30b"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Drought prospects for agriculture",
+      "url": "https://gov.uk/government/publications/drought-prospects-for-agriculture",
+      "published": "2026-11-02T16:50:25+00:00",
+      "excerpt": "Explores England’s drought prospects for refilling storage reservoirs, setting out the different scenarios, risks and mitigating actions for winter 2026-27.",
+      "entities": [
+        "Drought",
+        "Explores England’s"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-02T17:33:06+00:00",
+      "id": "05032a59d8cc"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Earned settlement: Consultation findings",
+      "url": "https://gov.uk/government/publications/earned-settlement-consultation-findings",
+      "published": "2026-11-02T15:49:16+00:00",
+      "excerpt": "Findings from the earned settlement public consultation and targeted research with visa holders.",
+      "entities": [
+        "Earned",
+        "Consultation",
+        "Findings"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-02T17:33:06+00:00",
+      "id": "e765ff4a5165"
+    }
+  ]
+}
