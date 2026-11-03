@@ -1,0 +1,619 @@
+{
+  "collected_at": "2026-11-03T15:36:16+00:00",
+  "date_london": "2026-11-03",
+  "counts": {
+    "seen_in_feeds": 73,
+    "new": 33,
+    "sources_live": 6,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 8,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 8"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 6,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 6"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 13,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 13"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "failed",
+      "url": "https://www.landlordzone.co.uk/news",
+      "found": 0,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/blog/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/rss.xml -> 0",
+        "scrape https://www.landlordzone.co.uk/news -> 0"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 16,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 16"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "The Budget gave the sector more cash, but throwing money at the problem isn’t enough to fix it",
+      "url": "https://insidehousing.co.uk/home/the-budget-gave-the-sector-more-cash-but-throwing-money-at-the-problem-isnt-enough-to-fix-it-99480",
+      "published": "2026-11-03T13:00:00+00:00",
+      "excerpt": "Without a supportive framework and long-term certainty, the Budget money may go to waste, write Frazer Magunda and Stewart Freeman from Shakespeare Martineau",
+      "entities": [
+        "The Budget",
+        "Without",
+        "Budget",
+        "Frazer Magunda and Stewart Freeman",
+        "Shakespeare Martineau"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:24+00:00",
+      "id": "4c89ad6dd87a"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Peabody secures ‘largest ever corporate loan’ of £500m from major lender",
+      "url": "https://insidehousing.co.uk/home/peabody-secures-largest-ever-corporate-loan-of-500m-from-major-lender-99393",
+      "published": "2026-11-03T10:39:46+00:00",
+      "excerpt": "Peabody has increased its loan facility with Nationwide by £100m to £500m, making the building society the housing association’s largest lender",
+      "entities": [
+        "Peabody",
+        "Nationwide"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:24+00:00",
+      "id": "0d79de94b890"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Southway Wythenshawe would consider becoming strategic partner if option available, new chief executive says",
+      "url": "https://insidehousing.co.uk/home/southway-wythenshawe-would-consider-becoming-strategic-partner-if-option-available-new-chief-executive-says-99226",
+      "published": "2026-11-03T08:00:00+00:00",
+      "excerpt": "Southway Wythenshawe Homes would consider becoming a strategic partner if the option became available again, the chief executive of the new landlord said",
+      "entities": [
+        "Southway Wythenshawe",
+        "Southway Wythenshawe Homes"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:24+00:00",
+      "id": "06c449a2ce7c"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Salboy pivots back to housing in Worsley",
+      "url": "https://placenorthwest.co.uk/salboy-pivots-back-to-housing-in-worsley",
+      "published": "2026-11-03T13:30:54+00:00",
+      "excerpt": "Fresh plans for 76 homes off Leigh Road have been submitted after the developer toyed with the idea of turning the five-acre Booths Farm into padel courts. The post Salboy pivots back to housing in Worsley appeared first on Place North West .",
+      "entities": [
+        "Salboy",
+        "Worsley. Fresh",
+        "Leigh Road",
+        "Booths Farm",
+        "Worsley",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:31+00:00",
+      "id": "8b4704be0d05"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Zentra replots future for Manchester resi",
+      "url": "https://placenorthwest.co.uk/zentra-replots-future-for-manchester-resi",
+      "published": "2026-11-03T11:58:19+00:00",
+      "excerpt": "Having taken ownership of Urban Splash’s approved scheme for 40 flats and commercial units off Old Mill Street and Lampwick Lane, the developer has reimagined the project as a fully affordable housing development to be managed by L&Q. The post Zentra replots future for Manchester resi appeared first on Place North West .",
+      "entities": [
+        "Zentra",
+        "Manchester",
+        "Having",
+        "Urban Splash’s",
+        "Old Mill Street and Lampwick",
+        "Lane",
+        "L&Q. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:31+00:00",
+      "id": "209021cf356a"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Salford to endorse 15-year vision for Eccles",
+      "url": "https://placenorthwest.co.uk/salford-to-endorse-15-year-vision-for-eccles",
+      "published": "2026-11-03T11:52:55+00:00",
+      "excerpt": "A masterplan that will underpin Muse’s efforts to rejuvenate the town centre and deliver up to 1,300 homes is due to be adopted next week. The post Salford to endorse 15-year vision for Eccles appeared first on Place North West .",
+      "entities": [
+        "Salford",
+        "Eccles",
+        "Muse’s",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:31+00:00",
+      "id": "4ad03d8fdfd1"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "JUST IN: Winkworth legal battle extended as both sides agree to mediation",
+      "url": "https://propertyindustryeye.com/just-in-winkworth-legal-battle-extended-as-both-sides-agree-to-mediation",
+      "published": "2026-11-03T07:19:05+00:00",
+      "excerpt": "Winkworth and chairman agree mediation as High Court dispute drags on",
+      "entities": [
+        "JUST IN",
+        "Winkworth",
+        "High Court"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:32+00:00",
+      "id": "8124a7af9e16"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "EYE NEWS UPDATE: Foxtons faces shareholder backlash as investors reject key board proposals",
+      "url": "https://propertyindustryeye.com/eye-news-update-foxtons-faces-shareholder-backlash-as-investors-reject-key-board-proposals",
+      "published": "2026-11-03T07:00:48+00:00",
+      "excerpt": "Foxtons investors challenge dividend priorities as board proposals fail",
+      "entities": [
+        "EYE NEWS UPDATE",
+        "Foxtons"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:32+00:00",
+      "id": "b4e9ef41e1b9"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Rightmove hits back at £1.5bn legal claim and challenges agents’ automatic inclusion",
+      "url": "https://propertyindustryeye.com/rightmove-hits-back-at-1-5bn-legal-claim-and-challenges-agents-automatic-inclusion",
+      "published": "2026-11-03T04:50:53+00:00",
+      "excerpt": "Rightmove fights £1.5bn agents' claim - and questions who should be allowed to join",
+      "entities": [
+        "Rightmove"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:32+00:00",
+      "id": "89c9d20f77a1"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "iamproperty promises agents free software – but there’s a catch",
+      "url": "https://propertyindustryeye.com/iamproperty-promises-agents-free-software-but-whats-the-catch",
+      "published": "2026-11-03T03:50:25+00:00",
+      "excerpt": "iamproperty reveals how agents can earn credits towards free software",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:32+00:00",
+      "id": "c4eb57b6a746"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agents offered free property information packs in bid to slash sales delays",
+      "url": "https://propertyindustryeye.com/estate-agents-offered-free-property-information-packs-in-bid-to-slash-sales-delays",
+      "published": "2026-11-03T03:30:58+00:00",
+      "excerpt": "Free upfront property information launched for estate agents",
+      "entities": [
+        "Estate",
+        "Free"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:32+00:00",
+      "id": "6894d54e6223"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Car ploughs into estate agency, leaving man fighting for his life",
+      "url": "https://propertyindustryeye.com/car-ploughs-into-estate-agency-leaving-man-fighting-for-his-life",
+      "published": "2026-11-03T03:00:42+00:00",
+      "excerpt": "Man suffers life-threatening injuries after car crashes into estate agency",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:32+00:00",
+      "id": "cc39ec3e45ac"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Fast-growing property group acquires sixth agency as expansion gathers pace",
+      "url": "https://propertyindustryeye.com/fast-growing-property-group-acquires-sixth-agency-as-expansion-gathers-pace",
+      "published": "2026-11-03T02:30:11+00:00",
+      "excerpt": "The agency will keep its existing name and staff",
+      "entities": [
+        "Fast-growing"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:32+00:00",
+      "id": "fe63620af231"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Self-employed estate agency networks face greater AML scrutiny under HMRC guidance",
+      "url": "https://propertyindustryeye.com/self-employed-estate-agency-networks-face-greater-aml-scrutiny-under-hmrc-guidance",
+      "published": "2026-11-03T02:26:26+00:00",
+      "excerpt": "Director of Benham and Reeves welcomes the updated guidance and called for closer scrutiny of the self-employed sector",
+      "entities": [
+        "Self-employed",
+        "HMRC",
+        "Director of Benham and Reeves"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:32+00:00",
+      "id": "b70856ab445f"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Are estate agents overpricing homes? One in three agreed sales follow price cuts",
+      "url": "https://propertyindustryeye.com/are-estate-agents-overpricing-homes-one-in-three-agreed-sales-follow-price-cuts",
+      "published": "2026-11-03T02:24:17+00:00",
+      "excerpt": "More than a third of homes sold subject to contract across 21 major British cities had asking price reductions, according to new research",
+      "entities": [
+        "More",
+        "British"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:32+00:00",
+      "id": "0c54240969a8"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Franchise agency branch changes hands as director takes sole ownership",
+      "url": "https://propertyindustryeye.com/franchise-agency-branch-changes-hands-as-director-takes-sole-ownership",
+      "published": "2026-11-03T01:40:57+00:00",
+      "excerpt": "Director takes sole ownership of the franchise after buying out co-founder",
+      "entities": [
+        "Franchise",
+        "Director"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:32+00:00",
+      "id": "d9aa2216a50e"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Conveyancer shortage prompts major CLC recruitment drive",
+      "url": "https://propertyindustryeye.com/conveyancer-shortage-prompts-major-clc-recruitment-drive",
+      "published": "2026-11-03T01:10:11+00:00",
+      "excerpt": "Conveyancer shortage threatens property market reform, regulator warns",
+      "entities": [
+        "Conveyancer"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:32+00:00",
+      "id": "32b456c7507d"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Buyers getting cold feet now biggest cause of collapsed property sales",
+      "url": "https://propertyindustryeye.com/buyers-getting-cold-feet-now-biggest-cause-of-collapsed-property-sales",
+      "published": "2026-11-03T00:50:36+00:00",
+      "excerpt": "Property sales take four months to exchange as buyers pull out of deals",
+      "entities": [
+        "Buyers",
+        "Property"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:32+00:00",
+      "id": "cc75b9a8685f"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Landmark agency platform launched by iamproperty",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/landmark-agency-platform-launched-by-iamproperty",
+      "published": "2026-11-03T00:20:00+00:00",
+      "excerpt": "The platform offers agents 12 solutions to speed up their business and improve revenue",
+      "entities": [
+        "Landmark"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:32+00:00",
+      "id": "e1a58996ea81"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Rightmove legal case – decision date mystery",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/rightmove-court-case-mystery-surrounds-decision-date-from-tribunal",
+      "published": "2026-11-03T00:08:00+00:00",
+      "excerpt": "The Competition Appeal Tribunal concludes today",
+      "entities": [
+        "Rightmove",
+        "The Competition Appeal Tribunal"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:32+00:00",
+      "id": "a0bd9263759c"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Longstanding agency names family member as new director",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/longstanding-agency-names-family-member-as-new-director",
+      "published": "2026-11-03T00:06:00+00:00",
+      "excerpt": "A family-run agency that recently quit a national franchise is reporting an upsurge in business – forcing it to recruit from within the family. Edward Creswick & Sons has appointed Tom Creswick as director. The agency’s head, Edward Creswick,has worked in the Burnham-on-Sea and Highbridge property market since 1988. Earlier this year, he took the […]",
+      "entities": [
+        "Longstanding",
+        "Edward Creswick",
+        "Sons",
+        "Tom Creswick",
+        "Burnham-on-Sea and Highbridge",
+        "Earlier"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:32+00:00",
+      "id": "d70a8abea1b2"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "New director named by troubled agency giant",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/new-director-named-by-troubled-agency-giant",
+      "published": "2026-11-03T00:05:00+00:00",
+      "excerpt": "The new director has over 20 years of experience in the industry",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:32+00:00",
+      "id": "c228f5fb6b5c"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Man seriously hurt after car crashes into agency",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/car-crash-at-agency-office-prompts-safety-check-on-building",
+      "published": "2026-11-03T00:04:00+00:00",
+      "excerpt": "One person was injured",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:32+00:00",
+      "id": "b4bc592596a0"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Asking price cuts dominate in south of England",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/asking-price-cuts-dominate-in-south-of-england",
+      "published": "2026-11-03T00:01:00+00:00",
+      "excerpt": "The analysis has looked at 67,000 homes listed as SSTC",
+      "entities": [
+        "Asking",
+        "England. The",
+        "SSTC"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:32+00:00",
+      "id": "d81791ea702f"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Rightmove legal challenge – statement issued",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/legal-challenge-to-rightmove-statement-issued",
+      "published": "2026-11-02T11:21:29+00:00",
+      "excerpt": "The legal action is led by a former Competition and Markets Authority panel member",
+      "entities": [
+        "Rightmove",
+        "Competition and Markets Authority"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-03T15:36:32+00:00",
+      "id": "8484f62a591b"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Radioactivity in food and the environment (RIFE) report",
+      "url": "https://gov.uk/government/publications/radioactivity-in-food-and-the-environment-rife-reports",
+      "published": "2026-11-03T14:33:43+00:00",
+      "excerpt": "Annual assessment report of radioactivity in food and the environment and the public's exposure to radiation.",
+      "entities": [
+        "Radioactivity",
+        "RIFE",
+        "Annual"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-03T15:36:39+00:00",
+      "id": "64071c448788"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Ambient gamma radiation dose rates across the UK",
+      "url": "https://gov.uk/government/publications/ambient-gamma-radiation-dose-rates-across-the-uk",
+      "published": "2026-11-03T14:12:06+00:00",
+      "excerpt": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
+      "entities": [
+        "Ambient",
+        "UK. Data"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-03T15:36:39+00:00",
+      "id": "5a3c4d5d96bd"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Review of the Automatic Enrolment Earnings Trigger and Qualifying Earnings Band for 2027 to 2028",
+      "url": "https://gov.uk/government/publications/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-2027-to-2028",
+      "published": "2026-11-03T11:03:25+00:00",
+      "excerpt": "This analysis supports the review of the earnings trigger and qualifying earnings band for automatic enrolment for the 2027 to 2028 financial year.",
+      "entities": [
+        "Review",
+        "Automatic Enrolment Earnings Trigger",
+        "Qualifying Earnings Band"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-03T15:36:39+00:00",
+      "id": "fe21c984efae"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Public Health Outcomes Framework: November 2026 data update",
+      "url": "https://gov.uk/government/statistics/public-health-outcomes-framework-november-2026-data-update",
+      "published": "2026-11-03T09:30:02+00:00",
+      "excerpt": "This interactive tool presents indicators that help health and care professionals and the public understand trends in public health.",
+      "entities": [
+        "Public Health Outcomes Framework"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-03T15:36:39+00:00",
+      "id": "dddd9b08100b"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Suicide prevention profile updates",
+      "url": "https://gov.uk/government/statistics/suicide-prevention-profile-updates",
+      "published": "2026-11-03T09:30:02+00:00",
+      "excerpt": "Data on suicide, associated prevalence, risk factors and service contact among groups at increased risk.",
+      "entities": [
+        "Suicide",
+        "Data"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-03T15:36:39+00:00",
+      "id": "97cf5388e8ca"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "National Child Measurement Programme (NCMP) annual report: academic year 2025 to 2026, England",
+      "url": "https://gov.uk/government/statistics/national-child-measurement-programme-ncmp-annual-report-academic-year-2025-to-2026-england",
+      "published": "2026-11-03T09:30:02+00:00",
+      "excerpt": "This report presents the latest data from the NCMP for children in reception and year 6.",
+      "entities": [
+        "National Child Measurement Programme",
+        "NCMP",
+        "England. This"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-03T15:36:39+00:00",
+      "id": "66c7a7671a08"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Evaluation of the prisoner Universal Credit claim preparation tests",
+      "url": "https://gov.uk/government/publications/evaluation-of-the-prisoner-universal-credit-claim-preparation-tests",
+      "published": "2026-11-03T09:30:01+00:00",
+      "excerpt": "Evaluation findings from a test supporting prison leavers to make a timely claim for Universal Credit.",
+      "entities": [
+        "Evaluation",
+        "Universal Credit"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-03T15:36:39+00:00",
+      "id": "a15cdd475be0"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Seasonal workers reviews and surveys",
+      "url": "https://gov.uk/government/publications/seasonal-workers-pilot-review",
+      "published": "2026-11-02T14:08:45+00:00",
+      "excerpt": "Reports and surveys reviewing the performance of the seasonal workers pilot from 2019 to 2025.",
+      "entities": [
+        "Seasonal",
+        "Reports"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-03T15:36:39+00:00",
+      "id": "100c574315ad"
+    }
+  ]
+}

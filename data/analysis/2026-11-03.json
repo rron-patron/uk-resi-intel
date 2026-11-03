@@ -1,0 +1,600 @@
+{
+  "generated_at": "2026-11-03T15:36:45+00:00",
+  "date_label": "Tuesday 03 November 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CggF1TTLkXHKAUxGhVATo'}\n\n33 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Rightmove",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "The Budget",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Without",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Budget",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Frazer Magunda and Stewart Freeman",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Shakespeare Martineau",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Peabody",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Nationwide",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Southway Wythenshawe",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Southway Wythenshawe Homes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Salboy",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Worsley. Fresh",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Leigh Road",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Booths Farm",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Worsley",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Zentra",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Manchester",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Having",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Urban Splash’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "4c89ad6dd87a": {
+      "id": "4c89ad6dd87a",
+      "importance": "Medium",
+      "summary": "Without a supportive framework and long-term certainty, the Budget money may go to waste, write Frazer Magunda and Stewart Freeman from Shakespeare Martineau",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Budget",
+        "Without",
+        "Budget",
+        "Frazer Magunda and Stewart Freeman"
+      ],
+      "locations": []
+    },
+    "0d79de94b890": {
+      "id": "0d79de94b890",
+      "importance": "Medium",
+      "summary": "Peabody has increased its loan facility with Nationwide by £100m to £500m, making the building society the housing association’s largest lender",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Peabody",
+        "Nationwide"
+      ],
+      "locations": []
+    },
+    "06c449a2ce7c": {
+      "id": "06c449a2ce7c",
+      "importance": "Medium",
+      "summary": "Southway Wythenshawe Homes would consider becoming a strategic partner if the option became available again, the chief executive of the new landlord said",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Southway Wythenshawe",
+        "Southway Wythenshawe Homes"
+      ],
+      "locations": []
+    },
+    "8b4704be0d05": {
+      "id": "8b4704be0d05",
+      "importance": "Medium",
+      "summary": "Fresh plans for 76 homes off Leigh Road have been submitted after the developer toyed with the idea of turning the five-acre Booths Farm into padel courts. The post Salboy pivots back to housing in Worsley appeared first",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Salboy",
+        "Worsley. Fresh",
+        "Leigh Road",
+        "Booths Farm"
+      ],
+      "locations": []
+    },
+    "209021cf356a": {
+      "id": "209021cf356a",
+      "importance": "Medium",
+      "summary": "Having taken ownership of Urban Splash’s approved scheme for 40 flats and commercial units off Old Mill Street and Lampwick Lane, the developer has reimagined the project as a fully affordable housing development to be m",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Zentra",
+        "Manchester",
+        "Having",
+        "Urban Splash’s"
+      ],
+      "locations": []
+    },
+    "4ad03d8fdfd1": {
+      "id": "4ad03d8fdfd1",
+      "importance": "Medium",
+      "summary": "A masterplan that will underpin Muse’s efforts to rejuvenate the town centre and deliver up to 1,300 homes is due to be adopted next week. The post Salford to endorse 15-year vision for Eccles appeared first on Place Nor",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Salford",
+        "Eccles",
+        "Muse’s",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "8124a7af9e16": {
+      "id": "8124a7af9e16",
+      "importance": "Medium",
+      "summary": "Winkworth and chairman agree mediation as High Court dispute drags on",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "JUST IN",
+        "Winkworth",
+        "High Court"
+      ],
+      "locations": []
+    },
+    "b4e9ef41e1b9": {
+      "id": "b4e9ef41e1b9",
+      "importance": "Medium",
+      "summary": "Foxtons investors challenge dividend priorities as board proposals fail",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "EYE NEWS UPDATE",
+        "Foxtons"
+      ],
+      "locations": []
+    },
+    "89c9d20f77a1": {
+      "id": "89c9d20f77a1",
+      "importance": "Medium",
+      "summary": "Rightmove fights £1.5bn agents' claim - and questions who should be allowed to join",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    "c4eb57b6a746": {
+      "id": "c4eb57b6a746",
+      "importance": "Medium",
+      "summary": "iamproperty reveals how agents can earn credits towards free software",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "6894d54e6223": {
+      "id": "6894d54e6223",
+      "importance": "Medium",
+      "summary": "Free upfront property information launched for estate agents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Free"
+      ],
+      "locations": []
+    },
+    "cc39ec3e45ac": {
+      "id": "cc39ec3e45ac",
+      "importance": "Medium",
+      "summary": "Man suffers life-threatening injuries after car crashes into estate agency",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "fe63620af231": {
+      "id": "fe63620af231",
+      "importance": "Medium",
+      "summary": "The agency will keep its existing name and staff",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Fast-growing"
+      ],
+      "locations": []
+    },
+    "b70856ab445f": {
+      "id": "b70856ab445f",
+      "importance": "Medium",
+      "summary": "Director of Benham and Reeves welcomes the updated guidance and called for closer scrutiny of the self-employed sector",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Self-employed",
+        "HMRC",
+        "Director of Benham and Reeves"
+      ],
+      "locations": []
+    },
+    "0c54240969a8": {
+      "id": "0c54240969a8",
+      "importance": "Medium",
+      "summary": "More than a third of homes sold subject to contract across 21 major British cities had asking price reductions, according to new research",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "More",
+        "British"
+      ],
+      "locations": []
+    },
+    "d9aa2216a50e": {
+      "id": "d9aa2216a50e",
+      "importance": "Medium",
+      "summary": "Director takes sole ownership of the franchise after buying out co-founder",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Franchise",
+        "Director"
+      ],
+      "locations": []
+    },
+    "32b456c7507d": {
+      "id": "32b456c7507d",
+      "importance": "Medium",
+      "summary": "Conveyancer shortage threatens property market reform, regulator warns",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Conveyancer"
+      ],
+      "locations": []
+    },
+    "cc75b9a8685f": {
+      "id": "cc75b9a8685f",
+      "importance": "Medium",
+      "summary": "Property sales take four months to exchange as buyers pull out of deals",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Buyers",
+        "Property"
+      ],
+      "locations": []
+    },
+    "e1a58996ea81": {
+      "id": "e1a58996ea81",
+      "importance": "Medium",
+      "summary": "The platform offers agents 12 solutions to speed up their business and improve revenue",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landmark"
+      ],
+      "locations": []
+    },
+    "a0bd9263759c": {
+      "id": "a0bd9263759c",
+      "importance": "Medium",
+      "summary": "The Competition Appeal Tribunal concludes today",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Rightmove",
+        "The Competition Appeal Tribunal"
+      ],
+      "locations": []
+    },
+    "d70a8abea1b2": {
+      "id": "d70a8abea1b2",
+      "importance": "Medium",
+      "summary": "A family-run agency that recently quit a national franchise is reporting an upsurge in business – forcing it to recruit from within the family. Edward Creswick & Sons has appointed Tom Creswick as director. The agency’s ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Longstanding",
+        "Edward Creswick",
+        "Sons",
+        "Tom Creswick"
+      ],
+      "locations": []
+    },
+    "c228f5fb6b5c": {
+      "id": "c228f5fb6b5c",
+      "importance": "Medium",
+      "summary": "The new director has over 20 years of experience in the industry",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "b4bc592596a0": {
+      "id": "b4bc592596a0",
+      "importance": "Medium",
+      "summary": "One person was injured",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "d81791ea702f": {
+      "id": "d81791ea702f",
+      "importance": "Medium",
+      "summary": "The analysis has looked at 67,000 homes listed as SSTC",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Asking",
+        "England. The",
+        "SSTC"
+      ],
+      "locations": []
+    },
+    "8484f62a591b": {
+      "id": "8484f62a591b",
+      "importance": "Medium",
+      "summary": "The legal action is led by a former Competition and Markets Authority panel member",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rightmove",
+        "Competition and Markets Authority"
+      ],
+      "locations": []
+    },
+    "64071c448788": {
+      "id": "64071c448788",
+      "importance": "Medium",
+      "summary": "Annual assessment report of radioactivity in food and the environment and the public's exposure to radiation.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Radioactivity",
+        "RIFE",
+        "Annual"
+      ],
+      "locations": []
+    },
+    "5a3c4d5d96bd": {
+      "id": "5a3c4d5d96bd",
+      "importance": "Medium",
+      "summary": "Data received from fixed and mobile monitors measuring the ambient (background) gamma radiation dose rate across the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Ambient",
+        "UK. Data"
+      ],
+      "locations": []
+    },
+    "fe21c984efae": {
+      "id": "fe21c984efae",
+      "importance": "Medium",
+      "summary": "This analysis supports the review of the earnings trigger and qualifying earnings band for automatic enrolment for the 2027 to 2028 financial year.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Review",
+        "Automatic Enrolment Earnings Trigger",
+        "Qualifying Earnings Band"
+      ],
+      "locations": []
+    },
+    "dddd9b08100b": {
+      "id": "dddd9b08100b",
+      "importance": "Medium",
+      "summary": "This interactive tool presents indicators that help health and care professionals and the public understand trends in public health.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Public Health Outcomes Framework"
+      ],
+      "locations": []
+    },
+    "97cf5388e8ca": {
+      "id": "97cf5388e8ca",
+      "importance": "Medium",
+      "summary": "Data on suicide, associated prevalence, risk factors and service contact among groups at increased risk.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Suicide",
+        "Data"
+      ],
+      "locations": []
+    },
+    "66c7a7671a08": {
+      "id": "66c7a7671a08",
+      "importance": "Medium",
+      "summary": "This report presents the latest data from the NCMP for children in reception and year 6.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "National Child Measurement Programme",
+        "NCMP",
+        "England. This"
+      ],
+      "locations": []
+    },
+    "a15cdd475be0": {
+      "id": "a15cdd475be0",
+      "importance": "Medium",
+      "summary": "Evaluation findings from a test supporting prison leavers to make a timely claim for Universal Credit.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Evaluation",
+        "Universal Credit"
+      ],
+      "locations": []
+    },
+    "100c574315ad": {
+      "id": "100c574315ad",
+      "importance": "Medium",
+      "summary": "Reports and surveys reviewing the performance of the seasonal workers pilot from 2019 to 2025.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Seasonal",
+        "Reports"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 33,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CggF1TTLkXHKAUxGhVATo'}",
+    "model": null
+  }
+}
