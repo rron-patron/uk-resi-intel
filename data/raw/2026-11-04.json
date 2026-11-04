@@ -1,0 +1,636 @@
+{
+  "collected_at": "2026-11-04T15:50:56+00:00",
+  "date_london": "2026-11-04",
+  "counts": {
+    "seen_in_feeds": 76,
+    "new": 34,
+    "sources_live": 6,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 7,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 7"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 6,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 6"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 13,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 13"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "failed",
+      "url": "https://www.landlordzone.co.uk/news",
+      "found": 0,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/blog/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/rss.xml -> 0",
+        "scrape https://www.landlordzone.co.uk/news -> 0"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "GreenSquareAccord’s first-half operating margin boosted by rental income, workforce restructure and smaller repairs bill",
+      "url": "https://insidehousing.co.uk/home/greensquareaccords-first-half-operating-margin-boosted-by-rental-income-workforce-restructure-and-smaller-repairs-bill-99502",
+      "published": "2026-11-04T11:45:00+00:00",
+      "excerpt": "A smaller repairs bill, increased rental income and a workforce restructure helped boost GreenSquareAccord’s operating margin in the first six months of 2026",
+      "entities": [
+        "GreenSquareAccord’s"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:04+00:00",
+      "id": "e84a84e358b7"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Regulator finds serious failings at Rent to Buy provider",
+      "url": "https://insidehousing.co.uk/home/regulator-finds-serious-failings-at-rent-to-buy-provider-99500",
+      "published": "2026-11-04T12:04:20+00:00",
+      "excerpt": "The Regulator of Social Housing has expressed serious concerns about Rentplus Homes, a for-profit provider that operates a Rent to Buy model",
+      "entities": [
+        "Regulator",
+        "Rent",
+        "The Regulator of Social Housing",
+        "Rentplus Homes"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:04+00:00",
+      "id": "39b0850a5c5f"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Thinktank calls for five-year ‘use it or lose it’ rule for Section 106 and CIL funds",
+      "url": "https://insidehousing.co.uk/home/thinktank-calls-for-five-year-use-it-or-lose-it-rule-for-section-106-and-cil-funds-99489",
+      "published": "2026-11-04T10:00:17+00:00",
+      "excerpt": "The Fabian Society Labour-affiliated thinktank has called for a five-year “use it or lose it” rule for Section 106 and Community Infrastructure Levy funds",
+      "entities": [
+        "Thinktank",
+        "Section",
+        "The Fabian Society Labour-affiliated",
+        "Community Infrastructure Levy"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:04+00:00",
+      "id": "4333d42cfcac"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Salford proposes Ordsall land transfer",
+      "url": "https://placenorthwest.co.uk/salford-proposes-ordsall-land-transfer",
+      "published": "2026-11-04T13:11:22+00:00",
+      "excerpt": "Council members will next week be asked to rubber-stamp a nil-value deal, which will allow MSV to develop a replacement 60-bed extra care facility at Mount Carmel Court. The post Salford proposes Ordsall land transfer appeared first on Place North West .",
+      "entities": [
+        "Salford",
+        "Ordsall",
+        "Mount Carmel Court. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:11+00:00",
+      "id": "5d7bd9ee9ee6"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Savills brings Manchester teams together",
+      "url": "https://placenorthwest.co.uk/savills-brings-manchester-teams-together",
+      "published": "2026-11-04T11:49:47+00:00",
+      "excerpt": "The consultancy has taken a further floor at Belvedere, allowing colleagues from the residential department to relocate from Bridge Street. The post Savills brings Manchester teams together appeared first on Place North West .",
+      "entities": [
+        "Savills",
+        "Manchester",
+        "Belvedere",
+        "Bridge Street. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:11+00:00",
+      "id": "4cffdee87c25"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Liverpool PBSA asset up for grabs at £3.75m",
+      "url": "https://placenorthwest.co.uk/liverpool-pbsa-asset-up-for-grabs-at-3-75m",
+      "published": "2026-11-04T09:51:16+00:00",
+      "excerpt": "Smithdown Court is being marketed for sale after its owner was placed into receivership. The post Liverpool PBSA asset up for grabs at £3.75m appeared first on Place North West .",
+      "entities": [
+        "Liverpool PBSA",
+        "Smithdown Court",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:11+00:00",
+      "id": "5daf939c353e"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "EYE NEWSFLASH: Major development in £1.5bn Rightmove legal battle as Tribunal weighs next move",
+      "url": "https://propertyindustryeye.com/eye-newsflash-major-development-in-1-5bn-rightmove-legal-battle-as-tribunal-weighs-next-move",
+      "published": "2026-11-04T11:18:23+00:00",
+      "excerpt": "£1.5bn Rightmove legal battle takes fresh turn as 13,000 agents await crucial ruling",
+      "entities": [
+        "EYE NEWSFLASH",
+        "Major",
+        "Rightmove",
+        "Tribunal"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:12+00:00",
+      "id": "0c85837e5296"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "And the winners are… EA Masters 2026 results revealed",
+      "url": "https://propertyindustryeye.com/and-the-winners-are-ea-masters-2026-results-revealed",
+      "published": "2026-11-04T05:52:49+00:00",
+      "excerpt": "Who's come out on top?",
+      "entities": [
+        "EA Masters",
+        "Who's"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:12+00:00",
+      "id": "428bb94db990"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Bank of England considers major mortgage shake-up amid house price warnings",
+      "url": "https://propertyindustryeye.com/bank-of-england-considers-major-mortgage-shake-up-amid-house-price-warnings",
+      "published": "2026-11-04T04:00:31+00:00",
+      "excerpt": "Bank of England considers relaxing mortgage lending rules",
+      "entities": [
+        "Bank of England"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:12+00:00",
+      "id": "4f8070d25e40"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "A spiteful attack on business owners – but agents warned against rushing sales",
+      "url": "https://propertyindustryeye.com/a-spiteful-attack-on-business-owners-but-agents-warned-against-rushing-sales",
+      "published": "2026-11-04T03:50:40+00:00",
+      "excerpt": "Estate agency owners urged to avoid hasty sales despite fears of higher capital gains tax bills",
+      "entities": [
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:12+00:00",
+      "id": "2937f7a8fcc3"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "House prices set to fall again as Savills downgrades forecast",
+      "url": "https://propertyindustryeye.com/house-prices-set-to-fall-again-as-savills-downgrades-forecast",
+      "published": "2026-11-04T03:30:04+00:00",
+      "excerpt": "Savills forecasts another fall in UK house prices in 2027, with recovery delayed until 2028",
+      "entities": [
+        "House",
+        "Savills"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:12+00:00",
+      "id": "7a3b72cbb566"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Mortgage rates hit three-year high ahead of Bank Rate decision",
+      "url": "https://propertyindustryeye.com/mortgage-rates-hit-three-year-high-ahead-of-bank-rate-decision",
+      "published": "2026-11-04T03:00:08+00:00",
+      "excerpt": "Major lenders slash selected mortgage rates despite three-year high in borrowing costs",
+      "entities": [
+        "Mortgage",
+        "Bank Rate",
+        "Major"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:12+00:00",
+      "id": "74c645b6f863"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency expands with sixth branch opening",
+      "url": "https://propertyindustryeye.com/estate-agency-expands-with-sixth-branch-opening",
+      "published": "2026-11-04T02:30:29+00:00",
+      "excerpt": "Independent estate agency continues its expansion with a new high street office and plans to strengthen its local presence",
+      "entities": [
+        "Estate",
+        "Independent"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:12+00:00",
+      "id": "a8395cdf8e91"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Landlord confidence collapses despite 85% turning a profit",
+      "url": "https://propertyindustryeye.com/landlord-confidence-collapses-despite-85-turning-a-profit",
+      "published": "2026-11-04T02:20:59+00:00",
+      "excerpt": "Average rental yields have remained relatively stable at 6.4%",
+      "entities": [
+        "Landlord",
+        "Average"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:12+00:00",
+      "id": "873c6efb2aab"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "One in three homes listed for sale tracked on Zoopla before hitting market – claim",
+      "url": "https://propertyindustryeye.com/one-in-three-homes-listed-for-sale-tracked-on-zoopla-before-hitting-market-portal-claims",
+      "published": "2026-11-04T01:20:06+00:00",
+      "excerpt": "Zoopla says its homeowner audience has reached 6.4m",
+      "entities": [
+        "Zoopla"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:12+00:00",
+      "id": "bb28f82419c1"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Build to Rent construction plunges 63% as new housing pipeline dries up",
+      "url": "https://propertyindustryeye.com/build-to-rent-construction-plunges-63-as-new-housing-pipeline-dries-up",
+      "published": "2026-11-04T00:50:15+00:00",
+      "excerpt": "UK build-to-rent construction starts have fallen 63% in a year, with regional starts down 78%",
+      "entities": [
+        "Build",
+        "Rent"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:12+00:00",
+      "id": "914cbb4bcb55"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Dramatic mortgage shake-up considered by Bank of England",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/bank-of-england-to-consider-dramatic-mortgage-change",
+      "published": "2026-11-04T00:20:00+00:00",
+      "excerpt": "The change - if agreed - could mean more and bigger mortgage loans",
+      "entities": [
+        "Dramatic",
+        "Bank of England. The"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:12+00:00",
+      "id": "d1f06fa1a087"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Shock forecast: House prices and sales to fall further next year",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/shock-forecast-house-prices-and-transactions-to-fall-next-year",
+      "published": "2026-11-04T00:06:00+00:00",
+      "excerpt": "Savills' forecast is considered to be one of the most authoritative",
+      "entities": [
+        "Shock",
+        "House",
+        "Savills"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:12+00:00",
+      "id": "0611a0c4307e"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "TV star agent returns to firm after nine years with rival",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/tv-star-agent-returns-to-firm-after-nine-years-with-rival",
+      "published": "2026-11-04T00:05:00+00:00",
+      "excerpt": "The star of a Channel 4 property show has returned to work at a high-end London agency after nine years away. Aston Chase has welcomed back Lee Koffman, who previously spent 16 years with the business. With 26 years of experience in London’s prime and super-prime residential property market, Koffman is returning to the firm […]",
+      "entities": [
+        "Channel",
+        "London",
+        "Aston Chase",
+        "Lee Koffman",
+        "With",
+        "London’s",
+        "Koffman"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:12+00:00",
+      "id": "a4e705d3a5ec"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agency opens latest design-led office with art exhibition",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/agency-opens-latest-design-led-office-with-art-exhibition",
+      "published": "2026-11-04T00:04:00+00:00",
+      "excerpt": "The office is in Islington and its the company's sixth",
+      "entities": [
+        "Agency",
+        "Islington"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:12+00:00",
+      "id": "cb93e53b2547"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "New agents join brokerage scheme launched by high-end firm",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/new-agents-join-brokerage-scheme-of-high-end-firm",
+      "published": "2026-11-04T00:03:00+00:00",
+      "excerpt": "The brokerage scheme was launched earlier this year",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:12+00:00",
+      "id": "5d72cb8694e8"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Moving costs to rise thanks to soaring diesel prices",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/moving-costs-to-rise-thanks-to-soaring-diesel-prices",
+      "published": "2026-11-04T00:01:00+00:00",
+      "excerpt": "Packing materials are more expensive too - adding to a likely rise in moving costs",
+      "entities": [
+        "Moving",
+        "Packing"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:12+00:00",
+      "id": "7e4b9259db7f"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agency begins third decade by opening sixth office",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/agency-begins-third-decade-by-opening-sixth-office",
+      "published": "2026-11-04T00:00:00+00:00",
+      "excerpt": "The agency is 21 years old now",
+      "entities": [
+        "Agency"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-04T15:51:12+00:00",
+      "id": "dd217fa250c6"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Vessel lists over 10 metres",
+      "url": "https://gov.uk/government/statistical-data-sets/vessel-lists-over-10-metres",
+      "published": "2026-11-04T14:40:11+00:00",
+      "excerpt": "Registered and licensed vessels over 10 metres",
+      "entities": [
+        "Vessel",
+        "Registered"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-04T15:51:19+00:00",
+      "id": "23f3f107d069"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Vessel lists 10 metres and under",
+      "url": "https://gov.uk/government/statistical-data-sets/vessel-lists-10-metres-and-under",
+      "published": "2026-11-04T14:36:43+00:00",
+      "excerpt": "Registered and licensed vessels 10 metres and under",
+      "entities": [
+        "Vessel",
+        "Registered"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-04T15:51:19+00:00",
+      "id": "5939f14af0ca"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Functioning of the UK carbon market, 2025",
+      "url": "https://gov.uk/government/publications/functioning-of-the-uk-carbon-market-2025",
+      "published": "2026-11-04T09:45:55+00:00",
+      "excerpt": "A high-level summary of the performance of the UK Emissions Trading Scheme during the fourth scheme year of its operation.",
+      "entities": [
+        "Functioning",
+        "UK Emissions Trading Scheme"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-04T15:51:19+00:00",
+      "id": "b4bce1de1618"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK official holdings of international reserves: October 2026",
+      "url": "https://gov.uk/government/publications/uk-official-holdings-of-international-reserves-october-2026",
+      "published": "2026-11-04T09:30:07+00:00",
+      "excerpt": "This release details movements in the international reserves of gold and assets held by the UK government.",
+      "entities": [],
+      "kind": "data",
+      "collected_at": "2026-11-04T15:51:19+00:00",
+      "id": "ae88f7951362"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Building materials and components statistics: October 2026",
+      "url": "https://gov.uk/government/statistics/building-materials-and-components-statistics-october-2026",
+      "published": "2026-11-04T09:30:06+00:00",
+      "excerpt": "Statistics and analysis on the construction sector for October 2026.",
+      "entities": [
+        "Building",
+        "Statistics"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-04T15:51:19+00:00",
+      "id": "14abf69df5ce"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Domestic road freight statistics: July 2025 to June 2026",
+      "url": "https://gov.uk/government/statistics/domestic-road-freight-statistics-april-2025-to-march-2026",
+      "published": "2026-11-04T09:30:05+00:00",
+      "excerpt": "Road freight transported by UK registered heavy goods vehicles (HGVs) in the UK between July 2025 to June 2026, including HGV driver vacancies statistics.",
+      "entities": [
+        "Domestic",
+        "Road",
+        "HGVs"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-04T15:51:19+00:00",
+      "id": "2ef88024916b"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Appraisal methods for research and development spending",
+      "url": "https://gov.uk/government/publications/appraisal-methods-for-research-and-development-spending",
+      "published": "2026-11-04T09:30:05+00:00",
+      "excerpt": "A report on how other nations appraise research and development (R&D) policies, and a potential framework for assessing R&D value for money.",
+      "entities": [
+        "Appraisal"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-04T15:51:19+00:00",
+      "id": "b060e901caf7"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Domestic road freight activity (RFS01)",
+      "url": "https://gov.uk/government/statistical-data-sets/domestic-road-freight-activity-rfs01",
+      "published": "2026-11-04T09:30:05+00:00",
+      "excerpt": "Data about the road freight domestic activity, produced by the Department for Transport. These statistics are accredited official statistics.",
+      "entities": [
+        "Domestic",
+        "Data",
+        "Department",
+        "Transport. These"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-04T15:51:19+00:00",
+      "id": "0e3819fce3fa"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "The employment of disabled people 2026",
+      "url": "https://gov.uk/government/statistics/the-employment-of-disabled-people-2026",
+      "published": "2026-11-04T09:30:05+00:00",
+      "excerpt": "These statistics give a detailed analysis and breakdowns of the number of disabled people in employment.",
+      "entities": [
+        "These"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-04T15:51:19+00:00",
+      "id": "fb92ef08501a"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Chief Medical Officer's annual report 2026: health in rural areas and small towns",
+      "url": "https://gov.uk/government/publications/chief-medical-officers-annual-report-2026-health-in-rural-areas-and-small-towns",
+      "published": "2026-11-04T09:30:05+00:00",
+      "excerpt": "Professor Chris Whitty’s annual report discusses the health and wellbeing of communities in England’s small towns and rural areas.",
+      "entities": [
+        "Chief Medical Officer's",
+        "Professor Chris Whitty’s",
+        "England’s"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-04T15:51:19+00:00",
+      "id": "55697f97d4e1"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK International Climate Finance results 2026",
+      "url": "https://gov.uk/government/statistics/uk-international-climate-finance-results-2026",
+      "published": "2026-11-04T09:30:00+00:00",
+      "excerpt": "This page provides the 2026 International Climate Finance (ICF) results for the UK government.",
+      "entities": [
+        "UK International Climate Finance",
+        "International Climate Finance"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-04T15:51:19+00:00",
+      "id": "486e7dafa325"
+    }
+  ]
+}

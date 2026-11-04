@@ -1,0 +1,629 @@
+{
+  "generated_at": "2026-11-04T15:51:24+00:00",
+  "date_label": "Wednesday 04 November 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgi9wEW3RWUwvjB8Bauqa'}\n\n34 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Student housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Build-to-rent",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Savills",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Rent",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Major",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "House",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Agency",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Vessel",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Registered",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Domestic",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "GreenSquareAccord’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Regulator",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Regulator of Social Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Rentplus Homes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Thinktank",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Section",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Fabian Society Labour-affiliated",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Community Infrastructure Levy",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Salford",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Ordsall",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "e84a84e358b7": {
+      "id": "e84a84e358b7",
+      "importance": "Medium",
+      "summary": "A smaller repairs bill, increased rental income and a workforce restructure helped boost GreenSquareAccord’s operating margin in the first six months of 2026",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "GreenSquareAccord’s"
+      ],
+      "locations": []
+    },
+    "39b0850a5c5f": {
+      "id": "39b0850a5c5f",
+      "importance": "Medium",
+      "summary": "The Regulator of Social Housing has expressed serious concerns about Rentplus Homes, a for-profit provider that operates a Rent to Buy model",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Regulator",
+        "Rent",
+        "The Regulator of Social Housing",
+        "Rentplus Homes"
+      ],
+      "locations": []
+    },
+    "4333d42cfcac": {
+      "id": "4333d42cfcac",
+      "importance": "Medium",
+      "summary": "The Fabian Society Labour-affiliated thinktank has called for a five-year “use it or lose it” rule for Section 106 and Community Infrastructure Levy funds",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Thinktank",
+        "Section",
+        "The Fabian Society Labour-affiliated",
+        "Community Infrastructure Levy"
+      ],
+      "locations": []
+    },
+    "5d7bd9ee9ee6": {
+      "id": "5d7bd9ee9ee6",
+      "importance": "Medium",
+      "summary": "Council members will next week be asked to rubber-stamp a nil-value deal, which will allow MSV to develop a replacement 60-bed extra care facility at Mount Carmel Court. The post Salford proposes Ordsall land transfer ap",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Salford",
+        "Ordsall",
+        "Mount Carmel Court. The",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "4cffdee87c25": {
+      "id": "4cffdee87c25",
+      "importance": "Medium",
+      "summary": "The consultancy has taken a further floor at Belvedere, allowing colleagues from the residential department to relocate from Bridge Street. The post Savills brings Manchester teams together appeared first on Place North ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Savills",
+        "Manchester",
+        "Belvedere",
+        "Bridge Street. The"
+      ],
+      "locations": []
+    },
+    "5daf939c353e": {
+      "id": "5daf939c353e",
+      "importance": "Medium",
+      "summary": "Smithdown Court is being marketed for sale after its owner was placed into receivership. The post Liverpool PBSA asset up for grabs at £3.75m appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Student housing"
+      ],
+      "companies": [
+        "Liverpool PBSA",
+        "Smithdown Court",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "0c85837e5296": {
+      "id": "0c85837e5296",
+      "importance": "Medium",
+      "summary": "£1.5bn Rightmove legal battle takes fresh turn as 13,000 agents await crucial ruling",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "EYE NEWSFLASH",
+        "Major",
+        "Rightmove",
+        "Tribunal"
+      ],
+      "locations": []
+    },
+    "428bb94db990": {
+      "id": "428bb94db990",
+      "importance": "Medium",
+      "summary": "Who's come out on top?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "EA Masters",
+        "Who's"
+      ],
+      "locations": []
+    },
+    "4f8070d25e40": {
+      "id": "4f8070d25e40",
+      "importance": "Medium",
+      "summary": "Bank of England considers relaxing mortgage lending rules",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Bank of England"
+      ],
+      "locations": []
+    },
+    "2937f7a8fcc3": {
+      "id": "2937f7a8fcc3",
+      "importance": "Medium",
+      "summary": "Estate agency owners urged to avoid hasty sales despite fears of higher capital gains tax bills",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "7a3b72cbb566": {
+      "id": "7a3b72cbb566",
+      "importance": "Medium",
+      "summary": "Savills forecasts another fall in UK house prices in 2027, with recovery delayed until 2028",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "House",
+        "Savills"
+      ],
+      "locations": []
+    },
+    "74c645b6f863": {
+      "id": "74c645b6f863",
+      "importance": "Medium",
+      "summary": "Major lenders slash selected mortgage rates despite three-year high in borrowing costs",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Mortgage",
+        "Bank Rate",
+        "Major"
+      ],
+      "locations": []
+    },
+    "a8395cdf8e91": {
+      "id": "a8395cdf8e91",
+      "importance": "Medium",
+      "summary": "Independent estate agency continues its expansion with a new high street office and plans to strengthen its local presence",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Independent"
+      ],
+      "locations": []
+    },
+    "873c6efb2aab": {
+      "id": "873c6efb2aab",
+      "importance": "Medium",
+      "summary": "Average rental yields have remained relatively stable at 6.4%",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlord",
+        "Average"
+      ],
+      "locations": []
+    },
+    "bb28f82419c1": {
+      "id": "bb28f82419c1",
+      "importance": "Medium",
+      "summary": "Zoopla says its homeowner audience has reached 6.4m",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Zoopla"
+      ],
+      "locations": []
+    },
+    "914cbb4bcb55": {
+      "id": "914cbb4bcb55",
+      "importance": "Medium",
+      "summary": "UK build-to-rent construction starts have fallen 63% in a year, with regional starts down 78%",
+      "why_it_matters": "",
+      "themes": [
+        "Build-to-rent",
+        "Housing supply"
+      ],
+      "companies": [
+        "Build",
+        "Rent"
+      ],
+      "locations": []
+    },
+    "d1f06fa1a087": {
+      "id": "d1f06fa1a087",
+      "importance": "Medium",
+      "summary": "The change - if agreed - could mean more and bigger mortgage loans",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Dramatic",
+        "Bank of England. The"
+      ],
+      "locations": []
+    },
+    "0611a0c4307e": {
+      "id": "0611a0c4307e",
+      "importance": "Medium",
+      "summary": "Savills' forecast is considered to be one of the most authoritative",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Shock",
+        "House",
+        "Savills"
+      ],
+      "locations": []
+    },
+    "a4e705d3a5ec": {
+      "id": "a4e705d3a5ec",
+      "importance": "Medium",
+      "summary": "The star of a Channel 4 property show has returned to work at a high-end London agency after nine years away. Aston Chase has welcomed back Lee Koffman, who previously spent 16 years with the business. With 26 years of e",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Channel",
+        "London",
+        "Aston Chase",
+        "Lee Koffman"
+      ],
+      "locations": []
+    },
+    "cb93e53b2547": {
+      "id": "cb93e53b2547",
+      "importance": "Medium",
+      "summary": "The office is in Islington and its the company's sixth",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency",
+        "Islington"
+      ],
+      "locations": []
+    },
+    "5d72cb8694e8": {
+      "id": "5d72cb8694e8",
+      "importance": "Medium",
+      "summary": "The brokerage scheme was launched earlier this year",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "7e4b9259db7f": {
+      "id": "7e4b9259db7f",
+      "importance": "Medium",
+      "summary": "Packing materials are more expensive too - adding to a likely rise in moving costs",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Moving",
+        "Packing"
+      ],
+      "locations": []
+    },
+    "dd217fa250c6": {
+      "id": "dd217fa250c6",
+      "importance": "Medium",
+      "summary": "The agency is 21 years old now",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency"
+      ],
+      "locations": []
+    },
+    "23f3f107d069": {
+      "id": "23f3f107d069",
+      "importance": "Medium",
+      "summary": "Registered and licensed vessels over 10 metres",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Vessel",
+        "Registered"
+      ],
+      "locations": []
+    },
+    "5939f14af0ca": {
+      "id": "5939f14af0ca",
+      "importance": "Medium",
+      "summary": "Registered and licensed vessels 10 metres and under",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Vessel",
+        "Registered"
+      ],
+      "locations": []
+    },
+    "b4bce1de1618": {
+      "id": "b4bce1de1618",
+      "importance": "Medium",
+      "summary": "A high-level summary of the performance of the UK Emissions Trading Scheme during the fourth scheme year of its operation.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Functioning",
+        "UK Emissions Trading Scheme"
+      ],
+      "locations": []
+    },
+    "ae88f7951362": {
+      "id": "ae88f7951362",
+      "importance": "Medium",
+      "summary": "This release details movements in the international reserves of gold and assets held by the UK government.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "14abf69df5ce": {
+      "id": "14abf69df5ce",
+      "importance": "Medium",
+      "summary": "Statistics and analysis on the construction sector for October 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Building",
+        "Statistics"
+      ],
+      "locations": []
+    },
+    "2ef88024916b": {
+      "id": "2ef88024916b",
+      "importance": "Medium",
+      "summary": "Road freight transported by UK registered heavy goods vehicles (HGVs) in the UK between July 2025 to June 2026, including HGV driver vacancies statistics.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Domestic",
+        "Road",
+        "HGVs"
+      ],
+      "locations": []
+    },
+    "b060e901caf7": {
+      "id": "b060e901caf7",
+      "importance": "Medium",
+      "summary": "A report on how other nations appraise research and development (R&D) policies, and a potential framework for assessing R&D value for money.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Appraisal"
+      ],
+      "locations": []
+    },
+    "0e3819fce3fa": {
+      "id": "0e3819fce3fa",
+      "importance": "Medium",
+      "summary": "Data about the road freight domestic activity, produced by the Department for Transport. These statistics are accredited official statistics.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Domestic",
+        "Data",
+        "Department",
+        "Transport. These"
+      ],
+      "locations": []
+    },
+    "fb92ef08501a": {
+      "id": "fb92ef08501a",
+      "importance": "Medium",
+      "summary": "These statistics give a detailed analysis and breakdowns of the number of disabled people in employment.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "These"
+      ],
+      "locations": []
+    },
+    "55697f97d4e1": {
+      "id": "55697f97d4e1",
+      "importance": "Medium",
+      "summary": "Professor Chris Whitty’s annual report discusses the health and wellbeing of communities in England’s small towns and rural areas.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Chief Medical Officer's",
+        "Professor Chris Whitty’s",
+        "England’s"
+      ],
+      "locations": []
+    },
+    "486e7dafa325": {
+      "id": "486e7dafa325",
+      "importance": "Medium",
+      "summary": "This page provides the 2026 International Climate Finance (ICF) results for the UK government.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK International Climate Finance",
+        "International Climate Finance"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 34,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgi9wEW3RWUwvjB8Bauqa'}",
+    "model": null
+  }
+}
