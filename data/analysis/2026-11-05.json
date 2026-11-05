@@ -1,0 +1,656 @@
+{
+  "generated_at": "2026-11-05T15:55:21+00:00",
+  "date_label": "Thursday 05 November 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgk43aiScdRumeoB6wg2D'}\n\n34 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 7,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Build-to-rent",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Later living",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Bank of England",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Rent",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Agents",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Upfront",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Economic Estimates",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "U.S. REIT Omega Healthcare",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Investors Expands Care Home",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Platform In",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Deal. Omega Healthcare Investors",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Runwood Homes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Construction",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Court",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Urban Splash",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Five",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Manchester. The",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Flintshire",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Tiger Tim’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Parc Adfer",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "d39980b1b254": {
+      "id": "d39980b1b254",
+      "importance": "Medium",
+      "summary": "Omega Healthcare Investors bought Runwood Homes in a £615M deal, adding 55 UK care homes and targeting further acquisitions.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment",
+        "Later living"
+      ],
+      "companies": [
+        "U.S. REIT Omega Healthcare",
+        "Investors Expands Care Home",
+        "Platform In",
+        "Deal. Omega Healthcare Investors"
+      ],
+      "locations": []
+    },
+    "71c79ca7030a": {
+      "id": "71c79ca7030a",
+      "importance": "Medium",
+      "summary": "A £1bn procurement framework is now open for the construction, refurbishment and maintenance of public buildings in Scotland",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Construction"
+      ],
+      "locations": []
+    },
+    "861e5195ffa9": {
+      "id": "861e5195ffa9",
+      "importance": "Medium",
+      "summary": "Five organisations linked to the developer will have to pay the government the majority of the £60.6m incurred making fire safety improvements to seven buildings in Manchester. The post Court orders Urban Splash companie",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Court",
+        "Urban Splash",
+        "Five",
+        "Manchester. The"
+      ],
+      "locations": []
+    },
+    "50f54043592f": {
+      "id": "50f54043592f",
+      "importance": "Medium",
+      "summary": "In a meeting that saw consideration of 276 homes, a supermarket and redevelopment of Tiger Tim’s distribution site deferred, the scheme at Parc Adfer was given the go-ahead. The post Flintshire approves carbon capture pr",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Flintshire",
+        "Tiger Tim’s",
+        "Parc Adfer",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "e902ecd74b1e": {
+      "id": "e902ecd74b1e",
+      "importance": "Medium",
+      "summary": "Taylor Wimpey wants to deliver 250 homes close to AFC Fylde's stadium, while Anwyl intends to build off Lytham Road. Approval is recommended for both projects. The post Fylde to mull 400 homes appeared first on Place Nor",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Fylde",
+        "Taylor Wimpey",
+        "AFC Fylde's",
+        "Anwyl"
+      ],
+      "locations": []
+    },
+    "5455ed5cfa70": {
+      "id": "5455ed5cfa70",
+      "importance": "Medium",
+      "summary": "Join Place North for lunch in December and hear predictions from Zoë Bellingham, director of the IPPR North think tank, Nick Walkley, interim chief executive of Cheshire & Warrington Combined Authority, Sarah Snape, mana",
+      "why_it_matters": "",
+      "themes": [
+        "Build-to-rent",
+        "Regional development"
+      ],
+      "companies": [
+        "BOOK NOW",
+        "The North",
+        "Join Place North",
+        "Bellingham"
+      ],
+      "locations": []
+    },
+    "b13a9cf648d2": {
+      "id": "b13a9cf648d2",
+      "importance": "Medium",
+      "summary": "Estate agents, mortgage brokers and property market analysts will be assessing whether today's increase signals the start of further monetary tightening",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "BREAKING",
+        "Property",
+        "Bank of England",
+        "Estate"
+      ],
+      "locations": []
+    },
+    "9be4f5370632": {
+      "id": "9be4f5370632",
+      "importance": "Medium",
+      "summary": "Renters’ Rights Act costs Foxtons £5.7m as sales revenue drops 10%",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "EYE NEWSFLASH",
+        "Foxtons",
+        "Renters’ Rights Act"
+      ],
+      "locations": []
+    },
+    "504bc81132b8": {
+      "id": "504bc81132b8",
+      "importance": "Medium",
+      "summary": "Estate agents face fresh mortgage pressure as the Bank of England prepares its rate decision",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Estate",
+        "Bank of England"
+      ],
+      "locations": []
+    },
+    "de0467bfb029": {
+      "id": "de0467bfb029",
+      "importance": "Medium",
+      "summary": "Estate agency group targets more takeovers after completing 18 deals",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Fast-growing",
+        "Estate"
+      ],
+      "locations": []
+    },
+    "d795303bf377": {
+      "id": "d795303bf377",
+      "importance": "Medium",
+      "summary": "Chestertons has reopened its dedicated sales operation",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Chestertons"
+      ],
+      "locations": []
+    },
+    "977ef4fcd0d3": {
+      "id": "977ef4fcd0d3",
+      "importance": "Medium",
+      "summary": "Former John Lewis Build to Rent boss Katherine Russell has launched a residential consultancy",
+      "why_it_matters": "",
+      "themes": [
+        "Build-to-rent"
+      ],
+      "companies": [
+        "Former John Lewis",
+        "Former John Lewis Build",
+        "Rent",
+        "Katherine Russell"
+      ],
+      "locations": []
+    },
+    "309f2ea7bad4": {
+      "id": "309f2ea7bad4",
+      "importance": "Medium",
+      "summary": "UK rents rose in October, but void periods surged as signs emerge of a slowing rental market",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rents"
+      ],
+      "locations": []
+    },
+    "2e3615c56971": {
+      "id": "2e3615c56971",
+      "importance": "Medium",
+      "summary": "Agents face new £29-a-month AI challenger",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Agents"
+      ],
+      "locations": []
+    },
+    "a1eb311a7cc3": {
+      "id": "a1eb311a7cc3",
+      "importance": "Medium",
+      "summary": "Homeowners face almost £5,000 more in annual mortgage payments as new figures reveal a surge in borrowers considering tracker and variable rates",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages",
+        "Residential investment"
+      ],
+      "companies": [
+        "Mortgage",
+        "Homeowners"
+      ],
+      "locations": []
+    },
+    "ecb745254958": {
+      "id": "ecb745254958",
+      "importance": "Medium",
+      "summary": "Landlords face growing financial exposure",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rent",
+        "Renters’ Rights Act. Landlords"
+      ],
+      "locations": []
+    },
+    "7d315b823cf9": {
+      "id": "7d315b823cf9",
+      "importance": "Medium",
+      "summary": "The research suggests buyers want more than simply a faster transaction",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Upfront"
+      ],
+      "locations": []
+    },
+    "0a0ce36f1175": {
+      "id": "0a0ce36f1175",
+      "importance": "Medium",
+      "summary": "The agency has built an in-house AI system covering valuations, marketing, business performance and market forecasting",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Independent"
+      ],
+      "locations": []
+    },
+    "5c87ae2f9f0e": {
+      "id": "5c87ae2f9f0e",
+      "importance": "Medium",
+      "summary": "Many lenders have already factored in today's anticipated rise",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "First Bank of England",
+        "Many"
+      ],
+      "locations": []
+    },
+    "ea3ea37999ec": {
+      "id": "ea3ea37999ec",
+      "importance": "Medium",
+      "summary": "The figures prove December is a better month for leads than November",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents",
+        "Don’t",
+        "Christmas. The"
+      ],
+      "locations": []
+    },
+    "4e13a1a0f4bc": {
+      "id": "4e13a1a0f4bc",
+      "importance": "Medium",
+      "summary": "The resuscitated sales division will work alongside an existing lettings service",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency"
+      ],
+      "locations": []
+    },
+    "a1fc909e797e": {
+      "id": "a1fc909e797e",
+      "importance": "Medium",
+      "summary": "A so-called Open Property Coalition will test new methods on real transactions",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Connells",
+        "Open Property Coalition"
+      ],
+      "locations": []
+    },
+    "ce339dccb7b2": {
+      "id": "ce339dccb7b2",
+      "importance": "Medium",
+      "summary": "A survey has been undertaken by estate agency and property group, LRG",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Upfront"
+      ],
+      "locations": []
+    },
+    "922411f99d2a": {
+      "id": "922411f99d2a",
+      "importance": "Medium",
+      "summary": "Is there a shift in their favour?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "441824d20a7c": {
+      "id": "441824d20a7c",
+      "importance": "Medium",
+      "summary": "Supporting documents for the quarterly reports on the pesticide residues monitoring programme.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Quarterly",
+        "Supporting"
+      ],
+      "locations": []
+    },
+    "3ebb303c2d63": {
+      "id": "3ebb303c2d63",
+      "importance": "Medium",
+      "summary": "The schedule gives the planned publication dates of all of the department’s statistical releases for the coming year.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Forthcoming"
+      ],
+      "locations": []
+    },
+    "d7ede1a44e11": {
+      "id": "d7ede1a44e11",
+      "importance": "Medium",
+      "summary": "Science advice note considering the impacts of wildfires on biodiversity and natural capital in the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Impacts",
+        "Science"
+      ],
+      "locations": []
+    },
+    "8bb27790964a": {
+      "id": "8bb27790964a",
+      "importance": "Medium",
+      "summary": "Management information on homelessness duties owed by English lower tier authorities to households being resettled in the UK through the Afghan Citizens Resettlement Scheme (ACRS) and the Afghan Relocations and Assistanc",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Homelessness",
+        "Afghan",
+        "England. Management",
+        "English"
+      ],
+      "locations": []
+    },
+    "e8b69027bfdd": {
+      "id": "e8b69027bfdd",
+      "importance": "Medium",
+      "summary": "Monthly statistics on the volume of milk used by dairies.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Latest",
+        "Monthly"
+      ],
+      "locations": []
+    },
+    "c60d62fe3667": {
+      "id": "c60d62fe3667",
+      "importance": "Medium",
+      "summary": "Official Statistics in development providing measures of labour productivity in DCMS sectors.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "DCMS",
+        "Economic Estimates",
+        "Productivity",
+        "Official Statistics"
+      ],
+      "locations": []
+    },
+    "39df6906239c": {
+      "id": "39df6906239c",
+      "importance": "Medium",
+      "summary": "Official Statistics in development used to provide an estimate of the contribution of DCMS Sectors to the UK economy, measured by employment.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Economic Estimates",
+        "Employment January",
+        "DCMS Sectors. Official Statistics",
+        "DCMS Sectors"
+      ],
+      "locations": []
+    },
+    "8c21f6887a85": {
+      "id": "8c21f6887a85",
+      "importance": "Medium",
+      "summary": "Statistics on the number of entries that were on time and late for GCSE, AS and A level in England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Entries",
+        "GCSE",
+        "Statistics"
+      ],
+      "locations": []
+    },
+    "e2c933e4881c": {
+      "id": "e2c933e4881c",
+      "importance": "Medium",
+      "summary": "Previously published copies of the monthly Accredited Official Statistics publication on the volume of milk used by dairies.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Historical",
+        "Previously",
+        "Accredited Official Statistics"
+      ],
+      "locations": []
+    },
+    "c7dbca8e9090": {
+      "id": "c7dbca8e9090",
+      "importance": "Medium",
+      "summary": "Statistical release in response to cases of Salmonella in England connected to the outbreak likely associated with imported eggs.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Salmonella",
+        "Statistical"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 34,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgk43aiScdRumeoB6wg2D'}",
+    "model": null
+  }
+}
