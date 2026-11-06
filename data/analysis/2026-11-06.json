@@ -1,0 +1,824 @@
+{
+  "generated_at": "2026-11-06T15:28:12+00:00",
+  "date_label": "Friday 06 November 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgmunQxEE7pXgitPkZG17'}\n\n46 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 20,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "UK’s",
+      "type": "Other",
+      "mentions": 11,
+      "context": ""
+    },
+    {
+      "name": "Trade",
+      "type": "Other",
+      "mentions": 10,
+      "context": ""
+    },
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "What",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Propertymark One",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "The Week",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Chief Executive Salary Survey",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Sign",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Chief",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Regulator of Social Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Rayner",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Angela Rayner",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "First-tier Tribunal’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Building Safety Fund",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "London. This January",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "New Homes Accelerator. So",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "EU’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Affordable Housing Act. The",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "ec48535a42fc": {
+      "id": "ec48535a42fc",
+      "importance": "Medium",
+      "summary": "The Week in Housing is our weekly newsletter, rounding up the most important headlines for housing professionals. Sign up below to get it direct to your inbox every Friday",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Week",
+        "Housing",
+        "Chief Executive Salary Survey",
+        "Sign"
+      ],
+      "locations": []
+    },
+    "6595756dee91": {
+      "id": "6595756dee91",
+      "importance": "Medium",
+      "summary": "G15 landlord L&Q has reported a £191m first-half deficit due to a large loss on the sale of its private rented sector (PRS) business",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    "f355ea2bc00f": {
+      "id": "f355ea2bc00f",
+      "importance": "Medium",
+      "summary": "Chief executive of the Regulator of Social Housing stressed that the upcoming refresh of economic standards aims to improve board accountability for decision-making",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Chief",
+        "Regulator of Social Housing"
+      ],
+      "locations": []
+    },
+    "04582908fe62": {
+      "id": "04582908fe62",
+      "importance": "Medium",
+      "summary": "Housing secretary Angela Rayner has welcomed the First-tier Tribunal’s ruling that a developer has to pay back £46.5m in public money from the Building Safety Fund",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Rayner",
+        "Housing",
+        "Angela Rayner",
+        "First-tier Tribunal’s"
+      ],
+      "locations": []
+    },
+    "2232961a1f8f": {
+      "id": "2232961a1f8f",
+      "importance": "Medium",
+      "summary": "This January, London got a dedicated branch of the New Homes Accelerator. So what is it doing to unclog construction in the capital?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "What",
+        "London. This January",
+        "London",
+        "New Homes Accelerator. So"
+      ],
+      "locations": []
+    },
+    "f69deb73bb9c": {
+      "id": "f69deb73bb9c",
+      "importance": "Medium",
+      "summary": "The new Affordable Housing Act unveiled in September is the EU’s first real attempt to tackle the ongoing housing crisis, writes Together Housing’s Daniel Klemm",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "What",
+        "EU’s",
+        "Affordable Housing Act. The",
+        "Affordable Housing Act"
+      ],
+      "locations": []
+    },
+    "bccd020f932a": {
+      "id": "bccd020f932a",
+      "importance": "Medium",
+      "summary": "Trafford Council voted seven to six to approve its own proposals for the 2.7-mile carriageway, which has been hailed as a crucial bit of infrastructure to enable the delivery of 5,000 homes and 3.8m sq ft of employment s",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Carrington Relief Road",
+        "Trafford Council",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "04d17608b662": {
+      "id": "04d17608b662",
+      "importance": "Medium",
+      "summary": "The Gaumont Cinema off Park Road is to be brought back into use as apartments under plans lodged by the Merseyside-based developer. The post APG proposes Birkenhead cinema-to-resi conversion appeared first on Place North",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Birkenhead",
+        "The Gaumont Cinema",
+        "Park Road",
+        "Merseyside-based"
+      ],
+      "locations": []
+    },
+    "8bfed8c51806": {
+      "id": "8bfed8c51806",
+      "importance": "Medium",
+      "summary": "A renewal hearing at the Royal Court of Justice saw the High Court’s decision this summer to refuse the council’s legal challenge over Harrow Estates’ development upheld. The post Stockport fails in latest attempt to blo",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Stockport",
+        "Woodford",
+        "Royal Court of Justice",
+        "High Court’s"
+      ],
+      "locations": []
+    },
+    "167fc8a37e27": {
+      "id": "167fc8a37e27",
+      "importance": "Medium",
+      "summary": "The investment by the National Housing Bank takes the total value of the pot, which is distributed to support regeneration, development, and infrastructure projects across Greater Manchester, to £2.75bn. The post GM Good",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Regional development"
+      ],
+      "companies": [
+        "GM Good Growth Fund",
+        "National Housing Bank",
+        "Greater Manchester",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "9cd723cc27f9": {
+      "id": "9cd723cc27f9",
+      "importance": "Medium",
+      "summary": "A children’s play area with pirate ship, sky twister swings, and inclusive multi seesaw would take over the northern part of the transport hub under the council’s plans to rejuvenate Birkenhead’s waterfront. The post Wir",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Wirral",
+        "Woodside Bus Interchange",
+        "Birkenhead’s",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "b5a19ebf43e8": {
+      "id": "b5a19ebf43e8",
+      "importance": "Medium",
+      "summary": "With the UK’s water market in crisis, government has moved to create eight regional sector-specific councils to give communities a greater say, also pledging to empower Mayors through a strengthened Water Bill. The post ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Govt",
+        "With",
+        "UK’s",
+        "Mayors"
+      ],
+      "locations": []
+    },
+    "e01d8532d40b": {
+      "id": "e01d8532d40b",
+      "importance": "Medium",
+      "summary": "Rightmove expects to return more than £400m to shareholders between July 2026 and July 2027",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "EYE NEWSFLASH",
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    "0b98cf2fe349": {
+      "id": "0b98cf2fe349",
+      "importance": "Medium",
+      "summary": "Job losses likely as company prepares to shut 12 offices",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Major"
+      ],
+      "locations": []
+    },
+    "413afac0e814": {
+      "id": "413afac0e814",
+      "importance": "Medium",
+      "summary": "Latest house price figures released amid growing mortgage and affordability pressures",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Lloyds",
+        "Latest"
+      ],
+      "locations": []
+    },
+    "5c8fb4befbd5": {
+      "id": "5c8fb4befbd5",
+      "importance": "Medium",
+      "summary": "Despite the negative headline, homes are still selling",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The UK Property Market",
+        "Despite"
+      ],
+      "locations": []
+    },
+    "bf1b63e2ce40": {
+      "id": "bf1b63e2ce40",
+      "importance": "Medium",
+      "summary": "RICS calls for investment in training",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Surveying",
+        "RICS. RICS"
+      ],
+      "locations": []
+    },
+    "77d4979624fa": {
+      "id": "77d4979624fa",
+      "importance": "Medium",
+      "summary": "Subdued housing activity and competition put firms under pressure",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Conveyancing",
+        "Subdued"
+      ],
+      "locations": []
+    },
+    "df7cfe3b38bc": {
+      "id": "df7cfe3b38bc",
+      "importance": "Medium",
+      "summary": "The study reveals a stark divide between northern and southern property markets",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Britain’s"
+      ],
+      "locations": []
+    },
+    "172ac646a5ed": {
+      "id": "172ac646a5ed",
+      "importance": "Medium",
+      "summary": "Propertymark One announces new venue and expanded programme for 2027",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Propertymark One",
+        "London"
+      ],
+      "locations": []
+    },
+    "3f117ee59249": {
+      "id": "3f117ee59249",
+      "importance": "Medium",
+      "summary": "The Fine & Country Foundation has awarded £47,410 to 27 charities tackling homelessness and poverty",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Fine",
+        "Country Foundation",
+        "The Fine"
+      ],
+      "locations": []
+    },
+    "a0d46b9bebc3": {
+      "id": "a0d46b9bebc3",
+      "importance": "Medium",
+      "summary": "New research suggests firms are primarily using AI for administrative and information-processing tasks",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "AI. New"
+      ],
+      "locations": []
+    },
+    "1eee9ce1f603": {
+      "id": "1eee9ce1f603",
+      "importance": "Medium",
+      "summary": "A prominent estate agency boss is ringing the alarm bell on compliance",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Self-employed",
+        "HMRC"
+      ],
+      "locations": []
+    },
+    "5b2b885e4993": {
+      "id": "5b2b885e4993",
+      "importance": "Medium",
+      "summary": "The appointee has over 12 years of London housing market experience",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "London"
+      ],
+      "locations": []
+    },
+    "fc7c1901d934": {
+      "id": "fc7c1901d934",
+      "importance": "Medium",
+      "summary": "The two new appointees have a combined 65 years of experience",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Big-hitter",
+        "Ultra High Net Worth"
+      ],
+      "locations": []
+    },
+    "b60863e0f911": {
+      "id": "b60863e0f911",
+      "importance": "Medium",
+      "summary": "Propertymark’s annual conference – which this year hit the headlines for a high fee paid to one speaker – is set to return in 2027. Propertymark One ruffled feathers within the industry earlier this year by paying £20,00",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Controversial",
+        "Propertymark’s",
+        "Propertymark One",
+        "Labour’s Angela Rayner"
+      ],
+      "locations": []
+    },
+    "0b78ac7bcae6": {
+      "id": "0b78ac7bcae6",
+      "importance": "Medium",
+      "summary": "The analysis looked at 77,000 conveyancing quotes",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Conveyancers"
+      ],
+      "locations": []
+    },
+    "59dbd09a2a0e": {
+      "id": "59dbd09a2a0e",
+      "importance": "Medium",
+      "summary": "Big UK cities ahead of the likes of Sydney, LA and New York",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Big UK",
+        "Sydney",
+        "LA and New York"
+      ],
+      "locations": []
+    },
+    "6463c72cf01f": {
+      "id": "6463c72cf01f",
+      "importance": "Medium",
+      "summary": "The Monetary Policy Committee has announced its decision",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Interest Rate",
+        "The Monetary Policy Committee"
+      ],
+      "locations": []
+    },
+    "049589a0cdee": {
+      "id": "049589a0cdee",
+      "importance": "Medium",
+      "summary": "A trading update from Foxtons this morning shows the financial impact of the Renters Rights Act on the agency. It tells shareholders: Lettings Q3 revenue declined by £2.3m, or 7%, to £31.1m, after a £2.7m impact from ele",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Foxtons",
+        "Renters Rights Act",
+        "Lettings",
+        "Renters’ Rights Act"
+      ],
+      "locations": []
+    },
+    "154433eb6e47": {
+      "id": "154433eb6e47",
+      "importance": "Medium",
+      "summary": "Information about statistics releases produced by the Foreign, Commonwealth & Development Office.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Statistics",
+        "FCDO. Information",
+        "Foreign",
+        "Commonwealth"
+      ],
+      "locations": []
+    },
+    "061ccb3626a5": {
+      "id": "061ccb3626a5",
+      "importance": "Medium",
+      "summary": "A practical 5 step guide to selecting and tailoring climate scenarios for risk management, strategic planning and TCFD-aligned reporting.",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Creating",
+        "TCFD-aligned"
+      ],
+      "locations": []
+    },
+    "59b0ce126a8c": {
+      "id": "59b0ce126a8c",
+      "importance": "Medium",
+      "summary": "Statement setting out advice from the Joint Committee on Vaccination and Immunisation (JCVI) on the use of chikungunya vaccines in UK travellers.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Chikungunya",
+        "JCVI",
+        "Statement",
+        "Joint Committee"
+      ],
+      "locations": []
+    },
+    "fbc3fb96fc79": {
+      "id": "fbc3fb96fc79",
+      "importance": "Medium",
+      "summary": "The Office for Investment (OFI) has launched a report on natural capital as a strategic asset class.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "The Office",
+        "Investment"
+      ],
+      "locations": []
+    },
+    "17d5dc457f59": {
+      "id": "17d5dc457f59",
+      "importance": "Medium",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with A or B.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    "e66b9635bb01": {
+      "id": "e66b9635bb01",
+      "importance": "Medium",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with C, D, E or F.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    "74cc396988a7": {
+      "id": "74cc396988a7",
+      "importance": "Medium",
+      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    "dcee14109f7d": {
+      "id": "dcee14109f7d",
+      "importance": "Medium",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with W, X, Y or Z.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    "4687e3025116": {
+      "id": "4687e3025116",
+      "importance": "Medium",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with G, H or I.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    "76b986a0e1e2": {
+      "id": "76b986a0e1e2",
+      "importance": "Medium",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with S.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    "8794c044a5e0": {
+      "id": "8794c044a5e0",
+      "importance": "Medium",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with P, Q or R.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    "4d5e627ecc52": {
+      "id": "4d5e627ecc52",
+      "importance": "Medium",
+      "summary": "UK total public service productivity, inputs, and output, to provide a short-term, timely indicator of annual productivity estimates. These are official statistics in development.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Public",
+        "These"
+      ],
+      "locations": []
+    },
+    "2876f16f8738": {
+      "id": "2876f16f8738",
+      "importance": "Medium",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with M, N or O.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    "6238ab0c9dd1": {
+      "id": "6238ab0c9dd1",
+      "importance": "Medium",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with J, K or L.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    "a08ee7260a0f": {
+      "id": "a08ee7260a0f",
+      "importance": "Medium",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with T, U or V.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    "6c2caa67d3e6": {
+      "id": "6c2caa67d3e6",
+      "importance": "Medium",
+      "summary": "An analysis of the UK software market, including details of the number and type of firms within the sector and the products and services they offer.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 46,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgmunQxEE7pXgitPkZG17'}",
+    "model": null
+  }
+}

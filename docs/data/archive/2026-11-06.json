@@ -1,0 +1,1336 @@
+{
+  "schema": 1,
+  "generated_at_utc": "2026-11-06T15:28:12+00:00",
+  "generated_at_london": "2026-11-06T15:28+00:00",
+  "date_label": "6 November 2026",
+  "time_label": "15:28 GMT",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgmunQxEE7pXgitPkZG17'}\n\n46 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 20,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "UK’s",
+      "type": "Other",
+      "mentions": 11,
+      "context": ""
+    },
+    {
+      "name": "Trade",
+      "type": "Other",
+      "mentions": 10,
+      "context": ""
+    },
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "What",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Propertymark One",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "The Week",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Chief Executive Salary Survey",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Sign",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Chief",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Regulator of Social Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Rayner",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Angela Rayner",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "First-tier Tribunal’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Building Safety Fund",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "London. This January",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "New Homes Accelerator. So",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "EU’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Affordable Housing Act. The",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "stories": [
+    {
+      "id": "f355ea2bc00f",
+      "title": "RSH boss addresses concerns new economic standards will set delivery targets for landlords",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/rsh-boss-addresses-concerns-new-economic-standards-will-set-delivery-targets-for-landlords-99542",
+      "published": "2026-11-06T13:48:24+00:00",
+      "kind": "news",
+      "excerpt": "Chief executive of the Regulator of Social Housing stressed that the upcoming refresh of economic standards aims to improve board accountability for decision-making",
+      "importance": "Medium",
+      "summary": "Chief executive of the Regulator of Social Housing stressed that the upcoming refresh of economic standards aims to improve board accountability for decision-making",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Chief",
+        "Regulator of Social Housing"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2232961a1f8f",
+      "title": "What you need to know about the initiative to unblock new homes in London",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/what-you-need-to-know-about-the-initiative-to-unblock-new-homes-in-london-99182",
+      "published": "2026-11-06T13:48:04+00:00",
+      "kind": "news",
+      "excerpt": "This January, London got a dedicated branch of the New Homes Accelerator. So what is it doing to unclog construction in the capital?",
+      "importance": "Medium",
+      "summary": "This January, London got a dedicated branch of the New Homes Accelerator. So what is it doing to unclog construction in the capital?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "What",
+        "London. This January",
+        "London",
+        "New Homes Accelerator. So"
+      ],
+      "locations": []
+    },
+    {
+      "id": "ec48535a42fc",
+      "title": "The Week in Housing: Chief Executive Salary Survey, new TSM scores and remediation costs ruling",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/the-week-in-housing-chief-executive-salary-survey-new-tsm-scores-and-remediation-costs-ruling-99541",
+      "published": "2026-11-06T13:06:29+00:00",
+      "kind": "news",
+      "excerpt": "The Week in Housing is our weekly newsletter, rounding up the most important headlines for housing professionals. Sign up below to get it direct to your inbox every Friday",
+      "importance": "Medium",
+      "summary": "The Week in Housing is our weekly newsletter, rounding up the most important headlines for housing professionals. Sign up below to get it direct to your inbox every Friday",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Week",
+        "Housing",
+        "Chief Executive Salary Survey",
+        "Sign"
+      ],
+      "locations": []
+    },
+    {
+      "id": "154433eb6e47",
+      "title": "Statistics at FCDO",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/organisations/foreign-commonwealth-development-office/about/statistics",
+      "published": "2026-11-06T13:03:43+00:00",
+      "kind": "data",
+      "excerpt": "Information about statistics releases produced by the Foreign, Commonwealth & Development Office.",
+      "importance": "Medium",
+      "summary": "Information about statistics releases produced by the Foreign, Commonwealth & Development Office.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Statistics",
+        "FCDO. Information",
+        "Foreign",
+        "Commonwealth"
+      ],
+      "locations": []
+    },
+    {
+      "id": "6595756dee91",
+      "title": "L&Q reveals £191m half-year deficit after hit from sale of PRS business",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/lq-reveals-191m-half-year-deficit-after-hit-from-sale-of-prs-business-99544",
+      "published": "2026-11-06T12:37:23+00:00",
+      "kind": "news",
+      "excerpt": "G15 landlord L&Q has reported a £191m first-half deficit due to a large loss on the sale of its private rented sector (PRS) business",
+      "importance": "Medium",
+      "summary": "G15 landlord L&Q has reported a £191m first-half deficit due to a large loss on the sale of its private rented sector (PRS) business",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [],
+      "locations": []
+    },
+    {
+      "id": "04582908fe62",
+      "title": "Rayner welcomes tribunal decision that orders developer to reimburse government £46.5m in building safety costs",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/rayner-welcomes-tribunal-decision-that-orders-developer-to-reimburse-government-465m-in-building-safety-costs-99538",
+      "published": "2026-11-06T12:35:51+00:00",
+      "kind": "news",
+      "excerpt": "Housing secretary Angela Rayner has welcomed the First-tier Tribunal’s ruling that a developer has to pay back £46.5m in public money from the Building Safety Fund",
+      "importance": "Medium",
+      "summary": "Housing secretary Angela Rayner has welcomed the First-tier Tribunal’s ruling that a developer has to pay back £46.5m in public money from the Building Safety Fund",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Rayner",
+        "Housing",
+        "Angela Rayner",
+        "First-tier Tribunal’s"
+      ],
+      "locations": []
+    },
+    {
+      "id": "061ccb3626a5",
+      "title": "Creating tailored climate scenarios",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/creating-tailored-climate-scenarios",
+      "published": "2026-11-06T11:52:41+00:00",
+      "kind": "data",
+      "excerpt": "A practical 5 step guide to selecting and tailoring climate scenarios for risk management, strategic planning and TCFD-aligned reporting.",
+      "importance": "Medium",
+      "summary": "A practical 5 step guide to selecting and tailoring climate scenarios for risk management, strategic planning and TCFD-aligned reporting.",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Creating",
+        "TCFD-aligned"
+      ],
+      "locations": []
+    },
+    {
+      "id": "bccd020f932a",
+      "title": "£130m Carrington Relief Road scrapes through planning",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/130m-carrington-relief-road-scrapes-through-planning",
+      "published": "2026-11-06T11:07:41+00:00",
+      "kind": "news",
+      "excerpt": "Trafford Council voted seven to six to approve its own proposals for the 2.7-mile carriageway, which has been hailed as a crucial bit of infrastructure to enable the delivery of 5,000 homes and 3.8m sq ft of employment space. The post £130m Carrington Relief Road scrapes through planning appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "Trafford Council voted seven to six to approve its own proposals for the 2.7-mile carriageway, which has been hailed as a crucial bit of infrastructure to enable the delivery of 5,000 homes and 3.8m sq ft of employment s",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Carrington Relief Road",
+        "Trafford Council",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    {
+      "id": "59b0ce126a8c",
+      "title": "Chikungunya vaccine for UK travellers: JCVI advice, 16 July 2025",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/chikungunya-vaccine-for-uk-travellers-jcvi-advice-16-july-2025",
+      "published": "2026-11-06T11:00:05+00:00",
+      "kind": "data",
+      "excerpt": "Statement setting out advice from the Joint Committee on Vaccination and Immunisation (JCVI) on the use of chikungunya vaccines in UK travellers.",
+      "importance": "Medium",
+      "summary": "Statement setting out advice from the Joint Committee on Vaccination and Immunisation (JCVI) on the use of chikungunya vaccines in UK travellers.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Chikungunya",
+        "JCVI",
+        "Statement",
+        "Joint Committee"
+      ],
+      "locations": []
+    },
+    {
+      "id": "fbc3fb96fc79",
+      "title": "UK natural capital and ecosystem services: a pathway to at-scale investment capital flows",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/uk-natural-capital-and-ecosystem-services-a-pathway-to-at-scale-investment-capital-flows",
+      "published": "2026-11-06T10:58:43+00:00",
+      "kind": "data",
+      "excerpt": "The Office for Investment (OFI) has launched a report on natural capital as a strategic asset class.",
+      "importance": "Medium",
+      "summary": "The Office for Investment (OFI) has launched a report on natural capital as a strategic asset class.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "The Office",
+        "Investment"
+      ],
+      "locations": []
+    },
+    {
+      "id": "04d17608b662",
+      "title": "APG proposes Birkenhead cinema-to-resi conversion",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/apg-proposes-birkenhead-cinema-to-resi-conversion",
+      "published": "2026-11-06T10:52:47+00:00",
+      "kind": "news",
+      "excerpt": "The Gaumont Cinema off Park Road is to be brought back into use as apartments under plans lodged by the Merseyside-based developer. The post APG proposes Birkenhead cinema-to-resi conversion appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "The Gaumont Cinema off Park Road is to be brought back into use as apartments under plans lodged by the Merseyside-based developer. The post APG proposes Birkenhead cinema-to-resi conversion appeared first on Place North",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Birkenhead",
+        "The Gaumont Cinema",
+        "Park Road",
+        "Merseyside-based"
+      ],
+      "locations": []
+    },
+    {
+      "id": "8bfed8c51806",
+      "title": "Stockport fails in latest attempt to block 540-home Woodford scheme",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/stockport-fails-in-latest-attempt-to-block-540-home-woodford-scheme",
+      "published": "2026-11-06T10:44:43+00:00",
+      "kind": "news",
+      "excerpt": "A renewal hearing at the Royal Court of Justice saw the High Court’s decision this summer to refuse the council’s legal challenge over Harrow Estates’ development upheld. The post Stockport fails in latest attempt to block 540-home Woodford scheme appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "A renewal hearing at the Royal Court of Justice saw the High Court’s decision this summer to refuse the council’s legal challenge over Harrow Estates’ development upheld. The post Stockport fails in latest attempt to blo",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Stockport",
+        "Woodford",
+        "Royal Court of Justice",
+        "High Court’s"
+      ],
+      "locations": []
+    },
+    {
+      "id": "167fc8a37e27",
+      "title": "GM Good Growth Fund grows to nearly £3bn with latest £500m investment",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/government-pumps-another-500m-into-gm-good-growth-fund",
+      "published": "2026-11-06T09:44:03+00:00",
+      "kind": "news",
+      "excerpt": "The investment by the National Housing Bank takes the total value of the pot, which is distributed to support regeneration, development, and infrastructure projects across Greater Manchester, to £2.75bn. The post GM Good Growth Fund grows to nearly £3bn with latest £500m investment appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "The investment by the National Housing Bank takes the total value of the pot, which is distributed to support regeneration, development, and infrastructure projects across Greater Manchester, to £2.75bn. The post GM Good",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Regional development"
+      ],
+      "companies": [
+        "GM Good Growth Fund",
+        "National Housing Bank",
+        "Greater Manchester",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    {
+      "id": "9cd723cc27f9",
+      "title": "Wirral advances plans for Woodside Bus Interchange",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/wirral-advances-plans-for-woodside-bus-interchange",
+      "published": "2026-11-06T09:39:32+00:00",
+      "kind": "news",
+      "excerpt": "A children’s play area with pirate ship, sky twister swings, and inclusive multi seesaw would take over the northern part of the transport hub under the council’s plans to rejuvenate Birkenhead’s waterfront. The post Wirral advances plans for Woodside Bus Interchange appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "A children’s play area with pirate ship, sky twister swings, and inclusive multi seesaw would take over the northern part of the transport hub under the council’s plans to rejuvenate Birkenhead’s waterfront. The post Wir",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Wirral",
+        "Woodside Bus Interchange",
+        "Birkenhead’s",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    {
+      "id": "17d5dc457f59",
+      "title": "Trade and investment factsheets (partner names beginning with A or B)",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-a-or-b",
+      "published": "2026-11-06T09:30:05+00:00",
+      "kind": "data",
+      "excerpt": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with A or B.",
+      "importance": "Medium",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with A or B.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    {
+      "id": "e66b9635bb01",
+      "title": "Trade and investment factsheets (partner names beginning with C to F)",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-c-to-f",
+      "published": "2026-11-06T09:30:05+00:00",
+      "kind": "data",
+      "excerpt": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with C, D, E or F.",
+      "importance": "Medium",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with C, D, E or F.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    {
+      "id": "74cc396988a7",
+      "title": "Trade and investment factsheets: latest update",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/trade-and-investment-factsheets-latest-update",
+      "published": "2026-11-06T09:30:05+00:00",
+      "kind": "data",
+      "excerpt": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
+      "importance": "Medium",
+      "summary": "The most up to date snapshot of the UK’s trade and investment positions with trading partners overseas.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    {
+      "id": "dcee14109f7d",
+      "title": "Trade and investment factsheets (partner names beginning with W to Z)",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-w-to-z",
+      "published": "2026-11-06T09:30:05+00:00",
+      "kind": "data",
+      "excerpt": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with W, X, Y or Z.",
+      "importance": "Medium",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with W, X, Y or Z.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    {
+      "id": "4687e3025116",
+      "title": "Trade and investment factsheets (partner names beginning with G to I)",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-g-to-i",
+      "published": "2026-11-06T09:30:05+00:00",
+      "kind": "data",
+      "excerpt": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with G, H or I.",
+      "importance": "Medium",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with G, H or I.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    {
+      "id": "76b986a0e1e2",
+      "title": "Trade and investment factsheets (partner names beginning with S)",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-s",
+      "published": "2026-11-06T09:30:05+00:00",
+      "kind": "data",
+      "excerpt": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with S.",
+      "importance": "Medium",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with S.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    {
+      "id": "8794c044a5e0",
+      "title": "Trade and investment factsheets (partner names beginning with P to R)",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-p-to-r",
+      "published": "2026-11-06T09:30:05+00:00",
+      "kind": "data",
+      "excerpt": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with P, Q or R.",
+      "importance": "Medium",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with P, Q or R.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    {
+      "id": "4d5e627ecc52",
+      "title": "Public service productivity, quarterly, UK: April to June 2026",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/public-service-productivity-quarterly-uk-april-to-june-2026",
+      "published": "2026-11-06T09:30:05+00:00",
+      "kind": "data",
+      "excerpt": "UK total public service productivity, inputs, and output, to provide a short-term, timely indicator of annual productivity estimates. These are official statistics in development.",
+      "importance": "Medium",
+      "summary": "UK total public service productivity, inputs, and output, to provide a short-term, timely indicator of annual productivity estimates. These are official statistics in development.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Public",
+        "These"
+      ],
+      "locations": []
+    },
+    {
+      "id": "2876f16f8738",
+      "title": "Trade and investment factsheets (partner names beginning with M to O)",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-m-to-o",
+      "published": "2026-11-06T09:30:05+00:00",
+      "kind": "data",
+      "excerpt": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with M, N or O.",
+      "importance": "Medium",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with M, N or O.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    {
+      "id": "6238ab0c9dd1",
+      "title": "Trade and investment factsheets (partner names beginning with J to L)",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-j-to-l",
+      "published": "2026-11-06T09:30:05+00:00",
+      "kind": "data",
+      "excerpt": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with J, K or L.",
+      "importance": "Medium",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with J, K or L.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    {
+      "id": "a08ee7260a0f",
+      "title": "Trade and investment factsheets (partner names beginning with T to V)",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/trade-and-investment-factsheets-partner-names-beginning-with-t-to-v",
+      "published": "2026-11-06T09:30:05+00:00",
+      "kind": "data",
+      "excerpt": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with T, U or V.",
+      "importance": "Medium",
+      "summary": "A snapshot of the UK’s trade and investment positions with individual trading and investment partners overseas, for partners whose name begins with T, U or V.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trade",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    {
+      "id": "6c2caa67d3e6",
+      "title": "UK software market analysis",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/uk-software-market-analysis",
+      "published": "2026-11-06T09:00:00+00:00",
+      "kind": "data",
+      "excerpt": "An analysis of the UK software market, including details of the number and type of firms within the sector and the products and services they offer.…",
+      "importance": "Medium",
+      "summary": "An analysis of the UK software market, including details of the number and type of firms within the sector and the products and services they offer.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    {
+      "id": "b5a19ebf43e8",
+      "title": "Govt opens door for action on water companies",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/govt-opens-door-for-action-on-water-companies",
+      "published": "2026-11-06T08:44:51+00:00",
+      "kind": "news",
+      "excerpt": "With the UK’s water market in crisis, government has moved to create eight regional sector-specific councils to give communities a greater say, also pledging to empower Mayors through a strengthened Water Bill. The post Govt opens door for action on water companies appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "With the UK’s water market in crisis, government has moved to create eight regional sector-specific councils to give communities a greater say, also pledging to empower Mayors through a strengthened Water Bill. The post ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Govt",
+        "With",
+        "UK’s",
+        "Mayors"
+      ],
+      "locations": []
+    },
+    {
+      "id": "f69deb73bb9c",
+      "title": "What the UK can learn from the EU’s new Affordable Housing Act",
+      "source": "Inside Housing",
+      "source_key": "inside_housing",
+      "url": "https://insidehousing.co.uk/home/what-the-uk-can-learn-from-the-eus-new-affordable-housing-act-99217",
+      "published": "2026-11-06T08:29:00+00:00",
+      "kind": "news",
+      "excerpt": "The new Affordable Housing Act unveiled in September is the EU’s first real attempt to tackle the ongoing housing crisis, writes Together Housing’s Daniel Klemm",
+      "importance": "Medium",
+      "summary": "The new Affordable Housing Act unveiled in September is the EU’s first real attempt to tackle the ongoing housing crisis, writes Together Housing’s Daniel Klemm",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "What",
+        "EU’s",
+        "Affordable Housing Act. The",
+        "Affordable Housing Act"
+      ],
+      "locations": []
+    },
+    {
+      "id": "e01d8532d40b",
+      "title": "EYE NEWSFLASH: Rightmove cuts revenue forecast as buyer demand and sales fall",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/eye-newsflash-rightmove-cuts-revenue-forecast-as-buyer-demand-and-sales-fall",
+      "published": "2026-11-06T07:10:32+00:00",
+      "kind": "news",
+      "excerpt": "Rightmove expects to return more than £400m to shareholders between July 2026 and July 2027",
+      "importance": "Medium",
+      "summary": "Rightmove expects to return more than £400m to shareholders between July 2026 and July 2027",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "EYE NEWSFLASH",
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    {
+      "id": "0b98cf2fe349",
+      "title": "Major property firm to close almost half its offices as losses mount",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/major-property-firm-to-close-almost-half-its-offices-as-losses-mount",
+      "published": "2026-11-06T04:30:38+00:00",
+      "kind": "news",
+      "excerpt": "Job losses likely as company prepares to shut 12 offices",
+      "importance": "Medium",
+      "summary": "Job losses likely as company prepares to shut 12 offices",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Major"
+      ],
+      "locations": []
+    },
+    {
+      "id": "413afac0e814",
+      "title": "Lloyds reveals latest UK house price figures as market faces fresh pressure",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/lloyds-reveals-latest-uk-house-price-figures-as-market-faces-fresh-pressure",
+      "published": "2026-11-06T03:56:14+00:00",
+      "kind": "news",
+      "excerpt": "Latest house price figures released amid growing mortgage and affordability pressures",
+      "importance": "Medium",
+      "summary": "Latest house price figures released amid growing mortgage and affordability pressures",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Lloyds",
+        "Latest"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5c8fb4befbd5",
+      "title": "The UK Property Market is dead. Who told the buyers?",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/the-uk-property-market-is-dead-who-told-the-buyers",
+      "published": "2026-11-06T03:50:44+00:00",
+      "kind": "news",
+      "excerpt": "Despite the negative headline, homes are still selling",
+      "importance": "Medium",
+      "summary": "Despite the negative headline, homes are still selling",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The UK Property Market",
+        "Despite"
+      ],
+      "locations": []
+    },
+    {
+      "id": "bf1b63e2ce40",
+      "title": "Surveying skills shortage threatens housing delivery – RICS",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/surveying-skills-shortage-threatens-housing-delivery-rics",
+      "published": "2026-11-06T03:00:14+00:00",
+      "kind": "news",
+      "excerpt": "RICS calls for investment in training",
+      "importance": "Medium",
+      "summary": "RICS calls for investment in training",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Surveying",
+        "RICS. RICS"
+      ],
+      "locations": []
+    },
+    {
+      "id": "77d4979624fa",
+      "title": "Conveyancing fees fall again as competition squeezes firms’ margins",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/conveyancing-fees-fall-again-as-competition-squeezes-firms-margins",
+      "published": "2026-11-06T02:30:11+00:00",
+      "kind": "news",
+      "excerpt": "Subdued housing activity and competition put firms under pressure",
+      "importance": "Medium",
+      "summary": "Subdued housing activity and competition put firms under pressure",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Conveyancing",
+        "Subdued"
+      ],
+      "locations": []
+    },
+    {
+      "id": "df7cfe3b38bc",
+      "title": "Britain’s most affordable towns revealed",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/britains-most-affordable-towns-revealed",
+      "published": "2026-11-06T01:40:44+00:00",
+      "kind": "news",
+      "excerpt": "The study reveals a stark divide between northern and southern property markets",
+      "importance": "Medium",
+      "summary": "The study reveals a stark divide between northern and southern property markets",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Britain’s"
+      ],
+      "locations": []
+    },
+    {
+      "id": "172ac646a5ed",
+      "title": "Propertymark One moves to larger London venue for 2027 conference",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/propertymark-one-moves-to-larger-london-venue-for-2027-conference",
+      "published": "2026-11-06T00:50:11+00:00",
+      "kind": "news",
+      "excerpt": "Propertymark One announces new venue and expanded programme for 2027",
+      "importance": "Medium",
+      "summary": "Propertymark One announces new venue and expanded programme for 2027",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Propertymark One",
+        "London"
+      ],
+      "locations": []
+    },
+    {
+      "id": "3f117ee59249",
+      "title": "Fine & Country Foundation awards £47,000 to charities",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/fine-country-foundation-awards-47000-to-charities",
+      "published": "2026-11-06T00:40:42+00:00",
+      "kind": "news",
+      "excerpt": "The Fine & Country Foundation has awarded £47,410 to 27 charities tackling homelessness and poverty",
+      "importance": "Medium",
+      "summary": "The Fine & Country Foundation has awarded £47,410 to 27 charities tackling homelessness and poverty",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Fine",
+        "Country Foundation",
+        "The Fine"
+      ],
+      "locations": []
+    },
+    {
+      "id": "a0d46b9bebc3",
+      "title": "Estate agents slow to embrace AI",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/estate-agents-slow-to-embrace-ai",
+      "published": "2026-11-06T00:30:49+00:00",
+      "kind": "news",
+      "excerpt": "New research suggests firms are primarily using AI for administrative and information-processing tasks",
+      "importance": "Medium",
+      "summary": "New research suggests firms are primarily using AI for administrative and information-processing tasks",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "AI. New"
+      ],
+      "locations": []
+    },
+    {
+      "id": "1eee9ce1f603",
+      "title": "Self-employed agents warned about HMRC rules",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/self-employed-agents-warned-about-hmrc-rules",
+      "published": "2026-11-06T00:06:00+00:00",
+      "kind": "news",
+      "excerpt": "A prominent estate agency boss is ringing the alarm bell on compliance",
+      "importance": "Medium",
+      "summary": "A prominent estate agency boss is ringing the alarm bell on compliance",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Self-employed",
+        "HMRC"
+      ],
+      "locations": []
+    },
+    {
+      "id": "5b2b885e4993",
+      "title": "New head of sales named for agency’s key London branch",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/new-head-of-sales-named-for-agencys-key-london-branch",
+      "published": "2026-11-06T00:04:00+00:00",
+      "kind": "news",
+      "excerpt": "The appointee has over 12 years of London housing market experience",
+      "importance": "Medium",
+      "summary": "The appointee has over 12 years of London housing market experience",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "London"
+      ],
+      "locations": []
+    },
+    {
+      "id": "fc7c1901d934",
+      "title": "Big-hitter agents appointed to Ultra High Net Worth property team",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/big-hitter-agents-appointed-to-ultra-high-net-worth-property-team",
+      "published": "2026-11-06T00:03:00+00:00",
+      "kind": "news",
+      "excerpt": "The two new appointees have a combined 65 years of experience",
+      "importance": "Medium",
+      "summary": "The two new appointees have a combined 65 years of experience",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Big-hitter",
+        "Ultra High Net Worth"
+      ],
+      "locations": []
+    },
+    {
+      "id": "b60863e0f911",
+      "title": "Controversial property conference gets bigger and better in 2027",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/controversial-property-conference-gets-bigger-and-better-in-2027",
+      "published": "2026-11-06T00:02:00+00:00",
+      "kind": "news",
+      "excerpt": "Propertymark’s annual conference – which this year hit the headlines for a high fee paid to one speaker – is set to return in 2027. Propertymark One ruffled feathers within the industry earlier this year by paying £20,000 to Labour’s Angela Rayner – before she returned to office as Housing Secretary. An announcement from the […]",
+      "importance": "Medium",
+      "summary": "Propertymark’s annual conference – which this year hit the headlines for a high fee paid to one speaker – is set to return in 2027. Propertymark One ruffled feathers within the industry earlier this year by paying £20,00",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Controversial",
+        "Propertymark’s",
+        "Propertymark One",
+        "Labour’s Angela Rayner"
+      ],
+      "locations": []
+    },
+    {
+      "id": "0b78ac7bcae6",
+      "title": "Conveyancers claim their costs are going down",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/conveyancers-claim-their-costs-are-going-down",
+      "published": "2026-11-06T00:01:00+00:00",
+      "kind": "news",
+      "excerpt": "The analysis looked at 77,000 conveyancing quotes",
+      "importance": "Medium",
+      "summary": "The analysis looked at 77,000 conveyancing quotes",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Conveyancers"
+      ],
+      "locations": []
+    },
+    {
+      "id": "59dbd09a2a0e",
+      "title": "UK cities lead the world in property transparency, claims agency",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/uk-cities-lead-the-world-in-property-transparency-claims-agency",
+      "published": "2026-11-06T00:00:00+00:00",
+      "kind": "news",
+      "excerpt": "Big UK cities ahead of the likes of Sydney, LA and New York",
+      "importance": "Medium",
+      "summary": "Big UK cities ahead of the likes of Sydney, LA and New York",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Big UK",
+        "Sydney",
+        "LA and New York"
+      ],
+      "locations": []
+    },
+    {
+      "id": "6463c72cf01f",
+      "title": "Interest Rate decision – agents react",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/interest-rate-decision-agents-react",
+      "published": "2026-11-05T12:02:03+00:00",
+      "kind": "news",
+      "excerpt": "The Monetary Policy Committee has announced its decision",
+      "importance": "Medium",
+      "summary": "The Monetary Policy Committee has announced its decision",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Interest Rate",
+        "The Monetary Policy Committee"
+      ],
+      "locations": []
+    },
+    {
+      "id": "049589a0cdee",
+      "title": "Foxtons revenue falls as sales stagnate and lettings hit trouble",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/foxtons-revenue-falls-as-sales-stagnate-and-lettings-hit-trouble",
+      "published": "2026-11-05T07:25:54+00:00",
+      "kind": "news",
+      "excerpt": "A trading update from Foxtons this morning shows the financial impact of the Renters Rights Act on the agency. It tells shareholders: Lettings Q3 revenue declined by £2.3m, or 7%, to £31.1m, after a £2.7m impact from elevated tenant‐led early terminations following the introduction of the Renters’ Rights Act (“RRA”) on 1 May 2026, as […]",
+      "importance": "Medium",
+      "summary": "A trading update from Foxtons this morning shows the financial impact of the Renters Rights Act on the agency. It tells shareholders: Lettings Q3 revenue declined by £2.3m, or 7%, to £31.1m, after a £2.7m impact from ele",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Foxtons",
+        "Renters Rights Act",
+        "Lettings",
+        "Renters’ Rights Act"
+      ],
+      "locations": []
+    }
+  ],
+  "stats": {
+    "stories": 46,
+    "critical": 0,
+    "high": 0,
+    "medium": 46,
+    "low": 0,
+    "sources_live": 7,
+    "sources_total": 9,
+    "by_source": [
+      {
+        "name": "HM Land Registry — UK HPI",
+        "count": 16
+      },
+      {
+        "name": "Property Industry Eye",
+        "count": 10
+      },
+      {
+        "name": "Estate Agent Today",
+        "count": 8
+      },
+      {
+        "name": "Inside Housing",
+        "count": 6
+      },
+      {
+        "name": "Place North West",
+        "count": 6
+      }
+    ]
+  },
+  "sources": [
+    {
+      "key": "bisnow_uk",
+      "name": "Bisnow UK",
+      "homepage": "https://www.bisnow.com/london",
+      "kind": "news"
+    },
+    {
+      "key": "inside_housing",
+      "name": "Inside Housing",
+      "homepage": "https://www.insidehousing.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "property_week_resi",
+      "name": "Property Week — Residential",
+      "homepage": "https://www.propertyweek.com",
+      "kind": "news"
+    },
+    {
+      "key": "place_north_west",
+      "name": "Place North West",
+      "homepage": "https://www.placenorthwest.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "homepage": "https://propertyindustryeye.com",
+      "kind": "news"
+    },
+    {
+      "key": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "homepage": "https://www.estateagenttoday.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "landlordzone",
+      "name": "LandlordZONE",
+      "homepage": "https://www.landlordzone.co.uk",
+      "kind": "news"
+    },
+    {
+      "key": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "homepage": "https://www.gov.uk/government/organisations/land-registry",
+      "kind": "data"
+    },
+    {
+      "key": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "homepage": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing",
+      "kind": "data"
+    }
+  ],
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "feed",
+      "url": "https://www.bisnow.com/london/rss",
+      "found": 1,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 1"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 7,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 7"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 10,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 10"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 14,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 14"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "failed",
+      "url": "https://www.landlordzone.co.uk/news",
+      "found": 0,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/blog/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/rss.xml -> 0",
+        "scrape https://www.landlordzone.co.uk/news -> 0"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "meta": {
+    "rated": 0,
+    "unrated": 46,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgmunQxEE7pXgitPkZG17'}",
+    "model": null
+  }
+}
