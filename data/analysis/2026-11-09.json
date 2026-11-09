@@ -1,0 +1,740 @@
+{
+  "generated_at": "2026-11-09T17:58:01+00:00",
+  "date_label": "Monday 09 November 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgsndker7r4CmiSMxK8rJ'}\n\n39 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 10,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 8,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Savills",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Research",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Includes",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "These",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Council’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Newcastle City Council’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "North",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Stonewater",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Moody’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Large",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Funding",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "London SAHP",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Bidders",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Social and Affordable Homes Programme",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Scottish",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Scottish",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Manchester",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "b97dfcfc1184": {
+      "id": "b97dfcfc1184",
+      "importance": "Medium",
+      "summary": "Newcastle City Council’s director of housing suggested “politics” and being based in the North worked in its favour during the strategic partnership bidding process",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Council’s",
+        "Newcastle City Council’s",
+        "North"
+      ],
+      "locations": []
+    },
+    "a27acf00607d": {
+      "id": "a27acf00607d",
+      "importance": "Medium",
+      "summary": "Large national landlord Stonewater has said its Moody’s A3 credit rating “strengthens confidence” in its plans for thousands of new homes, but the credit rating agency has warned that its debt “remains high”",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Stonewater",
+        "Moody’s",
+        "Large"
+      ],
+      "locations": []
+    },
+    "c926d435556b": {
+      "id": "c926d435556b",
+      "importance": "Medium",
+      "summary": "Bidders for the capital’s pot of the Social and Affordable Homes Programme are still discussing their allocations, but talks are “actively progressing”",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Funding",
+        "London SAHP",
+        "Bidders",
+        "Social and Affordable Homes Programme"
+      ],
+      "locations": []
+    },
+    "85766d0ffac8": {
+      "id": "85766d0ffac8",
+      "importance": "Medium",
+      "summary": "The Scottish government has topped up its discretionary housing payments scheme with an extra £2m, taking the total to £117m",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Scottish",
+        "The Scottish"
+      ],
+      "locations": []
+    },
+    "9e95538a7b4d": {
+      "id": "9e95538a7b4d",
+      "importance": "Medium",
+      "summary": "The National Housing Bank has agreed a framework with Greater Manchester Combined Authority aimed at investing up to £500m to build more homes across the city region",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Regional development"
+      ],
+      "companies": [
+        "Manchester",
+        "National Housing Bank. The",
+        "National Housing Bank",
+        "Greater Manchester Combined Authority"
+      ],
+      "locations": []
+    },
+    "5dce97412d71": {
+      "id": "5dce97412d71",
+      "importance": "Medium",
+      "summary": "The developer’s fourth and tallest skyscraper at Greengate would provide 556 apartments. The post Renaker unveils plans for 54-storey Salford tower appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Renaker",
+        "Salford",
+        "Greengate",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "28ed62471272": {
+      "id": "28ed62471272",
+      "importance": "Medium",
+      "summary": "Greg Malouf’s development company is seeking permission to deliver 559 flats on Liverpool’s waterfront, having taken control of the site from Maro last year. The post Romal’s Brunswick Quay transformation to go before co",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Romal’s Brunswick Quay",
+        "Greg Malouf’s",
+        "Liverpool’s",
+        "Maro"
+      ],
+      "locations": []
+    },
+    "33e5f05b16f9": {
+      "id": "33e5f05b16f9",
+      "importance": "Medium",
+      "summary": "Councillors sided with officers on all four major applications on the planning committee’s agenda on Thursday, which was good news for Story Homes, Russell, and Bellway – and not so great for Barratt and David Wilson Hom",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders",
+        "Planning policy"
+      ],
+      "companies": [
+        "Stockport",
+        "Councillors",
+        "Story Homes",
+        "Russell"
+      ],
+      "locations": []
+    },
+    "b5bf37b94152": {
+      "id": "b5bf37b94152",
+      "importance": "Medium",
+      "summary": "After 11 years of trading, Guy Horne and David Searle have split the housing business into two independent firms: Sevet and Highdale. The post HSPG founders part ways appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "HSPG",
+        "After",
+        "Guy Horne and David Searle",
+        "Sevet and Highdale. The"
+      ],
+      "locations": []
+    },
+    "686dc0ac644b": {
+      "id": "686dc0ac644b",
+      "importance": "Medium",
+      "summary": "Anchored by Academy Music Group, the neighbour to Manchester United's Old Trafford has consent for a 200-key hotel and expansion of its event facilities. The post Victoria Warehouse on the block for £36.6m appeared first",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Victoria Warehouse",
+        "Anchored",
+        "Academy Music Group",
+        "Manchester United's Old Trafford"
+      ],
+      "locations": []
+    },
+    "67e415bbeba7": {
+      "id": "67e415bbeba7",
+      "importance": "Medium",
+      "summary": "Hallam Land Management and Hyperion Ventures’ bid to build a veritable village on land by Home Farm Road was approved despite heated opposition from locals, as were Taylor Wimpey’s plans for 205 homes on the former Glen ",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Knowsley",
+        "Hallam Land Management and Hyperion",
+        "Ventures",
+        "Home Farm Road"
+      ],
+      "locations": []
+    },
+    "cd742feb0a92": {
+      "id": "cd742feb0a92",
+      "importance": "Medium",
+      "summary": "The council has taken control of the derelict grade two-listed Middleton asset from Macau investor Kam Lei Fong and plans to refurbish it into hundreds of homes, a move the authority hopes will set the tone for the regen",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Regional development"
+      ],
+      "companies": [
+        "Rochdale",
+        "Warwick Mill",
+        "Middleton",
+        "Macau"
+      ],
+      "locations": []
+    },
+    "e5dcf618cdd6": {
+      "id": "e5dcf618cdd6",
+      "importance": "Medium",
+      "summary": "Forming part of Maple Grove Developments’ regeneration of the former Heron Works in the city’s canal quarter, the hotel would have 110 bedrooms. The post Whitbread agrees terms for Lancaster Premier Inn appeared first on",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Whitbread",
+        "Lancaster Premier Inn. Forming",
+        "Maple Grove Developments",
+        "Heron Works"
+      ],
+      "locations": []
+    },
+    "b92d4a0dadf0": {
+      "id": "b92d4a0dadf0",
+      "importance": "Medium",
+      "summary": "Same location, new estate agency brand",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate",
+        "Same"
+      ],
+      "locations": []
+    },
+    "656fdc62849b": {
+      "id": "656fdc62849b",
+      "importance": "Medium",
+      "summary": "Rising borrowing costs and falling property sales put debt-funded estate agency groups under pressure",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Rising"
+      ],
+      "locations": []
+    },
+    "f5dcf4d6d2a1": {
+      "id": "f5dcf4d6d2a1",
+      "importance": "Medium",
+      "summary": "Rightmove's grip on estate agents faces growing scrutiny as market weakens",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rightmove’s",
+        "Rightmove's"
+      ],
+      "locations": []
+    },
+    "afce1c76c7c9": {
+      "id": "afce1c76c7c9",
+      "importance": "Medium",
+      "summary": "Letting agent warns that Renters’ Rights Act restrictions are making landlords more selective and leaving financially secure tenants struggling to rent",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Renters’ Rights Act",
+        "Letting"
+      ],
+      "locations": []
+    },
+    "7e42b5cf6a8f": {
+      "id": "7e42b5cf6a8f",
+      "importance": "Medium",
+      "summary": "Long-established estate agency sells lettings portfolio",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Independent",
+        "Long-established"
+      ],
+      "locations": []
+    },
+    "5302214a0f1c": {
+      "id": "5302214a0f1c",
+      "importance": "Medium",
+      "summary": "Landlords abandon plans to sell as rental demand strengthens",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlords"
+      ],
+      "locations": []
+    },
+    "9aa7ed521b13": {
+      "id": "9aa7ed521b13",
+      "importance": "Medium",
+      "summary": "Savills forecasts further prime house price falls in 2027, with London facing the greatest pressure",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Savills",
+        "London"
+      ],
+      "locations": []
+    },
+    "ed053f6eef61": {
+      "id": "ed053f6eef61",
+      "importance": "Medium",
+      "summary": "Many landlords will need to reassess their finances as borrowing costs increase",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Buy-to-let",
+        "Many"
+      ],
+      "locations": []
+    },
+    "4ed47625764a": {
+      "id": "4ed47625764a",
+      "importance": "Medium",
+      "summary": "John Caudwell launches sales at his £2bn 1 Mayfair development",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate",
+        "Mayfair",
+        "John Caudwell"
+      ],
+      "locations": []
+    },
+    "91615a6d5040": {
+      "id": "91615a6d5040",
+      "importance": "Medium",
+      "summary": "Estate agency group sponsors historic FA Cup tie as non-league side comes agonisingly close to major upset",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "FA Cup"
+      ],
+      "locations": []
+    },
+    "d1688fa368a2": {
+      "id": "d1688fa368a2",
+      "importance": "Medium",
+      "summary": "Last week Savills issued a gloomy forecast for the mainstream housing market in 2027 – now it’s done the same thing for prime housing markets. Its latest warning says “Recovery will take time to build” adding that values",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Savills",
+        "Last",
+        "Recovery"
+      ],
+      "locations": []
+    },
+    "57eec69ccaaf": {
+      "id": "57eec69ccaaf",
+      "importance": "Medium",
+      "summary": "Southern England house prices are dragging down the national average, it's claimed",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Prices",
+        "Southern England"
+      ],
+      "locations": []
+    },
+    "acc21b054329": {
+      "id": "acc21b054329",
+      "importance": "Medium",
+      "summary": "Rightmove has won the admiration of financial analysts after another round of strong figures were issued at the weekend. The portal revised its forecasts. It anticipates revenue growth for 2026 will be 6% to 7%, down sli",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Rightmove",
+        "Average",
+        "ARPA"
+      ],
+      "locations": []
+    },
+    "bc7b3e3bed23": {
+      "id": "bc7b3e3bed23",
+      "importance": "Medium",
+      "summary": "A prime estate agency says the Republicans’ slump in popularity in mid-term elections may lead to fewer US buyers purchasing in the US. Maskell has offices in Chelsea covering Prime Central London and has sold over £4 bi",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Trump",
+        "Americans",
+        "London",
+        "Republicans"
+      ],
+      "locations": []
+    },
+    "c37c34a5efe4": {
+      "id": "c37c34a5efe4",
+      "importance": "Medium",
+      "summary": "There’s a surveyor skills shortage according to the Royal Institution of Chartered Surveyors (RICS). A RICS survey of members revealing that 50% of respondents report skills shortages having a critical or moderate impact",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Surveyor",
+        "RICS. There’s",
+        "Royal Institution of Chartered Surveyors",
+        "RICS"
+      ],
+      "locations": []
+    },
+    "a969f727d755": {
+      "id": "a969f727d755",
+      "importance": "Medium",
+      "summary": "The number of first-time buyers borrowing at least 5.5 times income has more than doubled in the year since regulators amended lending rules. The number of FTB home loans in the top Loan-to-Income (LTI) bracket increased",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Thousands",
+        "Loan-to-Income"
+      ],
+      "locations": []
+    },
+    "dfa7a86a94a0": {
+      "id": "dfa7a86a94a0",
+      "importance": "Medium",
+      "summary": "This is the quarterly report of updates to UK legislation in food and feed and related scientific and regulatory issues from July to September 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Food"
+      ],
+      "locations": []
+    },
+    "7eb112faf870": {
+      "id": "7eb112faf870",
+      "importance": "Medium",
+      "summary": "We carry out and commission research relating to intellectual property, patent applications, trade marks and copyright.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Research",
+        "IPO. We"
+      ],
+      "locations": []
+    },
+    "2094262ae45a": {
+      "id": "2094262ae45a",
+      "importance": "Medium",
+      "summary": "Risk assessment of of the consumption of Echinacea foods and food supplements during pregnancy, supporting food safety advice on potential risks to maternal and offspring health.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Echinacea. Risk",
+        "Echinacea"
+      ],
+      "locations": []
+    },
+    "22e04835f4c5": {
+      "id": "22e04835f4c5",
+      "importance": "Medium",
+      "summary": "…Includes the total number of approved contractors and a breakdown by licensing sector and UK region.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Includes"
+      ],
+      "locations": []
+    },
+    "0dbdc88ecc45": {
+      "id": "0dbdc88ecc45",
+      "importance": "Medium",
+      "summary": "…Includes a breakdown by age, gender, nationality, licensing sector and UK region.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Includes"
+      ],
+      "locations": []
+    },
+    "05c546412103": {
+      "id": "05c546412103",
+      "importance": "Medium",
+      "summary": "This publication reports information from the CSDS. This is a patient-level dataset providing information relating to NHS-funded community services. These services can include health centres, schools and mental health tr",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community Services Statistics",
+        "CSDS. This",
+        "NHS-funded",
+        "These"
+      ],
+      "locations": []
+    },
+    "1986e1bb05bc": {
+      "id": "1986e1bb05bc",
+      "importance": "Medium",
+      "summary": "The Environment Agency’s research themes, partnerships and publications.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Research",
+        "Environment Agency. The Environment",
+        "Agency’s"
+      ],
+      "locations": []
+    },
+    "ce5d4ef6dbce": {
+      "id": "ce5d4ef6dbce",
+      "importance": "Medium",
+      "summary": "The Department for Business, Innovation, Science and Trade (BIST) and its public bodies produce official statistics covering their sectors and responsibilities.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Statistics",
+        "BIST. The Department",
+        "Business",
+        "Innovation"
+      ],
+      "locations": []
+    },
+    "df27b520ce85": {
+      "id": "df27b520ce85",
+      "importance": "Medium",
+      "summary": "Tested the impact of different nature-based solutions on water quality at a river catchment scale using hydrological modelling.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Modelling",
+        "Tested"
+      ],
+      "locations": []
+    },
+    "b1d6c77e872a": {
+      "id": "b1d6c77e872a",
+      "importance": "Medium",
+      "summary": "The number of mortgage sales and other mortgage statistics by UK local authority, from 2006 to 2025. These are official statistics in development.",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Mortgage",
+        "These"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 39,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cgsndker7r4CmiSMxK8rJ'}",
+    "model": null
+  }
+}
