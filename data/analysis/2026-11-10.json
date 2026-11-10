@@ -1,0 +1,611 @@
+{
+  "generated_at": "2026-11-10T15:56:01+00:00",
+  "date_label": "Tuesday 10 November 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CguX986eeD9q7BSdyX2Zh'}\n\n31 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Affordable housing",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Residential investment",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Chestertons. Chestertons",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Christmas",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Belfast City Council",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Plans",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Belfast",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Northern Ireland’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "City Hall",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "SAHP",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Social and Affordable Homes Programme",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Galliard",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Developer Galliard",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Major",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Vistry",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Worcester",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Sanctuary",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Leverhulme",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Wirral",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "1f8f048625f4": {
+      "id": "1f8f048625f4",
+      "importance": "Medium",
+      "summary": "Plans for 36 social rent homes as a part of a mixed-use development in Belfast have been approved, as the city looks to boost delivery amid Northern Ireland’s housing crisis",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Belfast City Council",
+        "Plans",
+        "Belfast",
+        "Northern Ireland’s"
+      ],
+      "locations": []
+    },
+    "bc1972a1e7ff": {
+      "id": "bc1972a1e7ff",
+      "importance": "Medium",
+      "summary": "The mayor of London has now met the government’s target for housing starts under the previous grant programme, while the deputy mayor expects the “vast majority” of offers under the new Social and Affordable Homes Progra",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Affordable housing"
+      ],
+      "companies": [
+        "London",
+        "City Hall",
+        "SAHP",
+        "Social and Affordable Homes Programme"
+      ],
+      "locations": []
+    },
+    "afadc43193bf": {
+      "id": "afadc43193bf",
+      "importance": "Medium",
+      "summary": "Developer Galliard has agreed to reimburse residents of five east London blocks for relocation costs after they were evacuated due to serious structural issues",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Galliard",
+        "London",
+        "Developer Galliard"
+      ],
+      "locations": []
+    },
+    "467489840232": {
+      "id": "467489840232",
+      "importance": "Medium",
+      "summary": "Sanctuary has teamed up with Vistry to deliver 2,204 homes in south Worcester, including around 440 affordable homes required under the scheme’s planning permission",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders",
+        "Planning policy",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Major",
+        "Vistry",
+        "Worcester",
+        "Sanctuary"
+      ],
+      "locations": []
+    },
+    "b5f3eead61aa": {
+      "id": "b5f3eead61aa",
+      "importance": "Medium",
+      "summary": "Housing associations are overpaying for retrofit works by an estimated £1.6bn a year, a report has found",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Housing"
+      ],
+      "locations": []
+    },
+    "834c83ea2c20": {
+      "id": "834c83ea2c20",
+      "importance": "Medium",
+      "summary": "The estate has resubmitted one of the eight Green Belt applications refused by Wirral Council in 2022, citing the peninsula's lack of available sites for housing and a more favourable policy landscape as factors working ",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Leverhulme",
+        "Wirral",
+        "Green Belt",
+        "Wirral Council"
+      ],
+      "locations": []
+    },
+    "da1065084928": {
+      "id": "da1065084928",
+      "importance": "Medium",
+      "summary": "Construction will begin in the next few weeks with an eye on completing the first homes in 2027, now that the social enterprise has taken ownership of the 12-acre Thornton-Cleveleys site. The post Places for People readi",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Places",
+        "People",
+        "Wyre",
+        "Construction"
+      ],
+      "locations": []
+    },
+    "7d2d4812d540": {
+      "id": "7d2d4812d540",
+      "importance": "Medium",
+      "summary": "Arguing for the 22-acre site’s Grey Belt credentials, the Peel-owned developer has submitted plans for a residential scheme to the rear of big Sainsbury’s. The post Northstone tables plans for 175 Hazel Grove homes appea",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Northstone",
+        "Hazel Grove",
+        "Arguing",
+        "Grey Belt"
+      ],
+      "locations": []
+    },
+    "e0e0ebb965f3": {
+      "id": "e0e0ebb965f3",
+      "importance": "Medium",
+      "summary": "A four-storey block featuring 38 one- to three-bed flats is planned for land off Mather Road next to Pigs Lee Brook. The post Lakeside apartments proposed in Bury appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Lakeside",
+        "Bury",
+        "Mather Road",
+        "Pigs Lee Brook. The"
+      ],
+      "locations": []
+    },
+    "023bd687a32e": {
+      "id": "023bd687a32e",
+      "importance": "Medium",
+      "summary": "HMRC penalties put estate agents on notice",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "HMRC"
+      ],
+      "locations": []
+    },
+    "8830f544898f": {
+      "id": "8830f544898f",
+      "importance": "Medium",
+      "summary": "Estate agents and lenders target homebuying delays through digital network",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Skipton and Connells",
+        "Estate"
+      ],
+      "locations": []
+    },
+    "730aa8120b9f": {
+      "id": "730aa8120b9f",
+      "importance": "Medium",
+      "summary": "Examining the challenges, opportunities and changes facing estate agents and the UK housing market",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Examining"
+      ],
+      "locations": []
+    },
+    "9ffd24edb2ce": {
+      "id": "9ffd24edb2ce",
+      "importance": "Medium",
+      "summary": "Taxes and red tape account for 57% of new London flat price, study claims",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Housebuilding",
+        "Taxes",
+        "London"
+      ],
+      "locations": []
+    },
+    "c9107cb7e255": {
+      "id": "c9107cb7e255",
+      "importance": "Medium",
+      "summary": "The TV presenter has died following a long illness",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Well-known TV",
+        "The TV"
+      ],
+      "locations": []
+    },
+    "0be65a912da7": {
+      "id": "0be65a912da7",
+      "importance": "Medium",
+      "summary": "Chestertons becomes first estate agency to join trade body",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Industry",
+        "Chestertons. Chestertons"
+      ],
+      "locations": []
+    },
+    "62bd7347ba02": {
+      "id": "62bd7347ba02",
+      "importance": "Medium",
+      "summary": "UK rental affordability worsened in October",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tenants"
+      ],
+      "locations": []
+    },
+    "00df96095400": {
+      "id": "00df96095400",
+      "importance": "Medium",
+      "summary": "Fine & Country launches a seven-region UK tour to tackle slow property transactions, review agency performance and prepare business owners for 2027",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Fine",
+        "Country"
+      ],
+      "locations": []
+    },
+    "b6c70ebbfb8a": {
+      "id": "b6c70ebbfb8a",
+      "importance": "Medium",
+      "summary": "Propertymark warns over rental housing supply",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Rents",
+        "Propertymark"
+      ],
+      "locations": []
+    },
+    "75fa00f213f6": {
+      "id": "75fa00f213f6",
+      "importance": "Medium",
+      "summary": "Mike Day releases Christmas charity single",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "It’s",
+        "Christmas",
+        "Mike Day"
+      ],
+      "locations": []
+    },
+    "7257eb0f27db": {
+      "id": "7257eb0f27db",
+      "importance": "Medium",
+      "summary": "Skipton strengthens its partnership with LMS and Connells to streamline homebuying through secure data sharing and improved connectivity.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Skipton",
+        "LMS and Connells"
+      ],
+      "locations": []
+    },
+    "8110b82ae56c": {
+      "id": "8110b82ae56c",
+      "importance": "Medium",
+      "summary": "Coadjute urges estate agents to focus on winning listings and closing sales as AML compliance pressures and market challenges intensify.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Coadjute",
+        "Be More Agent"
+      ],
+      "locations": []
+    },
+    "d67652b46eb7": {
+      "id": "d67652b46eb7",
+      "importance": "Medium",
+      "summary": "Former Winkworth director Dominic Cocklin joins Harding Green, bringing 25 years of estate agency experience to its technology-driven brokerage.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Dominic Cocklin",
+        "Harding Green",
+        "Former Winkworth"
+      ],
+      "locations": []
+    },
+    "2ded300992f8": {
+      "id": "2ded300992f8",
+      "importance": "Medium",
+      "summary": "Barratt Homes survey reveals how bad luck, haunted houses and superstitions influence property purchases, moving dates and prices.",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Barratt Homes"
+      ],
+      "locations": []
+    },
+    "c446c5c325de": {
+      "id": "c446c5c325de",
+      "importance": "Medium",
+      "summary": "Michael Day launches a festive charity song to support Diabetes UK and The Propertymark Trust, aiming to surpass last year’s £3,000 fundraising total.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Christmas",
+        "Michael Day",
+        "Diabetes UK and The Propertymark Trust"
+      ],
+      "locations": []
+    },
+    "698fc286faac": {
+      "id": "698fc286faac",
+      "importance": "Medium",
+      "summary": "Chestertons becomes the first estate agency to join ARP, boosting its corporate relocation services and industry partnerships.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Sector",
+        "Chestertons. Chestertons"
+      ],
+      "locations": []
+    },
+    "66e0b57bc22f": {
+      "id": "66e0b57bc22f",
+      "importance": "Medium",
+      "summary": "Preliminary and updated outbreak assessments for avian influenza (bird flu) in Europe and the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Avian",
+        "Europe",
+        "UK. Preliminary"
+      ],
+      "locations": []
+    },
+    "b1efe8e257bc": {
+      "id": "b1efe8e257bc",
+      "importance": "Medium",
+      "summary": "Understanding minority groups’ views on the use of facial recognition and the safeguards, accountability and oversight needed under the proposed framework.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Police",
+        "Understanding"
+      ],
+      "locations": []
+    },
+    "ba2e9d2d5c58": {
+      "id": "ba2e9d2d5c58",
+      "importance": "Medium",
+      "summary": "The inspection assessed the effectiveness of the UK-France Agreement across multiple operational teams and enablers within the Home Office.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK-France Agreement",
+        "Prevention of Dangerous Journeys",
+        "Operation Hillmore",
+        "Home Office"
+      ],
+      "locations": []
+    },
+    "c1ec336e5f8c": {
+      "id": "c1ec336e5f8c",
+      "importance": "Medium",
+      "summary": "Audit Summary Reports summarise the audit of local authority food and feed official controls in England, including key findings and improvements.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Local Authority Audit Summary",
+        "Reports. Audit Summary Reports"
+      ],
+      "locations": []
+    },
+    "d78dd32c0acb": {
+      "id": "d78dd32c0acb",
+      "importance": "Medium",
+      "summary": "Scientific Advisory Committee on Nutrition (SACN) position statement on the UK definition of free sugars in processed fruit and vegetables.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Free",
+        "SACN",
+        "Scientific Advisory Committee",
+        "Nutrition"
+      ],
+      "locations": []
+    },
+    "a7cd21599416": {
+      "id": "a7cd21599416",
+      "importance": "Medium",
+      "summary": "Laboratory-confirmed cases of invasive meningococcal disease reported to the enhanced meningococcal surveillance programme in England.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Meningococcal",
+        "Laboratory-confirmed"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 31,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CguX986eeD9q7BSdyX2Zh'}",
+    "model": null
+  }
+}
