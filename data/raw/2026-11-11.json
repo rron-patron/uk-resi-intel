@@ -1,0 +1,615 @@
+{
+  "collected_at": "2026-11-11T15:42:06+00:00",
+  "date_london": "2026-11-11",
+  "counts": {
+    "seen_in_feeds": 81,
+    "new": 32,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "feed",
+      "url": "https://www.bisnow.com/london/rss",
+      "found": 1,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 1"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 8,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 8"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 10,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 10"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "failed",
+      "url": "https://www.landlordzone.co.uk/news",
+      "found": 0,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/blog/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/rss.xml -> 0",
+        "scrape https://www.landlordzone.co.uk/news -> 0"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "bisnow_uk",
+      "source_name": "Bisnow UK",
+      "title": "UK Pension Funds Set For £340M BTR Buy",
+      "url": "https://bisnow.com/news/london/build-to-rent/uk-pension-funds-set-for-340m-btr-buy",
+      "published": "2026-11-10T20:03:28+00:00",
+      "excerpt": "Northern LGPS and LPPI eye a £340M UK build-to-rent portfolio, expanding their UK Housing Partnership rental platform.",
+      "entities": [
+        "UK Pension Funds Set",
+        "BTR Buy. Northern LGPS",
+        "LPPI",
+        "UK Housing Partnership"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:06+00:00",
+      "id": "bd20f47f8db7"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Southern Housing ‘cautious’ on repair costs amid ‘potential impact’ from second phase of Awaab’s Law",
+      "url": "https://insidehousing.co.uk/home/southern-housing-cautious-on-repair-costs-amid-potential-impact-from-second-phase-of-awaabs-law-99617",
+      "published": "2026-11-11T11:45:00+00:00",
+      "excerpt": "Southern Housing has warned over the potential impact on repair costs as the next phase of Awaab’s Law is due to take effect later this month",
+      "entities": [
+        "Southern Housing",
+        "Awaab’s Law. Southern Housing",
+        "Awaab’s Law"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:07+00:00",
+      "id": "b59a006b9b89"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "The Treasury’s new homelessness prevention budget must change more than the accounts",
+      "url": "https://insidehousing.co.uk/home/the-treasurys-new-homelessness-prevention-budget-must-change-more-than-the-accounts-99520",
+      "published": "2026-11-11T07:00:00+00:00",
+      "excerpt": "We need to look at the causes and impacts of homelessness to achieve long-term prevention, writes Lígia Teixeira of the Centre for Homelessness Impact",
+      "entities": [
+        "The Treasury’s",
+        "Teixeira",
+        "Centre",
+        "Homelessness Impact"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:07+00:00",
+      "id": "12f91e9e36f3"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "NHG expects ‘no impact’ from delisting of £1.5bn bonds as trading resumes",
+      "url": "https://insidehousing.co.uk/home/nhg-expects-no-impact-from-delisting-of-15bn-bonds-as-trading-resumes-99611",
+      "published": "2026-11-10T17:30:00+00:00",
+      "excerpt": "G15 landlord Notting Hill Genesis does not believe a five-week gap in trading for its bonds will have any “long-term” impact on its ability to access funding",
+      "entities": [
+        "Notting Hill Genesis"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:07+00:00",
+      "id": "e25657052a61"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Over one in 10 large landlords built no social homes last year, research finds",
+      "url": "https://insidehousing.co.uk/home/over-one-in-10-large-landlords-built-no-social-homes-last-year-research-finds-99607",
+      "published": "2026-11-10T17:10:00+00:00",
+      "excerpt": "More than one in 10 large housing associations failed to build any social homes in the last financial year, research has shown",
+      "entities": [
+        "Over",
+        "More"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:07+00:00",
+      "id": "d9a551829e9f"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Manchester to splash £4.5m on Holt Town land assembly",
+      "url": "https://placenorthwest.co.uk/manchester-to-splash-4-5m-on-holt-town-land-assembly",
+      "published": "2026-11-11T15:14:25+00:00",
+      "excerpt": "Crossley Court, short-term accommodation off Pollard Street run by the Salvation Army, is to be purchased by the city council. The post Manchester to splash £4.5m on Holt Town land assembly appeared first on Place North West .",
+      "entities": [
+        "Manchester",
+        "Holt Town",
+        "Crossley Court",
+        "Pollard Street",
+        "Salvation Army",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:16+00:00",
+      "id": "e468325b8a3c"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Trio of major Manchester projects to go back under the microscope",
+      "url": "https://placenorthwest.co.uk/trio-of-major-manchester-projects-to-go-back-under-the-microscope",
+      "published": "2026-11-11T13:57:51+00:00",
+      "excerpt": "A hat-trick of proposals featuring a combined 3,600 homes across nine buildings will be stress tested by the city council’s planning committee next week. The post Trio of major Manchester projects to go back under the microscope appeared first on Place North West .",
+      "entities": [
+        "Trio",
+        "Manchester",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:16+00:00",
+      "id": "857d464d39a8"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Bolton pursues legal challenge into national planning changes",
+      "url": "https://placenorthwest.co.uk/bolton-pursues-legal-challenge-into-national-planning-changes",
+      "published": "2026-11-11T12:45:26+00:00",
+      "excerpt": "A rallying cry has been made to other local authorities to join Bolton Council in a potential battle against the central government’s policy, which will see public officers become the default decisionmakers for most planning applications. The post Bolton pursues legal challenge into national planning changes appeared first on Place North West .",
+      "entities": [
+        "Bolton",
+        "Bolton Council",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:16+00:00",
+      "id": "287d0c8fe67e"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Taylor Wimpey plans 275 homes in Wirral",
+      "url": "https://placenorthwest.co.uk/taylor-wimpey-plans-275-homes-in-wirral",
+      "published": "2026-11-11T11:49:46+00:00",
+      "excerpt": "The peninsula’s Green Belt is coming under increasing pressure amid a widening gap between the supply of and demand for homes across the borough. The post Taylor Wimpey plans 275 homes in Wirral appeared first on Place North West .",
+      "entities": [
+        "Taylor Wimpey",
+        "Wirral. The",
+        "Green Belt",
+        "Wirral",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:16+00:00",
+      "id": "3b4fce08cf91"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Meanwhile use put forward ahead of £250m Crompton Place regen",
+      "url": "https://placenorthwest.co.uk/meanwhile-use-put-forward-ahead-of-250m-crompton-place-regen",
+      "published": "2026-11-11T10:39:03+00:00",
+      "excerpt": "Bolton Council wants to install street food markets, a big screen, and an urban garden on the site of the former shopping centre once it has been demolished. The post Meanwhile use put forward ahead of £250m Crompton Place regen appeared first on Place North West .",
+      "entities": [
+        "Meanwhile",
+        "Crompton Place",
+        "Bolton Council",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:16+00:00",
+      "id": "c9081b984675"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Britain’s happiest places to live revealed – is your area in the top 20?",
+      "url": "https://propertyindustryeye.com/britains-happiest-places-to-live-revealed-is-your-area-in-the-top-20",
+      "published": "2026-11-11T04:50:56+00:00",
+      "excerpt": "Rightmove reveals Britain's happiest places to live in 2026",
+      "entities": [
+        "Britain’s",
+        "Rightmove",
+        "Britain's"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:17+00:00",
+      "id": "160ec66ffbe6"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency collapses owing almost £60,000 as creditors face losses",
+      "url": "https://propertyindustryeye.com/estate-agency-collapses-owing-almost-60000-as-creditors-face-losses",
+      "published": "2026-11-11T04:38:24+00:00",
+      "excerpt": "Estate agency creditors face zero payout as £60,000 debts emerge",
+      "entities": [
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:17+00:00",
+      "id": "f7ce1e80868b"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agents face growing risks as customer data requests rise",
+      "url": "https://propertyindustryeye.com/estate-agents-face-growing-risks-as-customer-data-requests-rise",
+      "published": "2026-11-11T03:50:47+00:00",
+      "excerpt": "Estate agents warned: Mishandling customer data requests could prove costly",
+      "entities": [
+        "Estate",
+        "Mishandling"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:17+00:00",
+      "id": "913dd64f08b5"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agent slashes £1.45m off David Walliams’ mansion amid sexual predator allegations",
+      "url": "https://propertyindustryeye.com/estate-agent-slashes-1-45m-off-david-walliams-mansion-amid-sexual-predator-allegations",
+      "published": "2026-11-11T03:40:17+00:00",
+      "excerpt": "David Walliams' north London mansion has had £1.45m slashed from its asking price",
+      "entities": [
+        "Estate",
+        "David Walliams",
+        "London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:17+00:00",
+      "id": "23d5e946b138"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Budget backlash: Almost three-quarters of landlords eye rent hikes as half consider selling",
+      "url": "https://propertyindustryeye.com/budget-backlash-almost-three-quarters-of-landlords-eye-rent-hikes-as-half-consider-selling",
+      "published": "2026-11-11T03:30:22+00:00",
+      "excerpt": "Landlords threaten rent rises and property sales following Budget tax increases",
+      "entities": [
+        "Budget",
+        "Almost",
+        "Landlords"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:17+00:00",
+      "id": "910e973880b7"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Why estate agents who overvalue properties could be costing sellers thousands",
+      "url": "https://propertyindustryeye.com/why-estate-agents-who-overvalue-properties-could-be-costing-sellers-thousands",
+      "published": "2026-11-11T03:16:03+00:00",
+      "excerpt": "Overvaluing to win instructions: The costly mistake estate agents must avoid",
+      "entities": [
+        "Overvaluing"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:17+00:00",
+      "id": "949f1fc7bd0b"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Landlord who ‘won’t get licences’ hit with £21,680 court bill",
+      "url": "https://propertyindustryeye.com/landlord-who-wont-get-licences-hit-with-21680-court-bill",
+      "published": "2026-11-11T03:00:24+00:00",
+      "excerpt": "A landlord with a history of licensing breaches admits 10 Housing Act offences",
+      "entities": [
+        "Landlord",
+        "Housing Act"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:17+00:00",
+      "id": "60afe5370da1"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agents celebrate Rightmove’s ‘happy’ crown – but Propertymark warns price isn’t everything",
+      "url": "https://propertyindustryeye.com/estate-agents-celebrate-rightmoves-happy-crown-but-propertymark-warns-price-isnt-everything",
+      "published": "2026-11-11T02:30:22+00:00",
+      "excerpt": "Estate agents celebrate Rightmove's happiest place to live ranking",
+      "entities": [
+        "Estate",
+        "Rightmove’s",
+        "Propertymark",
+        "Rightmove's"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:17+00:00",
+      "id": "eee39a5ed639"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Buy-to-let landlords face tax bills bigger than rental profits, IMLA warns",
+      "url": "https://propertyindustryeye.com/buy-to-let-landlords-face-tax-bills-bigger-than-rental-profits-imla-warns",
+      "published": "2026-11-11T02:00:14+00:00",
+      "excerpt": "Landlords could face effective tax rates of 124% on rental profits from 2027/28",
+      "entities": [
+        "Buy-to-let",
+        "IMLA",
+        "Landlords"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:17+00:00",
+      "id": "342616d9b493"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Eight in ten estate agents frustrated by time-consuming valuation reports",
+      "url": "https://propertyindustryeye.com/eight-in-ten-estate-agents-frustrated-by-time-consuming-valuation-reports",
+      "published": "2026-11-11T01:30:36+00:00",
+      "excerpt": "Eight in ten estate agents say valuation reports take too long",
+      "entities": [
+        "Eight"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:17+00:00",
+      "id": "34b745ec285c"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "BTL landlords offered IKEA discounts under new NRLA deal",
+      "url": "https://propertyindustryeye.com/btl-landlords-offered-ikea-discounts-under-new-nrla-deal",
+      "published": "2026-11-11T00:50:41+00:00",
+      "excerpt": "NRLA members can now claim IKEA discounts on home furnishings and kitchens",
+      "entities": [
+        "IKEA",
+        "NRLA"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:17+00:00",
+      "id": "84a2a9ab4493"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Where buyers are H.A.P.P.Y.",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/where-buyers-are-h-a-p-p-y",
+      "published": "2026-11-11T00:06:00+00:00",
+      "excerpt": "Rightmove’s 2026 study ranks Richmond upon Thames top for resident satisfaction, with nature and convenience driving results.",
+      "entities": [
+        "Where",
+        "H.A.P.P.Y.. Rightmove’s",
+        "Richmond",
+        "Thames"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:17+00:00",
+      "id": "d3e6eaa91511"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Lomond takes 15 awards in Best Estate Agent Guide 2027",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/lomond-takes-15-awards-in-best-estate-agent-guide-2027",
+      "published": "2026-11-11T00:05:00+00:00",
+      "excerpt": "Lomond secures 13 golds, two silvers and two national titles, recognising excellence across ten estate and letting agency brands.",
+      "entities": [
+        "Lomond",
+        "Best Estate Agent Guide"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:17+00:00",
+      "id": "a6168252a538"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "OneDome named second fastest-growing fintech",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/onedome-named-second-fastest-growing-fintech",
+      "published": "2026-11-11T00:04:00+00:00",
+      "excerpt": "OneDome climbs to seventh overall in Deloitte's UK Technology Fast 50 2026 following a remarkable three-year revenue surge.",
+      "entities": [
+        "OneDome",
+        "Deloitte's UK Technology Fast"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:17+00:00",
+      "id": "881b76232d74"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Chasing solicitors biggest frustration in conveyancing",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/chasing-solicitors-biggest-frustration-in-conveyancing",
+      "published": "2026-11-11T00:03:00+00:00",
+      "excerpt": "OMS and Smoove poll reveals 56% of brokers struggle with solicitor follow-ups, highlighting communication gaps in property transactions.",
+      "entities": [
+        "Chasing",
+        "OMS and Smoove"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:17+00:00",
+      "id": "84654f11a844"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Grass is greener for Field",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/grass-is-greener-for-field",
+      "published": "2026-11-11T00:02:00+00:00",
+      "excerpt": "Durden & Hunt appoints Keith Field to lead its Loughton office, bringing 28 years of property and financial services experience.",
+      "entities": [
+        "Grass",
+        "Field. Durden",
+        "Hunt",
+        "Keith Field",
+        "Loughton"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:17+00:00",
+      "id": "adfe6db5f166"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Housebuilding recovery expected next year",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/housebuilding-recovery-expected-next-year",
+      "published": "2026-11-11T00:01:00+00:00",
+      "excerpt": "Glenigan forecasts a rebound in residential development from mid-2027, following a challenging year for the UK construction industry.",
+      "entities": [
+        "Housebuilding",
+        "Glenigan"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-11T15:42:17+00:00",
+      "id": "4dce5672c3a0"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Latest agricultural price indices",
+      "url": "https://gov.uk/government/statistics/agricultural-price-indices",
+      "published": "2026-11-11T10:32:39+00:00",
+      "excerpt": "The Agricultural Price Index (API) is a set of indices of the prices paid and received by UK farmers for agricultural goods and services.",
+      "entities": [
+        "Latest",
+        "The Agricultural Price Index"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-11T15:42:24+00:00",
+      "id": "dc2357946b6b"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "SSAC Occasional Paper 28: Keeping Pace? Reviewing benefits, thresholds and caps in a changing economy",
+      "url": "https://gov.uk/government/publications/ssac-occasional-paper-28-keeping-pace-reviewing-benefits-thresholds-and-caps-in-a-changing-economy",
+      "published": "2026-11-11T10:30:00+00:00",
+      "excerpt": "This report looks at how inflation and earnings growth can reshape parts of the social security system when benefits, thresholds and caps remain frozen for extended periods of time.",
+      "entities": [
+        "SSAC Occasional Paper",
+        "Keeping Pace",
+        "Reviewing"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-11T15:42:24+00:00",
+      "id": "66d59afa2488"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Live tables on local government finance",
+      "url": "https://gov.uk/government/statistical-data-sets/live-tables-on-local-government-finance",
+      "published": "2026-11-11T09:30:02+00:00",
+      "excerpt": "The latest data tables on local government finance.",
+      "entities": [
+        "Live"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-11T15:42:24+00:00",
+      "id": "cfdece6e4d17"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK international sea passengers: September 2026",
+      "url": "https://gov.uk/government/statistics/uk-international-sea-passengers-september-2026",
+      "published": "2026-11-11T09:30:01+00:00",
+      "excerpt": "Monthly statistics on UK international and domestic sea passengers.",
+      "entities": [
+        "Monthly"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-11T15:42:24+00:00",
+      "id": "95b65443195e"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "A Respect Index for Northern Ireland (as measured by the Everyday Discrimination Scale): 2016 - 2025",
+      "url": "https://gov.uk/government/statistics/a-respect-index-for-northern-ireland-as-measured-by-the-everyday-discrimination-scale-2016-2025",
+      "published": "2026-11-11T09:30:00+00:00",
+      "excerpt": "The respect index measures perception of discrimination experienced by individuals in their daily lives",
+      "entities": [
+        "Respect Index",
+        "Northern Ireland",
+        "Everyday Discrimination Scale"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-11T15:42:24+00:00",
+      "id": "0597d6fce112"
+    }
+  ]
+}

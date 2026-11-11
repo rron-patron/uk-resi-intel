@@ -1,0 +1,636 @@
+{
+  "generated_at": "2026-11-11T15:42:30+00:00",
+  "date_label": "Wednesday 11 November 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgwPvEVhFWddA6kKERxWH'}\n\n32 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 8,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Build-to-rent",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Manchester",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Bolton Council",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Landlords",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "UK Pension Funds Set",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "BTR Buy. Northern LGPS",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "LPPI",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "UK Housing Partnership",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Southern Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Awaab’s Law. Southern Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Awaab’s Law",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Treasury’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Teixeira",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Centre",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Homelessness Impact",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Notting Hill Genesis",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Over",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "More",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Holt Town",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "bd20f47f8db7": {
+      "id": "bd20f47f8db7",
+      "importance": "Medium",
+      "summary": "Northern LGPS and LPPI eye a £340M UK build-to-rent portfolio, expanding their UK Housing Partnership rental platform.",
+      "why_it_matters": "",
+      "themes": [
+        "Build-to-rent",
+        "Residential investment"
+      ],
+      "companies": [
+        "UK Pension Funds Set",
+        "BTR Buy. Northern LGPS",
+        "LPPI",
+        "UK Housing Partnership"
+      ],
+      "locations": []
+    },
+    "b59a006b9b89": {
+      "id": "b59a006b9b89",
+      "importance": "Medium",
+      "summary": "Southern Housing has warned over the potential impact on repair costs as the next phase of Awaab’s Law is due to take effect later this month",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Southern Housing",
+        "Awaab’s Law. Southern Housing",
+        "Awaab’s Law"
+      ],
+      "locations": []
+    },
+    "12f91e9e36f3": {
+      "id": "12f91e9e36f3",
+      "importance": "Medium",
+      "summary": "We need to look at the causes and impacts of homelessness to achieve long-term prevention, writes Lígia Teixeira of the Centre for Homelessness Impact",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Treasury’s",
+        "Teixeira",
+        "Centre",
+        "Homelessness Impact"
+      ],
+      "locations": []
+    },
+    "e25657052a61": {
+      "id": "e25657052a61",
+      "importance": "Medium",
+      "summary": "G15 landlord Notting Hill Genesis does not believe a five-week gap in trading for its bonds will have any “long-term” impact on its ability to access funding",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Notting Hill Genesis"
+      ],
+      "locations": []
+    },
+    "d9a551829e9f": {
+      "id": "d9a551829e9f",
+      "importance": "Medium",
+      "summary": "More than one in 10 large housing associations failed to build any social homes in the last financial year, research has shown",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Over",
+        "More"
+      ],
+      "locations": []
+    },
+    "e468325b8a3c": {
+      "id": "e468325b8a3c",
+      "importance": "Medium",
+      "summary": "Crossley Court, short-term accommodation off Pollard Street run by the Salvation Army, is to be purchased by the city council. The post Manchester to splash £4.5m on Holt Town land assembly appeared first on Place North ",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Manchester",
+        "Holt Town",
+        "Crossley Court",
+        "Pollard Street"
+      ],
+      "locations": []
+    },
+    "857d464d39a8": {
+      "id": "857d464d39a8",
+      "importance": "Medium",
+      "summary": "A hat-trick of proposals featuring a combined 3,600 homes across nine buildings will be stress tested by the city council’s planning committee next week. The post Trio of major Manchester projects to go back under the mi",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Trio",
+        "Manchester",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "287d0c8fe67e": {
+      "id": "287d0c8fe67e",
+      "importance": "Medium",
+      "summary": "A rallying cry has been made to other local authorities to join Bolton Council in a potential battle against the central government’s policy, which will see public officers become the default decisionmakers for most plan",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Bolton",
+        "Bolton Council",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "3b4fce08cf91": {
+      "id": "3b4fce08cf91",
+      "importance": "Medium",
+      "summary": "The peninsula’s Green Belt is coming under increasing pressure amid a widening gap between the supply of and demand for homes across the borough. The post Taylor Wimpey plans 275 homes in Wirral appeared first on Place N",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders",
+        "Planning policy",
+        "Housing supply"
+      ],
+      "companies": [
+        "Taylor Wimpey",
+        "Wirral. The",
+        "Green Belt",
+        "Wirral"
+      ],
+      "locations": []
+    },
+    "c9081b984675": {
+      "id": "c9081b984675",
+      "importance": "Medium",
+      "summary": "Bolton Council wants to install street food markets, a big screen, and an urban garden on the site of the former shopping centre once it has been demolished. The post Meanwhile use put forward ahead of £250m Crompton Pla",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Meanwhile",
+        "Crompton Place",
+        "Bolton Council",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "160ec66ffbe6": {
+      "id": "160ec66ffbe6",
+      "importance": "Medium",
+      "summary": "Rightmove reveals Britain's happiest places to live in 2026",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Britain’s",
+        "Rightmove",
+        "Britain's"
+      ],
+      "locations": []
+    },
+    "f7ce1e80868b": {
+      "id": "f7ce1e80868b",
+      "importance": "Medium",
+      "summary": "Estate agency creditors face zero payout as £60,000 debts emerge",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "913dd64f08b5": {
+      "id": "913dd64f08b5",
+      "importance": "Medium",
+      "summary": "Estate agents warned: Mishandling customer data requests could prove costly",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Mishandling"
+      ],
+      "locations": []
+    },
+    "23d5e946b138": {
+      "id": "23d5e946b138",
+      "importance": "Medium",
+      "summary": "David Walliams' north London mansion has had £1.45m slashed from its asking price",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate",
+        "David Walliams",
+        "London"
+      ],
+      "locations": []
+    },
+    "910e973880b7": {
+      "id": "910e973880b7",
+      "importance": "Medium",
+      "summary": "Landlords threaten rent rises and property sales following Budget tax increases",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Budget",
+        "Almost",
+        "Landlords"
+      ],
+      "locations": []
+    },
+    "949f1fc7bd0b": {
+      "id": "949f1fc7bd0b",
+      "importance": "Medium",
+      "summary": "Overvaluing to win instructions: The costly mistake estate agents must avoid",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Overvaluing"
+      ],
+      "locations": []
+    },
+    "60afe5370da1": {
+      "id": "60afe5370da1",
+      "importance": "Medium",
+      "summary": "A landlord with a history of licensing breaches admits 10 Housing Act offences",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Landlord",
+        "Housing Act"
+      ],
+      "locations": []
+    },
+    "eee39a5ed639": {
+      "id": "eee39a5ed639",
+      "importance": "Medium",
+      "summary": "Estate agents celebrate Rightmove's happiest place to live ranking",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Rightmove’s",
+        "Propertymark",
+        "Rightmove's"
+      ],
+      "locations": []
+    },
+    "342616d9b493": {
+      "id": "342616d9b493",
+      "importance": "Medium",
+      "summary": "Landlords could face effective tax rates of 124% on rental profits from 2027/28",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Buy-to-let",
+        "IMLA",
+        "Landlords"
+      ],
+      "locations": []
+    },
+    "34b745ec285c": {
+      "id": "34b745ec285c",
+      "importance": "Medium",
+      "summary": "Eight in ten estate agents say valuation reports take too long",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Eight"
+      ],
+      "locations": []
+    },
+    "84a2a9ab4493": {
+      "id": "84a2a9ab4493",
+      "importance": "Medium",
+      "summary": "NRLA members can now claim IKEA discounts on home furnishings and kitchens",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "IKEA",
+        "NRLA"
+      ],
+      "locations": []
+    },
+    "d3e6eaa91511": {
+      "id": "d3e6eaa91511",
+      "importance": "Medium",
+      "summary": "Rightmove’s 2026 study ranks Richmond upon Thames top for resident satisfaction, with nature and convenience driving results.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Where",
+        "H.A.P.P.Y.. Rightmove’s",
+        "Richmond",
+        "Thames"
+      ],
+      "locations": []
+    },
+    "a6168252a538": {
+      "id": "a6168252a538",
+      "importance": "Medium",
+      "summary": "Lomond secures 13 golds, two silvers and two national titles, recognising excellence across ten estate and letting agency brands.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Lomond",
+        "Best Estate Agent Guide"
+      ],
+      "locations": []
+    },
+    "881b76232d74": {
+      "id": "881b76232d74",
+      "importance": "Medium",
+      "summary": "OneDome climbs to seventh overall in Deloitte's UK Technology Fast 50 2026 following a remarkable three-year revenue surge.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "OneDome",
+        "Deloitte's UK Technology Fast"
+      ],
+      "locations": []
+    },
+    "84654f11a844": {
+      "id": "84654f11a844",
+      "importance": "Medium",
+      "summary": "OMS and Smoove poll reveals 56% of brokers struggle with solicitor follow-ups, highlighting communication gaps in property transactions.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Chasing",
+        "OMS and Smoove"
+      ],
+      "locations": []
+    },
+    "adfe6db5f166": {
+      "id": "adfe6db5f166",
+      "importance": "Medium",
+      "summary": "Durden & Hunt appoints Keith Field to lead its Loughton office, bringing 28 years of property and financial services experience.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Grass",
+        "Field. Durden",
+        "Hunt",
+        "Keith Field"
+      ],
+      "locations": []
+    },
+    "4dce5672c3a0": {
+      "id": "4dce5672c3a0",
+      "importance": "Medium",
+      "summary": "Glenigan forecasts a rebound in residential development from mid-2027, following a challenging year for the UK construction industry.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Housebuilding",
+        "Glenigan"
+      ],
+      "locations": []
+    },
+    "dc2357946b6b": {
+      "id": "dc2357946b6b",
+      "importance": "Medium",
+      "summary": "The Agricultural Price Index (API) is a set of indices of the prices paid and received by UK farmers for agricultural goods and services.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Latest",
+        "The Agricultural Price Index"
+      ],
+      "locations": []
+    },
+    "66d59afa2488": {
+      "id": "66d59afa2488",
+      "importance": "Medium",
+      "summary": "This report looks at how inflation and earnings growth can reshape parts of the social security system when benefits, thresholds and caps remain frozen for extended periods of time.",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "SSAC Occasional Paper",
+        "Keeping Pace",
+        "Reviewing"
+      ],
+      "locations": []
+    },
+    "cfdece6e4d17": {
+      "id": "cfdece6e4d17",
+      "importance": "Medium",
+      "summary": "The latest data tables on local government finance.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Live"
+      ],
+      "locations": []
+    },
+    "95b65443195e": {
+      "id": "95b65443195e",
+      "importance": "Medium",
+      "summary": "Monthly statistics on UK international and domestic sea passengers.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Monthly"
+      ],
+      "locations": []
+    },
+    "0597d6fce112": {
+      "id": "0597d6fce112",
+      "importance": "Medium",
+      "summary": "The respect index measures perception of discrimination experienced by individuals in their daily lives",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Respect Index",
+        "Northern Ireland",
+        "Everyday Discrimination Scale"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 32,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgwPvEVhFWddA6kKERxWH'}",
+    "model": null
+  }
+}
