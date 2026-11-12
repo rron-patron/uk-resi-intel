@@ -1,0 +1,718 @@
+{
+  "generated_at": "2026-11-12T16:26:26+00:00",
+  "date_label": "Thursday 12 November 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgyM5SUgfbXYXyuKpLz8c'}\n\n38 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 7,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Student housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "Statistics",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "RICS",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Independent",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "First-time",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Mortgage Advice Bureau",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Data",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Royal London Gets Alternative",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "With",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Of Deals. Royal London",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Asset Management",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Notting Hill Genesis",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Plans",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Birmingham",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Ladywood Estate",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Birmingham City Council",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Berkeley St Joseph",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "8a6c700ad7d0": {
+      "id": "8a6c700ad7d0",
+      "importance": "Medium",
+      "summary": "Royal London Asset Management committed £105M to four long-income property deals in UK housing, education and student accommodation.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Student housing"
+      ],
+      "companies": [
+        "Royal London Gets Alternative",
+        "With",
+        "Of Deals. Royal London",
+        "Asset Management"
+      ],
+      "locations": []
+    },
+    "a7eb96aa3a01": {
+      "id": "a7eb96aa3a01",
+      "importance": "Medium",
+      "summary": "G15 landlord Notting Hill Genesis has warned of “underlying cost pressures” after reporting a sharp drop in its half-year surplus, despite an uptick in turnover",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Notting Hill Genesis"
+      ],
+      "locations": []
+    },
+    "cd4d652cb0d2": {
+      "id": "cd4d652cb0d2",
+      "importance": "Medium",
+      "summary": "The 10,000-home regeneration of the Ladywood Estate has been scrapped after Birmingham City Council and developer Berkeley St Joseph mutually agreed to part ways",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders",
+        "Residential investment",
+        "Regional development"
+      ],
+      "companies": [
+        "Plans",
+        "Birmingham",
+        "Ladywood Estate",
+        "Birmingham City Council"
+      ],
+      "locations": []
+    },
+    "42361f93be92": {
+      "id": "42361f93be92",
+      "importance": "Medium",
+      "summary": "Government figures for the number of homes proposed with outline planning applications were on average 42.6% higher than estimates from new research",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Researchers"
+      ],
+      "locations": []
+    },
+    "95f3cceb0348": {
+      "id": "95f3cceb0348",
+      "importance": "Medium",
+      "summary": "If we want to make London more family friendly, affordable city-centre housing is the answer, says Barbara Brownlee, chief executive of Soho Housing Association",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "London’s",
+        "London",
+        "Barbara Brownlee",
+        "Soho Housing Association"
+      ],
+      "locations": []
+    },
+    "a2d9807f7477": {
+      "id": "a2d9807f7477",
+      "importance": "Medium",
+      "summary": "The firm is looking to establish outline consent for up to 60 market-sale homes on land between the M56 and Breretons Lane. The post Marshall CDP puts in for Daresbury resi appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Marshall CDP",
+        "Daresbury",
+        "Breretons Lane. The",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "bf45dd4cfaa3": {
+      "id": "bf45dd4cfaa3",
+      "importance": "Medium",
+      "summary": "The 24,000 sq ft scheme on Oak Street, south of the town centre, forms part of charity OnSide’s national network of facilities. The post Caddick completes £14m Crewe Youth Zone appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Caddick",
+        "Crewe Youth Zone. The",
+        "Oak Street",
+        "OnSide’s"
+      ],
+      "locations": []
+    },
+    "b0ad03883b94": {
+      "id": "b0ad03883b94",
+      "importance": "Medium",
+      "summary": "The Planning Inspectorate has overturned the city council’s refusal of the developer’s outline application to build up to 200 homes on 28 acres of Green Belt in Bolton-le-Sands. The post Wrenman wins Grey Belt appeal aga",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Wrenman",
+        "Grey Belt",
+        "Lancaster. The Planning Inspectorate",
+        "Green Belt"
+      ],
+      "locations": []
+    },
+    "c1b0ee03e754": {
+      "id": "c1b0ee03e754",
+      "importance": "Medium",
+      "summary": "Buildings rising to 43 and 33 storeys and offering a luxury hotel and premium apartments could be constructed within the rising St Mary’s Parsonage regeneration area, under proposals being worked up by Gary Neville’s dev",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "First",
+        "Relentless’ Manchester",
+        "Buildings",
+        "St Mary’s Parsonage"
+      ],
+      "locations": []
+    },
+    "7f5de95ce0c9": {
+      "id": "7f5de95ce0c9",
+      "importance": "Medium",
+      "summary": "Housing market outlook weakest since 2023, RICS warns",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Housing",
+        "RICS"
+      ],
+      "locations": []
+    },
+    "d29816abae60": {
+      "id": "d29816abae60",
+      "importance": "Medium",
+      "summary": "Independent estate agency changes hands as group expands",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Independent"
+      ],
+      "locations": []
+    },
+    "b735773d72cc": {
+      "id": "b735773d72cc",
+      "importance": "Medium",
+      "summary": "Estate agency rebrands following two years of growth",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "ebd853f44de4": {
+      "id": "ebd853f44de4",
+      "importance": "Medium",
+      "summary": "Savills moves into Bath lettings market with new team",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Savills",
+        "Bath"
+      ],
+      "locations": []
+    },
+    "9aaf41971607": {
+      "id": "9aaf41971607",
+      "importance": "Medium",
+      "summary": "- Estate agents lose ground to inflation as pay growth struggles to keep up",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "14afeb11550c": {
+      "id": "14afeb11550c",
+      "importance": "Medium",
+      "summary": "AI in estate agency: Guild webinars to cover practical uses, marketing and compliance risks",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Guild",
+        "Guild"
+      ],
+      "locations": []
+    },
+    "b8e069c134cc": {
+      "id": "b8e069c134cc",
+      "importance": "Medium",
+      "summary": "Agency duo complete third branch deal as expansion continues",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Ambitious",
+        "Agency"
+      ],
+      "locations": []
+    },
+    "dc208926052b": {
+      "id": "dc208926052b",
+      "importance": "Medium",
+      "summary": "New figures reveal a sharp slowdown in company incorporations linked to property investment",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Buy-to-let"
+      ],
+      "locations": []
+    },
+    "0d5deb157acc": {
+      "id": "0d5deb157acc",
+      "importance": "Medium",
+      "summary": "Independent estate agency expands with new office and leadership shake-up",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Family-run",
+        "Independent"
+      ],
+      "locations": []
+    },
+    "6713e0291b31": {
+      "id": "6713e0291b31",
+      "importance": "Medium",
+      "summary": "First-time buyers stretch budgets further as lenders increase high-LTV mortgage options",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "First-time"
+      ],
+      "locations": []
+    },
+    "13bfd1043b06": {
+      "id": "13bfd1043b06",
+      "importance": "Medium",
+      "summary": "Prime London sales fell sharply in October as price reductions increased",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Prime London"
+      ],
+      "locations": []
+    },
+    "d58e93c73d72": {
+      "id": "d58e93c73d72",
+      "importance": "Medium",
+      "summary": "Company targets wider homeownership market",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Mortgage Advice Bureau",
+        "Company"
+      ],
+      "locations": []
+    },
+    "d52b4a905383": {
+      "id": "d52b4a905383",
+      "importance": "Medium",
+      "summary": "RICS reports falling buyer demand, weaker property prices and declining transactions, while rental growth expectations reach their highest since early 2024.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Housing",
+        "RICS"
+      ],
+      "locations": []
+    },
+    "ead8d9bc210a": {
+      "id": "ead8d9bc210a",
+      "importance": "Medium",
+      "summary": "Moneyfacts warns that buyers bypassing starter homes and taking on larger loans could create bottlenecks in the UK property market.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "First-time",
+        "Moneyfacts"
+      ],
+      "locations": []
+    },
+    "a732908df047": {
+      "id": "a732908df047",
+      "importance": "Medium",
+      "summary": "Estate agents who invest in technology, efficiency and customer service now could be best placed to benefit when the property market rebounds.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property SigNATure",
+        "Don’t",
+        "Estate"
+      ],
+      "locations": []
+    },
+    "3bbb4f2a2a58": {
+      "id": "3bbb4f2a2a58",
+      "importance": "Medium",
+      "summary": "Ravindra and Rupal Patel take over Winkworth Ealing, adding to their growing network of offices in Shepherd’s Bush and Hammersmith.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Pair",
+        "Winkworth",
+        "Ealing",
+        "Ravindra and Rupal Patel"
+      ],
+      "locations": []
+    },
+    "b0261ba5e962": {
+      "id": "b0261ba5e962",
+      "importance": "Medium",
+      "summary": "Mortgage Advice Bureau unveils a new identity as Mab, reflecting its evolution into a technology-driven advice business with over 2,100 advisers.",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Mortgage Advice Bureau",
+        "Mab. Mortgage Advice Bureau"
+      ],
+      "locations": []
+    },
+    "7d2efadb1c03": {
+      "id": "7d2efadb1c03",
+      "importance": "Medium",
+      "summary": "TAUK expands its presence in Staffordshire with the acquisition of Bromley Cross Homes, with Harriet Lamb taking over from founder Jayne Lister.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "TAUK",
+        "Staffordshire",
+        "Bromley Cross Homes",
+        "Harriet Lamb"
+      ],
+      "locations": []
+    },
+    "484d5a0669ad": {
+      "id": "484d5a0669ad",
+      "importance": "Medium",
+      "summary": "UKHSA hepatitis C reports, describing trends in HCV epidemiology in London.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Hepatitis",
+        "London",
+        "UKHSA"
+      ],
+      "locations": []
+    },
+    "29ef70ad5b18": {
+      "id": "29ef70ad5b18",
+      "importance": "Medium",
+      "summary": "Quarterly National Statistics on possession claim actions in county courts by mortgage lenders and social and private landlords.",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Mortgage",
+        "Quarterly National Statistics"
+      ],
+      "locations": []
+    },
+    "c2ae792884b1": {
+      "id": "c2ae792884b1",
+      "importance": "Medium",
+      "summary": "National influenza (flu) and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "National",
+        "COVID"
+      ],
+      "locations": []
+    },
+    "33b3983f6600": {
+      "id": "33b3983f6600",
+      "importance": "Medium",
+      "summary": "Browse, search and learn about official statistics releases relating to the transport system across the United Kingdom.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Statistics",
+        "DfT. Browse",
+        "United Kingdom"
+      ],
+      "locations": []
+    },
+    "923c26ff90aa": {
+      "id": "923c26ff90aa",
+      "importance": "Medium",
+      "summary": "The monthly published vessel list provides a snapshot of the UK fishing fleet as at the first day of each month.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "aa4677523fd0": {
+      "id": "aa4677523fd0",
+      "importance": "Medium",
+      "summary": "Information on community interest companies (CICs) that were registered in the last month.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community Interest Companies",
+        "Information",
+        "CICs"
+      ],
+      "locations": []
+    },
+    "d92590047939": {
+      "id": "d92590047939",
+      "importance": "Medium",
+      "summary": "Science advice note considering how parenting norms have changed over the last 30 years.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Parenting",
+        "Science"
+      ],
+      "locations": []
+    },
+    "eab943ab914f": {
+      "id": "eab943ab914f",
+      "importance": "Medium",
+      "summary": "Science advice note considering data centre siting in the UK to meet future AI and non-AI demand.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Data",
+        "UK. Science"
+      ],
+      "locations": []
+    },
+    "e7702d3e1ad6": {
+      "id": "e7702d3e1ad6",
+      "importance": "Medium",
+      "summary": "Data on the UK’s renewables sector, including capacity, electricity generation and liquid biofuels consumption.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Energy Trends",
+        "Data",
+        "UK’s"
+      ],
+      "locations": []
+    },
+    "dc540f000329": {
+      "id": "dc540f000329",
+      "importance": "Medium",
+      "summary": "Statistics on the final outturn figures of local authority capital expenditure and receipts in the financial year April 2025 to March 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Local",
+        "Statistics"
+      ],
+      "locations": []
+    },
+    "76bae2817f84": {
+      "id": "76bae2817f84",
+      "importance": "Medium",
+      "summary": "Statistics on the number of cases referred to the National Referral Mechanism (NRM) awaiting a conclusive grounds decision, October 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Modern Slavery",
+        "Statistics",
+        "National Referral Mechanism"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 38,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CgyM5SUgfbXYXyuKpLz8c'}",
+    "model": null
+  }
+}
