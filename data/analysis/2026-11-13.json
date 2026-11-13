@@ -1,0 +1,594 @@
+{
+  "generated_at": "2026-11-13T15:46:44+00:00",
+  "date_label": "Friday 13 November 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Ch1BrmCuk2fh23Y19EYWk'}\n\n31 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Housing supply",
+      "count": 4,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Residential investment",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Section",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Landlord",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "AI Companies Distort London",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Office Rents As Low-Key",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Flight To Value' Emerges",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Scottish",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Glasgow",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Week",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "SAHP",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Sign",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Bromford Flagship LiveWest",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Liverpool",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Packaged Living",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Old Hall Street",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Vision",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "St Helens",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Smithy Manor’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "e68ccf50ed24": {
+      "id": "e68ccf50ed24",
+      "importance": "Medium",
+      "summary": "The market is subtly shifting toward a flight to value as the economy reshapes tenants' priorities and AI demand pushes pricing.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "AI Companies Distort London",
+        "Office Rents As Low-Key",
+        "Flight To Value' Emerges"
+      ],
+      "locations": []
+    },
+    "9aa9be86102a": {
+      "id": "9aa9be86102a",
+      "importance": "Medium",
+      "summary": "A Glasgow council report has highlighted the “scale of additional investment” the city needs to deliver a planned 6,500 affordable homes over the next five years",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Scottish",
+        "Glasgow"
+      ],
+      "locations": []
+    },
+    "715605f6b9b4": {
+      "id": "715605f6b9b4",
+      "importance": "Medium",
+      "summary": "The Week in Housing is our weekly newsletter, rounding up the most important headlines for housing professionals. Sign up below to get it direct to your inbox every Friday",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Week",
+        "Housing",
+        "London",
+        "SAHP"
+      ],
+      "locations": []
+    },
+    "5e3b25fa4b6e": {
+      "id": "5e3b25fa4b6e",
+      "importance": "Medium",
+      "summary": "Bromford Flagship LiveWest completed 1,039 new homes in its first half-year as a merged group, marking a slight decrease on the previous year",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Housing supply"
+      ],
+      "companies": [
+        "Bromford Flagship LiveWest"
+      ],
+      "locations": []
+    },
+    "548fe12a8d34": {
+      "id": "548fe12a8d34",
+      "importance": "Medium",
+      "summary": "Packaged Living and the city council have agreed a Section 106 agreement for the developer’s Old Hall Street scheme, which features buildings of 18 and 25 storeys. The post Liverpool rubber stamps 434-apartment scheme ap",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Liverpool",
+        "Packaged Living",
+        "Section",
+        "Old Hall Street"
+      ],
+      "locations": []
+    },
+    "db15030e929f": {
+      "id": "db15030e929f",
+      "importance": "Medium",
+      "summary": "The scale of Smithy Manor’s redevelopment has been cut by more than half, with 30 apartments now proposed where 78 homes once were. The post Vision for St Helens pub site toned down appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Vision",
+        "St Helens",
+        "Smithy Manor’s",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "cd200b26b7d5": {
+      "id": "cd200b26b7d5",
+      "importance": "Medium",
+      "summary": "Estate agency's £665,000 HMRC debt deal failed after just four monthly payments",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Five-branch",
+        "HMRC",
+        "Estate"
+      ],
+      "locations": []
+    },
+    "8b310fd3863f": {
+      "id": "8b310fd3863f",
+      "importance": "Medium",
+      "summary": "What if the housing market is not nearly as bad as some agents make you to believe?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The UK",
+        "What"
+      ],
+      "locations": []
+    },
+    "665291c4684b": {
+      "id": "665291c4684b",
+      "importance": "Medium",
+      "summary": "Managing agents face tougher service charge rules as lawyers question whether new leasehold reforms will reduce costs for millions of flat owners",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Leasehold",
+        "Managing"
+      ],
+      "locations": []
+    },
+    "a199e501cb96": {
+      "id": "a199e501cb96",
+      "importance": "Medium",
+      "summary": "Landlord evictions claims rise sharply following recent Renters Rights Act",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlord",
+        "Renters Rights Act"
+      ],
+      "locations": []
+    },
+    "0d1fd69da829": {
+      "id": "0d1fd69da829",
+      "importance": "Medium",
+      "summary": "Landlord confidence takes another hit as tax rise looms",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Seven",
+        "Landlord"
+      ],
+      "locations": []
+    },
+    "a48e3a2b7667": {
+      "id": "a48e3a2b7667",
+      "importance": "Medium",
+      "summary": "Mortgage arrears fall for a tenth consecutive quarter, but property analysts warn higher rates and rising landlord possessions could signal trouble ahead",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Mortgage"
+      ],
+      "locations": []
+    },
+    "81705b0edb01": {
+      "id": "81705b0edb01",
+      "importance": "Medium",
+      "summary": "Room rents have surged 10.4% in one UK town, overtaking a major city, as SpareRoom reports record rents and rising demand across market towns",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Room",
+        "SpareRoom"
+      ],
+      "locations": []
+    },
+    "a7564ef83f80": {
+      "id": "a7564ef83f80",
+      "importance": "Medium",
+      "summary": "Most tenants do not feel more secure following the abolition of Section 21, study reveals",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Section",
+        "Most"
+      ],
+      "locations": []
+    },
+    "34b46c94cecb": {
+      "id": "34b46c94cecb",
+      "importance": "Medium",
+      "summary": "Agents urged to rethink staffing and business models as AI takes centre stage",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "More",
+        "Agents"
+      ],
+      "locations": []
+    },
+    "74b6ae198171": {
+      "id": "74b6ae198171",
+      "importance": "Medium",
+      "summary": "Higher mortgage rates hit demand",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "First-time",
+        "Higher"
+      ],
+      "locations": []
+    },
+    "8aec2e00954c": {
+      "id": "8aec2e00954c",
+      "importance": "Medium",
+      "summary": "Fresh blow to housing delivery as private housebuilding falls sharply",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Housebuilding",
+        "Fresh"
+      ],
+      "locations": []
+    },
+    "017c012faff6": {
+      "id": "017c012faff6",
+      "importance": "Medium",
+      "summary": "Friday the 13th spooks home-movers",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "eac74d840b09": {
+      "id": "eac74d840b09",
+      "importance": "Medium",
+      "summary": "Zoopla reports a 27% drop in first-time buyer enquiries as rising borrowing costs slow sales and increase housing supply.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Zoopla"
+      ],
+      "locations": []
+    },
+    "8591db877f25": {
+      "id": "8591db877f25",
+      "importance": "Medium",
+      "summary": "OnTheMarket survey reveals buyer confidence has plunged since the Budget, with 42% doubting they can afford their next home.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "OnTheMarket",
+        "Budget"
+      ],
+      "locations": []
+    },
+    "6e67040f71ff": {
+      "id": "6e67040f71ff",
+      "importance": "Medium",
+      "summary": "Research into 500 proptech websites reveals 24% fail to clearly explain their services, potentially losing customers through confusing messaging.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Research"
+      ],
+      "locations": []
+    },
+    "07180c815606": {
+      "id": "07180c815606",
+      "importance": "Medium",
+      "summary": "Countrywide Home Surveys partners with Morrow to simplify property surveys and help buyers make informed decisions before purchasing.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Countrywide Home Surveys",
+        "Morrow. Countrywide Home Surveys",
+        "Morrow"
+      ],
+      "locations": []
+    },
+    "15f2e23ce827": {
+      "id": "15f2e23ce827",
+      "importance": "Medium",
+      "summary": "Over three million leaseholders to gain stronger rights to challenge service charges, access financial information and dispute legal costs.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Three",
+        "Over"
+      ],
+      "locations": []
+    },
+    "778a7dbd1d83": {
+      "id": "778a7dbd1d83",
+      "importance": "Medium",
+      "summary": "Cope&Co opens a new Alfreton office as Annie Cope becomes CEO, strengthening its community ties and local property services.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Expansion",
+        "Cope&Co. Cope&Co",
+        "Alfreton",
+        "Annie Cope"
+      ],
+      "locations": []
+    },
+    "2b3a549f9ea8": {
+      "id": "2b3a549f9ea8",
+      "importance": "Medium",
+      "summary": "Annual reporting for 2025 on the environmental performance of the 9 water and sewerage companies, including the Environmental Performance Assessment (EPA).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Water",
+        "Annual",
+        "Environmental Performance Assessment"
+      ],
+      "locations": []
+    },
+    "41ca4d1827d3": {
+      "id": "41ca4d1827d3",
+      "importance": "Medium",
+      "summary": "A quarterly extract of the results of the renewable energy projects monitoring work.",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Renewable Energy Planning Database"
+      ],
+      "locations": []
+    },
+    "9207704f80bb": {
+      "id": "9207704f80bb",
+      "importance": "Medium",
+      "summary": "Multilevel regression and post-stratification (MRP) analysis of young people’s views on local provision.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "National Youth Strategy",
+        "Upper-Tier Local Authority Analysis",
+        "Multilevel"
+      ],
+      "locations": []
+    },
+    "79abd2cb765e": {
+      "id": "79abd2cb765e",
+      "importance": "Medium",
+      "summary": "Country breakdown of trade in services values by mode of supply (imports and exports). Countries include only total services data, while regions include top-level Extended Balance of Payments Services (EBOPS) breakdown.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Imports",
+        "Country",
+        "Countries",
+        "Extended Balance of Payments Services"
+      ],
+      "locations": []
+    },
+    "1f572f1ab968": {
+      "id": "1f572f1ab968",
+      "importance": "Medium",
+      "summary": "Summary of findings of the population’s attitudes to attempts to address the rise in the number of young people not in education, employment or training.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "General",
+        "Young",
+        "Summary"
+      ],
+      "locations": []
+    },
+    "0c8b5a331a30": {
+      "id": "0c8b5a331a30",
+      "importance": "Medium",
+      "summary": "Number of guest nights, nights, and stays for short-term lets offered via online collaborative economy platforms from July 2023 to June 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Short-term",
+        "Number"
+      ],
+      "locations": []
+    },
+    "75ca20a17e2d": {
+      "id": "75ca20a17e2d",
+      "importance": "Medium",
+      "summary": "Outcomes for different investment scenarios in flood and coastal erosion risk management.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Flood",
+        "Outcomes"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 31,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Ch1BrmCuk2fh23Y19EYWk'}",
+    "model": null
+  }
+}

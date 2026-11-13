@@ -1,0 +1,588 @@
+{
+  "collected_at": "2026-11-13T15:46:20+00:00",
+  "date_london": "2026-11-13",
+  "counts": {
+    "seen_in_feeds": 79,
+    "new": 31,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "feed",
+      "url": "https://www.bisnow.com/london/rss",
+      "found": 2,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 2"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 8,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 8"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 7,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 7"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "failed",
+      "url": "https://www.landlordzone.co.uk/news",
+      "found": 0,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/blog/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/rss.xml -> 0",
+        "scrape https://www.landlordzone.co.uk/news -> 0"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "bisnow_uk",
+      "source_name": "Bisnow UK",
+      "title": "AI Companies Distort London Office Rents As Low-Key 'Flight To Value' Emerges",
+      "url": "https://bisnow.com/news/london/office/ai-companies-distort-london-office-rents-as-low-key-flight-to-value-emerges",
+      "published": "2026-11-12T17:57:05+00:00",
+      "excerpt": "The market is subtly shifting toward a flight to value as the economy reshapes tenants' priorities and AI demand pushes pricing.",
+      "entities": [
+        "AI Companies Distort London",
+        "Office Rents As Low-Key",
+        "Flight To Value' Emerges"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:20+00:00",
+      "id": "e68ccf50ed24"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Scottish council estimates it can only deliver two-thirds of its affordable housing programme from expected funding",
+      "url": "https://insidehousing.co.uk/home/scottish-council-estimates-it-can-only-deliver-two-thirds-of-its-affordable-housing-programme-from-expected-funding-99649",
+      "published": "2026-11-13T15:00:00+00:00",
+      "excerpt": "A Glasgow council report has highlighted the “scale of additional investment” the city needs to deliver a planned 6,500 affordable homes over the next five years",
+      "entities": [
+        "Scottish",
+        "Glasgow"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:21+00:00",
+      "id": "9aa9be86102a"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "The Week in Housing: End to ‘rip-off’ service charges among new reforms, and London awaits outcome of SAHP bids",
+      "url": "https://insidehousing.co.uk/home/the-week-in-housing-end-to-rip-off-service-charges-among-new-reforms-and-london-awaits-outcome-of-sahp-bids-99644",
+      "published": "2026-11-13T12:45:00+00:00",
+      "excerpt": "The Week in Housing is our weekly newsletter, rounding up the most important headlines for housing professionals. Sign up below to get it direct to your inbox every Friday",
+      "entities": [
+        "The Week",
+        "Housing",
+        "London",
+        "SAHP",
+        "Sign"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:21+00:00",
+      "id": "715605f6b9b4"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Bromford Flagship LiveWest reports over 1,000 completions in half-year but planning delays bite",
+      "url": "https://insidehousing.co.uk/home/bromford-flagship-livewest-reports-over-1000-completions-in-half-year-but-planning-delays-bite-99643",
+      "published": "2026-11-13T11:33:00+00:00",
+      "excerpt": "Bromford Flagship LiveWest completed 1,039 new homes in its first half-year as a merged group, marking a slight decrease on the previous year",
+      "entities": [
+        "Bromford Flagship LiveWest"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:21+00:00",
+      "id": "5e3b25fa4b6e"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Liverpool rubber stamps 434-apartment scheme",
+      "url": "https://placenorthwest.co.uk/liverpool-rubber-stamps-434-apartment-scheme",
+      "published": "2026-11-13T13:30:45+00:00",
+      "excerpt": "Packaged Living and the city council have agreed a Section 106 agreement for the developer’s Old Hall Street scheme, which features buildings of 18 and 25 storeys. The post Liverpool rubber stamps 434-apartment scheme appeared first on Place North West .",
+      "entities": [
+        "Liverpool",
+        "Packaged Living",
+        "Section",
+        "Old Hall Street",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:29+00:00",
+      "id": "548fe12a8d34"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Vision for St Helens pub site toned down",
+      "url": "https://placenorthwest.co.uk/vision-for-st-helens-pub-site-toned-down",
+      "published": "2026-11-13T11:11:56+00:00",
+      "excerpt": "The scale of Smithy Manor’s redevelopment has been cut by more than half, with 30 apartments now proposed where 78 homes once were. The post Vision for St Helens pub site toned down appeared first on Place North West .",
+      "entities": [
+        "Vision",
+        "St Helens",
+        "Smithy Manor’s",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:29+00:00",
+      "id": "db15030e929f"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Five-branch estate agency collapses after £665,000 HMRC debt deal fails",
+      "url": "https://propertyindustryeye.com/five-branch-estate-agency-collapses-after-665000-hmrc-debt-deal-fails",
+      "published": "2026-11-13T04:56:32+00:00",
+      "excerpt": "Estate agency's £665,000 HMRC debt deal failed after just four monthly payments",
+      "entities": [
+        "Five-branch",
+        "HMRC",
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:30+00:00",
+      "id": "cd200b26b7d5"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "The UK property market is apparently at death’s door",
+      "url": "https://propertyindustryeye.com/the-uk-property-market-is-apparently-at-deaths-door",
+      "published": "2026-11-13T04:10:20+00:00",
+      "excerpt": "What if the housing market is not nearly as bad as some agents make you to believe?",
+      "entities": [
+        "The UK",
+        "What"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:30+00:00",
+      "id": "8b310fd3863f"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Leasehold reforms under fire as lawyers warn flat owners may not save a penny",
+      "url": "https://propertyindustryeye.com/leasehold-reforms-under-fire-as-lawyers-warn-flat-owners-may-not-save-a-penny",
+      "published": "2026-11-13T04:00:50+00:00",
+      "excerpt": "Managing agents face tougher service charge rules as lawyers question whether new leasehold reforms will reduce costs for millions of flat owners",
+      "entities": [
+        "Leasehold",
+        "Managing"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:30+00:00",
+      "id": "665291c4684b"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Landlord possession claims surge as court backlog fears grow",
+      "url": "https://propertyindustryeye.com/landlord-possession-claims-surge-as-court-backlog-fears-grow",
+      "published": "2026-11-13T03:40:10+00:00",
+      "excerpt": "Landlord evictions claims rise sharply following recent Renters Rights Act",
+      "entities": [
+        "Landlord",
+        "Renters Rights Act"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:30+00:00",
+      "id": "a199e501cb96"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Seven in ten landlords consider rent hikes as property tax rise looms",
+      "url": "https://propertyindustryeye.com/seven-in-ten-landlords-consider-rent-hikes-as-property-tax-rise-looms",
+      "published": "2026-11-13T03:30:54+00:00",
+      "excerpt": "Landlord confidence takes another hit as tax rise looms",
+      "entities": [
+        "Seven",
+        "Landlord"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:30+00:00",
+      "id": "0d1fd69da829"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Mortgage arrears fall again – but industry warns worse may be ahead",
+      "url": "https://propertyindustryeye.com/mortgage-arrears-fall-again-but-industry-warns-worse-may-be-ahead",
+      "published": "2026-11-13T02:30:05+00:00",
+      "excerpt": "Mortgage arrears fall for a tenth consecutive quarter, but property analysts warn higher rates and rising landlord possessions could signal trouble ahead",
+      "entities": [
+        "Mortgage"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:30+00:00",
+      "id": "a48e3a2b7667"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "The unlikely town where room rents are rising faster than anywhere else",
+      "url": "https://propertyindustryeye.com/the-unlikely-town-where-room-rents-are-rising-faster-than-anywhere-else",
+      "published": "2026-11-13T02:10:50+00:00",
+      "excerpt": "Room rents have surged 10.4% in one UK town, overtaking a major city, as SpareRoom reports record rents and rising demand across market towns",
+      "entities": [
+        "Room",
+        "SpareRoom"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:30+00:00",
+      "id": "81705b0edb01"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Section 21 ban fails to make most tenants feel more secure, research finds",
+      "url": "https://propertyindustryeye.com/section-21-ban-fails-to-make-most-tenants-feel-more-secure-research-finds",
+      "published": "2026-11-13T02:00:22+00:00",
+      "excerpt": "Most tenants do not feel more secure following the abolition of Section 21, study reveals",
+      "entities": [
+        "Section",
+        "Most"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:30+00:00",
+      "id": "a7564ef83f80"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "More than 300 agents gather as AI threatens to reshape traditional agency model",
+      "url": "https://propertyindustryeye.com/more-than-300-agents-gather-as-ai-threatens-to-reshape-traditional-agency-model",
+      "published": "2026-11-13T02:00:14+00:00",
+      "excerpt": "Agents urged to rethink staffing and business models as AI takes centre stage",
+      "entities": [
+        "More",
+        "Agents"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:30+00:00",
+      "id": "34b46c94cecb"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "First-time buyers retreat as mortgage rate rise triggers sharp drop in demand",
+      "url": "https://propertyindustryeye.com/first-time-buyers-retreat-as-mortgage-rate-rise-triggers-sharp-drop-in-demand",
+      "published": "2026-11-13T01:20:18+00:00",
+      "excerpt": "Higher mortgage rates hit demand",
+      "entities": [
+        "First-time",
+        "Higher"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:30+00:00",
+      "id": "74b6ae198171"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Housebuilding slump deepens as private construction falls 4.7%",
+      "url": "https://propertyindustryeye.com/housebuilding-slump-deepens-as-private-construction-falls-4-7",
+      "published": "2026-11-13T01:00:19+00:00",
+      "excerpt": "Fresh blow to housing delivery as private housebuilding falls sharply",
+      "entities": [
+        "Housebuilding",
+        "Fresh"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:30+00:00",
+      "id": "8aec2e00954c"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Bad luck for estate agents? Friday the 13th scares off home-movers",
+      "url": "https://propertyindustryeye.com/bad-luck-for-estate-agents-friday-the-13th-scares-off-home-movers",
+      "published": "2026-11-13T00:50:32+00:00",
+      "excerpt": "Friday the 13th spooks home-movers",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:30+00:00",
+      "id": "017c012faff6"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "FTB enquiries down by 27%",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/ftb-enquiries-down-by-27",
+      "published": "2026-11-13T00:06:00+00:00",
+      "excerpt": "Zoopla reports a 27% drop in first-time buyer enquiries as rising borrowing costs slow sales and increase housing supply.",
+      "entities": [
+        "Zoopla"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:30+00:00",
+      "id": "eac74d840b09"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "4 in 10 buyers doubt they can afford to move",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/4-in-10-buyers-doubt-they-can-afford-to-move",
+      "published": "2026-11-13T00:05:00+00:00",
+      "excerpt": "OnTheMarket survey reveals buyer confidence has plunged since the Budget, with 42% doubting they can afford their next home.",
+      "entities": [
+        "OnTheMarket",
+        "Budget"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:30+00:00",
+      "id": "8591db877f25"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "One in four proptech firms don’t say what they do",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/one-in-four-proptech-firms-dont-say-what-they-do",
+      "published": "2026-11-13T00:04:00+00:00",
+      "excerpt": "Research into 500 proptech websites reveals 24% fail to clearly explain their services, potentially losing customers through confusing messaging.",
+      "entities": [
+        "Research"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:30+00:00",
+      "id": "6e67040f71ff"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Countrywide Home Surveys comes to Morrow",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/countrywide-home-surveys-comes-to-morrow",
+      "published": "2026-11-13T00:03:00+00:00",
+      "excerpt": "Countrywide Home Surveys partners with Morrow to simplify property surveys and help buyers make informed decisions before purchasing.",
+      "entities": [
+        "Countrywide Home Surveys",
+        "Morrow. Countrywide Home Surveys",
+        "Morrow"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:30+00:00",
+      "id": "07180c815606"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Three million flat owners win stronger powers",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/three-million-flat-owners-win-stronger-powers",
+      "published": "2026-11-13T00:02:00+00:00",
+      "excerpt": "Over three million leaseholders to gain stronger rights to challenge service charges, access financial information and dispute legal costs.",
+      "entities": [
+        "Three",
+        "Over"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:30+00:00",
+      "id": "15f2e23ce827"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Expansion for family-run Cope&Co",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/expansion-for-family-run-copeco",
+      "published": "2026-11-13T00:01:00+00:00",
+      "excerpt": "Cope&Co opens a new Alfreton office as Annie Cope becomes CEO, strengthening its community ties and local property services.",
+      "entities": [
+        "Expansion",
+        "Cope&Co. Cope&Co",
+        "Alfreton",
+        "Annie Cope"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-13T15:46:30+00:00",
+      "id": "778a7dbd1d83"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Water and sewerage companies in England: environmental performance report 2025",
+      "url": "https://gov.uk/government/publications/water-and-sewerage-companies-in-england-environmental-performance-report-2025",
+      "published": "2026-11-13T13:44:26+00:00",
+      "excerpt": "Annual reporting for 2025 on the environmental performance of the 9 water and sewerage companies, including the Environmental Performance Assessment (EPA).",
+      "entities": [
+        "Water",
+        "Annual",
+        "Environmental Performance Assessment"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-13T15:46:37+00:00",
+      "id": "2b3a549f9ea8"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Renewable Energy Planning Database: quarterly extract",
+      "url": "https://gov.uk/government/publications/renewable-energy-planning-database-quarterly-extract",
+      "published": "2026-11-13T12:00:02+00:00",
+      "excerpt": "A quarterly extract of the results of the renewable energy projects monitoring work.",
+      "entities": [
+        "Renewable Energy Planning Database"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-13T15:46:37+00:00",
+      "id": "41ca4d1827d3"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "National Youth Strategy: Upper-Tier Local Authority Analysis",
+      "url": "https://gov.uk/government/publications/national-youth-strategy-upper-tier-local-authority-analysis",
+      "published": "2026-11-13T11:37:53+00:00",
+      "excerpt": "Multilevel regression and post-stratification (MRP) analysis of young people’s views on local provision.",
+      "entities": [
+        "National Youth Strategy",
+        "Upper-Tier Local Authority Analysis",
+        "Multilevel"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-13T15:46:37+00:00",
+      "id": "9207704f80bb"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Imports and exports of services by country, by modes of supply, UK: 2024",
+      "url": "https://gov.uk/government/statistics/imports-and-exports-of-services-by-country-by-modes-of-supply-uk-2024",
+      "published": "2026-11-13T09:30:07+00:00",
+      "excerpt": "Country breakdown of trade in services values by mode of supply (imports and exports). Countries include only total services data, while regions include top-level Extended Balance of Payments Services (EBOPS) breakdown.",
+      "entities": [
+        "Imports",
+        "Country",
+        "Countries",
+        "Extended Balance of Payments Services",
+        "EBOPS"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-13T15:46:37+00:00",
+      "id": "79abd2cb765e"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "General population polling: Young people and work final report",
+      "url": "https://gov.uk/government/publications/general-population-polling-young-people-and-work-final-report",
+      "published": "2026-11-13T09:30:07+00:00",
+      "excerpt": "Summary of findings of the population’s attitudes to attempts to address the rise in the number of young people not in education, employment or training.",
+      "entities": [
+        "General",
+        "Young",
+        "Summary"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-13T15:46:37+00:00",
+      "id": "1f572f1ab968"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Short-term lets through online collaborative economy platforms, UK: July 2023 to June 2026",
+      "url": "https://gov.uk/government/statistics/short-term-lets-through-online-collaborative-economy-platforms-uk-july-2023-to-june-2026",
+      "published": "2026-11-13T09:30:07+00:00",
+      "excerpt": "Number of guest nights, nights, and stays for short-term lets offered via online collaborative economy platforms from July 2023 to June 2026.",
+      "entities": [
+        "Short-term",
+        "Number"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-13T15:46:37+00:00",
+      "id": "0c8b5a331a30"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Flood and coastal risk management: long-term investment scenarios",
+      "url": "https://gov.uk/government/publications/flood-and-coastal-risk-management-in-england-long-term-investment",
+      "published": "2026-11-13T00:01:07+00:00",
+      "excerpt": "Outcomes for different investment scenarios in flood and coastal erosion risk management.",
+      "entities": [
+        "Flood",
+        "Outcomes"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-13T15:46:37+00:00",
+      "id": "75ca20a17e2d"
+    }
+  ]
+}
