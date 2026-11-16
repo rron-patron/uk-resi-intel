@@ -1,0 +1,580 @@
+{
+  "generated_at": "2026-11-16T17:40:02+00:00",
+  "date_label": "Monday 16 November 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Ch71vgfH65Xj7ddsh6F3d'}\n\n30 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 6,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Rightmove",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Sellers",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "What",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Microsoft",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "London Fire Brigade",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Poplar",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Blackwall Way",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Spending",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Guinness",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Large",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Guinness Partnership",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Peabody",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Large London",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Scottish",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Kelly Brown",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Scotland’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Places",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "People Scotland. Ellie Brown",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "8b3fb9cc6727": {
+      "id": "8b3fb9cc6727",
+      "importance": "Medium",
+      "summary": "London Fire Brigade has confirmed that the cause of a fatal fire at a block in Blackwall Way in Poplar was accidental",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "London Fire Brigade",
+        "Poplar",
+        "Blackwall Way"
+      ],
+      "locations": []
+    },
+    "4d6ed9daec05": {
+      "id": "4d6ed9daec05",
+      "importance": "Medium",
+      "summary": "Large landlord The Guinness Partnership has reported a nearly £20m drop in spending on new homes as it completed just 45 homes and started a further 54",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Spending",
+        "Guinness",
+        "Large",
+        "The Guinness Partnership"
+      ],
+      "locations": []
+    },
+    "d481a037054d": {
+      "id": "d481a037054d",
+      "importance": "Medium",
+      "summary": "Large London landlord Peabody completed 1,274 homes after investing £246m in the six months to 30 September",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Peabody",
+        "Large London"
+      ],
+      "locations": []
+    },
+    "7fe479e3b957": {
+      "id": "7fe479e3b957",
+      "importance": "Medium",
+      "summary": "Kelly Brown defeated Scotland’s opponents on the rugby pitch. Now his sight is set on tackling the country’s housing crisis as director of Places for People Scotland. Ellie Brown asks Mr Brown what he has learned from hi",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Scottish",
+        "Kelly Brown",
+        "Scotland’s",
+        "Places"
+      ],
+      "locations": []
+    },
+    "e9b79e6d371a": {
+      "id": "e9b79e6d371a",
+      "importance": "Medium",
+      "summary": "The town’s skyline-defining tower blocks are to be demolished after Rochdale Boroughwide Housing concluded retaining them would be too costly. The post Rochdale’s Seven Sisters to be knocked down as refurb estimates hit ",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Rochdale’s Seven Sisters",
+        "Rochdale Boroughwide Housing",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "f34f8d0e0d68": {
+      "id": "f34f8d0e0d68",
+      "importance": "Medium",
+      "summary": "The site of Ascot International’s Hillgate head office could be redeveloped into 87 apartments across three buildings. The post Ollier Smurthwaite unveils latest Stockport resi appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Ollier Smurthwaite",
+        "Stockport",
+        "Ascot International’s Hillgate",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "a61bfac271e7": {
+      "id": "a61bfac271e7",
+      "importance": "Medium",
+      "summary": "The family that has owned the former cotton mill since 1911 has secured outline approval to convert it into 59 apartments as part of a development that takes inspiration from Birtle Brook Village in Rochdale. The post Ol",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Oldham",
+        "Saddleworth’s Waterside Mill. The",
+        "Birtle Brook Village",
+        "Rochdale. The"
+      ],
+      "locations": []
+    },
+    "0248fcd495cd": {
+      "id": "0248fcd495cd",
+      "importance": "Medium",
+      "summary": "The move puts the Greater Manchester local authority on track to adopt the strategic planning framework in November next year – marking the first time a local plan has been adopted in Bury since 1997. The post Bury submi",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Bury",
+        "Greater Manchester",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "2267f192ca84": {
+      "id": "2267f192ca84",
+      "importance": "Medium",
+      "summary": "The housebuilder is seeking permission to build on a 130-acre Green Belt site off Northwich Road and Gorstage Lane in Weaverham. The post Bloor tables 900-home Cheshire proposal appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders",
+        "Planning policy"
+      ],
+      "companies": [
+        "Bloor",
+        "Cheshire",
+        "Green Belt",
+        "Northwich Road and Gorstage Lane"
+      ],
+      "locations": []
+    },
+    "3bf71106f608": {
+      "id": "3bf71106f608",
+      "importance": "Medium",
+      "summary": "Estate agents react as Rightmove reports a sharp fall in November asking prices amid high mortgage rates and weaker buyer demand",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Sellers",
+        "Estate",
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    "c4ea11b7389f": {
+      "id": "c4ea11b7389f",
+      "importance": "Medium",
+      "summary": "Employees become majority shareholders in estate agency",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Long-serving",
+        "Employees"
+      ],
+      "locations": []
+    },
+    "72a81f5b2ea3": {
+      "id": "72a81f5b2ea3",
+      "importance": "Medium",
+      "summary": "Microsoft outage gives conveyancers and agents a break from constant emails",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "What",
+        "Microsoft"
+      ],
+      "locations": []
+    },
+    "bd932b0eacd7": {
+      "id": "bd932b0eacd7",
+      "importance": "Medium",
+      "summary": "Pandemic-era estate agency expands into neighbouring town",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Pandemic-era"
+      ],
+      "locations": []
+    },
+    "c1e56fa46aca": {
+      "id": "c1e56fa46aca",
+      "importance": "Medium",
+      "summary": "New technology brings 300 property checks into estate agents' AI assistants",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "New AI"
+      ],
+      "locations": []
+    },
+    "be335780a771": {
+      "id": "be335780a771",
+      "importance": "Medium",
+      "summary": "Sellers slash asking prices as buyers gain the upper hand",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "House",
+        "Sellers"
+      ],
+      "locations": []
+    },
+    "3c223eadb778": {
+      "id": "3c223eadb778",
+      "importance": "Medium",
+      "summary": "One in three landlords introduce new guarantor requirements",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tougher"
+      ],
+      "locations": []
+    },
+    "11a598d278f4": {
+      "id": "11a598d278f4",
+      "importance": "Medium",
+      "summary": "What could the dispute mean for estate agents?",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "What"
+      ],
+      "locations": []
+    },
+    "2b01bc2787f1": {
+      "id": "2b01bc2787f1",
+      "importance": "Medium",
+      "summary": "Microsoft outage disrupts estate agency transactions",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": []
+    },
+    "aeb60cf5399b": {
+      "id": "aeb60cf5399b",
+      "importance": "Medium",
+      "summary": "Council rent arrears surge",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "94c5f8a3159a": {
+      "id": "94c5f8a3159a",
+      "importance": "Medium",
+      "summary": "Prime London house prices fall for 42nd consecutive month as rents surge",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Prime London"
+      ],
+      "locations": []
+    },
+    "1fb3e210f0b3": {
+      "id": "1fb3e210f0b3",
+      "importance": "Medium",
+      "summary": "Two people who joined an estate agency 20 years ago as negotiators have just led a management buyout.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Well-known"
+      ],
+      "locations": []
+    },
+    "1cbb2395ee29": {
+      "id": "1cbb2395ee29",
+      "importance": "Medium",
+      "summary": "The BBC is the latest media outlet to run a story about alleged misuse by agents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Trading Standards",
+        "The BBC"
+      ],
+      "locations": []
+    },
+    "c3f6d4dac14f": {
+      "id": "c3f6d4dac14f",
+      "importance": "Medium",
+      "summary": "Rightmove has given a gloomy analysis of the over-supply of flats",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Flats",
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    "66f190656d65": {
+      "id": "66f190656d65",
+      "importance": "Medium",
+      "summary": "This promotion is thoroughly deserved, claims the agency",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Thoroughly"
+      ],
+      "locations": []
+    },
+    "734692f4875c": {
+      "id": "734692f4875c",
+      "importance": "Medium",
+      "summary": "It's the monthly Rightmove asking price index",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Asking",
+        "It's",
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    "2a493ce89fd0": {
+      "id": "2a493ce89fd0",
+      "importance": "Medium",
+      "summary": "The appointee has some 14 years of experience with Middle Eastern clients",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Central London",
+        "Middle Eastern"
+      ],
+      "locations": []
+    },
+    "27ebb2e92146": {
+      "id": "27ebb2e92146",
+      "importance": "Medium",
+      "summary": "Detailed annual statistics on family food and drink purchases.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Family",
+        "Detailed"
+      ],
+      "locations": []
+    },
+    "a4a5f8410ac0": {
+      "id": "a4a5f8410ac0",
+      "importance": "Medium",
+      "summary": "HM Treasury has published the report of the independent Review on Access to Banking Services, which assessed how changes to banking services affect consumers.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "HM Treasury",
+        "Access",
+        "Banking Services Review. HM",
+        "Treasury"
+      ],
+      "locations": []
+    },
+    "3922d4ac7230": {
+      "id": "3922d4ac7230",
+      "importance": "Medium",
+      "summary": "Independent AI adoption plans setting out recommendations from the AI Champions, to accelerate AI adoption across key UK sectors, with a pro-worker approach.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "AI Champions’ AI Adoption",
+        "Plans. Independent AI",
+        "AI Champions"
+      ],
+      "locations": []
+    },
+    "c7a5e8c57aea": {
+      "id": "c7a5e8c57aea",
+      "importance": "Medium",
+      "summary": "Findings from an independent evaluation of the AI Standards Hub covering the period between April 2023 and March 2025.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "AI Standards Hub",
+        "Findings"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 30,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Ch71vgfH65Xj7ddsh6F3d'}",
+    "model": null
+  }
+}
