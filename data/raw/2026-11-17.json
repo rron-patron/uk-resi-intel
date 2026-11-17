@@ -1,0 +1,764 @@
+{
+  "collected_at": "2026-11-17T17:12:00+00:00",
+  "date_london": "2026-11-17",
+  "counts": {
+    "seen_in_feeds": 79,
+    "new": 42,
+    "sources_live": 6,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 7,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 7"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 10,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 10"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "failed",
+      "url": "https://www.landlordzone.co.uk/news",
+      "found": 0,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/blog/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/rss.xml -> 0",
+        "scrape https://www.landlordzone.co.uk/news -> 0"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Plaid Cymru’s first full Budget allocates over £1.5bn to new social homes over three years",
+      "url": "https://insidehousing.co.uk/home/plaid-cymrus-first-full-budget-allocates-over-15bn-to-new-social-homes-over-three-years-99694",
+      "published": "2026-11-17T16:35:12+00:00",
+      "excerpt": "The Welsh government has pledged over £1.5bn of capital spending towards its 20,000-home target in its first multiyear Budget",
+      "entities": [
+        "Plaid Cymru’s",
+        "Budget",
+        "The Welsh"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:08+00:00",
+      "id": "dcef24513b21"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Gas and water to be switched off for residents living in blocks with ‘imminent risk to life’",
+      "url": "https://insidehousing.co.uk/home/gas-and-water-to-be-switched-off-for-residents-living-in-blocks-with-imminent-risk-to-life-99677",
+      "published": "2026-11-17T12:51:09+00:00",
+      "excerpt": "Gas and water utilities are to be switched off for residents who returned to live in blocks with an “imminent risk to life” on an east London development, according to a letter from the managing agent",
+      "entities": [
+        "London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:08+00:00",
+      "id": "6c21d45331f7"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "London gets additional £168m to help end rough sleeping by 2030",
+      "url": "https://insidehousing.co.uk/home/london-gets-additional-168m-to-help-end-rough-sleeping-by-2030-99671",
+      "published": "2026-11-17T12:42:02+00:00",
+      "excerpt": "London will get £168m in additional funding to reduce, and aim to end, rough sleeping in the capital by 2030",
+      "entities": [
+        "London"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:08+00:00",
+      "id": "352840bd1aa4"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "The implications of regulatory change in England and why there are four missing questions",
+      "url": "https://insidehousing.co.uk/home/the-implications-of-regulatory-change-in-england-and-why-there-are-four-missing-questions-99669",
+      "published": "2026-11-17T11:30:25+00:00",
+      "excerpt": "The Regulator of Social Housing’s More and Better Social Homes discussion document floats ideas that could represent a significant departure from the recent past, writes Matthew Bailes, chief executive of Lifestone Homes and who previously ran the English housing regulator",
+      "entities": [
+        "The Regulator of Social Housing’s",
+        "More and Better Social Homes",
+        "Matthew Bailes",
+        "Lifestone Homes",
+        "English"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:08+00:00",
+      "id": "b4cfb70c82f4"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Consent for upgrades at one of Manchester’s first BTR schemes",
+      "url": "https://placenorthwest.co.uk/consent-for-upgrades-at-one-of-manchesters-first-btr-schemes",
+      "published": "2026-11-17T16:13:17+00:00",
+      "excerpt": "Residents at Barings’ Trilogy will soon benefit from more than double the amenity provision after the city council gave the funder the go-ahead to add a gym and coworking space. The post Consent for upgrades at one of Manchester’s first BTR schemes appeared first on Place North West .",
+      "entities": [
+        "Consent",
+        "Manchester’s",
+        "Residents",
+        "Barings’ Trilogy",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:16+00:00",
+      "id": "ca1d701ac147"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Liverpool to run rule over Peel’s scaled back vision for Liverpool Waters",
+      "url": "https://placenorthwest.co.uk/liverpool-to-run-rule-over-peels-scaled-back-vision-for-liverpool-waters",
+      "published": "2026-11-17T11:55:20+00:00",
+      "excerpt": "A reduction of around 2,000 homes and 2m sq ft of office space are among the changes to the 150-acre masterplan, adopted 13 years ago. The post Liverpool to run rule over Peel’s scaled back vision for Liverpool Waters appeared first on Place North West .",
+      "entities": [
+        "Liverpool",
+        "Peel’s",
+        "Liverpool Waters",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:16+00:00",
+      "id": "e271d3f1a64c"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Flats on vacant Liverpool waterfront site given go-ahead again",
+      "url": "https://placenorthwest.co.uk/plans-for-flats-on-vacant-liverpool-waterfront-given-go-ahead-again",
+      "published": "2026-11-17T11:18:03+00:00",
+      "excerpt": "Proposals for an apartment scheme at Brunswick Quay were first lodged in the summer of 2018. Today, Liverpool City Council has approved the latest iteration of the plans – 559 flats from Romal Capital. The post Flats on vacant Liverpool waterfront site given go-ahead again appeared first on Place North West .",
+      "entities": [
+        "Flats",
+        "Liverpool",
+        "Proposals",
+        "Brunswick Quay",
+        "Today",
+        "Liverpool City Council",
+        "Romal Capital. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:16+00:00",
+      "id": "3429da0d923f"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Feedback wanted on Warrington local plan",
+      "url": "https://placenorthwest.co.uk/feedback-wanted-on-warrington-local-plan",
+      "published": "2026-11-17T11:17:43+00:00",
+      "excerpt": "Stakeholders are invited to weigh in on the council’s long-term spatial strategy, which looks to allocate land for 13,250 homes and 586 acres of employment space. The post Feedback wanted on Warrington local plan appeared first on Place North West .",
+      "entities": [
+        "Feedback",
+        "Warrington",
+        "Stakeholders",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:16+00:00",
+      "id": "b75479be674c"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Gwynedd unanimously approves Crown Building resi conversion",
+      "url": "https://placenorthwest.co.uk/gwynedd-unanimously-approves-crown-building-resi-conversion",
+      "published": "2026-11-17T10:47:56+00:00",
+      "excerpt": "A pitch to turn the former Welsh Government office complex in Caernarfon into 37 affordable flats was greenlit at yesterday’s planning committee meeting. The post Gwynedd unanimously approves Crown Building resi conversion appeared first on Place North West .",
+      "entities": [
+        "Gwynedd",
+        "Crown Building",
+        "Welsh Government",
+        "Caernarfon",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:16+00:00",
+      "id": "9b131058feeb"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agent takes on Charlie Lamdin’s BestAgent over listings and viewing fees",
+      "url": "https://propertyindustryeye.com/estate-agent-takes-on-charlie-lamdins-bestagent-over-listings-and-viewing-fees",
+      "published": "2026-11-17T04:50:07+00:00",
+      "excerpt": "Agent calls for answers from BestAgent",
+      "entities": [
+        "Estate",
+        "Charlie Lamdin’s BestAgent",
+        "Agent",
+        "BestAgent"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:17+00:00",
+      "id": "fe88b5e7dcdc"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Three letters that could transform estate agency and end CRM headaches",
+      "url": "https://propertyindustryeye.com/three-letters-that-could-transform-estate-agency-and-end-crm-headaches",
+      "published": "2026-11-17T04:30:09+00:00",
+      "excerpt": "Could this speed up property transactions?",
+      "entities": [
+        "Three",
+        "Could"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:17+00:00",
+      "id": "3374d6f96880"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Major win for Zoopla as all 370 LRG branches return to portal",
+      "url": "https://propertyindustryeye.com/major-win-for-zoopla-as-all-370-lrg-branches-return-to-portal",
+      "published": "2026-11-17T03:30:50+00:00",
+      "excerpt": "Zoopla secures a major agreement with Leaders Romans Group, bringing all 370 branches back onto the portal ahead of LRG's 2027 expansion plan",
+      "entities": [
+        "Major",
+        "Zoopla",
+        "Leaders Romans Group",
+        "LRG's"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:17+00:00",
+      "id": "840eaff65d94"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency franchise owner expands portfolio with fifth branch opening",
+      "url": "https://propertyindustryeye.com/estate-agency-franchise-owner-expands-portfolio-with-fifth-branch-opening",
+      "published": "2026-11-17T03:00:09+00:00",
+      "excerpt": "The new estate agency office opened on Monday",
+      "entities": [
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:17+00:00",
+      "id": "2af0771b6151"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Self-employed estate agency launches auction division in major deal",
+      "url": "https://propertyindustryeye.com/self-employed-estate-agency-launches-auction-division-in-major-deal",
+      "published": "2026-11-17T02:50:16+00:00",
+      "excerpt": "Estate agency strikes auction deal as self-employed agent network expands",
+      "entities": [
+        "Self-employed",
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:17+00:00",
+      "id": "9f3a031c24c6"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "OneDome completes major acquisition",
+      "url": "https://propertyindustryeye.com/onedome-completes-major-acquisition",
+      "published": "2026-11-17T02:46:34+00:00",
+      "excerpt": "OneDome's mortgage network expands beyond 900 advisers",
+      "entities": [
+        "OneDome",
+        "OneDome's"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:17+00:00",
+      "id": "a6bcb816b969"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Property sector ranks second for AI adoption as UK business use doubles",
+      "url": "https://propertyindustryeye.com/property-sector-ranks-second-for-ai-adoption-as-uk-business-use-doubles",
+      "published": "2026-11-17T02:00:01+00:00",
+      "excerpt": "AI adoption in property has risen sharply, putting the sector second in the UK, according to fresh analysis",
+      "entities": [
+        "Property"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:17+00:00",
+      "id": "e90b9aaa13c0"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Self-employed estate agents get dedicated categories at 2027 ESTAS Awards",
+      "url": "https://propertyindustryeye.com/self-employed-estate-agents-get-dedicated-categories-at-2027-estas-awards",
+      "published": "2026-11-17T01:30:48+00:00",
+      "excerpt": "ESTAS introduces new awards as self-employed estate agency market expands",
+      "entities": [
+        "Self-employed",
+        "ESTAS Awards. ESTAS"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:17+00:00",
+      "id": "ce28fc3d5cfd"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agency withdraws David Walliams’ £10.5m mansion amid police investigation",
+      "url": "https://propertyindustryeye.com/david-walliams-10-5m-mansion-withdrawn-from-market-amid-police-investigation",
+      "published": "2026-11-17T01:10:46+00:00",
+      "excerpt": "Estate agent withdraws David Walliams’ £10.5m mansion after £1.45m price cut",
+      "entities": [
+        "Estate",
+        "David Walliams"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:17+00:00",
+      "id": "7a69bd95868b"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Over-65s hold £2.25tn in property wealth – but few are downsizing",
+      "url": "https://propertyindustryeye.com/over-65s-hold-2-25tn-in-property-wealth-but-few-are-downsizing",
+      "published": "2026-11-17T00:50:54+00:00",
+      "excerpt": "Over-65s hold £2.25tn in housing wealth, according to Savills, but relatively few are downsizing despite releasing £20.8bn in equity last year",
+      "entities": [
+        "Over",
+        "Savills"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:17+00:00",
+      "id": "21ba661b1bca"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Estate agents urged to give back to local communities in 2027",
+      "url": "https://propertyindustryeye.com/estate-agents-urged-to-give-back-to-local-communities-in-2027",
+      "published": "2026-11-17T00:30:53+00:00",
+      "excerpt": "Estate agents challenged to do more for local communities next year",
+      "entities": [
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:17+00:00",
+      "id": "c3ed583bfeb8"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "No chains, just crayons: Estate agency launches festive competition",
+      "url": "https://propertyindustryeye.com/no-chains-just-crayons-estate-agency-launches-festive-competition",
+      "published": "2026-11-17T00:14:47+00:00",
+      "excerpt": "Estate agency seeks young artist with a licence to draw",
+      "entities": [
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:17+00:00",
+      "id": "04b78eb78876"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Boost for Zoopla as huge 370-branch agency returns",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/boost-for-zoopla-as-huge-370-branch-agency-returns",
+      "published": "2026-11-17T00:06:00+00:00",
+      "excerpt": "It's the latest and biggest of several recent agency deals with the portal",
+      "entities": [
+        "Boost",
+        "Zoopla",
+        "It's"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:17+00:00",
+      "id": "58d803aef1ae"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Troubled agency opens new office with “high calibre operator”",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/troubled-agency-opens-new-office-with-high-calibre-operator",
+      "published": "2026-11-17T00:05:00+00:00",
+      "excerpt": "The warring parties are undertaking mediation until next Monday",
+      "entities": [
+        "Troubled"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:17+00:00",
+      "id": "11f02be472d3"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agents accused of failing on ID checks",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/agents-accused-of-failing-on-id-checks",
+      "published": "2026-11-17T00:04:00+00:00",
+      "excerpt": "AI is making impersonation a growing concern for businesses.",
+      "entities": [
+        "Agents"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:17+00:00",
+      "id": "4e00f5554a72"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Self-employed agents get special awards category in 2027",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/self-employed-agents-get-special-awards-category-in-2027",
+      "published": "2026-11-17T00:03:00+00:00",
+      "excerpt": "The ESTAS has set up two special awards for self-employed agents",
+      "entities": [
+        "Self-employed",
+        "The ESTAS"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:17+00:00",
+      "id": "aab6beda6fcb"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agents urged to make 2027 a year for local communities",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/agents-urged-to-make-2027-a-year-for-local-communities",
+      "published": "2026-11-17T00:02:00+00:00",
+      "excerpt": "Here are five practical examples of how to give back to your community",
+      "entities": [
+        "Agents",
+        "Here"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:17+00:00",
+      "id": "f599ca20ad77"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Pensioners rolling in property wealth – extensive new research",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/pensioners-rolling-in-property-wealth-extensive-new-research",
+      "published": "2026-11-17T00:00:00+00:00",
+      "excerpt": "The research comes from Savills",
+      "entities": [
+        "Pensioners",
+        "Savills"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-17T17:12:17+00:00",
+      "id": "16891079ad21"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK Biodiversity indicators",
+      "url": "https://gov.uk/government/statistics/biodiversity-indicators-for-the-uk",
+      "published": "2026-11-17T15:53:25+00:00",
+      "excerpt": "A snapshot of the current status of biodiversity in the UK and how it’s changing.",
+      "entities": [
+        "UK Biodiversity"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-17T17:12:24+00:00",
+      "id": "7417888cfb9c"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "What works in supporting people to retrain at the local level",
+      "url": "https://gov.uk/government/publications/what-works-in-supporting-people-to-retrain-at-the-local-level",
+      "published": "2026-11-17T13:56:41+00:00",
+      "excerpt": "This report provides insights for local government on what works to support people, at the local level, to retrain.",
+      "entities": [
+        "What"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-17T17:12:24+00:00",
+      "id": "4a49faf52f9f"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "From a Welfare State to a Working State: a new settlement for the next generation",
+      "url": "https://gov.uk/government/publications/from-a-welfare-state-to-a-working-state-a-new-settlement-for-the-next-generation",
+      "published": "2026-11-17T11:30:00+00:00",
+      "excerpt": "The young people and work report is an independent review of the increase in the number of young people who are not in education, employment or training (NEET).",
+      "entities": [
+        "From",
+        "Welfare State",
+        "Working State",
+        "NEET"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-17T17:12:24+00:00",
+      "id": "1dab451a170b"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Tolerance of risks from products with internet connectivity",
+      "url": "https://gov.uk/government/publications/tolerance-of-risks-from-products-with-internet-connectivity",
+      "published": "2026-11-17T11:00:01+00:00",
+      "excerpt": "Research into the UK public’s tolerance of risks from internet-connected smart products in the home and how people perceive product safety.",
+      "entities": [
+        "Tolerance",
+        "Research"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-17T17:12:24+00:00",
+      "id": "1a76d5680153"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Pesticide residues in food: quarterly monitoring results for 2026",
+      "url": "https://gov.uk/government/publications/pesticide-residues-in-food-quarterly-monitoring-results-for-2026",
+      "published": "2026-11-17T10:03:43+00:00",
+      "excerpt": "Results from the quarterly monitoring programme to check UK grown and imported food for pesticide residues.",
+      "entities": [
+        "Pesticide",
+        "Results"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-17T17:12:24+00:00",
+      "id": "a1e89ee0f560"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Individual insolvencies, October 2026",
+      "url": "https://gov.uk/government/statistics/individual-insolvencies-october-2026",
+      "published": "2026-11-17T09:30:02+00:00",
+      "excerpt": "Monthly tables and commentary on the numbers and rates of individual insolvencies, including bankruptcies, debt relief orders and individual voluntary arrangements in England and Wales and Northern Ireland, and quarterly inf…",
+      "entities": [
+        "Individual",
+        "Monthly",
+        "England and Wales and Northern Ireland"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-17T17:12:24+00:00",
+      "id": "cf282c3520f5"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Community and Engagement Survey 2025/26: summary report",
+      "url": "https://gov.uk/government/statistics/community-and-engagement-survey-202526-summary-report",
+      "published": "2026-11-17T09:30:02+00:00",
+      "excerpt": "Report covering the headline findings of the Community and Engagement Survey in 2025/26.",
+      "entities": [
+        "Community and Engagement Survey",
+        "Report"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-17T17:12:24+00:00",
+      "id": "b8dacda68ba1"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Company insolvencies, October 2026",
+      "url": "https://gov.uk/government/statistics/company-insolvencies-october-2026",
+      "published": "2026-11-17T09:30:02+00:00",
+      "excerpt": "Monthly tables and commentary on the numbers, rates and sectors of companies that have entered formal insolvency procedures in England and Wales, Scotland and Northern Ireland.",
+      "entities": [
+        "Company",
+        "Monthly",
+        "England and Wales",
+        "Scotland and Northern Ireland"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-17T17:12:24+00:00",
+      "id": "1d23a51b2d4b"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Quarterly personal well-being statistics: Q2 2026",
+      "url": "https://gov.uk/government/statistics/quarterly-personal-well-being-statistics-q2-2026",
+      "published": "2026-11-17T09:30:00+00:00",
+      "excerpt": "Non-seasonally adjusted and seasonally adjusted quarterly estimates of life satisfaction, feeling that the things done in life are worthwhile, happiness and anxiety in the UK.",
+      "entities": [
+        "Quarterly",
+        "Non-seasonally"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-17T17:12:24+00:00",
+      "id": "ecbe32786780"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "England biodiversity indicators",
+      "url": "https://gov.uk/government/statistics/england-biodiversity-indicators",
+      "published": "2026-11-17T09:30:00+00:00",
+      "excerpt": "A snapshot of the current status of biodiversity in England and how it’s changing.",
+      "entities": [],
+      "kind": "data",
+      "collected_at": "2026-11-17T17:12:24+00:00",
+      "id": "3188ccfd87fe"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "ENV09 - England biodiversity indicators",
+      "url": "https://gov.uk/government/statistical-data-sets/env09-england-biodiversity-indicators",
+      "published": "2026-11-17T09:30:00+00:00",
+      "excerpt": "A snapshot of the current status of biodiversity in England and how it’s changing.",
+      "entities": [],
+      "kind": "data",
+      "collected_at": "2026-11-17T17:12:24+00:00",
+      "id": "fe0ed84a89cc"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Statistics on the impact of removing the 2-child limit from Universal Credit, May 2026",
+      "url": "https://gov.uk/government/statistics/statistics-on-the-impact-of-removing-the-2-child-limit-from-universal-credit-may-2026",
+      "published": "2026-11-17T09:30:00+00:00",
+      "excerpt": "Number of adults and children in Universal Credit families benefitting and number leaving poverty in May 2026.",
+      "entities": [
+        "Statistics",
+        "Universal Credit",
+        "Number"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-17T17:12:24+00:00",
+      "id": "49ea30c3b687"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Work aspirations and support needs of young health and disability benefit customers",
+      "url": "https://gov.uk/government/publications/work-aspirations-and-support-needs-of-young-health-and-disability-benefit-customers",
+      "published": "2026-11-17T09:30:00+00:00",
+      "excerpt": "Exploring work aspirations and support needs of 18 to 24-year-old health and disability benefit customers, and barriers to education, training and employment.",
+      "entities": [
+        "Work",
+        "Exploring"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-17T17:12:24+00:00",
+      "id": "d393dfda9aa2"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Benefit Sanctions statistics to August 2026",
+      "url": "https://gov.uk/government/statistics/benefit-sanctions-statistics-to-august-2026",
+      "published": "2026-11-17T09:30:00+00:00",
+      "excerpt": "Statistics about sanctions on Universal Credit (UC). The data will be available as normal for analysis via Stat-Xplore.",
+      "entities": [
+        "Benefit Sanctions",
+        "Statistics",
+        "Universal Credit",
+        "Stat-Xplore"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-17T17:12:24+00:00",
+      "id": "7c964b982a02"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Universal Credit Statistics, 29 April 2013 to 13 August 2026",
+      "url": "https://gov.uk/government/statistics/universal-credit-statistics-29-april-2013-to-13-august-2026",
+      "published": "2026-11-17T09:30:00+00:00",
+      "excerpt": "Statistics for the number of claims, starts, people and households on Universal Credit.",
+      "entities": [
+        "Universal Credit Statistics",
+        "Statistics",
+        "Universal Credit"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-17T17:12:24+00:00",
+      "id": "d8204022c523"
+    }
+  ]
+}

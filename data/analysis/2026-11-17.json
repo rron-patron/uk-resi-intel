@@ -1,0 +1,748 @@
+{
+  "generated_at": "2026-11-17T17:12:30+00:00",
+  "date_label": "Tuesday 17 November 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Ch8sdmgVmhwztDkpvkq3u'}\n\n42 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Residential investment",
+      "count": 8,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Build-to-rent",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Regional development",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Estate",
+      "type": "Other",
+      "mentions": 6,
+      "context": ""
+    },
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 5,
+      "context": ""
+    },
+    {
+      "name": "Self-employed",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Statistics",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Universal Credit",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Liverpool",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Zoopla",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Savills",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Agents",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Monthly",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Plaid Cymru’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Budget",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Welsh",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Regulator of Social Housing’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "More and Better Social Homes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Matthew Bailes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Lifestone Homes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "English",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Consent",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "dcef24513b21": {
+      "id": "dcef24513b21",
+      "importance": "Medium",
+      "summary": "The Welsh government has pledged over £1.5bn of capital spending towards its 20,000-home target in its first multiyear Budget",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Plaid Cymru’s",
+        "Budget",
+        "The Welsh"
+      ],
+      "locations": []
+    },
+    "6c21d45331f7": {
+      "id": "6c21d45331f7",
+      "importance": "Medium",
+      "summary": "Gas and water utilities are to be switched off for residents who returned to live in blocks with an “imminent risk to life” on an east London development, according to a letter from the managing agent",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "London"
+      ],
+      "locations": []
+    },
+    "352840bd1aa4": {
+      "id": "352840bd1aa4",
+      "importance": "Medium",
+      "summary": "London will get £168m in additional funding to reduce, and aim to end, rough sleeping in the capital by 2030",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "London"
+      ],
+      "locations": []
+    },
+    "b4cfb70c82f4": {
+      "id": "b4cfb70c82f4",
+      "importance": "Medium",
+      "summary": "The Regulator of Social Housing’s More and Better Social Homes discussion document floats ideas that could represent a significant departure from the recent past, writes Matthew Bailes, chief executive of Lifestone Homes",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Regulator of Social Housing’s",
+        "More and Better Social Homes",
+        "Matthew Bailes",
+        "Lifestone Homes"
+      ],
+      "locations": []
+    },
+    "ca1d701ac147": {
+      "id": "ca1d701ac147",
+      "importance": "Medium",
+      "summary": "Residents at Barings’ Trilogy will soon benefit from more than double the amenity provision after the city council gave the funder the go-ahead to add a gym and coworking space. The post Consent for upgrades at one of Ma",
+      "why_it_matters": "",
+      "themes": [
+        "Build-to-rent"
+      ],
+      "companies": [
+        "Consent",
+        "Manchester’s",
+        "Residents",
+        "Barings’ Trilogy"
+      ],
+      "locations": []
+    },
+    "e271d3f1a64c": {
+      "id": "e271d3f1a64c",
+      "importance": "Medium",
+      "summary": "A reduction of around 2,000 homes and 2m sq ft of office space are among the changes to the 150-acre masterplan, adopted 13 years ago. The post Liverpool to run rule over Peel’s scaled back vision for Liverpool Waters ap",
+      "why_it_matters": "",
+      "themes": [
+        "Regional development"
+      ],
+      "companies": [
+        "Liverpool",
+        "Peel’s",
+        "Liverpool Waters",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "3429da0d923f": {
+      "id": "3429da0d923f",
+      "importance": "Medium",
+      "summary": "Proposals for an apartment scheme at Brunswick Quay were first lodged in the summer of 2018. Today, Liverpool City Council has approved the latest iteration of the plans – 559 flats from Romal Capital. The post Flats on ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Flats",
+        "Liverpool",
+        "Proposals",
+        "Brunswick Quay"
+      ],
+      "locations": []
+    },
+    "b75479be674c": {
+      "id": "b75479be674c",
+      "importance": "Medium",
+      "summary": "Stakeholders are invited to weigh in on the council’s long-term spatial strategy, which looks to allocate land for 13,250 homes and 586 acres of employment space. The post Feedback wanted on Warrington local plan appeare",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Feedback",
+        "Warrington",
+        "Stakeholders",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "9b131058feeb": {
+      "id": "9b131058feeb",
+      "importance": "Medium",
+      "summary": "A pitch to turn the former Welsh Government office complex in Caernarfon into 37 affordable flats was greenlit at yesterday’s planning committee meeting. The post Gwynedd unanimously approves Crown Building resi conversi",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Gwynedd",
+        "Crown Building",
+        "Welsh Government",
+        "Caernarfon"
+      ],
+      "locations": []
+    },
+    "fe88b5e7dcdc": {
+      "id": "fe88b5e7dcdc",
+      "importance": "Medium",
+      "summary": "Agent calls for answers from BestAgent",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate",
+        "Charlie Lamdin’s BestAgent",
+        "Agent",
+        "BestAgent"
+      ],
+      "locations": []
+    },
+    "3374d6f96880": {
+      "id": "3374d6f96880",
+      "importance": "Medium",
+      "summary": "Could this speed up property transactions?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Three",
+        "Could"
+      ],
+      "locations": []
+    },
+    "840eaff65d94": {
+      "id": "840eaff65d94",
+      "importance": "Medium",
+      "summary": "Zoopla secures a major agreement with Leaders Romans Group, bringing all 370 branches back onto the portal ahead of LRG's 2027 expansion plan",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Major",
+        "Zoopla",
+        "Leaders Romans Group",
+        "LRG's"
+      ],
+      "locations": []
+    },
+    "2af0771b6151": {
+      "id": "2af0771b6151",
+      "importance": "Medium",
+      "summary": "The new estate agency office opened on Monday",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "9f3a031c24c6": {
+      "id": "9f3a031c24c6",
+      "importance": "Medium",
+      "summary": "Estate agency strikes auction deal as self-employed agent network expands",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Self-employed",
+        "Estate"
+      ],
+      "locations": []
+    },
+    "a6bcb816b969": {
+      "id": "a6bcb816b969",
+      "importance": "Medium",
+      "summary": "OneDome's mortgage network expands beyond 900 advisers",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages",
+        "Residential investment"
+      ],
+      "companies": [
+        "OneDome",
+        "OneDome's"
+      ],
+      "locations": []
+    },
+    "e90b9aaa13c0": {
+      "id": "e90b9aaa13c0",
+      "importance": "Medium",
+      "summary": "AI adoption in property has risen sharply, putting the sector second in the UK, according to fresh analysis",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property"
+      ],
+      "locations": []
+    },
+    "ce28fc3d5cfd": {
+      "id": "ce28fc3d5cfd",
+      "importance": "Medium",
+      "summary": "ESTAS introduces new awards as self-employed estate agency market expands",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Self-employed",
+        "ESTAS Awards. ESTAS"
+      ],
+      "locations": []
+    },
+    "7a69bd95868b": {
+      "id": "7a69bd95868b",
+      "importance": "Medium",
+      "summary": "Estate agent withdraws David Walliams’ £10.5m mansion after £1.45m price cut",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estate",
+        "David Walliams"
+      ],
+      "locations": []
+    },
+    "21ba661b1bca": {
+      "id": "21ba661b1bca",
+      "importance": "Medium",
+      "summary": "Over-65s hold £2.25tn in housing wealth, according to Savills, but relatively few are downsizing despite releasing £20.8bn in equity last year",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Over",
+        "Savills"
+      ],
+      "locations": []
+    },
+    "c3ed583bfeb8": {
+      "id": "c3ed583bfeb8",
+      "importance": "Medium",
+      "summary": "Estate agents challenged to do more for local communities next year",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "04b78eb78876": {
+      "id": "04b78eb78876",
+      "importance": "Medium",
+      "summary": "Estate agency seeks young artist with a licence to draw",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estate"
+      ],
+      "locations": []
+    },
+    "58d803aef1ae": {
+      "id": "58d803aef1ae",
+      "importance": "Medium",
+      "summary": "It's the latest and biggest of several recent agency deals with the portal",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Boost",
+        "Zoopla",
+        "It's"
+      ],
+      "locations": []
+    },
+    "11f02be472d3": {
+      "id": "11f02be472d3",
+      "importance": "Medium",
+      "summary": "The warring parties are undertaking mediation until next Monday",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Troubled"
+      ],
+      "locations": []
+    },
+    "4e00f5554a72": {
+      "id": "4e00f5554a72",
+      "importance": "Medium",
+      "summary": "AI is making impersonation a growing concern for businesses.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents"
+      ],
+      "locations": []
+    },
+    "aab6beda6fcb": {
+      "id": "aab6beda6fcb",
+      "importance": "Medium",
+      "summary": "The ESTAS has set up two special awards for self-employed agents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Self-employed",
+        "The ESTAS"
+      ],
+      "locations": []
+    },
+    "f599ca20ad77": {
+      "id": "f599ca20ad77",
+      "importance": "Medium",
+      "summary": "Here are five practical examples of how to give back to your community",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents",
+        "Here"
+      ],
+      "locations": []
+    },
+    "16891079ad21": {
+      "id": "16891079ad21",
+      "importance": "Medium",
+      "summary": "The research comes from Savills",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Pensioners",
+        "Savills"
+      ],
+      "locations": []
+    },
+    "7417888cfb9c": {
+      "id": "7417888cfb9c",
+      "importance": "Medium",
+      "summary": "A snapshot of the current status of biodiversity in the UK and how it’s changing.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "UK Biodiversity"
+      ],
+      "locations": []
+    },
+    "4a49faf52f9f": {
+      "id": "4a49faf52f9f",
+      "importance": "Medium",
+      "summary": "This report provides insights for local government on what works to support people, at the local level, to retrain.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "What"
+      ],
+      "locations": []
+    },
+    "1dab451a170b": {
+      "id": "1dab451a170b",
+      "importance": "Medium",
+      "summary": "The young people and work report is an independent review of the increase in the number of young people who are not in education, employment or training (NEET).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "From",
+        "Welfare State",
+        "Working State",
+        "NEET"
+      ],
+      "locations": []
+    },
+    "1a76d5680153": {
+      "id": "1a76d5680153",
+      "importance": "Medium",
+      "summary": "Research into the UK public’s tolerance of risks from internet-connected smart products in the home and how people perceive product safety.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tolerance",
+        "Research"
+      ],
+      "locations": []
+    },
+    "a1e89ee0f560": {
+      "id": "a1e89ee0f560",
+      "importance": "Medium",
+      "summary": "Results from the quarterly monitoring programme to check UK grown and imported food for pesticide residues.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Pesticide",
+        "Results"
+      ],
+      "locations": []
+    },
+    "cf282c3520f5": {
+      "id": "cf282c3520f5",
+      "importance": "Medium",
+      "summary": "Monthly tables and commentary on the numbers and rates of individual insolvencies, including bankruptcies, debt relief orders and individual voluntary arrangements in England and Wales and Northern Ireland, and quarterly",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Individual",
+        "Monthly",
+        "England and Wales and Northern Ireland"
+      ],
+      "locations": []
+    },
+    "b8dacda68ba1": {
+      "id": "b8dacda68ba1",
+      "importance": "Medium",
+      "summary": "Report covering the headline findings of the Community and Engagement Survey in 2025/26.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Community and Engagement Survey",
+        "Report"
+      ],
+      "locations": []
+    },
+    "1d23a51b2d4b": {
+      "id": "1d23a51b2d4b",
+      "importance": "Medium",
+      "summary": "Monthly tables and commentary on the numbers, rates and sectors of companies that have entered formal insolvency procedures in England and Wales, Scotland and Northern Ireland.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Company",
+        "Monthly",
+        "England and Wales",
+        "Scotland and Northern Ireland"
+      ],
+      "locations": []
+    },
+    "ecbe32786780": {
+      "id": "ecbe32786780",
+      "importance": "Medium",
+      "summary": "Non-seasonally adjusted and seasonally adjusted quarterly estimates of life satisfaction, feeling that the things done in life are worthwhile, happiness and anxiety in the UK.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Quarterly",
+        "Non-seasonally"
+      ],
+      "locations": []
+    },
+    "3188ccfd87fe": {
+      "id": "3188ccfd87fe",
+      "importance": "Medium",
+      "summary": "A snapshot of the current status of biodiversity in England and how it’s changing.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "fe0ed84a89cc": {
+      "id": "fe0ed84a89cc",
+      "importance": "Medium",
+      "summary": "A snapshot of the current status of biodiversity in England and how it’s changing.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "49ea30c3b687": {
+      "id": "49ea30c3b687",
+      "importance": "Medium",
+      "summary": "Number of adults and children in Universal Credit families benefitting and number leaving poverty in May 2026.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Statistics",
+        "Universal Credit",
+        "Number"
+      ],
+      "locations": []
+    },
+    "d393dfda9aa2": {
+      "id": "d393dfda9aa2",
+      "importance": "Medium",
+      "summary": "Exploring work aspirations and support needs of 18 to 24-year-old health and disability benefit customers, and barriers to education, training and employment.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Work",
+        "Exploring"
+      ],
+      "locations": []
+    },
+    "7c964b982a02": {
+      "id": "7c964b982a02",
+      "importance": "Medium",
+      "summary": "Statistics about sanctions on Universal Credit (UC). The data will be available as normal for analysis via Stat-Xplore.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Benefit Sanctions",
+        "Statistics",
+        "Universal Credit",
+        "Stat-Xplore"
+      ],
+      "locations": []
+    },
+    "d8204022c523": {
+      "id": "d8204022c523",
+      "importance": "Medium",
+      "summary": "Statistics for the number of claims, starts, people and households on Universal Credit.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Universal Credit Statistics",
+        "Statistics",
+        "Universal Credit"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 42,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Ch8sdmgVmhwztDkpvkq3u'}",
+    "model": null
+  }
+}
