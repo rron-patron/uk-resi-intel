@@ -1,0 +1,679 @@
+{
+  "generated_at": "2026-11-19T16:55:47+00:00",
+  "date_label": "Thursday 19 November 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChCdyhzhDXNLedwYKUvwP'}\n\n35 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Planning policy",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Residential investment",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housing supply",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Student housing",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 9,
+      "context": ""
+    },
+    {
+      "name": "Leasehold",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Christmas",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Propertymark",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Landlord",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "London",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Rightmove",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Agents",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Research",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "The Ministry of Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Communities and Local Government",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Eight-building Manchester",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "RG Real Estate",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "IQ Student Accommodation’s",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Charles Street",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Denbighshire",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Rather",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "North Wales",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Hale",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Britannia",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "35334f5cbea3": {
+      "id": "35334f5cbea3",
+      "importance": "Medium",
+      "summary": "The Ministry of Housing, Communities and Local Government has launched a six-week consultation on additional changes to the planning system",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "The Ministry of Housing",
+        "Communities and Local Government"
+      ],
+      "locations": []
+    },
+    "2c7353286043": {
+      "id": "2c7353286043",
+      "importance": "Medium",
+      "summary": "RG Real Estate has been given permission for three buildings rising to 38 storeys, while IQ Student Accommodation’s five-tower scheme, including a 50-storey skyscraper, on the other side of Charles Street was also approv",
+      "why_it_matters": "",
+      "themes": [
+        "Student housing"
+      ],
+      "companies": [
+        "Eight-building Manchester",
+        "RG Real Estate",
+        "IQ Student Accommodation’s",
+        "Charles Street"
+      ],
+      "locations": []
+    },
+    "ae2ed1673541": {
+      "id": "ae2ed1673541",
+      "importance": "Medium",
+      "summary": "Rather than continuing with the fast-becoming out-of-date strategic framework for 2018-2033, the North Wales county will aim to get ahead by starting on a 2027-2042 local development plan. The post Denbighshire moves to ",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Denbighshire",
+        "Rather",
+        "North Wales",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "872c1253ace0": {
+      "id": "872c1253ace0",
+      "importance": "Medium",
+      "summary": "Britannia will reopen Ashley Hotel as a premium destination following a stint as temporary accommodation for refugees. The post Hale hotel to be refurbished after asylum contract ends appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Hale",
+        "Britannia",
+        "Ashley Hotel",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "e9e6dc3d62a4": {
+      "id": "e9e6dc3d62a4",
+      "importance": "Medium",
+      "summary": "The housebuilder is seeking permission for a large residential development covering 45 acres within the Prime Minister’s Ashton-in-Makerfield constituency. The post Bellway tables plans for 526 homes in Burnham’s backyar",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Bellway",
+        "Burnham’s",
+        "Prime Minister’s Ashton-in-Makerfield",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "1aaaabc5f3cf": {
+      "id": "1aaaabc5f3cf",
+      "importance": "Medium",
+      "summary": "The developer has submitted plans for 33 homes off Ullswater Avenue, where it will work with registered provider Jigsaw Homes. The post Stanley Land and Homes takes on St Helens school site appeared first on Place North ",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Stanley Land and Homes",
+        "St Helens",
+        "Ullswater Avenue",
+        "Jigsaw Homes. The"
+      ],
+      "locations": []
+    },
+    "72e618f65991": {
+      "id": "72e618f65991",
+      "importance": "Medium",
+      "summary": "Rochdale Boroughwide Housing is planning to replace the tower blocks at College Bank with a series of interlinked apartment buildings fronting College Road, as well as townhouses. The post First images of Seven Sisters r",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "First",
+        "Seven Sisters",
+        "Rochdale Boroughwide Housing",
+        "College Bank"
+      ],
+      "locations": []
+    },
+    "a4000ce4ffb3": {
+      "id": "a4000ce4ffb3",
+      "importance": "Medium",
+      "summary": "Cheshire East Council’s strategic planning board has approved amendments for the 1,500-home project, with MADE Partnership now looking to make a start in 2027. The post Handforth Garden Village updates pass muster appear",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Handforth Garden Village",
+        "Cheshire East Council’s",
+        "MADE Partnership",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "f9fc210a4f00": {
+      "id": "f9fc210a4f00",
+      "importance": "Medium",
+      "summary": "The site of the former Greenhale House on the corner of Piccadilly and Norbury Street is to be redeveloped into a 100% affordable development to be operated by registered provider Mosscare St Vincent's. The post Westshie",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Westshield",
+        "Stockport",
+        "Greenhale House",
+        "Piccadilly and Norbury Street"
+      ],
+      "locations": []
+    },
+    "fc4134418fd4": {
+      "id": "fc4134418fd4",
+      "importance": "Medium",
+      "summary": "Previously the subject of plans for two residential towers, Terry Riley’s development company is planning to go even taller, having acquired the site from Investec. The post Ascot gets ball rolling on plans for 34-storey",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Ascot",
+        "Liverpool",
+        "Previously",
+        "Terry Riley’s"
+      ],
+      "locations": []
+    },
+    "b1882750e2b5": {
+      "id": "b1882750e2b5",
+      "importance": "Medium",
+      "summary": "Some leaseholders could face higher costs",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Leasehold",
+        "Some"
+      ],
+      "locations": []
+    },
+    "d63452ac986c": {
+      "id": "d63452ac986c",
+      "importance": "Medium",
+      "summary": "Company targets more estate agency and lettings deals",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Investment",
+        "Company"
+      ],
+      "locations": []
+    },
+    "74e428bcf636": {
+      "id": "74e428bcf636",
+      "importance": "Medium",
+      "summary": "Mortgage market braces for further rate rises after Bank of England warning",
+      "why_it_matters": "",
+      "themes": [
+        "Interest rates & mortgages"
+      ],
+      "companies": [
+        "Mortgage",
+        "Christmas",
+        "Bank of England"
+      ],
+      "locations": []
+    },
+    "0749c9828f0c": {
+      "id": "0749c9828f0c",
+      "importance": "Medium",
+      "summary": "Frank Bruno packs a punch at Propertymark Ambassadors' Day",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Boxing",
+        "Frank Bruno",
+        "Propertymark",
+        "Propertymark Ambassadors' Day"
+      ],
+      "locations": []
+    },
+    "dba732d08572": {
+      "id": "dba732d08572",
+      "importance": "Medium",
+      "summary": "Letting agents in firing line as London licensing fines soar",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Landlord",
+        "London",
+        "Letting"
+      ],
+      "locations": []
+    },
+    "e36084a42b03": {
+      "id": "e36084a42b03",
+      "importance": "Medium",
+      "summary": "Buyers gain the upper hand",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "House",
+        "Buyers"
+      ],
+      "locations": []
+    },
+    "97c817809aa0": {
+      "id": "97c817809aa0",
+      "importance": "Medium",
+      "summary": "Agents invited to have their say on industry reforms",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rightmove",
+        "Agents"
+      ],
+      "locations": []
+    },
+    "28d8d9707a2c": {
+      "id": "28d8d9707a2c",
+      "importance": "Medium",
+      "summary": "Propertymark reports a fall in tenant registrations, while house sales remain steady and landlords face continued uncertainty",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rental",
+        "Propertymark"
+      ],
+      "locations": []
+    },
+    "33d6a4775fc5": {
+      "id": "33d6a4775fc5",
+      "importance": "Medium",
+      "summary": "Energy bills vary sharply between EPC ratings",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Homebuyers",
+        "Energy"
+      ],
+      "locations": []
+    },
+    "6143386dc407": {
+      "id": "6143386dc407",
+      "importance": "Medium",
+      "summary": "Rents rise in 30 London boroughs as rental stock continues to fall",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "London",
+        "Rents"
+      ],
+      "locations": []
+    },
+    "a9f4e9c5d33d": {
+      "id": "a9f4e9c5d33d",
+      "importance": "Medium",
+      "summary": "Leasehold campaigners celebrate major victory for homeowners",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "EYE NEWSFLASH",
+        "Leasehold"
+      ],
+      "locations": []
+    },
+    "990d34bd6d78": {
+      "id": "990d34bd6d78",
+      "importance": "Medium",
+      "summary": "If Commonhold is so good, why has it not been adopted already? - critics ask",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents",
+        "If Commonhold"
+      ],
+      "locations": []
+    },
+    "dbc51999052c": {
+      "id": "dbc51999052c",
+      "importance": "Medium",
+      "summary": "The bank next meets a week before Christmas",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Possible",
+        "Christmas"
+      ],
+      "locations": []
+    },
+    "b6f6614a362c": {
+      "id": "b6f6614a362c",
+      "importance": "Medium",
+      "summary": "Since its founding in 2022, Hawthorn has invested across UK real estate and real estate services.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Finance",
+        "Since",
+        "Hawthorn"
+      ],
+      "locations": []
+    },
+    "4e59131bfff9": {
+      "id": "4e59131bfff9",
+      "importance": "Medium",
+      "summary": "Rightmove claims to have a \"longstanding approach of working closely with agents.”",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    "26f9442896de": {
+      "id": "26f9442896de",
+      "importance": "Medium",
+      "summary": "The new recruit actually worked for the firm a decade ago",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "7ec8179e79d7": {
+      "id": "7ec8179e79d7",
+      "importance": "Medium",
+      "summary": "Property solutions service Bettermove has crunched the numbers",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlord",
+        "Property",
+        "Bettermove"
+      ],
+      "locations": []
+    },
+    "5940adfb0213": {
+      "id": "5940adfb0213",
+      "importance": "Medium",
+      "summary": "Research findings report on the prevalence and frequency of online choice architecture (OCA) on online shopping platforms.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Online",
+        "Research"
+      ],
+      "locations": []
+    },
+    "113402db1664": {
+      "id": "113402db1664",
+      "importance": "Medium",
+      "summary": "Research on the prevalence of price personalisation in UK online markets using a consumer survey and synthetic profiles across multiple sectors.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Price",
+        "Research"
+      ],
+      "locations": []
+    },
+    "c417aa38ddc1": {
+      "id": "c417aa38ddc1",
+      "importance": "Medium",
+      "summary": "Update of data on the individual, social and environmental factors which influence the health of the population and effect inequalities in health.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Wider Determinants of Health",
+        "Update"
+      ],
+      "locations": []
+    },
+    "66803c81e9e3": {
+      "id": "66803c81e9e3",
+      "importance": "Medium",
+      "summary": "A revised assessment of intellectual property protection across UK intangible investment, incorporating updated data and methodological refinements.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Estimating IP-related"
+      ],
+      "locations": []
+    },
+    "1bca28ebbdaf": {
+      "id": "1bca28ebbdaf",
+      "importance": "Medium",
+      "summary": "Series of straights and compound animal feed prices across Great Britain.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Animal",
+        "Series",
+        "Great Britain"
+      ],
+      "locations": []
+    },
+    "f5a1dd5a841d": {
+      "id": "f5a1dd5a841d",
+      "importance": "Medium",
+      "summary": "Breakdowns of how many premises in the UK have received gigabit-capable broadband coverage as a result of Building Digital UK (BDUK) subsidy.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "BDUK",
+        "Breakdowns",
+        "Building Digital UK"
+      ],
+      "locations": []
+    },
+    "5472b2328694": {
+      "id": "5472b2328694",
+      "importance": "Medium",
+      "summary": "Official Statistics estimating the contribution of DCMS Sectors, to the UK economy, measured by GVA (gross value added).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "DCMS Economic Estimates",
+        "Monthly GVA",
+        "Official Statistics",
+        "DCMS Sectors"
+      ],
+      "locations": []
+    },
+    "50d49444c3e5": {
+      "id": "50d49444c3e5",
+      "importance": "Medium",
+      "summary": "Biannual UK armed forces and UK civilian operational casualty and fatality statistics.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Biannual UK"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 35,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChCdyhzhDXNLedwYKUvwP'}",
+    "model": null
+  }
+}

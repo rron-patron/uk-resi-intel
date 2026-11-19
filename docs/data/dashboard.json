@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generated_at_utc": "2026-11-18T16:48:47+00:00",
-  "generated_at_london": "2026-11-18T16:48+00:00",
-  "date_label": "18 November 2026",
-  "time_label": "16:48 GMT",
-  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChAjdo6ewCLEwwZWMJoUG'}\n\n45 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "generated_at_utc": "2026-11-19T16:55:48+00:00",
+  "generated_at_london": "2026-11-19T16:55+00:00",
+  "date_label": "19 November 2026",
+  "time_label": "16:55 GMT",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChCdyhzhDXNLedwYKUvwP'}\n\n35 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
   "sentiment": {
     "overall": "neutral",
     "score": 0,
@@ -15,6 +15,13 @@
   },
   "themes": [
     {
+      "name": "Planning policy",
+      "count": 5,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
       "name": "Residential investment",
       "count": 5,
       "direction": "steady",
@@ -23,20 +30,6 @@
     },
     {
       "name": "Affordable housing",
-      "count": 3,
-      "direction": "steady",
-      "summary": "",
-      "article_ids": []
-    },
-    {
-      "name": "Planning policy",
-      "count": 3,
-      "direction": "steady",
-      "summary": "",
-      "article_ids": []
-    },
-    {
-      "name": "Regional development",
       "count": 2,
       "direction": "steady",
       "summary": "",
@@ -50,8 +43,8 @@
       "article_ids": []
     },
     {
-      "name": "Interest rates & mortgages",
-      "count": 2,
+      "name": "Student housing",
+      "count": 1,
       "direction": "steady",
       "summary": "",
       "article_ids": []
@@ -62,125 +55,132 @@
       "direction": "steady",
       "summary": "",
       "article_ids": []
+    },
+    {
+      "name": "Interest rates & mortgages",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
     }
   ],
   "companies": [
     {
       "name": "Place North West",
       "type": "Other",
-      "mentions": 4,
+      "mentions": 9,
       "context": ""
     },
     {
-      "name": "Estate",
-      "type": "Other",
-      "mentions": 4,
-      "context": ""
-    },
-    {
-      "name": "Santander",
-      "type": "Other",
-      "mentions": 3,
-      "context": ""
-    },
-    {
-      "name": "Environmental Indicator Framework",
-      "type": "Other",
-      "mentions": 3,
-      "context": ""
-    },
-    {
-      "name": "Housing",
+      "name": "Leasehold",
       "type": "Other",
       "mentions": 2,
       "context": ""
     },
     {
-      "name": "OnTheMarket",
+      "name": "Christmas",
       "type": "Other",
       "mentions": 2,
       "context": ""
     },
     {
-      "name": "Connells",
+      "name": "Propertymark",
       "type": "Other",
       "mentions": 2,
       "context": ""
     },
     {
-      "name": "Environmental Indicator Framework Theme",
+      "name": "Landlord",
       "type": "Other",
       "mentions": 2,
       "context": ""
     },
     {
-      "name": "Theme",
+      "name": "London",
       "type": "Other",
       "mentions": 2,
       "context": ""
     },
     {
-      "name": "UK House Price Index",
+      "name": "Rightmove",
       "type": "Other",
       "mentions": 2,
       "context": ""
     },
     {
-      "name": "Arada Lands",
+      "name": "Agents",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Research",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "The Ministry of Housing",
       "type": "Other",
       "mentions": 1,
       "context": ""
     },
     {
-      "name": "Deal To Unlock",
+      "name": "Communities and Local Government",
       "type": "Other",
       "mentions": 1,
       "context": ""
     },
     {
-      "name": "Home Royal Docks Scheme",
+      "name": "Eight-building Manchester",
       "type": "Other",
       "mentions": 1,
       "context": ""
     },
     {
-      "name": "Arada",
+      "name": "RG Real Estate",
       "type": "Other",
       "mentions": 1,
       "context": ""
     },
     {
-      "name": "Royal Docks",
+      "name": "IQ Student Accommodation’s",
       "type": "Other",
       "mentions": 1,
       "context": ""
     },
     {
-      "name": "Amplius",
+      "name": "Charles Street",
       "type": "Other",
       "mentions": 1,
       "context": ""
     },
     {
-      "name": "Welsh",
+      "name": "Denbighshire",
       "type": "Other",
       "mentions": 1,
       "context": ""
     },
     {
-      "name": "The Welsh",
+      "name": "Rather",
       "type": "Other",
       "mentions": 1,
       "context": ""
     },
     {
-      "name": "Unnos",
+      "name": "North Wales",
       "type": "Other",
       "mentions": 1,
       "context": ""
     },
     {
-      "name": "Likelihood",
+      "name": "Hale",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Britannia",
       "type": "Other",
       "mentions": 1,
       "context": ""
@@ -197,944 +197,753 @@
   "regions": [],
   "stories": [
     {
-      "id": "8ee03b659f41",
-      "title": "Environmental Indicator Framework Theme A (Air)",
+      "id": "5940adfb0213",
+      "title": "Online choice architecture mapping",
       "source": "HM Land Registry — UK HPI",
       "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/publications/environmental-indicator-framework-theme-a-air",
-      "published": "2026-11-18T15:42:33+00:00",
+      "url": "https://gov.uk/government/publications/online-choice-architecture-mapping",
+      "published": "2026-11-19T16:25:56+00:00",
       "kind": "data",
-      "excerpt": "This release contains all indicators which fall under Theme A (Air) of the Environmental Indicator Framework.",
+      "excerpt": "Research findings report on the prevalence and frequency of online choice architecture (OCA) on online shopping platforms.",
       "importance": "Medium",
-      "summary": "This release contains all indicators which fall under Theme A (Air) of the Environmental Indicator Framework.",
+      "summary": "Research findings report on the prevalence and frequency of online choice architecture (OCA) on online shopping platforms.",
       "why_it_matters": "",
       "themes": [],
       "companies": [
-        "Environmental Indicator Framework Theme",
-        "Theme",
-        "Environmental Indicator Framework"
+        "Online",
+        "Research"
       ],
       "locations": []
     },
     {
-      "id": "d7a9345f168f",
-      "title": "Environmental Indicator Framework Theme E (Natural Resources)",
+      "id": "113402db1664",
+      "title": "Price personalisation: evidence from the UK online market",
       "source": "HM Land Registry — UK HPI",
       "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/publications/environmental-indicator-framework-theme-e-natural-resources",
-      "published": "2026-11-18T15:41:25+00:00",
+      "url": "https://gov.uk/government/publications/price-personalisation-evidence-from-the-uk-online-market",
+      "published": "2026-11-19T16:25:51+00:00",
       "kind": "data",
-      "excerpt": "This release contains all indicators which fall under Theme E (Natural Resources) of the Environmental Indicator Framework.",
+      "excerpt": "Research on the prevalence of price personalisation in UK online markets using a consumer survey and synthetic profiles across multiple sectors.",
       "importance": "Medium",
-      "summary": "This release contains all indicators which fall under Theme E (Natural Resources) of the Environmental Indicator Framework.",
+      "summary": "Research on the prevalence of price personalisation in UK online markets using a consumer survey and synthetic profiles across multiple sectors.",
       "why_it_matters": "",
       "themes": [],
       "companies": [
-        "Environmental Indicator Framework Theme",
-        "Natural Resources",
-        "Theme",
-        "Environmental Indicator Framework"
+        "Price",
+        "Research"
       ],
       "locations": []
     },
     {
-      "id": "152d6284b3fa",
-      "title": "Environmental Indicator Framework: assessments",
-      "source": "HM Land Registry — UK HPI",
-      "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/publications/environmental-indicator-framework-assessments",
-      "published": "2026-11-18T15:40:11+00:00",
-      "kind": "data",
-      "excerpt": "This release contains summaries for all Environmental Indicator Framework assessments relevant to the goals of the Environmental Improvement Plan.",
-      "importance": "Medium",
-      "summary": "This release contains summaries for all Environmental Indicator Framework assessments relevant to the goals of the Environmental Improvement Plan.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Environmental Indicator Framework",
-        "Environmental Improvement Plan"
-      ],
-      "locations": []
-    },
-    {
-      "id": "e00890569057",
-      "title": "Talent routes review",
-      "source": "HM Land Registry — UK HPI",
-      "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/publications/talent-routes-review",
-      "published": "2026-11-18T15:32:18+00:00",
-      "kind": "data",
-      "excerpt": "The Migration Advisory Committee’s report on the Global Talent and Innovator Founder routes.",
-      "importance": "Medium",
-      "summary": "The Migration Advisory Committee’s report on the Global Talent and Innovator Founder routes.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Talent",
-        "The Migration Advisory Committee’s",
-        "Global Talent and Innovator Founder"
-      ],
-      "locations": []
-    },
-    {
-      "id": "f3e0d29435b5",
-      "title": "Amplius posts £8m half-year turnover increase due to rental income boost, while first-tranche sales fall",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/amplius-posts-8m-half-year-turnover-increase-due-to-rental-income-boost-while-first-tranche-sales-fall-99734",
-      "published": "2026-11-18T14:00:00+00:00",
+      "id": "2c7353286043",
+      "title": "Eight-building Manchester student cluster given green light",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/eight-building-manchester-student-cluster-given-green-light",
+      "published": "2026-11-19T15:24:02+00:00",
       "kind": "news",
-      "excerpt": "Housing association Amplius has reported a net surplus of £29m during the six months to September, up £3m on the same period last year",
+      "excerpt": "RG Real Estate has been given permission for three buildings rising to 38 storeys, while IQ Student Accommodation’s five-tower scheme, including a 50-storey skyscraper, on the other side of Charles Street was also approved. The post Eight-building Manchester student cluster given green light appeared first on Place North West .",
       "importance": "Medium",
-      "summary": "Housing association Amplius has reported a net surplus of £29m during the six months to September, up £3m on the same period last year",
+      "summary": "RG Real Estate has been given permission for three buildings rising to 38 storeys, while IQ Student Accommodation’s five-tower scheme, including a 50-storey skyscraper, on the other side of Charles Street was also approv",
       "why_it_matters": "",
       "themes": [
-        "Residential investment",
+        "Student housing"
+      ],
+      "companies": [
+        "Eight-building Manchester",
+        "RG Real Estate",
+        "IQ Student Accommodation’s",
+        "Charles Street"
+      ],
+      "locations": []
+    },
+    {
+      "id": "ae2ed1673541",
+      "title": "Denbighshire moves to restart local plan development",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/denbighshire-moves-to-restart-local-plan-development",
+      "published": "2026-11-19T13:59:05+00:00",
+      "kind": "news",
+      "excerpt": "Rather than continuing with the fast-becoming out-of-date strategic framework for 2018-2033, the North Wales county will aim to get ahead by starting on a 2027-2042 local development plan. The post Denbighshire moves to restart local plan development appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "Rather than continuing with the fast-becoming out-of-date strategic framework for 2018-2033, the North Wales county will aim to get ahead by starting on a 2027-2042 local development plan. The post Denbighshire moves to ",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Denbighshire",
+        "Rather",
+        "North Wales",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    {
+      "id": "c417aa38ddc1",
+      "title": "Wider Determinants of Health: September 2026 update",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/wider-determinants-of-health-september-2026-update",
+      "published": "2026-11-19T12:33:28+00:00",
+      "kind": "data",
+      "excerpt": "Update of data on the individual, social and environmental factors which influence the health of the population and effect inequalities in health.",
+      "importance": "Medium",
+      "summary": "Update of data on the individual, social and environmental factors which influence the health of the population and effect inequalities in health.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Wider Determinants of Health",
+        "Update"
+      ],
+      "locations": []
+    },
+    {
+      "id": "872c1253ace0",
+      "title": "Hale hotel to be refurbished after asylum contract ends",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/hale-hotel-to-be-refurbished-after-asylum-contract-ends",
+      "published": "2026-11-19T11:55:36+00:00",
+      "kind": "news",
+      "excerpt": "Britannia will reopen Ashley Hotel as a premium destination following a stint as temporary accommodation for refugees. The post Hale hotel to be refurbished after asylum contract ends appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "Britannia will reopen Ashley Hotel as a premium destination following a stint as temporary accommodation for refugees. The post Hale hotel to be refurbished after asylum contract ends appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Hale",
+        "Britannia",
+        "Ashley Hotel",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    {
+      "id": "e9e6dc3d62a4",
+      "title": "Bellway tables plans for 526 homes in Burnham’s backyard",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/bellway-tables-plans-for-526-homes-in-burnhams-backyard",
+      "published": "2026-11-19T11:53:08+00:00",
+      "kind": "news",
+      "excerpt": "The housebuilder is seeking permission for a large residential development covering 45 acres within the Prime Minister’s Ashton-in-Makerfield constituency. The post Bellway tables plans for 526 homes in Burnham’s backyard appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "The housebuilder is seeking permission for a large residential development covering 45 acres within the Prime Minister’s Ashton-in-Makerfield constituency. The post Bellway tables plans for 526 homes in Burnham’s backyar",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Bellway",
+        "Burnham’s",
+        "Prime Minister’s Ashton-in-Makerfield",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    {
+      "id": "1aaaabc5f3cf",
+      "title": "Stanley Land and Homes takes on St Helens school site",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/stanley-land-and-homes-takes-on-st-helens-school-site",
+      "published": "2026-11-19T11:25:27+00:00",
+      "kind": "news",
+      "excerpt": "The developer has submitted plans for 33 homes off Ullswater Avenue, where it will work with registered provider Jigsaw Homes. The post Stanley Land and Homes takes on St Helens school site appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "The developer has submitted plans for 33 homes off Ullswater Avenue, where it will work with registered provider Jigsaw Homes. The post Stanley Land and Homes takes on St Helens school site appeared first on Place North ",
+      "why_it_matters": "",
+      "themes": [
         "Affordable housing"
       ],
       "companies": [
-        "Amplius",
-        "Housing"
+        "Stanley Land and Homes",
+        "St Helens",
+        "Ullswater Avenue",
+        "Jigsaw Homes. The"
       ],
       "locations": []
     },
     {
-      "id": "e43782b6f219",
-      "title": "Rochdale Boroughwide Housing decides to demolish seven landmark 1960s tower blocks",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/rochdale-boroughwide-housing-decides-to-demolish-seven-landmark-1960s-tower-blocks-99693",
-      "published": "2026-11-18T13:36:12+00:00",
-      "kind": "news",
-      "excerpt": "The Rochdale Boroughwide Housing board has decided to demolish the seven landmark 1960s tower blocks on the College Bank site to build new homes",
+      "id": "66803c81e9e3",
+      "title": "Estimating IP-related investment in intangible assets",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/publications/estimating-ip-related-investment-in-intangible-assets",
+      "published": "2026-11-19T10:38:00+00:00",
+      "kind": "data",
+      "excerpt": "A revised assessment of intellectual property protection across UK intangible investment, incorporating updated data and methodological refinements.",
       "importance": "Medium",
-      "summary": "The Rochdale Boroughwide Housing board has decided to demolish the seven landmark 1960s tower blocks on the College Bank site to build new homes",
+      "summary": "A revised assessment of intellectual property protection across UK intangible investment, incorporating updated data and methodological refinements.",
       "why_it_matters": "",
-      "themes": [],
+      "themes": [
+        "Residential investment"
+      ],
       "companies": [
+        "Estimating IP-related"
+      ],
+      "locations": []
+    },
+    {
+      "id": "72e618f65991",
+      "title": "First images of Seven Sisters rebirth",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/first-images-of-seven-sisters-rebirth",
+      "published": "2026-11-19T10:27:28+00:00",
+      "kind": "news",
+      "excerpt": "Rochdale Boroughwide Housing is planning to replace the tower blocks at College Bank with a series of interlinked apartment buildings fronting College Road, as well as townhouses. The post First images of Seven Sisters rebirth appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "Rochdale Boroughwide Housing is planning to replace the tower blocks at College Bank with a series of interlinked apartment buildings fronting College Road, as well as townhouses. The post First images of Seven Sisters r",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "First",
+        "Seven Sisters",
         "Rochdale Boroughwide Housing",
-        "The Rochdale Boroughwide Housing",
         "College Bank"
       ],
       "locations": []
     },
     {
-      "id": "8178a5f3f4a9",
-      "title": "Welsh housing minister announces work now underway to establish national development body",
+      "id": "35334f5cbea3",
+      "title": "Government announces consultation on additional planning reforms",
       "source": "Inside Housing",
       "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/welsh-housing-minister-announces-work-now-underway-to-establish-national-development-body-99701",
-      "published": "2026-11-18T13:00:00+00:00",
+      "url": "https://insidehousing.co.uk/home/government-announces-consultation-on-additional-planning-reforms-99756",
+      "published": "2026-11-19T09:58:02+00:00",
       "kind": "news",
-      "excerpt": "The Welsh government has begun work on a business case for Unnos, its national development body for social housing",
+      "excerpt": "The Ministry of Housing, Communities and Local Government has launched a six-week consultation on additional changes to the planning system",
       "importance": "Medium",
-      "summary": "The Welsh government has begun work on a business case for Unnos, its national development body for social housing",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Welsh",
-        "The Welsh",
-        "Unnos"
-      ],
-      "locations": []
-    },
-    {
-      "id": "29d6c2e0e0dc",
-      "title": "Cheshire East approves David Lloyd’s Nantwich health club",
-      "source": "Place North West",
-      "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/cheshire-east-approves-david-lloyds-nantwich-health-club",
-      "published": "2026-11-18T11:57:22+00:00",
-      "kind": "news",
-      "excerpt": "Proposals for a David Lloyd fitness complex were warmly received by members of the council’s planning committee this morning. The post Cheshire East approves David Lloyd’s Nantwich health club appeared first on Place North West .",
-      "importance": "Medium",
-      "summary": "Proposals for a David Lloyd fitness complex were warmly received by members of the council’s planning committee this morning. The post Cheshire East approves David Lloyd’s Nantwich health club appeared first on Place Nor",
+      "summary": "The Ministry of Housing, Communities and Local Government has launched a six-week consultation on additional changes to the planning system",
       "why_it_matters": "",
       "themes": [
         "Planning policy"
       ],
       "companies": [
-        "Cheshire East",
-        "David Lloyd’s Nantwich",
-        "Proposals",
-        "David Lloyd"
+        "The Ministry of Housing",
+        "Communities and Local Government"
       ],
       "locations": []
     },
     {
-      "id": "39e7878c8efb",
-      "title": "Trafford looks to expand housing portfolio, regenerate Empress Conservation Area",
+      "id": "a4000ce4ffb3",
+      "title": "Handforth Garden Village updates pass muster",
       "source": "Place North West",
       "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/trafford-looks-to-expand-housing-portfolio-regenerate-empress-conservation-area",
-      "published": "2026-11-18T11:37:38+00:00",
+      "url": "https://placenorthwest.co.uk/handforth-garden-village-updates-pass-muster",
+      "published": "2026-11-19T09:56:51+00:00",
       "kind": "news",
-      "excerpt": "The local authority’s executive made two key decisions yesterday: to pursue the retention of affordable homes that are delivered through council-led projects and to adopt planning guidance for the troubled historic district by Chester Road. The post Trafford looks to expand housing portfolio, regenerate Empress Conservation Area appeared first on Place North West .",
+      "excerpt": "Cheshire East Council’s strategic planning board has approved amendments for the 1,500-home project, with MADE Partnership now looking to make a start in 2027. The post Handforth Garden Village updates pass muster appeared first on Place North West .",
       "importance": "Medium",
-      "summary": "The local authority’s executive made two key decisions yesterday: to pursue the retention of affordable homes that are delivered through council-led projects and to adopt planning guidance for the troubled historic distr",
+      "summary": "Cheshire East Council’s strategic planning board has approved amendments for the 1,500-home project, with MADE Partnership now looking to make a start in 2027. The post Handforth Garden Village updates pass muster appear",
       "why_it_matters": "",
       "themes": [
-        "Planning policy",
-        "Residential investment",
-        "Affordable housing"
+        "Planning policy"
       ],
       "companies": [
-        "Trafford",
-        "Empress Conservation Area. The",
-        "Chester Road. The",
-        "Empress Conservation Area"
+        "Handforth Garden Village",
+        "Cheshire East Council’s",
+        "MADE Partnership",
+        "Place North West"
       ],
       "locations": []
     },
     {
-      "id": "3c755e4dd49e",
-      "title": "Likelihood of both multiple and individual landlord failures remained high in 2025-26, RSH annual report says",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/likelihood-of-both-multiple-and-individual-landlord-failures-remained-high-in-2025-26-rsh-annual-report-says-99716",
-      "published": "2026-11-18T11:35:53+00:00",
-      "kind": "news",
-      "excerpt": "The Regulator of Social Housing’s annual report has warned that “the likelihood of both multiple and individual landlord failures remained high” in 2025-26",
-      "importance": "Medium",
-      "summary": "The Regulator of Social Housing’s annual report has warned that “the likelihood of both multiple and individual landlord failures remained high” in 2025-26",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Likelihood",
-        "The Regulator of Social Housing’s"
-      ],
-      "locations": []
-    },
-    {
-      "id": "566e646d135c",
-      "title": "Domis tops out 43-storey No2 St Michael’s",
-      "source": "Place North West",
-      "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/domis-tops-out-43-storey-no2-st-michaels",
-      "published": "2026-11-18T11:10:27+00:00",
-      "kind": "news",
-      "excerpt": "Featuring offices, branded apartments, and a hotel, the tower element of the £400m Manchester scheme is being brought forward by a joint venture between Salboy and Relentless Developments. The post Domis tops out 43-storey No2 St Michael’s appeared first on Place North West .",
-      "importance": "Medium",
-      "summary": "Featuring offices, branded apartments, and a hotel, the tower element of the £400m Manchester scheme is being brought forward by a joint venture between Salboy and Relentless Developments. The post Domis tops out 43-stor",
-      "why_it_matters": "",
-      "themes": [
-        "Residential investment"
-      ],
-      "companies": [
-        "Domis",
-        "St Michael’s. Featuring",
-        "Manchester",
-        "Salboy and Relentless Developments. The"
-      ],
-      "locations": []
-    },
-    {
-      "id": "9bff5a32e7bb",
-      "title": "Preschool faces losing home as childcare hits capacity at planned 20,000-home development",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/preschool-faces-losing-home-as-childcare-hits-capacity-at-planned-20000-home-development-99647",
-      "published": "2026-11-18T10:48:20+00:00",
-      "kind": "news",
-      "excerpt": "A preschool at a development for 20,000 homes faces losing its premises before a proposed replacement is ready, despite provision being “nearly at capacity”",
-      "importance": "Medium",
-      "summary": "A preschool at a development for 20,000 homes faces losing its premises before a proposed replacement is ready, despite provision being “nearly at capacity”",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Preschool"
-      ],
-      "locations": []
-    },
-    {
-      "id": "f75c769ea19d",
-      "title": "ECF finds its next chair in David Prout",
-      "source": "Place North West",
-      "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/ecf-finds-its-new-chair-in-david-prout",
-      "published": "2026-11-18T10:34:45+00:00",
-      "kind": "news",
-      "excerpt": "Already charged with overseeing the delivery of a garden city in Kent, David Prout will be guiding regeneration nationwide when he starts at the Muse, Legal & General, and National Housing Bank joint venture at the end of January. The post ECF finds its next chair in David Prout appeared first on Place North West .",
-      "importance": "Medium",
-      "summary": "Already charged with overseeing the delivery of a garden city in Kent, David Prout will be guiding regeneration nationwide when he starts at the Muse, Legal & General, and National Housing Bank joint venture at the end o",
-      "why_it_matters": "",
-      "themes": [
-        "Housing supply",
-        "Regional development"
-      ],
-      "companies": [
-        "David Prout. Already",
-        "Kent",
-        "David Prout",
-        "Muse"
-      ],
-      "locations": []
-    },
-    {
-      "id": "7a3de2c589a5",
-      "title": "Forecasts for the UK economy: November 2026",
+      "id": "1bca28ebbdaf",
+      "title": "Animal feed prices",
       "source": "HM Land Registry — UK HPI",
       "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/statistics/forecasts-for-the-uk-economy-november-2026",
-      "published": "2026-11-18T10:00:04+00:00",
+      "url": "https://gov.uk/government/statistical-data-sets/animal-feed-prices",
+      "published": "2026-11-19T09:30:17+00:00",
       "kind": "data",
-      "excerpt": "A comparison of independent forecasts for the UK economy in November 2026.",
+      "excerpt": "Series of straights and compound animal feed prices across Great Britain.…",
       "importance": "Medium",
-      "summary": "A comparison of independent forecasts for the UK economy in November 2026.",
+      "summary": "Series of straights and compound animal feed prices across Great Britain.…",
       "why_it_matters": "",
       "themes": [],
       "companies": [
-        "Forecasts"
+        "Animal",
+        "Series",
+        "Great Britain"
       ],
       "locations": []
     },
     {
-      "id": "b398bf1a9716",
-      "title": "National non-domestic rates collected by councils in England: forecast 2026 to 2027",
+      "id": "f5a1dd5a841d",
+      "title": "BDUK delivery performance, quarterly: July 2026 to September 2026",
       "source": "HM Land Registry — UK HPI",
       "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/statistics/national-non-domestic-rates-collected-by-councils-in-england-forecast-2026-to-2027",
-      "published": "2026-11-18T09:30:03+00:00",
+      "url": "https://gov.uk/government/statistics/bduk-delivery-performance-quarterly-july-2026-to-september-2026",
+      "published": "2026-11-19T09:30:16+00:00",
       "kind": "data",
-      "excerpt": "Forecast of national non-domestic rates to be collected by local authorities in England.",
+      "excerpt": "Breakdowns of how many premises in the UK have received gigabit-capable broadband coverage as a result of Building Digital UK (BDUK) subsidy.",
       "importance": "Medium",
-      "summary": "Forecast of national non-domestic rates to be collected by local authorities in England.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "National",
-        "Forecast"
-      ],
-      "locations": []
-    },
-    {
-      "id": "3495910b6b16",
-      "title": "Council Taxbase 2026 in England",
-      "source": "HM Land Registry — UK HPI",
-      "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/statistics/council-taxbase-2026-in-england",
-      "published": "2026-11-18T09:30:02+00:00",
-      "kind": "data",
-      "excerpt": "Estimate of the number of properties liable for Council Tax as at September 2026.",
-      "importance": "Medium",
-      "summary": "Estimate of the number of properties liable for Council Tax as at September 2026.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Council Taxbase",
-        "England. Estimate",
-        "Council Tax"
-      ],
-      "locations": []
-    },
-    {
-      "id": "d9b75aa61af6",
-      "title": "Country and regional analysis: 2026",
-      "source": "HM Land Registry — UK HPI",
-      "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/statistics/country-and-regional-analysis-2026",
-      "published": "2026-11-18T09:30:02+00:00",
-      "kind": "data",
-      "excerpt": "Statistical estimates for the allocation of identifiable expenditure between the regions and nations of the United Kingdom.",
-      "importance": "Medium",
-      "summary": "Statistical estimates for the allocation of identifiable expenditure between the regions and nations of the United Kingdom.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Country",
-        "Statistical",
-        "United Kingdom"
-      ],
-      "locations": []
-    },
-    {
-      "id": "1507870fa803",
-      "title": "Fostering in England 1 April 2025 to 31 March 2026",
-      "source": "HM Land Registry — UK HPI",
-      "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/statistics/fostering-in-england-1-april-2025-to-31-march-2026",
-      "published": "2026-11-18T09:30:02+00:00",
-      "kind": "data",
-      "excerpt": "Fostering in England statistics for the period 1 April 2025 to 31 March 2026.",
-      "importance": "Medium",
-      "summary": "Fostering in England statistics for the period 1 April 2025 to 31 March 2026.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Fostering"
-      ],
-      "locations": []
-    },
-    {
-      "id": "b359a2d238ad",
-      "title": "UK House Price Index: data downloads September 2026",
-      "source": "HM Land Registry — UK HPI",
-      "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-september-2026",
-      "published": "2026-11-18T09:30:01+00:00",
-      "kind": "data",
-      "excerpt": "Download aggregated data behind the UK House Price Index (UK HPI), in CSV format.",
-      "importance": "Medium",
-      "summary": "Download aggregated data behind the UK House Price Index (UK HPI), in CSV format.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "UK House Price Index",
-        "Download",
-        "UK HPI"
-      ],
-      "locations": []
-    },
-    {
-      "id": "c89441c6cd09",
-      "title": "Public Spending Statistics release: November 2026",
-      "source": "HM Land Registry — UK HPI",
-      "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/statistics/public-spending-statistics-release-november-2026",
-      "published": "2026-11-18T09:30:01+00:00",
-      "kind": "data",
-      "excerpt": "The November 2026 accredited official statistics public expenditure outturn release.",
-      "importance": "Medium",
-      "summary": "The November 2026 accredited official statistics public expenditure outturn release.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Public Spending Statistics",
-        "The November"
-      ],
-      "locations": []
-    },
-    {
-      "id": "ff9e8485c9a6",
-      "title": "The People and Nature Surveys for England: Adults' Data Y7Q1 (April 2026 - June 2026)",
-      "source": "HM Land Registry — UK HPI",
-      "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/statistics/the-people-and-nature-surveys-for-england-adults-data-y7q1-april-2026-june-2026",
-      "published": "2026-11-18T09:30:01+00:00",
-      "kind": "data",
-      "excerpt": "Data, and supporting documents, from the People and Nature Survey covering the period 1 April 2026 - 30 June 2026.",
-      "importance": "Medium",
-      "summary": "Data, and supporting documents, from the People and Nature Survey covering the period 1 April 2026 - 30 June 2026.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "The People and Nature Surveys",
-        "Adults' Data",
-        "Data",
-        "People and Nature Survey"
-      ],
-      "locations": []
-    },
-    {
-      "id": "50d659aa5cee",
-      "title": "UK House Price Index for September 2026",
-      "source": "HM Land Registry — UK HPI",
-      "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/statistics/uk-house-price-index-for-september-2026",
-      "published": "2026-11-18T09:30:01+00:00",
-      "kind": "data",
-      "excerpt": "Monthly report showing the data for the average house prices for England, Northern Ireland, Scotland and Wales, including in CSV format.",
-      "importance": "Medium",
-      "summary": "Monthly report showing the data for the average house prices for England, Northern Ireland, Scotland and Wales, including in CSV format.",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "UK House Price Index",
-        "Monthly",
-        "Northern Ireland",
-        "Scotland and Wales"
-      ],
-      "locations": []
-    },
-    {
-      "id": "900f78091e7a",
-      "title": "Contributions to the 12-month rate of CPI(H) by import intensity: October 2026",
-      "source": "HM Land Registry — UK HPI",
-      "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/statistics/contributions-to-the-12-month-rate-of-cpih-by-import-intensity-october-2026",
-      "published": "2026-11-18T09:30:00+00:00",
-      "kind": "data",
-      "excerpt": "…A longer time series of contributions to the Consumer Prices Index including owner occupiers' housing costs (CPIH) and Consumer Prices Index (CPI), UK, monthly.…",
-      "importance": "Medium",
-      "summary": "…A longer time series of contributions to the Consumer Prices Index including owner occupiers' housing costs (CPIH) and Consumer Prices Index (CPI), UK, monthly.…",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Contributions",
-        "Consumer Prices Index",
-        "CPIH"
-      ],
-      "locations": []
-    },
-    {
-      "id": "7605b76c95e3",
-      "title": "UK Clinical Research Delivery key performance indicators: data to October 2026",
-      "source": "HM Land Registry — UK HPI",
-      "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/statistics/uk-clinical-research-delivery-key-performance-indicators-data-to-october-2026",
-      "published": "2026-11-18T09:30:00+00:00",
-      "kind": "data",
-      "excerpt": "Report bringing together data on the delivery of globally competitive clinical research through the UK Clinical Research Delivery programme.",
-      "importance": "Medium",
-      "summary": "Report bringing together data on the delivery of globally competitive clinical research through the UK Clinical Research Delivery programme.",
+      "summary": "Breakdowns of how many premises in the UK have received gigabit-capable broadband coverage as a result of Building Digital UK (BDUK) subsidy.",
       "why_it_matters": "",
       "themes": [
         "Housing supply"
       ],
       "companies": [
-        "UK Clinical Research Delivery",
-        "Report"
+        "BDUK",
+        "Breakdowns",
+        "Building Digital UK"
       ],
       "locations": []
     },
     {
-      "id": "2ae3c74ccc66",
-      "title": "Private rent and house prices, UK: November 2026",
+      "id": "5472b2328694",
+      "title": "DCMS Economic Estimates: Monthly GVA (to September 2026)",
       "source": "HM Land Registry — UK HPI",
       "source_key": "hm_land_registry",
-      "url": "https://gov.uk/government/statistics/private-rent-and-house-prices-uk-november-2026",
-      "published": "2026-11-18T09:30:00+00:00",
+      "url": "https://gov.uk/government/statistics/dcms-economic-estimates-monthly-gva-to-september-2026",
+      "published": "2026-11-19T09:30:15+00:00",
       "kind": "data",
-      "excerpt": "The Price Index of Private Rents (PIPR) measures private rent inflation for new and existing tenancies. The UK House Price Index measures house price inflation.",
+      "excerpt": "Official Statistics estimating the contribution of DCMS Sectors, to the UK economy, measured by GVA (gross value added).",
       "importance": "Medium",
-      "summary": "The Price Index of Private Rents (PIPR) measures private rent inflation for new and existing tenancies. The UK House Price Index measures house price inflation.",
+      "summary": "Official Statistics estimating the contribution of DCMS Sectors, to the UK economy, measured by GVA (gross value added).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "DCMS Economic Estimates",
+        "Monthly GVA",
+        "Official Statistics",
+        "DCMS Sectors"
+      ],
+      "locations": []
+    },
+    {
+      "id": "50d49444c3e5",
+      "title": "UK armed forces and UK civilian operational casualty and fatality statistics: data up to 30 September 2026",
+      "source": "HM Land Registry — UK HPI",
+      "source_key": "hm_land_registry",
+      "url": "https://gov.uk/government/statistics/uk-armed-forces-and-uk-civilian-operational-casualty-and-fatality-statistics-data-up-to-30-september-2026",
+      "published": "2026-11-19T09:30:15+00:00",
+      "kind": "data",
+      "excerpt": "Biannual UK armed forces and UK civilian operational casualty and fatality statistics.",
+      "importance": "Medium",
+      "summary": "Biannual UK armed forces and UK civilian operational casualty and fatality statistics.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Biannual UK"
+      ],
+      "locations": []
+    },
+    {
+      "id": "f9fc210a4f00",
+      "title": "Westshield, MSV to deliver social homes in Stockport town centre",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/westshield-msv-to-deliver-social-homes-in-stockport-town-centre",
+      "published": "2026-11-19T08:18:45+00:00",
+      "kind": "news",
+      "excerpt": "The site of the former Greenhale House on the corner of Piccadilly and Norbury Street is to be redeveloped into a 100% affordable development to be operated by registered provider Mosscare St Vincent's. The post Westshield, MSV to deliver social homes in Stockport town centre appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "The site of the former Greenhale House on the corner of Piccadilly and Norbury Street is to be redeveloped into a 100% affordable development to be operated by registered provider Mosscare St Vincent's. The post Westshie",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "Westshield",
+        "Stockport",
+        "Greenhale House",
+        "Piccadilly and Norbury Street"
+      ],
+      "locations": []
+    },
+    {
+      "id": "b1882750e2b5",
+      "title": "Leasehold shake-up could leave some homeowners worse off, expert warns",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/leasehold-reform-could-leave-some-homeowners-paying-more-expert-warns",
+      "published": "2026-11-19T04:50:12+00:00",
+      "kind": "news",
+      "excerpt": "Some leaseholders could face higher costs",
+      "importance": "Medium",
+      "summary": "Some leaseholders could face higher costs",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Leasehold",
+        "Some"
+      ],
+      "locations": []
+    },
+    {
+      "id": "d63452ac986c",
+      "title": "Investment firm buys another estate agency as acquisition drive gathers pace",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/investment-firm-buys-another-estate-agency-as-acquisition-drive-gathers-pace",
+      "published": "2026-11-19T04:40:28+00:00",
+      "kind": "news",
+      "excerpt": "Company targets more estate agency and lettings deals",
+      "importance": "Medium",
+      "summary": "Company targets more estate agency and lettings deals",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Investment",
+        "Company"
+      ],
+      "locations": []
+    },
+    {
+      "id": "74e428bcf636",
+      "title": "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/mortgage-borrowers-face-christmas-interest-rate-hike-as-bank-of-england-issues-warning",
+      "published": "2026-11-19T04:30:19+00:00",
+      "kind": "news",
+      "excerpt": "Mortgage market braces for further rate rises after Bank of England warning",
+      "importance": "Medium",
+      "summary": "Mortgage market braces for further rate rises after Bank of England warning",
       "why_it_matters": "",
       "themes": [
         "Interest rates & mortgages"
       ],
       "companies": [
-        "Private",
-        "The Price Index of Private",
-        "Rents",
-        "PIPR"
+        "Mortgage",
+        "Christmas",
+        "Bank of England"
       ],
       "locations": []
     },
     {
-      "id": "48bdec4cfa5f",
-      "title": "Milburn report: Housing sector should be ‘high on list’ for gradual drop in employers’ National Insurance, PfP Thrive says",
-      "source": "Inside Housing",
-      "source_key": "inside_housing",
-      "url": "https://insidehousing.co.uk/home/milburn-report-housing-sector-should-be-high-on-list-for-gradual-drop-in-employers-national-insurance-pfp-thrive-says-99692",
-      "published": "2026-11-18T08:00:00+00:00",
+      "id": "0749c9828f0c",
+      "title": "Boxing legend Frank Bruno delivers knockout appearance at Propertymark event",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/boxing-legend-frank-bruno-delivers-knockout-appearance-at-propertymark-event",
+      "published": "2026-11-19T03:50:33+00:00",
       "kind": "news",
-      "excerpt": "The housing sector should be “high on the list” for the gradual drop in employers’ National Insurance payments proposed in the Milburn review, PfP Thrive said",
+      "excerpt": "Frank Bruno packs a punch at Propertymark Ambassadors' Day",
       "importance": "Medium",
-      "summary": "The housing sector should be “high on the list” for the gradual drop in employers’ National Insurance payments proposed in the Milburn review, PfP Thrive said",
+      "summary": "Frank Bruno packs a punch at Propertymark Ambassadors' Day",
       "why_it_matters": "",
       "themes": [],
       "companies": [
-        "Milburn",
-        "Housing",
-        "National Insurance",
-        "PfP Thrive"
+        "Boxing",
+        "Frank Bruno",
+        "Propertymark",
+        "Propertymark Ambassadors' Day"
       ],
       "locations": []
     },
     {
-      "id": "eea56ba6bbac",
-      "title": "Taylor Wimpey cracks on with 310 Halton homes after appeal win",
-      "source": "Place North West",
-      "source_key": "place_north_west",
-      "url": "https://placenorthwest.co.uk/taylor-wimpey-cracks-on-with-310-halton-homes-after-appeal-win",
-      "published": "2026-11-18T07:50:26+00:00",
+      "id": "dba732d08572",
+      "title": "Landlord and letting agent fines in London near £29m as licensing penalties surge",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/landlord-and-letting-agent-fines-near-29m-as-licensing-penalties-surge",
+      "published": "2026-11-19T03:40:18+00:00",
       "kind": "news",
-      "excerpt": "Efforts from neighbouring authority Knowsley Council to thwart the housebuilder’s Chapel Lane scheme ultimately failed, paving the way for the development. The post Taylor Wimpey cracks on with 310 Halton homes after appeal win appeared first on Place North West .",
+      "excerpt": "Letting agents in firing line as London licensing fines soar",
       "importance": "Medium",
-      "summary": "Efforts from neighbouring authority Knowsley Council to thwart the housebuilder’s Chapel Lane scheme ultimately failed, paving the way for the development. The post Taylor Wimpey cracks on with 310 Halton homes after app",
+      "summary": "Letting agents in firing line as London licensing fines soar",
       "why_it_matters": "",
       "themes": [
-        "Housebuilders",
-        "Planning policy"
-      ],
-      "companies": [
-        "Taylor Wimpey",
-        "Halton",
-        "Efforts",
-        "Knowsley Council"
-      ],
-      "locations": []
-    },
-    {
-      "id": "9c3b1cb218eb",
-      "title": "Charlie Lamdin hits back at estate agents: ‘You’re missing the point’",
-      "source": "Property Industry Eye",
-      "source_key": "property_industry_eye",
-      "url": "https://propertyindustryeye.com/charlie-lamdin-hits-back-at-estate-agents-youre-missing-the-point",
-      "published": "2026-11-18T05:58:54+00:00",
-      "kind": "news",
-      "excerpt": "BestAgent row escalates as Lamdin challenges agents over property listings",
-      "importance": "Medium",
-      "summary": "BestAgent row escalates as Lamdin challenges agents over property listings",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Charlie Lamdin",
-        "You’re",
-        "BestAgent",
-        "Lamdin"
-      ],
-      "locations": []
-    },
-    {
-      "id": "d48b6cf9c50e",
-      "title": "Misleading property advert lands OnTheMarket and estate agent in trouble with ASA",
-      "source": "Property Industry Eye",
-      "source_key": "property_industry_eye",
-      "url": "https://propertyindustryeye.com/misleading-property-advert-lands-onthemarket-and-estate-agent-in-trouble-with-asa",
-      "published": "2026-11-18T03:30:34+00:00",
-      "kind": "news",
-      "excerpt": "ASA orders changes to property advertising",
-      "importance": "Medium",
-      "summary": "ASA orders changes to property advertising",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Misleading",
-        "OnTheMarket",
-        "ASA. ASA"
-      ],
-      "locations": []
-    },
-    {
-      "id": "60de29ff3b57",
-      "title": "Estate agency’s loneliness epidemic",
-      "source": "Property Industry Eye",
-      "source_key": "property_industry_eye",
-      "url": "https://propertyindustryeye.com/estate-agencys-loneliness-epidemic",
-      "published": "2026-11-18T02:50:49+00:00",
-      "kind": "news",
-      "excerpt": "Why being busy isn't the same as being connected",
-      "importance": "Medium",
-      "summary": "Why being busy isn't the same as being connected",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Estate"
-      ],
-      "locations": []
-    },
-    {
-      "id": "07d071bcb777",
-      "title": "Buy-to-let landlords abandon plans to sell as falling flat prices derail exit strategies",
-      "source": "Property Industry Eye",
-      "source_key": "property_industry_eye",
-      "url": "https://propertyindustryeye.com/btl-landlords-abandon-plans-to-sell-as-falling-flat-prices-hit-exit-strategies",
-      "published": "2026-11-18T02:30:46+00:00",
-      "kind": "news",
-      "excerpt": "Landlords rethink selling as demand holds firm",
-      "importance": "Medium",
-      "summary": "Landlords rethink selling as demand holds firm",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Buy-to-let",
-        "Landlords"
-      ],
-      "locations": []
-    },
-    {
-      "id": "cf0662688afc",
-      "title": "Estate agents offered prospect of big returns – but the sums are speculative",
-      "source": "Property Industry Eye",
-      "source_key": "property_industry_eye",
-      "url": "https://propertyindustryeye.com/estate-agents-offered-prospect-of-big-returns-but-the-sums-are-speculative",
-      "published": "2026-11-18T01:50:23+00:00",
-      "kind": "news",
-      "excerpt": "Estate agents promised sevenfold prospecting returns - but there's a catch",
-      "importance": "Medium",
-      "summary": "Estate agents promised sevenfold prospecting returns - but there's a catch",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Estate"
-      ],
-      "locations": []
-    },
-    {
-      "id": "b62937c6df90",
-      "title": "Santander joins battle to fix broken property sales process",
-      "source": "Property Industry Eye",
-      "source_key": "property_industry_eye",
-      "url": "https://propertyindustryeye.com/santander-joins-battle-to-fix-broken-property-sales-process",
-      "published": "2026-11-18T01:48:06+00:00",
-      "kind": "news",
-      "excerpt": "Will the changes make a difference for estate agents?",
-      "importance": "Medium",
-      "summary": "Will the changes make a difference for estate agents?",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Santander",
-        "Will"
-      ],
-      "locations": []
-    },
-    {
-      "id": "b19590b0e542",
-      "title": "Source of funds or source of wealth? Free webinar tackles agents’ AML confusion",
-      "source": "Property Industry Eye",
-      "source_key": "property_industry_eye",
-      "url": "https://propertyindustryeye.com/source-of-funds-or-source-of-wealth-free-webinar-tackles-agents-aml-confusion",
-      "published": "2026-11-18T01:44:47+00:00",
-      "kind": "news",
-      "excerpt": "Estate agents offered free AML training on source of funds checks",
-      "importance": "Medium",
-      "summary": "Estate agents offered free AML training on source of funds checks",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Source",
-        "Free",
-        "Estate"
-      ],
-      "locations": []
-    },
-    {
-      "id": "f214b01d905e",
-      "title": "Rent arrears behind more than half of landlord repossessions",
-      "source": "Property Industry Eye",
-      "source_key": "property_industry_eye",
-      "url": "https://propertyindustryeye.com/rent-arrears-behind-more-than-half-of-landlord-repossessions",
-      "published": "2026-11-18T01:40:28+00:00",
-      "kind": "news",
-      "excerpt": "Budget risks pushing more tenants into arrears, landlords warn",
-      "importance": "Medium",
-      "summary": "Budget risks pushing more tenants into arrears, landlords warn",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Rent",
-        "Budget"
-      ],
-      "locations": []
-    },
-    {
-      "id": "300462d27968",
-      "title": "Santander joins six-times-income mortgage race as buyers offered bigger loans",
-      "source": "Property Industry Eye",
-      "source_key": "property_industry_eye",
-      "url": "https://propertyindustryeye.com/santander-joins-six-times-income-mortgage-race-as-buyers-offered-bigger-loans",
-      "published": "2026-11-18T01:20:32+00:00",
-      "kind": "news",
-      "excerpt": "Santander offers first-time buyers up to £90,000 extra borrowing as mortgage competition intensifies",
-      "importance": "Medium",
-      "summary": "Santander offers first-time buyers up to £90,000 extra borrowing as mortgage competition intensifies",
-      "why_it_matters": "",
-      "themes": [
-        "Interest rates & mortgages",
         "Residential investment"
       ],
       "companies": [
-        "Santander"
+        "Landlord",
+        "London",
+        "Letting"
       ],
       "locations": []
     },
     {
-      "id": "771338628f2b",
-      "title": "Estate agency giant pledges 1,000 placements to tackle youth unemployment",
+      "id": "e36084a42b03",
+      "title": "House price growth stalls as estate agents warn of further falls",
       "source": "Property Industry Eye",
       "source_key": "property_industry_eye",
-      "url": "https://propertyindustryeye.com/estate-agency-giant-pledges-1000-placements-to-tackle-youth-unemployment",
-      "published": "2026-11-18T00:50:59+00:00",
+      "url": "https://propertyindustryeye.com/house-price-growth-stalls-as-estate-agents-warn-of-further-falls",
+      "published": "2026-11-19T03:10:30+00:00",
       "kind": "news",
-      "excerpt": "The estate agency group will offer placements across its branch network",
+      "excerpt": "Buyers gain the upper hand",
       "importance": "Medium",
-      "summary": "The estate agency group will offer placements across its branch network",
+      "summary": "Buyers gain the upper hand",
       "why_it_matters": "",
       "themes": [],
       "companies": [
-        "Estate"
+        "House",
+        "Buyers"
       ],
       "locations": []
     },
     {
-      "id": "83445dadad85",
-      "title": "OnTheMarket property adverts banned by watchdog",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/onthemarket-property-listing-and-facebook-entry-banned-by-watchdog",
-      "published": "2026-11-18T00:06:00+00:00",
+      "id": "97c817809aa0",
+      "title": "Rightmove seeks agents’ views on regulation and home-moving reforms",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/rightmove-seeks-agents-views-on-regulation-and-home-moving-reforms",
+      "published": "2026-11-19T02:20:12+00:00",
       "kind": "news",
-      "excerpt": "The ASA says it has examples of three properties",
+      "excerpt": "Agents invited to have their say on industry reforms",
       "importance": "Medium",
-      "summary": "The ASA says it has examples of three properties",
+      "summary": "Agents invited to have their say on industry reforms",
       "why_it_matters": "",
       "themes": [],
       "companies": [
-        "OnTheMarket",
-        "The ASA"
+        "Rightmove",
+        "Agents"
       ],
       "locations": []
     },
     {
-      "id": "cb1a766404d2",
-      "title": "Big problem emerges for Burnham’s first time buyer scheme",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/big-problems-emerge-for-bunrhams-first-time-buyer-scheme",
-      "published": "2026-11-18T00:05:00+00:00",
+      "id": "28d8d9707a2c",
+      "title": "Rental demand takes unexpected dip as sales market holds steady",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/rental-demand-takes-unexpected-dip-as-sales-market-holds-steady",
+      "published": "2026-11-19T01:50:25+00:00",
       "kind": "news",
-      "excerpt": "Are new homes just too expensive for first time buyers using the scheme?",
+      "excerpt": "Propertymark reports a fall in tenant registrations, while house sales remain steady and landlords face continued uncertainty",
       "importance": "Medium",
-      "summary": "Are new homes just too expensive for first time buyers using the scheme?",
+      "summary": "Propertymark reports a fall in tenant registrations, while house sales remain steady and landlords face continued uncertainty",
       "why_it_matters": "",
       "themes": [],
       "companies": [
-        "Burnham’s"
+        "Rental",
+        "Propertymark"
       ],
       "locations": []
     },
     {
-      "id": "06c69de5f0b7",
-      "title": "PropTech giants create new lead-generating service",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/proptech-giants-create-new-lead-generating-service",
-      "published": "2026-11-18T00:04:00+00:00",
+      "id": "33d6a4775fc5",
+      "title": "Homebuyers want energy independence – but greener homes come at a price",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/homebuyers-want-energy-independence-but-greener-homes-come-at-a-price",
+      "published": "2026-11-19T01:20:26+00:00",
       "kind": "news",
-      "excerpt": "It combines property intelligences with a live two-way CRM integration",
+      "excerpt": "Energy bills vary sharply between EPC ratings",
       "importance": "Medium",
-      "summary": "It combines property intelligences with a live two-way CRM integration",
+      "summary": "Energy bills vary sharply between EPC ratings",
       "why_it_matters": "",
       "themes": [],
       "companies": [
-        "PropTech"
+        "Homebuyers",
+        "Energy"
       ],
       "locations": []
     },
     {
-      "id": "de56e9f4cd18",
-      "title": "Santander joins with Connells to campaign for faster home buying",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/santander-joins-with-connells-to-campaign-for-faster-home-buying",
-      "published": "2026-11-18T00:03:00+00:00",
+      "id": "6143386dc407",
+      "title": "London rental bills soar by £2,000 a year in hardest-hit boroughs",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/london-rental-bills-soar-by-2000-a-year-in-hardest-hit-boroughs",
+      "published": "2026-11-19T00:50:04+00:00",
       "kind": "news",
-      "excerpt": "Santander, the UK’s fourth largest lender, has joined with Connells in the National Property Transaction Network, to campaign for house buying reform. It says it wants to explore how earlier, secure sharing of key property information can reduce some delays and duplication experienced by customers in the home buying and selling process. NPTN enables key […]",
+      "excerpt": "Rents rise in 30 London boroughs as rental stock continues to fall",
       "importance": "Medium",
-      "summary": "Santander, the UK’s fourth largest lender, has joined with Connells in the National Property Transaction Network, to campaign for house buying reform. It says it wants to explore how earlier, secure sharing of key proper",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Santander",
-        "Connells",
-        "UK’s",
-        "National Property Transaction Network"
-      ],
-      "locations": []
-    },
-    {
-      "id": "f1c5d8da409a",
-      "title": "Senior Propertymark figure retires after 30 years",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/senior-propertymark-figure-retires-after-30-years",
-      "published": "2026-11-18T00:01:00+00:00",
-      "kind": "news",
-      "excerpt": "His successor has been in post some six months",
-      "importance": "Medium",
-      "summary": "His successor has been in post some six months",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Senior Propertymark"
-      ],
-      "locations": []
-    },
-    {
-      "id": "f7dd29538ea0",
-      "title": "Another bleak property market assessment released",
-      "source": "Estate Agent Today",
-      "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/another-bleak-property-market-assessment-released",
-      "published": "2026-11-18T00:00:00+00:00",
-      "kind": "news",
-      "excerpt": "The market is still moving - but growth has slowed significantly",
-      "importance": "Medium",
-      "summary": "The market is still moving - but growth has slowed significantly",
-      "why_it_matters": "",
-      "themes": [],
-      "companies": [
-        "Another"
-      ],
-      "locations": []
-    },
-    {
-      "id": "ba8fff331a1f",
-      "title": "Arada Lands £2.7B Deal To Unlock 5,000-Home Royal Docks Scheme",
-      "source": "Bisnow UK",
-      "source_key": "bisnow_uk",
-      "url": "https://bisnow.com/news/london/affordable-housing/arada-lands-pound2-7b-deal-to-unlock-5-000-home-royal-docks-scheme",
-      "published": "2026-11-17T19:38:27+00:00",
-      "kind": "news",
-      "excerpt": "Arada secured a £2.7B Royal Docks agreement to unlock 5,000 new homes, with affordable housing, a DLR station and long-term regeneration.",
-      "importance": "Medium",
-      "summary": "Arada secured a £2.7B Royal Docks agreement to unlock 5,000 new homes, with affordable housing, a DLR station and long-term regeneration.",
+      "summary": "Rents rise in 30 London boroughs as rental stock continues to fall",
       "why_it_matters": "",
       "themes": [
-        "Residential investment",
-        "Affordable housing",
-        "Regional development"
+        "Residential investment"
       ],
       "companies": [
-        "Arada Lands",
-        "Deal To Unlock",
-        "Home Royal Docks Scheme",
-        "Arada"
+        "London",
+        "Rents"
       ],
       "locations": []
     },
     {
-      "id": "6f16ce8d3e71",
-      "title": "Connells announces major young peoples jobs initiative",
+      "id": "990d34bd6d78",
+      "title": "Agents furious over government leasehold plans",
       "source": "Estate Agent Today",
       "source_key": "estate_agent_today",
-      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/connells-to-provide-1000-placements-for-young-people",
-      "published": "2026-11-17T11:20:00+00:00",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/government-leasehold-proposals-provoke-agents-backlash",
+      "published": "2026-11-19T00:10:44+00:00",
       "kind": "news",
-      "excerpt": "The initiative fits in with government plans to employ more young people",
+      "excerpt": "If Commonhold is so good, why has it not been adopted already? - critics ask",
       "importance": "Medium",
-      "summary": "The initiative fits in with government plans to employ more young people",
+      "summary": "If Commonhold is so good, why has it not been adopted already? - critics ask",
       "why_it_matters": "",
       "themes": [],
       "companies": [
-        "Connells"
+        "Agents",
+        "If Commonhold"
+      ],
+      "locations": []
+    },
+    {
+      "id": "dbc51999052c",
+      "title": "Possible rate rise before Christmas – agents warned",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/possible-rate-rise-before-christmas-agents-warned",
+      "published": "2026-11-19T00:06:00+00:00",
+      "kind": "news",
+      "excerpt": "The bank next meets a week before Christmas",
+      "importance": "Medium",
+      "summary": "The bank next meets a week before Christmas",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Possible",
+        "Christmas"
+      ],
+      "locations": []
+    },
+    {
+      "id": "b6f6614a362c",
+      "title": "Finance firm snaps up third agency and seeks more acquisitions",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/private-finance-firm-snaps-up-third-agency-and-seeks-more-acquisitions",
+      "published": "2026-11-19T00:05:00+00:00",
+      "kind": "news",
+      "excerpt": "Since its founding in 2022, Hawthorn has invested across UK real estate and real estate services.",
+      "importance": "Medium",
+      "summary": "Since its founding in 2022, Hawthorn has invested across UK real estate and real estate services.",
+      "why_it_matters": "",
+      "themes": [
+        "Residential investment"
+      ],
+      "companies": [
+        "Finance",
+        "Since",
+        "Hawthorn"
+      ],
+      "locations": []
+    },
+    {
+      "id": "4e59131bfff9",
+      "title": "Rightmove in new bid to win support from agents",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/rightmove-in-new-bid-to-win-support-from-agents",
+      "published": "2026-11-19T00:02:00+00:00",
+      "kind": "news",
+      "excerpt": "Rightmove claims to have a \"longstanding approach of working closely with agents.”",
+      "importance": "Medium",
+      "summary": "Rightmove claims to have a \"longstanding approach of working closely with agents.”",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rightmove"
+      ],
+      "locations": []
+    },
+    {
+      "id": "26f9442896de",
+      "title": "New sales manager returns to agency where she started property career",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/new-sales-manager-returns-to-agency-where-she-started-property-career",
+      "published": "2026-11-19T00:01:00+00:00",
+      "kind": "news",
+      "excerpt": "The new recruit actually worked for the firm a decade ago",
+      "importance": "Medium",
+      "summary": "The new recruit actually worked for the firm a decade ago",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    {
+      "id": "7ec8179e79d7",
+      "title": "Landlord sell-off adds to glut of flats on sale",
+      "source": "Estate Agent Today",
+      "source_key": "estate_agent_today",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/landlord-sell-off-adds-to-glut-of-flats-on-sale",
+      "published": "2026-11-19T00:00:00+00:00",
+      "kind": "news",
+      "excerpt": "Property solutions service Bettermove has crunched the numbers",
+      "importance": "Medium",
+      "summary": "Property solutions service Bettermove has crunched the numbers",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Landlord",
+        "Property",
+        "Bettermove"
+      ],
+      "locations": []
+    },
+    {
+      "id": "a9f4e9c5d33d",
+      "title": "EYE NEWSFLASH! Government unveils sweeping leasehold reforms as campaigners celebrate and industry backlash erupts",
+      "source": "Property Industry Eye",
+      "source_key": "property_industry_eye",
+      "url": "https://propertyindustryeye.com/eye-newsflash-government-unveils-sweeping-leasehold-reforms-as-campaigners-celebrate-and-industry-backlash-erupts",
+      "published": "2026-11-18T22:30:53+00:00",
+      "kind": "news",
+      "excerpt": "Leasehold campaigners celebrate major victory for homeowners",
+      "importance": "Medium",
+      "summary": "Leasehold campaigners celebrate major victory for homeowners",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "EYE NEWSFLASH",
+        "Leasehold"
+      ],
+      "locations": []
+    },
+    {
+      "id": "fc4134418fd4",
+      "title": "Ascot gets ball rolling on plans for 34-storey tower on Liverpool waterfront",
+      "source": "Place North West",
+      "source_key": "place_north_west",
+      "url": "https://placenorthwest.co.uk/ascot-gets-ball-rolling-on-plans-for-34-storey-tower-on-liverpool-waterfront",
+      "published": "2026-11-18T16:47:41+00:00",
+      "kind": "news",
+      "excerpt": "Previously the subject of plans for two residential towers, Terry Riley’s development company is planning to go even taller, having acquired the site from Investec. The post Ascot gets ball rolling on plans for 34-storey tower on Liverpool waterfront appeared first on Place North West .",
+      "importance": "Medium",
+      "summary": "Previously the subject of plans for two residential towers, Terry Riley’s development company is planning to go even taller, having acquired the site from Investec. The post Ascot gets ball rolling on plans for 34-storey",
+      "why_it_matters": "",
+      "themes": [
+        "Planning policy"
+      ],
+      "companies": [
+        "Ascot",
+        "Liverpool",
+        "Previously",
+        "Terry Riley’s"
       ],
       "locations": []
     }
   ],
   "stats": {
-    "stories": 45,
+    "stories": 35,
     "critical": 0,
     "high": 0,
-    "medium": 45,
+    "medium": 35,
     "low": 0,
     "sources_live": 7,
     "sources_total": 9,
     "by_source": [
       {
-        "name": "HM Land Registry — UK HPI",
-        "count": 16
-      },
-      {
         "name": "Property Industry Eye",
-        "count": 10
-      },
-      {
-        "name": "Estate Agent Today",
-        "count": 7
-      },
-      {
-        "name": "Inside Housing",
-        "count": 6
+        "count": 11
       },
       {
         "name": "Place North West",
-        "count": 5
+        "count": 9
       },
       {
-        "name": "Bisnow UK",
+        "name": "HM Land Registry — UK HPI",
+        "count": 8
+      },
+      {
+        "name": "Estate Agent Today",
+        "count": 6
+      },
+      {
+        "name": "Inside Housing",
         "count": 1
       }
     ]
@@ -1211,9 +1020,9 @@
       "name": "Inside Housing",
       "route": "feed",
       "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
-      "found": 10,
+      "found": 5,
       "attempts": [
-        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 10"
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 5"
       ]
     },
     {
@@ -1234,9 +1043,9 @@
       "name": "Place North West",
       "route": "feed",
       "url": "https://www.placenorthwest.co.uk/feed/",
-      "found": 11,
+      "found": 15,
       "attempts": [
-        "feed https://www.placenorthwest.co.uk/feed/ -> 11"
+        "feed https://www.placenorthwest.co.uk/feed/ -> 15"
       ]
     },
     {
@@ -1254,9 +1063,9 @@
       "name": "Estate Agent Today",
       "route": "feed",
       "url": "https://www.estateagenttoday.co.uk/newsfeeds",
-      "found": 13,
+      "found": 12,
       "attempts": [
-        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 13"
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
       ]
     },
     {
@@ -1297,9 +1106,9 @@
   ],
   "meta": {
     "rated": 0,
-    "unrated": 45,
+    "unrated": 35,
     "degraded": true,
-    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChAjdo6ewCLEwwZWMJoUG'}",
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChCdyhzhDXNLedwYKUvwP'}",
     "model": null
   }
 }

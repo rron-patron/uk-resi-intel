@@ -1,0 +1,667 @@
+{
+  "collected_at": "2026-11-19T16:55:25+00:00",
+  "date_london": "2026-11-19",
+  "counts": {
+    "seen_in_feeds": 83,
+    "new": 35,
+    "sources_live": 7,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "feed",
+      "url": "https://www.bisnow.com/london/rss",
+      "found": 1,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 1"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 5,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 5"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 15,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 15"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "failed",
+      "url": "https://www.landlordzone.co.uk/news",
+      "found": 0,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/blog/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/rss.xml -> 0",
+        "scrape https://www.landlordzone.co.uk/news -> 0"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Government announces consultation on additional planning reforms",
+      "url": "https://insidehousing.co.uk/home/government-announces-consultation-on-additional-planning-reforms-99756",
+      "published": "2026-11-19T09:58:02+00:00",
+      "excerpt": "The Ministry of Housing, Communities and Local Government has launched a six-week consultation on additional changes to the planning system",
+      "entities": [
+        "The Ministry of Housing",
+        "Communities and Local Government"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:26+00:00",
+      "id": "35334f5cbea3"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Eight-building Manchester student cluster given green light",
+      "url": "https://placenorthwest.co.uk/eight-building-manchester-student-cluster-given-green-light",
+      "published": "2026-11-19T15:24:02+00:00",
+      "excerpt": "RG Real Estate has been given permission for three buildings rising to 38 storeys, while IQ Student Accommodation’s five-tower scheme, including a 50-storey skyscraper, on the other side of Charles Street was also approved. The post Eight-building Manchester student cluster given green light appeared first on Place North West .",
+      "entities": [
+        "Eight-building Manchester",
+        "RG Real Estate",
+        "IQ Student Accommodation’s",
+        "Charles Street",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:33+00:00",
+      "id": "2c7353286043"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Denbighshire moves to restart local plan development",
+      "url": "https://placenorthwest.co.uk/denbighshire-moves-to-restart-local-plan-development",
+      "published": "2026-11-19T13:59:05+00:00",
+      "excerpt": "Rather than continuing with the fast-becoming out-of-date strategic framework for 2018-2033, the North Wales county will aim to get ahead by starting on a 2027-2042 local development plan. The post Denbighshire moves to restart local plan development appeared first on Place North West .",
+      "entities": [
+        "Denbighshire",
+        "Rather",
+        "North Wales",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:33+00:00",
+      "id": "ae2ed1673541"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Hale hotel to be refurbished after asylum contract ends",
+      "url": "https://placenorthwest.co.uk/hale-hotel-to-be-refurbished-after-asylum-contract-ends",
+      "published": "2026-11-19T11:55:36+00:00",
+      "excerpt": "Britannia will reopen Ashley Hotel as a premium destination following a stint as temporary accommodation for refugees. The post Hale hotel to be refurbished after asylum contract ends appeared first on Place North West .",
+      "entities": [
+        "Hale",
+        "Britannia",
+        "Ashley Hotel",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:33+00:00",
+      "id": "872c1253ace0"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Bellway tables plans for 526 homes in Burnham’s backyard",
+      "url": "https://placenorthwest.co.uk/bellway-tables-plans-for-526-homes-in-burnhams-backyard",
+      "published": "2026-11-19T11:53:08+00:00",
+      "excerpt": "The housebuilder is seeking permission for a large residential development covering 45 acres within the Prime Minister’s Ashton-in-Makerfield constituency. The post Bellway tables plans for 526 homes in Burnham’s backyard appeared first on Place North West .",
+      "entities": [
+        "Bellway",
+        "Burnham’s",
+        "Prime Minister’s Ashton-in-Makerfield",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:33+00:00",
+      "id": "e9e6dc3d62a4"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Stanley Land and Homes takes on St Helens school site",
+      "url": "https://placenorthwest.co.uk/stanley-land-and-homes-takes-on-st-helens-school-site",
+      "published": "2026-11-19T11:25:27+00:00",
+      "excerpt": "The developer has submitted plans for 33 homes off Ullswater Avenue, where it will work with registered provider Jigsaw Homes. The post Stanley Land and Homes takes on St Helens school site appeared first on Place North West .",
+      "entities": [
+        "Stanley Land and Homes",
+        "St Helens",
+        "Ullswater Avenue",
+        "Jigsaw Homes. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:33+00:00",
+      "id": "1aaaabc5f3cf"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "First images of Seven Sisters rebirth",
+      "url": "https://placenorthwest.co.uk/first-images-of-seven-sisters-rebirth",
+      "published": "2026-11-19T10:27:28+00:00",
+      "excerpt": "Rochdale Boroughwide Housing is planning to replace the tower blocks at College Bank with a series of interlinked apartment buildings fronting College Road, as well as townhouses. The post First images of Seven Sisters rebirth appeared first on Place North West .",
+      "entities": [
+        "First",
+        "Seven Sisters",
+        "Rochdale Boroughwide Housing",
+        "College Bank",
+        "College Road",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:33+00:00",
+      "id": "72e618f65991"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Handforth Garden Village updates pass muster",
+      "url": "https://placenorthwest.co.uk/handforth-garden-village-updates-pass-muster",
+      "published": "2026-11-19T09:56:51+00:00",
+      "excerpt": "Cheshire East Council’s strategic planning board has approved amendments for the 1,500-home project, with MADE Partnership now looking to make a start in 2027. The post Handforth Garden Village updates pass muster appeared first on Place North West .",
+      "entities": [
+        "Handforth Garden Village",
+        "Cheshire East Council’s",
+        "MADE Partnership",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:33+00:00",
+      "id": "a4000ce4ffb3"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Westshield, MSV to deliver social homes in Stockport town centre",
+      "url": "https://placenorthwest.co.uk/westshield-msv-to-deliver-social-homes-in-stockport-town-centre",
+      "published": "2026-11-19T08:18:45+00:00",
+      "excerpt": "The site of the former Greenhale House on the corner of Piccadilly and Norbury Street is to be redeveloped into a 100% affordable development to be operated by registered provider Mosscare St Vincent's. The post Westshield, MSV to deliver social homes in Stockport town centre appeared first on Place North West .",
+      "entities": [
+        "Westshield",
+        "Stockport",
+        "Greenhale House",
+        "Piccadilly and Norbury Street",
+        "Mosscare St Vincent's. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:33+00:00",
+      "id": "f9fc210a4f00"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Ascot gets ball rolling on plans for 34-storey tower on Liverpool waterfront",
+      "url": "https://placenorthwest.co.uk/ascot-gets-ball-rolling-on-plans-for-34-storey-tower-on-liverpool-waterfront",
+      "published": "2026-11-18T16:47:41+00:00",
+      "excerpt": "Previously the subject of plans for two residential towers, Terry Riley’s development company is planning to go even taller, having acquired the site from Investec. The post Ascot gets ball rolling on plans for 34-storey tower on Liverpool waterfront appeared first on Place North West .",
+      "entities": [
+        "Ascot",
+        "Liverpool",
+        "Previously",
+        "Terry Riley’s",
+        "Investec. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:33+00:00",
+      "id": "fc4134418fd4"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Leasehold shake-up could leave some homeowners worse off, expert warns",
+      "url": "https://propertyindustryeye.com/leasehold-reform-could-leave-some-homeowners-paying-more-expert-warns",
+      "published": "2026-11-19T04:50:12+00:00",
+      "excerpt": "Some leaseholders could face higher costs",
+      "entities": [
+        "Leasehold",
+        "Some"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:34+00:00",
+      "id": "b1882750e2b5"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Investment firm buys another estate agency as acquisition drive gathers pace",
+      "url": "https://propertyindustryeye.com/investment-firm-buys-another-estate-agency-as-acquisition-drive-gathers-pace",
+      "published": "2026-11-19T04:40:28+00:00",
+      "excerpt": "Company targets more estate agency and lettings deals",
+      "entities": [
+        "Investment",
+        "Company"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:34+00:00",
+      "id": "d63452ac986c"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Mortgage borrowers face Christmas interest rate hike as Bank of England issues warning",
+      "url": "https://propertyindustryeye.com/mortgage-borrowers-face-christmas-interest-rate-hike-as-bank-of-england-issues-warning",
+      "published": "2026-11-19T04:30:19+00:00",
+      "excerpt": "Mortgage market braces for further rate rises after Bank of England warning",
+      "entities": [
+        "Mortgage",
+        "Christmas",
+        "Bank of England"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:34+00:00",
+      "id": "74e428bcf636"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Boxing legend Frank Bruno delivers knockout appearance at Propertymark event",
+      "url": "https://propertyindustryeye.com/boxing-legend-frank-bruno-delivers-knockout-appearance-at-propertymark-event",
+      "published": "2026-11-19T03:50:33+00:00",
+      "excerpt": "Frank Bruno packs a punch at Propertymark Ambassadors' Day",
+      "entities": [
+        "Boxing",
+        "Frank Bruno",
+        "Propertymark",
+        "Propertymark Ambassadors' Day"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:34+00:00",
+      "id": "0749c9828f0c"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Landlord and letting agent fines in London near £29m as licensing penalties surge",
+      "url": "https://propertyindustryeye.com/landlord-and-letting-agent-fines-near-29m-as-licensing-penalties-surge",
+      "published": "2026-11-19T03:40:18+00:00",
+      "excerpt": "Letting agents in firing line as London licensing fines soar",
+      "entities": [
+        "Landlord",
+        "London",
+        "Letting"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:34+00:00",
+      "id": "dba732d08572"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "House price growth stalls as estate agents warn of further falls",
+      "url": "https://propertyindustryeye.com/house-price-growth-stalls-as-estate-agents-warn-of-further-falls",
+      "published": "2026-11-19T03:10:30+00:00",
+      "excerpt": "Buyers gain the upper hand",
+      "entities": [
+        "House",
+        "Buyers"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:34+00:00",
+      "id": "e36084a42b03"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Rightmove seeks agents’ views on regulation and home-moving reforms",
+      "url": "https://propertyindustryeye.com/rightmove-seeks-agents-views-on-regulation-and-home-moving-reforms",
+      "published": "2026-11-19T02:20:12+00:00",
+      "excerpt": "Agents invited to have their say on industry reforms",
+      "entities": [
+        "Rightmove",
+        "Agents"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:34+00:00",
+      "id": "97c817809aa0"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Rental demand takes unexpected dip as sales market holds steady",
+      "url": "https://propertyindustryeye.com/rental-demand-takes-unexpected-dip-as-sales-market-holds-steady",
+      "published": "2026-11-19T01:50:25+00:00",
+      "excerpt": "Propertymark reports a fall in tenant registrations, while house sales remain steady and landlords face continued uncertainty",
+      "entities": [
+        "Rental",
+        "Propertymark"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:34+00:00",
+      "id": "28d8d9707a2c"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Homebuyers want energy independence – but greener homes come at a price",
+      "url": "https://propertyindustryeye.com/homebuyers-want-energy-independence-but-greener-homes-come-at-a-price",
+      "published": "2026-11-19T01:20:26+00:00",
+      "excerpt": "Energy bills vary sharply between EPC ratings",
+      "entities": [
+        "Homebuyers",
+        "Energy"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:34+00:00",
+      "id": "33d6a4775fc5"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "London rental bills soar by £2,000 a year in hardest-hit boroughs",
+      "url": "https://propertyindustryeye.com/london-rental-bills-soar-by-2000-a-year-in-hardest-hit-boroughs",
+      "published": "2026-11-19T00:50:04+00:00",
+      "excerpt": "Rents rise in 30 London boroughs as rental stock continues to fall",
+      "entities": [
+        "London",
+        "Rents"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:34+00:00",
+      "id": "6143386dc407"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "EYE NEWSFLASH! Government unveils sweeping leasehold reforms as campaigners celebrate and industry backlash erupts",
+      "url": "https://propertyindustryeye.com/eye-newsflash-government-unveils-sweeping-leasehold-reforms-as-campaigners-celebrate-and-industry-backlash-erupts",
+      "published": "2026-11-18T22:30:53+00:00",
+      "excerpt": "Leasehold campaigners celebrate major victory for homeowners",
+      "entities": [
+        "EYE NEWSFLASH",
+        "Leasehold"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:34+00:00",
+      "id": "a9f4e9c5d33d"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agents furious over government leasehold plans",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/government-leasehold-proposals-provoke-agents-backlash",
+      "published": "2026-11-19T00:10:44+00:00",
+      "excerpt": "If Commonhold is so good, why has it not been adopted already? - critics ask",
+      "entities": [
+        "Agents",
+        "If Commonhold"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:34+00:00",
+      "id": "990d34bd6d78"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Possible rate rise before Christmas – agents warned",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/possible-rate-rise-before-christmas-agents-warned",
+      "published": "2026-11-19T00:06:00+00:00",
+      "excerpt": "The bank next meets a week before Christmas",
+      "entities": [
+        "Possible",
+        "Christmas"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:34+00:00",
+      "id": "dbc51999052c"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Finance firm snaps up third agency and seeks more acquisitions",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/private-finance-firm-snaps-up-third-agency-and-seeks-more-acquisitions",
+      "published": "2026-11-19T00:05:00+00:00",
+      "excerpt": "Since its founding in 2022, Hawthorn has invested across UK real estate and real estate services.",
+      "entities": [
+        "Finance",
+        "Since",
+        "Hawthorn"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:34+00:00",
+      "id": "b6f6614a362c"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Rightmove in new bid to win support from agents",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/rightmove-in-new-bid-to-win-support-from-agents",
+      "published": "2026-11-19T00:02:00+00:00",
+      "excerpt": "Rightmove claims to have a \"longstanding approach of working closely with agents.”",
+      "entities": [
+        "Rightmove"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:34+00:00",
+      "id": "4e59131bfff9"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "New sales manager returns to agency where she started property career",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/new-sales-manager-returns-to-agency-where-she-started-property-career",
+      "published": "2026-11-19T00:01:00+00:00",
+      "excerpt": "The new recruit actually worked for the firm a decade ago",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:34+00:00",
+      "id": "26f9442896de"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Landlord sell-off adds to glut of flats on sale",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/landlord-sell-off-adds-to-glut-of-flats-on-sale",
+      "published": "2026-11-19T00:00:00+00:00",
+      "excerpt": "Property solutions service Bettermove has crunched the numbers",
+      "entities": [
+        "Landlord",
+        "Property",
+        "Bettermove"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-19T16:55:34+00:00",
+      "id": "7ec8179e79d7"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Online choice architecture mapping",
+      "url": "https://gov.uk/government/publications/online-choice-architecture-mapping",
+      "published": "2026-11-19T16:25:56+00:00",
+      "excerpt": "Research findings report on the prevalence and frequency of online choice architecture (OCA) on online shopping platforms.",
+      "entities": [
+        "Online",
+        "Research"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-19T16:55:41+00:00",
+      "id": "5940adfb0213"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Price personalisation: evidence from the UK online market",
+      "url": "https://gov.uk/government/publications/price-personalisation-evidence-from-the-uk-online-market",
+      "published": "2026-11-19T16:25:51+00:00",
+      "excerpt": "Research on the prevalence of price personalisation in UK online markets using a consumer survey and synthetic profiles across multiple sectors.",
+      "entities": [
+        "Price",
+        "Research"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-19T16:55:41+00:00",
+      "id": "113402db1664"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Wider Determinants of Health: September 2026 update",
+      "url": "https://gov.uk/government/statistics/wider-determinants-of-health-september-2026-update",
+      "published": "2026-11-19T12:33:28+00:00",
+      "excerpt": "Update of data on the individual, social and environmental factors which influence the health of the population and effect inequalities in health.",
+      "entities": [
+        "Wider Determinants of Health",
+        "Update"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-19T16:55:41+00:00",
+      "id": "c417aa38ddc1"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Estimating IP-related investment in intangible assets",
+      "url": "https://gov.uk/government/publications/estimating-ip-related-investment-in-intangible-assets",
+      "published": "2026-11-19T10:38:00+00:00",
+      "excerpt": "A revised assessment of intellectual property protection across UK intangible investment, incorporating updated data and methodological refinements.",
+      "entities": [
+        "Estimating IP-related"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-19T16:55:41+00:00",
+      "id": "66803c81e9e3"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Animal feed prices",
+      "url": "https://gov.uk/government/statistical-data-sets/animal-feed-prices",
+      "published": "2026-11-19T09:30:17+00:00",
+      "excerpt": "Series of straights and compound animal feed prices across Great Britain.…",
+      "entities": [
+        "Animal",
+        "Series",
+        "Great Britain"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-19T16:55:41+00:00",
+      "id": "1bca28ebbdaf"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "BDUK delivery performance, quarterly: July 2026 to September 2026",
+      "url": "https://gov.uk/government/statistics/bduk-delivery-performance-quarterly-july-2026-to-september-2026",
+      "published": "2026-11-19T09:30:16+00:00",
+      "excerpt": "Breakdowns of how many premises in the UK have received gigabit-capable broadband coverage as a result of Building Digital UK (BDUK) subsidy.",
+      "entities": [
+        "BDUK",
+        "Breakdowns",
+        "Building Digital UK"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-19T16:55:41+00:00",
+      "id": "f5a1dd5a841d"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "DCMS Economic Estimates: Monthly GVA (to September 2026)",
+      "url": "https://gov.uk/government/statistics/dcms-economic-estimates-monthly-gva-to-september-2026",
+      "published": "2026-11-19T09:30:15+00:00",
+      "excerpt": "Official Statistics estimating the contribution of DCMS Sectors, to the UK economy, measured by GVA (gross value added).",
+      "entities": [
+        "DCMS Economic Estimates",
+        "Monthly GVA",
+        "Official Statistics",
+        "DCMS Sectors"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-19T16:55:41+00:00",
+      "id": "5472b2328694"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "UK armed forces and UK civilian operational casualty and fatality statistics: data up to 30 September 2026",
+      "url": "https://gov.uk/government/statistics/uk-armed-forces-and-uk-civilian-operational-casualty-and-fatality-statistics-data-up-to-30-september-2026",
+      "published": "2026-11-19T09:30:15+00:00",
+      "excerpt": "Biannual UK armed forces and UK civilian operational casualty and fatality statistics.",
+      "entities": [
+        "Biannual UK"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-19T16:55:41+00:00",
+      "id": "50d49444c3e5"
+    }
+  ]
+}
