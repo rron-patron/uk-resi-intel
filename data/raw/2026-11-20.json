@@ -1,0 +1,714 @@
+{
+  "collected_at": "2026-11-20T16:29:27+00:00",
+  "date_london": "2026-11-20",
+  "counts": {
+    "seen_in_feeds": 83,
+    "new": 38,
+    "sources_live": 6,
+    "sources_total": 9
+  },
+  "source_health": [
+    {
+      "source": "bisnow_uk",
+      "name": "Bisnow UK",
+      "route": "failed",
+      "url": "https://www.bisnow.com/london",
+      "found": 0,
+      "attempts": [
+        "feed https://www.bisnow.com/london/rss -> 0",
+        "feed https://www.bisnow.com/rss/london -> 0",
+        "feed https://www.bisnow.com/london/news/rss -> 0",
+        "feed https://www.bisnow.com/rss -> 0",
+        "scrape https://www.bisnow.com/london -> 0"
+      ]
+    },
+    {
+      "source": "inside_housing",
+      "name": "Inside Housing",
+      "route": "feed",
+      "url": "https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10",
+      "found": 9,
+      "attempts": [
+        "feed https://www.insidehousing.co.uk/Syndication/DF.cfm?f=6&ft=10 -> 9"
+      ]
+    },
+    {
+      "source": "property_week_resi",
+      "name": "Property Week — Residential",
+      "route": "failed",
+      "url": "https://www.propertyweek.com/residential",
+      "found": 0,
+      "attempts": [
+        "feed https://www.propertyweek.com/rss -> 0",
+        "feed https://www.propertyweek.com/residential/rss -> 0",
+        "feed https://www.propertyweek.com/feed -> 0",
+        "scrape https://www.propertyweek.com/residential -> 0"
+      ]
+    },
+    {
+      "source": "place_north_west",
+      "name": "Place North West",
+      "route": "feed",
+      "url": "https://www.placenorthwest.co.uk/feed/",
+      "found": 13,
+      "attempts": [
+        "feed https://www.placenorthwest.co.uk/feed/ -> 13"
+      ]
+    },
+    {
+      "source": "property_industry_eye",
+      "name": "Property Industry Eye",
+      "route": "feed",
+      "url": "https://propertyindustryeye.com/feed/",
+      "found": 20,
+      "attempts": [
+        "feed https://propertyindustryeye.com/feed/ -> 20"
+      ]
+    },
+    {
+      "source": "estate_agent_today",
+      "name": "Estate Agent Today",
+      "route": "feed",
+      "url": "https://www.estateagenttoday.co.uk/newsfeeds",
+      "found": 12,
+      "attempts": [
+        "feed https://www.estateagenttoday.co.uk/newsfeeds -> 12"
+      ]
+    },
+    {
+      "source": "landlordzone",
+      "name": "LandlordZONE",
+      "route": "failed",
+      "url": "https://www.landlordzone.co.uk/news",
+      "found": 0,
+      "attempts": [
+        "feed https://www.landlordzone.co.uk/news/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/blog/rss.xml -> 0",
+        "feed https://www.landlordzone.co.uk/rss.xml -> 0",
+        "scrape https://www.landlordzone.co.uk/news -> 0"
+      ]
+    },
+    {
+      "source": "hm_land_registry",
+      "name": "HM Land Registry — UK HPI",
+      "route": "feed",
+      "url": "https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest",
+      "found": 20,
+      "attempts": [
+        "feed https://www.gov.uk/search/research-and-statistics.atom?keywords=UK+House+Price+Index&order=updated-newest -> 20"
+      ]
+    },
+    {
+      "source": "ons_housing",
+      "name": "ONS — Housing & Prices",
+      "route": "scrape",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications",
+      "found": 10,
+      "attempts": [
+        "feed https://www.ons.gov.uk/peoplepopulationandcommunity/housing/rss -> 0",
+        "feed https://www.ons.gov.uk/economy/inflationandpriceindices/rss -> 0",
+        "scrape https://www.ons.gov.uk/peoplepopulationandcommunity/housing/publications -> 10"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "SFHA boss calls for housing in Scotland to be recognised as critical infrastructure",
+      "url": "https://insidehousing.co.uk/home/sfha-boss-calls-for-housing-in-scotland-to-be-recognised-as-critical-infrastructure-99794",
+      "published": "2026-11-20T16:30:00+00:00",
+      "excerpt": "The chief executive of the Scottish Federation of Housing Associations has called for social housing to be recognised as critical infrastructure",
+      "entities": [
+        "SFHA",
+        "Scottish Federation of Housing Associations"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:36+00:00",
+      "id": "50b3ba21a62d"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "The Week in Housing: Murder investigation in Wales, concern about landlord failures, and construction product reforms",
+      "url": "https://insidehousing.co.uk/home/the-week-in-housing-murder-investigation-in-wales-concern-about-landlord-failures-and-construction-product-reforms-99781",
+      "published": "2026-11-20T15:17:37+00:00",
+      "excerpt": "The Week in Housing is our weekly newsletter, rounding up the most important headlines for housing professionals. Sign up below to get it direct to your inbox every Friday",
+      "entities": [
+        "The Week",
+        "Housing",
+        "Murder",
+        "Sign"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:36+00:00",
+      "id": "ea8c73f02256"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "‘Foolhardy’ not to acknowledge risk to life after viewing cracks at evacuated buildings, director at developer says",
+      "url": "https://insidehousing.co.uk/home/foolhardy-not-to-acknowledge-risk-to-life-after-viewing-cracks-at-evacuated-buildings-director-at-developer-says-99696",
+      "published": "2026-11-20T14:31:16+00:00",
+      "excerpt": "A director at the developer that built a block of flats which was recently evacuated due to major structural issues said it would be “absolutely foolhardy and ridiculous” to say “there’s no threat to life” after viewing large cracks in a ‘transfer slab’ at the property",
+      "entities": [
+        "Foolhardy"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:36+00:00",
+      "id": "5fa885cb0ea9"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Homes England and mayors agree series of deals as part of push to further devolve housing delivery to local areas",
+      "url": "https://insidehousing.co.uk/home/homes-england-and-mayors-agree-series-of-deals-as-part-of-push-to-further-devolve-housing-delivery-to-local-areas-99782",
+      "published": "2026-11-20T11:15:08+00:00",
+      "excerpt": "Homes England announced a series of place-based delivery agreements with mayors and regional leaders to give local areas a stronger role in housing priorities",
+      "entities": [
+        "Homes England"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:36+00:00",
+      "id": "4d31c6705612"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Margaret Mullane MP – it’s not just about the number of homes we build",
+      "url": "https://insidehousing.co.uk/home/margaret-mullane-mp-its-not-just-about-the-number-of-homes-we-build-99753",
+      "published": "2026-11-20T10:00:00+00:00",
+      "excerpt": "I want to consider the social and economic value that housing creates, writes Margaret Mullane MP, chair of the APPG on Future Homes, Skills and Innovation",
+      "entities": [
+        "Margaret Mullane MP",
+        "APPG",
+        "Future Homes",
+        "Skills and Innovation"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:36+00:00",
+      "id": "334a36501535"
+    },
+    {
+      "source_key": "inside_housing",
+      "source_name": "Inside Housing",
+      "title": "Service charge recovery shouldn’t be an us-versus-them mindset",
+      "url": "https://insidehousing.co.uk/home/service-charge-recovery-shouldnt-be-an-us-versus-them-mindset-99752",
+      "published": "2026-11-20T07:00:00+00:00",
+      "excerpt": "Fixing service charge recovery and resident transparency is the same piece of work, writes Raj Rajendram, founder and chief executive of service charge platform provider BRX Technology",
+      "entities": [
+        "Service",
+        "Fixing",
+        "Raj Rajendram",
+        "BRX Technology"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:36+00:00",
+      "id": "909a15e042e8"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Commonhold and Leasehold Reform Bill: good, bad, unnecessary?",
+      "url": "https://placenorthwest.co.uk/commonhold-and-leasehold-reform-bill-good-bad-unnecessary",
+      "published": "2026-11-20T11:55:05+00:00",
+      "excerpt": "Government has declared war on the 1,000-year-old leasehold system this week, introducing a bill that will see that form of ownership eradicated for future developments. But is its approach the right one? Place North West went to the market to find out. The post Commonhold and Leasehold Reform Bill: good, bad, unnecessary? appeared first on Place North West .",
+      "entities": [
+        "Commonhold and Leasehold Reform Bill",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:43+00:00",
+      "id": "2febb1e26269"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Breck wins Grey Belt argument in St Helens appeal",
+      "url": "https://placenorthwest.co.uk/breck-wins-grey-belt-argument-in-st-helens-appeal",
+      "published": "2026-11-20T10:04:09+00:00",
+      "excerpt": "The housebuilder has been granted consent to deliver 51 affordable homes off Fleet Street in Parr following the council's refusal of the plans a year ago. The post Breck wins Grey Belt argument in St Helens appeal appeared first on Place North West .",
+      "entities": [
+        "Breck",
+        "Grey Belt",
+        "St Helens",
+        "Fleet Street",
+        "Parr",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:43+00:00",
+      "id": "3f3587793a4d"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Progress for 43-storey Cheetham Hill tower",
+      "url": "https://placenorthwest.co.uk/progress-for-43-storey-cheetham-hill-tower",
+      "published": "2026-11-20T09:38:48+00:00",
+      "excerpt": "A little over a year since plans were unveiled, the Guernsey-based investor behind the 509-flat scheme has formally submitted its proposals to Manchester City Council. The post Progress for 43-storey Cheetham Hill tower appeared first on Place North West .",
+      "entities": [
+        "Progress",
+        "Cheetham Hill",
+        "Guernsey-based",
+        "Manchester City Council. The",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:43+00:00",
+      "id": "900ebd1b0812"
+    },
+    {
+      "source_key": "place_north_west",
+      "source_name": "Place North West",
+      "title": "Bellway secures consent for 66 homes in Alderley Edge",
+      "url": "https://placenorthwest.co.uk/bellway-secures-consent-for-66-homes-in-alderley-edge",
+      "published": "2026-11-20T08:03:11+00:00",
+      "excerpt": "The housebuilder’s Wilmslow Road proposal was passed eight votes to four after an hour and 20 minutes of discussion. The post Bellway secures consent for 66 homes in Alderley Edge appeared first on Place North West .",
+      "entities": [
+        "Bellway",
+        "Alderley Edge. The",
+        "Wilmslow Road",
+        "Alderley Edge",
+        "Place North West"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:43+00:00",
+      "id": "8c785898d207"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "EYE NEWSFLASH: BestAgent breaks silence on viewing charges and property listings after bruising week",
+      "url": "https://propertyindustryeye.com/eye-newsflash-bestagent-breaks-silence-on-viewing-charges-and-property-listings-after-bruising-week",
+      "published": "2026-11-20T13:58:01+00:00",
+      "excerpt": "BestAgent responds to agents’ backlash as Charlie Lamdin faces mounting pressure",
+      "entities": [
+        "EYE NEWSFLASH",
+        "BestAgent",
+        "Charlie Lamdin"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:44+00:00",
+      "id": "4f52176af126"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Another blow for Charlie Lamdin as Yopa boss quits BestAgent board",
+      "url": "https://propertyindustryeye.com/another-blow-for-charlie-lamdin-as-yopa-boss-quits-bestagent-board",
+      "published": "2026-11-20T04:56:19+00:00",
+      "excerpt": "Where does this leave BestAgent?",
+      "entities": [
+        "Another",
+        "Charlie Lamdin",
+        "Yopa",
+        "BestAgent",
+        "Where"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:44+00:00",
+      "id": "73f1804a091b"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Tributes paid to well-respected estate agent after almost 40 years in the industry",
+      "url": "https://propertyindustryeye.com/tributes-paid-to-well-respected-figure-in-estate-agency",
+      "published": "2026-11-20T04:52:09+00:00",
+      "excerpt": "Property industry mourns death of respected estate agent",
+      "entities": [
+        "Tributes",
+        "Property"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:44+00:00",
+      "id": "a784e89dd002"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Is the UK property market ‘closed until further notice’?",
+      "url": "https://propertyindustryeye.com/is-the-uk-property-market-closed-until-further-notice",
+      "published": "2026-11-20T04:20:45+00:00",
+      "excerpt": "UK property market update",
+      "entities": [],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:44+00:00",
+      "id": "3153ab9f6615"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Leasehold shake-up sparks warnings over property sales, costs and legal chaos",
+      "url": "https://propertyindustryeye.com/leasehold-shake-up-sparks-warnings-over-property-sales-costs-and-legal-chaos",
+      "published": "2026-11-20T03:40:43+00:00",
+      "excerpt": "Estate agents warn leasehold reforms must tackle barriers to property sales",
+      "entities": [
+        "Leasehold",
+        "Estate"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:44+00:00",
+      "id": "e733cebb2699"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Property auction sales slump as market suffers sharp slowdown",
+      "url": "https://propertyindustryeye.com/property-auction-sales-slump-as-market-suffers-sharp-slowdown",
+      "published": "2026-11-20T02:50:56+00:00",
+      "excerpt": "Residential auction sales fall and total proceeds drop",
+      "entities": [
+        "Property",
+        "Residential"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:44+00:00",
+      "id": "960992a90176"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Property transactions set to fall in 2026 before rebounding next year",
+      "url": "https://propertyindustryeye.com/property-transactions-set-to-fall-in-2026-before-rebounding-next-year",
+      "published": "2026-11-20T02:30:43+00:00",
+      "excerpt": "It's been a challenging year for the UK property market",
+      "entities": [
+        "Property",
+        "It's"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:44+00:00",
+      "id": "3fccca7a0cde"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Rental listings hit seven-year high as supply outstrips tenant demand",
+      "url": "https://propertyindustryeye.com/rental-listings-hit-seven-year-high-as-supply-outstrips-tenant-demand",
+      "published": "2026-11-20T01:30:43+00:00",
+      "excerpt": "Rental listings hit seven-year high - but are the figures misleading?",
+      "entities": [
+        "Rental"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:44+00:00",
+      "id": "47f0fc45b277"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Tenants rethink what they’ll pay extra for as rental priorities shift",
+      "url": "https://propertyindustryeye.com/tenants-rethink-what-theyll-pay-extra-for-as-rental-priorities-shift",
+      "published": "2026-11-20T01:20:25+00:00",
+      "excerpt": "Tenant priorities: What renters want from landlords",
+      "entities": [
+        "Tenants",
+        "Tenant",
+        "What"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:44+00:00",
+      "id": "a1d4f8d986f6"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "The Guild’s ‘Cornflakes and Compliance’ reaches 200 episodes",
+      "url": "https://propertyindustryeye.com/the-guilds-cornflakes-and-compliance-reaches-200-episodes",
+      "published": "2026-11-20T01:00:24+00:00",
+      "excerpt": "The Guild of Property Professionals marks 200 episodes of Cornflakes and Compliance, its weekly regulatory briefing for estate and letting agents",
+      "entities": [
+        "The Guild’s",
+        "Cornflakes and Compliance",
+        "The Guild of Property Professionals"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:44+00:00",
+      "id": "561214d1a4f0"
+    },
+    {
+      "source_key": "property_industry_eye",
+      "source_name": "Property Industry Eye",
+      "title": "Fine & Country confirms return of its Carols by Candlelight Christmas concert",
+      "url": "https://propertyindustryeye.com/fine-country-confirms-return-of-its-carols-by-candlelight-christmas-concert-2",
+      "published": "2026-11-20T00:50:33+00:00",
+      "excerpt": "Fine & Country's annual carol concert returns to King's College Chapel on 6 December",
+      "entities": [
+        "Fine",
+        "Country",
+        "Carols",
+        "Candlelight Christmas",
+        "Country's",
+        "King's College Chapel"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:44+00:00",
+      "id": "da71eb56ca1e"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Tragedy as agent dies after four decades in industry",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/tragedy-as-agent-passes-away-after-four-decades-in-agency-industry",
+      "published": "2026-11-20T00:10:00+00:00",
+      "excerpt": "The news came in a statement from Knight Frank",
+      "entities": [
+        "Tragedy",
+        "Knight Frank"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:45+00:00",
+      "id": "229b9198a101"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agency boss quits controversial BestAgent group",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/agency-boss-quits-controversial-bestagent-group",
+      "published": "2026-11-20T00:09:07+00:00",
+      "excerpt": "BestAgent has been the subject of intense criticism in recent days",
+      "entities": [
+        "Agency",
+        "BestAgent"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:45+00:00",
+      "id": "5d6048fa3c62"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Agents must explain to public what leasehold reform really means",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/agents-left-to-explain-to-public-what-leasehold-reform-really-means",
+      "published": "2026-11-20T00:06:00+00:00",
+      "excerpt": "Legal experts fear there could be widespread confusion",
+      "entities": [
+        "Agents",
+        "Legal"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:45+00:00",
+      "id": "685e4a88d865"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Portal boss raises alarm over sharp rise in collapsing sales",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/portal-boss-raises-alarm-over-sharp-rise-in-collapsing-sales",
+      "published": "2026-11-20T00:04:00+00:00",
+      "excerpt": "Was October a blip or the start of an unwelcome trend?",
+      "entities": [
+        "Portal",
+        "Was October"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:45+00:00",
+      "id": "2732f6262390"
+    },
+    {
+      "source_key": "estate_agent_today",
+      "source_name": "Estate Agent Today",
+      "title": "Buyers unhappy with poor energy efficiency in most homes",
+      "url": "https://estateagenttoday.co.uk/breaking-news/2026/11/buyers-unhappy-with-poor-energy-efficiency-in-most-homes",
+      "published": "2026-11-20T00:00:00+00:00",
+      "excerpt": "Rightmove’s 2026 Greener Homes Report",
+      "entities": [
+        "Buyers",
+        "Rightmove’s",
+        "Greener Homes Report"
+      ],
+      "kind": "news",
+      "collected_at": "2026-11-20T16:29:45+00:00",
+      "id": "cb00a791a5cd"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "8th Rail Accident Investigators Seminar",
+      "url": "https://gov.uk/government/publications/8th-rail-accident-investigators-seminar",
+      "published": "2026-11-20T14:22:30+00:00",
+      "excerpt": "…On 11/11/26 we held our 8th seminar in Birmingham for accident investigators working in the UK rail industry.…",
+      "entities": [
+        "Rail Accident Investigators Seminar",
+        "Birmingham"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-20T16:29:51+00:00",
+      "id": "477811989f49"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Methodology: Economic Impact of the UK–EU Youth Experience Scheme",
+      "url": "https://gov.uk/government/publications/methodology-economic-impact-of-the-uk-eu-youth-experience-scheme",
+      "published": "2026-11-20T13:09:59+00:00",
+      "excerpt": "This methodology note sets out the inputs, assumptions, and modelling approach used in calculating the expected impact of the Youth Experience Scheme (YES) on UK GDP.",
+      "entities": [
+        "Methodology",
+        "Economic Impact",
+        "EU Youth Experience Scheme",
+        "Youth Experience Scheme",
+        "UK GDP"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-20T16:29:51+00:00",
+      "id": "802fc6aa0aaa"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Million Hours Fund evaluation: phase two final evaluation report",
+      "url": "https://gov.uk/government/publications/million-hours-fund-evaluation-phase-two-final-evaluation-report",
+      "published": "2026-11-20T12:54:40+00:00",
+      "excerpt": "This final report details the conclusive delivery, process, and impact evaluation findings for the Million Hours Fund phase two.",
+      "entities": [
+        "Million Hours Fund"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-20T16:29:51+00:00",
+      "id": "12ec69eae0d2"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Precision bred organism marketing notice (reference: PBM/26/02/TRAE/001)",
+      "url": "https://gov.uk/government/publications/precision-bred-organism-marketing-notice-reference-pbm2602trae001",
+      "published": "2026-11-20T11:37:00+00:00",
+      "excerpt": "Information on a precision breeding marketing notice submitted for a wheat plant and its precision bred status.",
+      "entities": [
+        "Precision",
+        "TRAE",
+        "Information"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-20T16:29:51+00:00",
+      "id": "4a1c89567310"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "RPC opinion: impact of draft Commonhold and Leasehold Reform Bill",
+      "url": "https://gov.uk/government/publications/rpc-opinion-impact-of-draft-commonhold-and-leasehold-reform-bill",
+      "published": "2026-11-20T11:14:16+00:00",
+      "excerpt": "Regulatory Policy Committee opinion of the quality of the evidence and analysis in the impact assessment for the draft bill.",
+      "entities": [
+        "Commonhold and Leasehold Reform Bill",
+        "Regulatory Policy Committee"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-20T16:29:51+00:00",
+      "id": "09d1e84ce3d4"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Project Gigabit Voucher Scheme - Voucher Recipient Survey Report",
+      "url": "https://gov.uk/government/publications/project-gigabit-voucher-scheme-voucher-recipient-survey-report",
+      "published": "2026-11-20T10:17:45+00:00",
+      "excerpt": "A report exploring the findings of the Voucher Recipient Survey, sent to homes and businesses connected through BDUK's Project Gigabit Voucher scheme.",
+      "entities": [
+        "Project Gigabit Voucher Scheme",
+        "Voucher Recipient Survey Report",
+        "Voucher Recipient Survey",
+        "BDUK's Project Gigabit Voucher"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-20T16:29:51+00:00",
+      "id": "7736775f6603"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Sussex: groundwater situation",
+      "url": "https://gov.uk/government/publications/sussex-groundwater-situation",
+      "published": "2026-11-20T09:30:08+00:00",
+      "excerpt": "The latest update on monitored groundwater levels and whether there are any groundwater alerts or warnings in force.",
+      "entities": [
+        "Sussex"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-20T16:29:51+00:00",
+      "id": "028e4d696f20"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Public opinions and social trends, Great Britain: October 2026",
+      "url": "https://gov.uk/government/statistics/public-opinions-and-social-trends-great-britain-october-2026",
+      "published": "2026-11-20T09:30:08+00:00",
+      "excerpt": "Social insights on daily life and events, including important issues facing the UK, from the Opinions and Lifestyle Survey (OPN).",
+      "entities": [
+        "Public",
+        "Great Britain",
+        "Social",
+        "Opinions and Lifestyle Survey"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-20T16:29:51+00:00",
+      "id": "42523da0132e"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Estimating clean energy R&D spending using tax credit data",
+      "url": "https://gov.uk/government/publications/estimating-clean-energy-rd-spending-using-tax-credit-data",
+      "published": "2026-11-20T09:28:40+00:00",
+      "excerpt": "First estimates of UK business spending on clean energy and climate mitigation research and development (R&D), based on HMRC R&D tax credit data.…",
+      "entities": [
+        "Estimating",
+        "First",
+        "HMRC R&D"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-20T16:29:51+00:00",
+      "id": "1bea06ac9e6a"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Life cycle assessment for anaerobic digestion (AD LCA)",
+      "url": "https://gov.uk/government/publications/life-cycle-assessment-for-anaerobic-digestion-ad-lca",
+      "published": "2026-11-20T09:26:32+00:00",
+      "excerpt": "This is a study on life cycle assessment (LCA) of UK anaerobic digestion sites with case studies, UK-wide fleet assessment, and an LCA tool.…",
+      "entities": [
+        "Life",
+        "AD LCA",
+        "UK-wide"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-20T16:29:51+00:00",
+      "id": "5258e50e8c6a"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Public sector finances, UK: October 2026",
+      "url": "https://gov.uk/government/statistics/public-sector-finances-uk-october-2026",
+      "published": "2026-11-20T07:00:02+00:00",
+      "excerpt": "A presentational framework for the headline measures of Public Sector Finance Statistics (net borrowing net cash requirement and net debt) is explained in this release. This includes the reasons for changes in net borrowing …",
+      "entities": [
+        "Public",
+        "Public Sector Finance Statistics"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-20T16:29:51+00:00",
+      "id": "d7c18de468e9"
+    },
+    {
+      "source_key": "hm_land_registry",
+      "source_name": "HM Land Registry — UK HPI",
+      "title": "Public sector finances, UK: October 2026 time series",
+      "url": "https://gov.uk/government/statistics/public-sector-finances-uk-october-2026-time-series",
+      "published": "2026-11-20T07:00:02+00:00",
+      "excerpt": "The time series datasets consistent with the Public sector finances, UK: October 2026 bulletin.",
+      "entities": [
+        "Public"
+      ],
+      "kind": "data",
+      "collected_at": "2026-11-20T16:29:51+00:00",
+      "id": "40ce2a855edd"
+    }
+  ]
+}

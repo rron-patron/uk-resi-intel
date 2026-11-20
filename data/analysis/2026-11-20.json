@@ -1,0 +1,681 @@
+{
+  "generated_at": "2026-11-20T16:29:57+00:00",
+  "date_label": "Friday 20 November 2026",
+  "executive_summary": "AI analysis did not run for this edition, so the briefing below is unanalysed. Reason: Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChEVpMSFu8JmmmnWMXG5K'}\n\n38 items were collected and are listed under Top stories with their original headlines and links. Themes and companies are keyword counts, not analysis.",
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0,
+    "rationale": "No sentiment reading — analysis unavailable.",
+    "positive_signals": [],
+    "neutral_signals": [],
+    "negative_signals": []
+  },
+  "themes": [
+    {
+      "name": "Housing supply",
+      "count": 3,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Affordable housing",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Housebuilders",
+      "count": 2,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Residential investment",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    },
+    {
+      "name": "Planning policy",
+      "count": 1,
+      "direction": "steady",
+      "summary": "",
+      "article_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "name": "Place North West",
+      "type": "Other",
+      "mentions": 4,
+      "context": ""
+    },
+    {
+      "name": "BestAgent",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Property",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Public",
+      "type": "Other",
+      "mentions": 3,
+      "context": ""
+    },
+    {
+      "name": "Commonhold and Leasehold Reform Bill",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "Charlie Lamdin",
+      "type": "Other",
+      "mentions": 2,
+      "context": ""
+    },
+    {
+      "name": "SFHA",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Scottish Federation of Housing Associations",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "The Week",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Housing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Murder",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Sign",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Foolhardy",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Homes England",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Margaret Mullane MP",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "APPG",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Future Homes",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Skills and Innovation",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Service",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    },
+    {
+      "name": "Fixing",
+      "type": "Other",
+      "mentions": 1,
+      "context": ""
+    }
+  ],
+  "projects": [],
+  "policy": [],
+  "investor_view": {
+    "opportunities": [],
+    "risks": [],
+    "capital_flows": [],
+    "watch_next": []
+  },
+  "regions": [],
+  "articles": {
+    "50b3ba21a62d": {
+      "id": "50b3ba21a62d",
+      "importance": "Medium",
+      "summary": "The chief executive of the Scottish Federation of Housing Associations has called for social housing to be recognised as critical infrastructure",
+      "why_it_matters": "",
+      "themes": [
+        "Affordable housing"
+      ],
+      "companies": [
+        "SFHA",
+        "Scottish Federation of Housing Associations"
+      ],
+      "locations": []
+    },
+    "ea8c73f02256": {
+      "id": "ea8c73f02256",
+      "importance": "Medium",
+      "summary": "The Week in Housing is our weekly newsletter, rounding up the most important headlines for housing professionals. Sign up below to get it direct to your inbox every Friday",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Week",
+        "Housing",
+        "Murder",
+        "Sign"
+      ],
+      "locations": []
+    },
+    "5fa885cb0ea9": {
+      "id": "5fa885cb0ea9",
+      "importance": "Medium",
+      "summary": "A director at the developer that built a block of flats which was recently evacuated due to major structural issues said it would be “absolutely foolhardy and ridiculous” to say “there’s no threat to life” after viewing ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Foolhardy"
+      ],
+      "locations": []
+    },
+    "4d31c6705612": {
+      "id": "4d31c6705612",
+      "importance": "Medium",
+      "summary": "Homes England announced a series of place-based delivery agreements with mayors and regional leaders to give local areas a stronger role in housing priorities",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply",
+        "Residential investment"
+      ],
+      "companies": [
+        "Homes England"
+      ],
+      "locations": []
+    },
+    "334a36501535": {
+      "id": "334a36501535",
+      "importance": "Medium",
+      "summary": "I want to consider the social and economic value that housing creates, writes Margaret Mullane MP, chair of the APPG on Future Homes, Skills and Innovation",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Margaret Mullane MP",
+        "APPG",
+        "Future Homes",
+        "Skills and Innovation"
+      ],
+      "locations": []
+    },
+    "909a15e042e8": {
+      "id": "909a15e042e8",
+      "importance": "Medium",
+      "summary": "Fixing service charge recovery and resident transparency is the same piece of work, writes Raj Rajendram, founder and chief executive of service charge platform provider BRX Technology",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Service",
+        "Fixing",
+        "Raj Rajendram",
+        "BRX Technology"
+      ],
+      "locations": []
+    },
+    "2febb1e26269": {
+      "id": "2febb1e26269",
+      "importance": "Medium",
+      "summary": "Government has declared war on the 1,000-year-old leasehold system this week, introducing a bill that will see that form of ownership eradicated for future developments. But is its approach the right one? Place North Wes",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Commonhold and Leasehold Reform Bill",
+        "Place North West"
+      ],
+      "locations": []
+    },
+    "3f3587793a4d": {
+      "id": "3f3587793a4d",
+      "importance": "Medium",
+      "summary": "The housebuilder has been granted consent to deliver 51 affordable homes off Fleet Street in Parr following the council's refusal of the plans a year ago. The post Breck wins Grey Belt argument in St Helens appeal appear",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders",
+        "Planning policy",
+        "Affordable housing"
+      ],
+      "companies": [
+        "Breck",
+        "Grey Belt",
+        "St Helens",
+        "Fleet Street"
+      ],
+      "locations": []
+    },
+    "900ebd1b0812": {
+      "id": "900ebd1b0812",
+      "importance": "Medium",
+      "summary": "A little over a year since plans were unveiled, the Guernsey-based investor behind the 509-flat scheme has formally submitted its proposals to Manchester City Council. The post Progress for 43-storey Cheetham Hill tower ",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Progress",
+        "Cheetham Hill",
+        "Guernsey-based",
+        "Manchester City Council. The"
+      ],
+      "locations": []
+    },
+    "8c785898d207": {
+      "id": "8c785898d207",
+      "importance": "Medium",
+      "summary": "The housebuilder’s Wilmslow Road proposal was passed eight votes to four after an hour and 20 minutes of discussion. The post Bellway secures consent for 66 homes in Alderley Edge appeared first on Place North West .",
+      "why_it_matters": "",
+      "themes": [
+        "Housebuilders"
+      ],
+      "companies": [
+        "Bellway",
+        "Alderley Edge. The",
+        "Wilmslow Road",
+        "Alderley Edge"
+      ],
+      "locations": []
+    },
+    "4f52176af126": {
+      "id": "4f52176af126",
+      "importance": "Medium",
+      "summary": "BestAgent responds to agents’ backlash as Charlie Lamdin faces mounting pressure",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "EYE NEWSFLASH",
+        "BestAgent",
+        "Charlie Lamdin"
+      ],
+      "locations": []
+    },
+    "73f1804a091b": {
+      "id": "73f1804a091b",
+      "importance": "Medium",
+      "summary": "Where does this leave BestAgent?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Another",
+        "Charlie Lamdin",
+        "Yopa",
+        "BestAgent"
+      ],
+      "locations": []
+    },
+    "a784e89dd002": {
+      "id": "a784e89dd002",
+      "importance": "Medium",
+      "summary": "Property industry mourns death of respected estate agent",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tributes",
+        "Property"
+      ],
+      "locations": []
+    },
+    "3153ab9f6615": {
+      "id": "3153ab9f6615",
+      "importance": "Medium",
+      "summary": "UK property market update",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [],
+      "locations": []
+    },
+    "e733cebb2699": {
+      "id": "e733cebb2699",
+      "importance": "Medium",
+      "summary": "Estate agents warn leasehold reforms must tackle barriers to property sales",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Leasehold",
+        "Estate"
+      ],
+      "locations": []
+    },
+    "960992a90176": {
+      "id": "960992a90176",
+      "importance": "Medium",
+      "summary": "Residential auction sales fall and total proceeds drop",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "Residential"
+      ],
+      "locations": []
+    },
+    "3fccca7a0cde": {
+      "id": "3fccca7a0cde",
+      "importance": "Medium",
+      "summary": "It's been a challenging year for the UK property market",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Property",
+        "It's"
+      ],
+      "locations": []
+    },
+    "47f0fc45b277": {
+      "id": "47f0fc45b277",
+      "importance": "Medium",
+      "summary": "Rental listings hit seven-year high - but are the figures misleading?",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Rental"
+      ],
+      "locations": []
+    },
+    "a1d4f8d986f6": {
+      "id": "a1d4f8d986f6",
+      "importance": "Medium",
+      "summary": "Tenant priorities: What renters want from landlords",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tenants",
+        "Tenant",
+        "What"
+      ],
+      "locations": []
+    },
+    "561214d1a4f0": {
+      "id": "561214d1a4f0",
+      "importance": "Medium",
+      "summary": "The Guild of Property Professionals marks 200 episodes of Cornflakes and Compliance, its weekly regulatory briefing for estate and letting agents",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "The Guild’s",
+        "Cornflakes and Compliance",
+        "The Guild of Property Professionals"
+      ],
+      "locations": []
+    },
+    "da71eb56ca1e": {
+      "id": "da71eb56ca1e",
+      "importance": "Medium",
+      "summary": "Fine & Country's annual carol concert returns to King's College Chapel on 6 December",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Fine",
+        "Country",
+        "Carols",
+        "Candlelight Christmas"
+      ],
+      "locations": []
+    },
+    "229b9198a101": {
+      "id": "229b9198a101",
+      "importance": "Medium",
+      "summary": "The news came in a statement from Knight Frank",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Tragedy",
+        "Knight Frank"
+      ],
+      "locations": []
+    },
+    "5d6048fa3c62": {
+      "id": "5d6048fa3c62",
+      "importance": "Medium",
+      "summary": "BestAgent has been the subject of intense criticism in recent days",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agency",
+        "BestAgent"
+      ],
+      "locations": []
+    },
+    "685e4a88d865": {
+      "id": "685e4a88d865",
+      "importance": "Medium",
+      "summary": "Legal experts fear there could be widespread confusion",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Agents",
+        "Legal"
+      ],
+      "locations": []
+    },
+    "2732f6262390": {
+      "id": "2732f6262390",
+      "importance": "Medium",
+      "summary": "Was October a blip or the start of an unwelcome trend?",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Portal",
+        "Was October"
+      ],
+      "locations": []
+    },
+    "cb00a791a5cd": {
+      "id": "cb00a791a5cd",
+      "importance": "Medium",
+      "summary": "Rightmove’s 2026 Greener Homes Report",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Buyers",
+        "Rightmove’s",
+        "Greener Homes Report"
+      ],
+      "locations": []
+    },
+    "477811989f49": {
+      "id": "477811989f49",
+      "importance": "Medium",
+      "summary": "…On 11/11/26 we held our 8th seminar in Birmingham for accident investigators working in the UK rail industry.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Rail Accident Investigators Seminar",
+        "Birmingham"
+      ],
+      "locations": []
+    },
+    "802fc6aa0aaa": {
+      "id": "802fc6aa0aaa",
+      "importance": "Medium",
+      "summary": "This methodology note sets out the inputs, assumptions, and modelling approach used in calculating the expected impact of the Youth Experience Scheme (YES) on UK GDP.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Methodology",
+        "Economic Impact",
+        "EU Youth Experience Scheme",
+        "Youth Experience Scheme"
+      ],
+      "locations": []
+    },
+    "12ec69eae0d2": {
+      "id": "12ec69eae0d2",
+      "importance": "Medium",
+      "summary": "This final report details the conclusive delivery, process, and impact evaluation findings for the Million Hours Fund phase two.",
+      "why_it_matters": "",
+      "themes": [
+        "Housing supply"
+      ],
+      "companies": [
+        "Million Hours Fund"
+      ],
+      "locations": []
+    },
+    "4a1c89567310": {
+      "id": "4a1c89567310",
+      "importance": "Medium",
+      "summary": "Information on a precision breeding marketing notice submitted for a wheat plant and its precision bred status.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Precision",
+        "TRAE",
+        "Information"
+      ],
+      "locations": []
+    },
+    "09d1e84ce3d4": {
+      "id": "09d1e84ce3d4",
+      "importance": "Medium",
+      "summary": "Regulatory Policy Committee opinion of the quality of the evidence and analysis in the impact assessment for the draft bill.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Commonhold and Leasehold Reform Bill",
+        "Regulatory Policy Committee"
+      ],
+      "locations": []
+    },
+    "7736775f6603": {
+      "id": "7736775f6603",
+      "importance": "Medium",
+      "summary": "A report exploring the findings of the Voucher Recipient Survey, sent to homes and businesses connected through BDUK's Project Gigabit Voucher scheme.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Project Gigabit Voucher Scheme",
+        "Voucher Recipient Survey Report",
+        "Voucher Recipient Survey",
+        "BDUK's Project Gigabit Voucher"
+      ],
+      "locations": []
+    },
+    "028e4d696f20": {
+      "id": "028e4d696f20",
+      "importance": "Medium",
+      "summary": "The latest update on monitored groundwater levels and whether there are any groundwater alerts or warnings in force.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Sussex"
+      ],
+      "locations": []
+    },
+    "42523da0132e": {
+      "id": "42523da0132e",
+      "importance": "Medium",
+      "summary": "Social insights on daily life and events, including important issues facing the UK, from the Opinions and Lifestyle Survey (OPN).",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Public",
+        "Great Britain",
+        "Social",
+        "Opinions and Lifestyle Survey"
+      ],
+      "locations": []
+    },
+    "1bea06ac9e6a": {
+      "id": "1bea06ac9e6a",
+      "importance": "Medium",
+      "summary": "First estimates of UK business spending on clean energy and climate mitigation research and development (R&D), based on HMRC R&D tax credit data.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Estimating",
+        "First",
+        "HMRC R&D"
+      ],
+      "locations": []
+    },
+    "5258e50e8c6a": {
+      "id": "5258e50e8c6a",
+      "importance": "Medium",
+      "summary": "This is a study on life cycle assessment (LCA) of UK anaerobic digestion sites with case studies, UK-wide fleet assessment, and an LCA tool.…",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Life",
+        "AD LCA",
+        "UK-wide"
+      ],
+      "locations": []
+    },
+    "d7c18de468e9": {
+      "id": "d7c18de468e9",
+      "importance": "Medium",
+      "summary": "A presentational framework for the headline measures of Public Sector Finance Statistics (net borrowing net cash requirement and net debt) is explained in this release. This includes the reasons for changes in net borrow",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Public",
+        "Public Sector Finance Statistics"
+      ],
+      "locations": []
+    },
+    "40ce2a855edd": {
+      "id": "40ce2a855edd",
+      "importance": "Medium",
+      "summary": "The time series datasets consistent with the Public sector finances, UK: October 2026 bulletin.",
+      "why_it_matters": "",
+      "themes": [],
+      "companies": [
+        "Public"
+      ],
+      "locations": []
+    }
+  },
+  "meta": {
+    "rated": 0,
+    "unrated": 38,
+    "degraded": true,
+    "degraded_reason": "Anthropic API call failed: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChEVpMSFu8JmmmnWMXG5K'}",
+    "model": null
+  }
+}
